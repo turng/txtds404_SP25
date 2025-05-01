@@ -1,0 +1,100 @@
+advertisements. // lowercase caps
+// two lines 
+*Publishing in Monthly Parts, price 2s, and in Weekly Numbers, price 6d.,* // italics
+the // lowercase caps
+ENGLISH CYCLOPAEDIA. // AE are combined
+A New Dictionary of Universal Knowledge. // gothic font
+based on the "penny cyclopaedia." // lowercase caps and the ae are combined
+AND ILLUSTRATED WITH FIVE THOUSAND WOOD ENGRAVINGS. // bold
+Conducted by Mr. CHARLES KNIGHT. // "conducted by" lowercase caps
+// line with diamond in the middle
+
+The "English Cyclopaedia" // line 1, lowercase font, "T" is capitalized
+will be published in Four Divisions; each having // line 1
+its own alphabetical arrangement, and each forming, when complete, four disstinct
+volumes.
+
+// two columns
+
+// left column
+Geography . . . . . 4 Vols // geography lowercase caps
+Natural History . . . . 4 Vols.
+// line between cols
+// right column
+Sciences and Arts . . . 4 Vols.
+History, Biography, Literature &c. 4 Vols.
+
+The publication will commence with Geography and Natural History, and on their 
+completion the other Divisions will immediately follow. The work will be issued in
+Weekly Numbers at 6d., the Geography and Natural History Divisions alternately, and in
+Monthly Parts, at 2s., containing the two Divisions in equal proportions. Nos. 1 to 9, and
+Parts 1 and 2, are published.
+
+The plan of publishing "The English Cyclopaedia" in four Divisons has the obvious // quotes are lowercase caps
+advantage of completeing large departments of knowledge, with the most recent information,
+in a very short time. Thus, in two years the great branches of Geography and Natural // geography and natural are lowercase caps
+History will be finished; when the two remaining portions will commence, with every // history is lowercase caps
+additions made to Science, History &c., in the intervening period. // science and history lowercase caps
+
+// two lines
+OPINIONS OF THE PRESS
+// two columns
+
+// left column
+LEADER. // lowercase caps
+"Amount serials, the most important in our eyes is
+the new edition of the *Penny Cyclopaedia*, issued in
+seperate divisions, under the name of the *English*
+*Cyclopaedia.* The first monthly part contains the com-
+mencement of the two divisions, *Natural History and*
+*Geography*, beautifully printed. It is a new work,
+although based upon the old, and those who desire to
+possess the Natural History, for example, without 
+encumbering themselves with a whole cyclopaedia, may
+do so by the present admirable arrangement. The
+excellence of the articles, and the profusion of wood-
+cuts illustrating the Natural History, make us desire
+to call the particular attention of our readers to this
+re-issue."
+
+weekly news and chronicle. // lowercase caps
+"We do not feel that it is employing the language
+of exaggeration to say that the issue in a cheap and
+greatly improved form of the English Cyclopaedia,
+under the ediorship of Mr. Charles Knight, and with
+the co-operation of Messrs. Brandbury & Evans, par-
+takes of the character of a national undertaking. It is
+the product of the widest and deepest learning of our
+country, and must be ranked amonst the proudest
+achievements of the time."
+
+// right column
+examiner. // lowercase caps
+"One of the very first labourers in the great and
+fruitful field of cheap and instructive publication,
+bestowing time, and toil, and patience upon enterprises
+that were often not less hazardous to the pocket of
+the undertaker than they were useful for the education
+of the public, -- Mr. Charles Knight has never flagged
+in industry. The *Penny Cylopaedia,* is now, under his
+care and editorship, rising from its ashes, revived and
+completely modernised. This also is to be henceforth,
+under its new title of the *English Cylopaedia,* classi-
+fied. Of the First Part we have at present to speak,
+and from the specimen before us, we most conscien-
+tiously and emphatically recommend these ample dic-
+tionaries upon special subjects of almost universal
+interest, as by far the best that are likely to be pro-
+curable for many years, equally full--and published
+for a price which, at the present cost of production,
+after allowing for a most extensive sale, can be taken
+strictly as the minimum of cheapness possible in our
+day. If we did not hope that Mr. Charles Knight's ser-
+vices were to be yet for many years devoted to the profit
+of the public, we should be satisfied to take this *Englihs*
+*Cyclopaedia,* when completed, as the worthy close of a 
+long series of most noble endeavours and successes."
+
+// one line
+
+BRADBURY & EVANS, 11, BOUVERIE STREET.
