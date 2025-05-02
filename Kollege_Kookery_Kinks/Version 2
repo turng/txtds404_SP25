@@ -31,7 +31,7 @@
 
             <!-- Recipes-->
             <div type="recipe">
-               <head><hi rend="sc">DATE PUDDING</hi></head>
+               <head xml:id="date_pudding"><hi rend="sc">DATE PUDDING</hi></head>
                <list>
                   <item n="1">1 cup dates</item>
                   <item n="2">1 cup nuts</item>
@@ -41,11 +41,11 @@
                   <item n="6">½ cup milk</item>
                </list>
                <p>Bake in moderate oven. Serve with whipped cream.</p>
-               <byline><hi rend="sc"><persName>GERTRUDE ELLIOTT</persName></hi></byline>
+               <byline><hi rend="sc"><persName>Gertrude Elliott</persName></hi></byline>
             </div>
 
             <div type="recipe">
-               <head><hi rend="sc">MARSHMALLOW DELIGHT</hi></head>
+               <head xml:id="marshmallow_delight"><hi rend="sc">MARSHMALLOW DELIGHT</hi></head>
                <list>
                   <item n="1">1 lb. best marshmallows</item>
                   <item n="2">60 maraschino cherries</item>
@@ -55,20 +55,20 @@
                </list>
                <p>Beat cream until thick. Cut marshmallows into small pieces with scissors and add
                   to cream. Add cherries and nuts and all juice of cherries. Sweeten to taste.</p>
-               <byline><hi rend="sc">MRS. <persName>J. ALLEN SMITH</persName>.</hi></byline>
+               <byline><hi rend="sc"><persName>Mrs. J. Allen Smith</persName>.</hi></byline>
             </div>
 
             <div type="recipe">
-               <head><hi rend="sc">STUFFED APPLES</hi></head>
+               <head xml:id="stuffed_apples"><hi rend="sc">STUFFED APPLES</hi></head>
                <p>Hollow out the cores of good baking apples and stuff with a mixture of chopped
                   dates, nuts and figs, and then bake them. Serve with whipped cream and a big
                   cherry on top of each. These make a most delicious dessert served with lady
                   fingers.</p>
-               <byline><hi rend="sc"><persName>HELEN SPAULDING</persName>.</hi></byline>
+               <byline><hi rend="sc"><persName>Helen Spaulding</persName>.</hi></byline>
             </div>
 
             <div type="recipe">
-               <head><hi rend="sc">MAPLE PARFAIT</hi></head>
+               <head xml:id="maple_parfait"><hi rend="sc">MAPLE PARFAIT</hi></head>
                <list>
                   <item n="1">1 cup maple sugar</item>
                   <item n="2">Yolk of 6 eggs</item>
@@ -77,27 +77,27 @@
                <pb n="31"/>
                <p>Heat syrup to boiling point; pour into beaten egg yolks and the whipped cream;
                   turn into mould and freeze. Serve with chopped brown almonds.</p>
-               <byline><hi rend="sc"><persName>MRS. WINGATE</persName>.</hi></byline>
+               <byline><hi rend="sc"><persName>Mrs. Wingate</persName>.</hi></byline>
             </div>
 
             <div type="recipe">
-               <head><hi rend="sc">FRESH FRUIT MOUSSE</hi></head>
+               <head xml:id="fresh_fruit_mousse"><hi rend="sc">FRESH FRUIT MOUSSE</hi></head>
                <p>Crush a dozen and a half ripe peaches and sweeten. Whip one quart of cream and add
                   to the fruit. Flavor with vanilla. Put the mixture in a mould and pack with
                   cracked ice and salt. Change the packing three times and at the end of four hours
                   the mousse will be frozen. Any kind of fresh fruit may be substituted.</p>
-               <byline><hi rend="sc"><persName>ELIZABETH DAULTON</persName>.</hi></byline>
+               <byline><hi rend="sc"><persName>Elizabeth Daulton</persName>.</hi></byline>
             </div>
 
             <div type="recipe">
-               <head><hi rend="sc">AMBROSIA</hi></head>
+               <head xml:id="ambrosia"><hi rend="sc">AMBROSIA</hi></head>
                <p>Slice oranges and bananas, sprinkle with cocoanut, squeeze lemon juice over it,
                   serve with whipped cream.</p>
-               <byline><hi rend="sc"><persName>ALICE SMITH</persName>.</hi></byline>
+               <byline><hi rend="sc"><persName>Alice Smith</persName>.</hi></byline>
             </div>
 
             <div type="recipe">
-               <head><hi rend="sc">BRANBERRY TARTS</hi></head>
+               <head xml:id="branberry_tarts"><hi rend="sc">BRANBERRY TARTS</hi></head>
                <list>
                   <item n="1">1 cup raisins, ground fine</item>
                   <item n="2">1 milk cracker, ground fine</item>
@@ -108,11 +108,11 @@
                   <item n="7">Nutmeg and cinnamon to taste</item>
                </list>
                <p>Boil and put into crust.</p>
-               <byline><hi rend="sc"><persName>RUTH PEPPER</persName>.</hi></byline>
+               <byline><hi rend="sc"><persName>Ruth Pepper</persName>.</hi></byline>
             </div>
 
             <div type="recipe">
-               <head><hi rend="sc">CHOCOLATE PUFFS</hi></head>
+               <head xml:id="chocolate_puffs"><hi rend="sc">CHOCOLATE PUFFS</hi></head>
                <p>Beat white of egg until very light; add confectioner's sugar and cocoa until a
                   good paste. Add pinch of salt and vanilla to taste. Mould into little balls, roll
                   in granulated sugar and place in oven for three minutes.</p>
@@ -120,7 +120,7 @@
 
             <pb n="32"/>
             <div type="recipe">
-               <head><hi rend="sc">CARAMEL PUDDING</hi></head>
+               <head xml:id="caramel_pudding"><hi rend="sc">CARAMEL PUDDING</hi></head>
                <list>
                   <item n="1">2 cups brown sugar</item>
                   <item n="2">2 cups water</item>
@@ -131,11 +131,11 @@
                <p>Dissolve sugar in water and bring to a boil. Add cornstarch dissolved in a little
                   water; boil three minutes (or until clear). Remove from fire, add vanilla and nuts
                   and put in moulds until firm. Serve with whipped cream.</p>
-               <byline><hi rend="sc"><persName>BLANCHE TROUTMAN</persName></hi></byline>
+               <byline><hi rend="sc"><persName>Blanche Troutman</persName></hi></byline>
             </div>
 
             <div type="recipe">
-               <head><hi rend="sc">ANGELS DELIGHT</hi></head>
+               <head xml:id="angels_delight"><hi rend="sc">ANGELS DELIGHT</hi></head>
                <list>
                   <item n="1">1 can pineapple</item>
                   <item n="2">½ lb. marshmallows</item>
@@ -145,11 +145,11 @@
                <p>Cut marshmallows in small pieces and soak in pineapple juice for three or four
                   hours. Cut pineapple in small pieces, mix marshmallows, pineapple, nuts and dates
                   together. Serve with whipped cream.</p>
-               <byline><hi rend="sc"><persName>LILLIAN EVERETT</persName>.</hi></byline>
+               <byline><hi rend="sc"><persName>Lillian Everett</persName>.</hi></byline>
             </div>
 
             <div type="recipe">
-               <head><hi rend="sc">FUDGE PUDDING</hi></head>
+               <head xml:id="fudge_pudding"><hi rend="sc">FUDGE PUDDING</hi></head>
                <list>
                   <item n="1">1 cup sugar</item>
                   <item n="2">½ cup molasses</item>
@@ -166,7 +166,7 @@
             </div>
 
             <div type="recipe">
-               <head><hi rend="sc">BLACK PUDDING</hi></head>
+               <head xml:id="black_pudding"><hi rend="sc">BLACK PUDDING</hi></head>
                <list>
                   <item n="1">1 tbsp. butter</item>
                   <item n="2">Pinch salt</item>
@@ -187,15 +187,15 @@
             </div>
 
             <div type="recipe">
-               <head><hi rend="sc">BROWNIES</hi></head>
+               <head xml:id="brownies"><hi rend="sc">BROWNIES</hi></head>
                <p>Melt 2 squares chocolate and ½ cup butter. Add 2 beaten eggs, 1 cup sugar, little
                   vanilla and ½ cup flour, 1 pound of nuts. Spread as you do ginger bread and bake
                   for 30 minutes. When cool cut in squares.</p>
-               <byline><hi rend="sc">M. <persName>SOUTHARD</persName>.</hi></byline>
+               <byline><hi rend="sc">M. <persName>Southard</persName>.</hi></byline>
             </div>
 
             <div type="recipe">
-               <head><hi rend="sc">CREAM PUFFS</hi></head>
+               <head xml:id="cream_puffs"><hi rend="sc">CREAM PUFFS</hi></head>
                <list>
                   <item n="1">1 cup flour</item>
                   <item n="2">½ cup butter</item>
@@ -206,11 +206,11 @@
                   off the stove. Mix in two eggs well beaten. Stir this until it is smooth. Put in
                   buttered muffin pans; about two tablespoons batter to one puff. Bake in a moderate
                   oven. Fill with whipped cream, sweetened or cream custard.</p>
-               <byline><hi rend="sc"><persName>ESTHER R. PALMER</persName>.</hi></byline>
+               <byline><hi rend="sc"><persName>Esther R. Palmer</persName>.</hi></byline>
             </div>
 
             <div type="recipe">
-               <head><hi rend="sc">PINEAPPLE COMPOTE</hi></head>
+               <head xml:id="pineapple_compote"><hi rend="sc">PINEAPPLE COMPOTE</hi></head>
                <list>
                   <item n="1">1 cup rice</item>
                   <item n="2">1 teaspoon butter</item>
@@ -226,7 +226,7 @@
             </div>
 
             <div type="recipe">
-               <head><hi rend="sc">SPANISH CREAM</hi></head>
+               <head xml:id="spanish_cream"><hi rend="sc">SPANISH CREAM</hi></head>
                <list>
                   <item n="1">1 quart scalded milk</item>
                   <item n="2">½ package gelatine</item>
@@ -240,7 +240,7 @@
             </div>
 
             <div type="recipe">
-               <head><hi rend="sc">MERINGUES</hi></head>
+               <head xml:id="meringues"><hi rend="sc">MERINGUES</hi></head>
                <list>
                   <item n="1">Whites of 2 eggs</item>
                   <item n="2">½ cup sugar</item>
@@ -249,11 +249,11 @@
                   bake in oven which is only slightly warm for 1¼ hours. The baking is very
                   important. They should rise and then brown. Cut tops and fill with whipped cream
                   and sliced bananas or fruit in season.</p>
-               <byline><hi rend="sc"><persName>ROSZELLE MILBURN</persName>.</hi></byline>
+               <byline><hi rend="sc"><persName>Roszelle Milburn</persName>.</hi></byline>
             </div>
 
             <div type="recipe">
-               <head><hi rend="sc">FRUIT SHERBET</hi></head>
+               <head xml:id="fruit_sherbet"><hi rend="sc">FRUIT SHERBET</hi></head>
                <p>Three cups water; 2½ cups sugar.Boil water and sugar for 15 minutes and cool.</p>
                <list>
                   <item n="1">3 lemons</item>
@@ -265,7 +265,7 @@
             </div>
 
             <div type="recipe">
-               <head><hi rend="sc">CUSTARD SOUFFLE (Fruit Sauce)</hi></head>
+               <head xml:id="custard_souffle_fruit_sauce"><hi rend="sc">CUSTARD SOUFFLE (Fruit Sauce)</hi></head>
                <list>
                   <item n="1">3 teaspoons butter</item>
                   <item n="2">3 teaspoons flour</item>
@@ -297,7 +297,7 @@
 
             <!-- Recipes -->
             <div type="recipe">
-               <head><hi rend="sc">JAM CAKE</hi></head>
+               <head xml:id="jam_cake"><hi rend="sc">JAM CAKE</hi></head>
                <list>
                   <item n="1">3 eggs</item>
                   <item n="2">1 cup sugar</item>
@@ -308,11 +308,11 @@
                   <item n="7">1 teaspoonful soda</item>
                   <item n="8">Spices of all kinds</item>
                </list>
-               <byline><hi rend="sc"><persName>ALICE SMITH</persName></hi></byline>
+               <byline><hi rend="sc"><persName>Alice Smith</persName></hi></byline>
             </div>
 
             <div type="recipe">
-               <head><hi rend="sc">COCOANUT DROPS</hi></head>
+               <head xml:id="cocoanut_drops"><hi rend="sc">COCOANUT DROPS</hi></head>
                <list>
                   <item n="1">1 cup sugar</item>
                   <item n="2">1–3 cup hot water</item>
@@ -323,19 +323,19 @@
                   beat thoroughly, then stir in enough cocoanut to make the mixture very stiff. Mold
                   into balls about an inch thick. Bake on a buttered pan in a hot oven until a light
                   brown.</p>
-               <byline><hi rend="sc"><persName>DOROTHY WADE</persName></hi></byline>
+               <byline><hi rend="sc"><persName>Dorothy Wade</persName></hi></byline>
             </div>
 
             <div type="recipe">
-               <head><hi rend="sc">SPONGE CAKE</hi></head>
+               <head xml:id="sponge_cake"><hi rend="sc">SPONGE CAKE</hi></head>
                <p>To two well beaten eggs, add 1 cup of sugar, ½ cup sifted flour. Stir well, then
                   add another ½ cup of flour with a teaspoonful of baking powder. Just before
                   putting in pan, add ½ cup of boiling water and flavor.</p>
-               <byline><hi rend="sc"><persName>IONE HOLMES</persName></hi></byline>
+               <byline><hi rend="sc"><persName>Ione Holmes</persName></hi></byline>
             </div>
 
             <div type="recipe">
-               <head><hi rend="sc">WASHINGTON PIE</hi></head>
+               <head xml:id="wasington_pie"><hi rend="sc">WASHINGTON PIE</hi></head>
                <list>
                   <item n="1">1–3 cup butter</item>
                   <item n="2">1 cup sugar</item>
@@ -350,7 +350,7 @@
             </div>
 
             <div type="recipe">
-               <head><hi rend="sc">CHRISTMAS HONEY CAKE</hi></head>
+               <head xml:id="christmas_honey_cake"><hi rend="sc">CHRISTMAS HONEY CAKE</hi></head>
                <list>
                   <item n="1">1½ cups citron and almond nuts chopped fine</item>
                   <item n="2">2 cups brown sugar</item>
@@ -368,11 +368,11 @@
                   flour, and the soda dissolved in a little hot water. Fold in the whites of eggs
                   and add spices and nuts. Bake in sheets and cut in triangles. Ice with thin
                   frosting made of sugar and water.</p>
-               <byline><hi rend="sc"><persName>MAMIE CAMERON</persName></hi></byline>
+               <byline><hi rend="sc"><persName>Mamie Cameron</persName></hi></byline>
             </div>
 
             <div type="recipe">
-               <head><hi rend="sc">ONE-EGG CAKE</hi></head>
+               <head xml:id="one_egg_cake"><hi rend="sc">ONE-EGG CAKE</hi></head>
                <list>
                   <item n="1">1 cup sugar</item>
                   <item n="2">1 large tablespoon butter</item>
@@ -383,11 +383,11 @@
                   <item n="7">1 teaspoonful vanilla</item>
                </list>
                <p>Cream the butter and sugar. Add beaten egg, mix in milk and flour slowly.</p>
-               <byline><hi rend="sc"><persName>CATHERINE BAXTER</persName></hi></byline>
+               <byline><hi rend="sc"><persName>Catherine Baxter</persName></hi></byline>
             </div>
 
             <div type="recipe">
-               <head><hi rend="sc">NUT LOAF</hi></head>
+               <head xml:id="nut_loaf"><hi rend="sc">NUT LOAF</hi></head>
                <list>
                   <item n="1">1½ cups white flour</item>
                   <item n="2">1½ cups graham flour</item>
@@ -402,14 +402,14 @@
 
             <pb n="38"/>
             <div type="recipe">
-               <head><hi rend="sc">SOUR CREAM COOKIES</hi></head>
+               <head xml:id="sour_cream_cookies"><hi rend="sc">SOUR CREAM COOKIES</hi></head>
                <p>Mix together 2 cups sugar, ½ cup butter, 2 eggs well beaten, ½ cup sour milk, ½
                   teaspoonful cinnamon and ½ teaspoonful cloves and soda. Drop by spoonfuls on
                   buttered tins.</p>
             </div>
 
             <div type="recipe">
-               <head><hi rend="sc">WALNUT CHOCOLATES</hi></head>
+               <head xml:id="walnut_chocolates"><hi rend="sc">WALNUT CHOCOLATES</hi></head>
                <list>
                   <item n="1">Whites of 3 eggs</item>
                   <item n="2">¾ cup granulated sugar</item>
@@ -418,11 +418,11 @@
                </list>
                <p>Beat eggs until very stiff. Add sugar gradually; then chocolate and nuts. Drop in
                   small teaspoonfuls on buttered paper. Bake in a moderate oven.</p>
-               <byline><hi rend="sc"><persName>MARTHA DAVIS</persName></hi></byline>
+               <byline><hi rend="sc"><persName>Martha Davis</persName></hi></byline>
             </div>
 
             <div type="recipe">
-               <head><hi rend="sc">RICH CHOCOLATE CAKE</hi></head>
+               <head xml:id="rich_chocolate_cake"><hi rend="sc">RICH CHOCOLATE CAKE</hi></head>
                <list>
                   <item n="1">1 ¾ cups sugar</item>
                   <item n="2">15 tablespoons butter</item>
@@ -436,11 +436,11 @@
                <p>Cream butter, add sugar gradually–yolks of eggs beaten light, melt chocolate and
                   cocoa, milk and flour (sifted with baking powder alternately) —whites of eggs
                   beaten stiff and vanilla. Bake one hour in moderate oven. </p>
-               <byline><hi rend="sc"><persName>MISS E. I. RAITT</persName></hi></byline>
+               <byline><hi rend="sc"><persName>Miss E. I. Raitt</persName></hi></byline>
             </div>
 
             <div type="recipe">
-               <head><hi rend="sc">ROCKS</hi></head>
+               <head xml:id="rocks"><hi rend="sc">ROCKS</hi></head>
                <list>
                   <item n="1">½ c. brown sugar</item>
                   <item n="2">1 c. butter</item>
@@ -456,7 +456,7 @@
 
             <pb n="39"/>
             <div type="recipe">
-               <head><hi rend="sc">WAFERS</hi></head>
+               <head xml:id="wafers"><hi rend="sc">WAFERS</hi></head>
                <list>
                   <item n="1">½ cup butter</item>
                   <item n="2">1 cup powdered sugar</item>
@@ -470,7 +470,7 @@
             </div>
 
             <div type="recipe">
-               <head><hi rend="sc">SPICE CAKES (With Dates and Nuts)</hi></head>
+               <head xml:id="spice_cakes_with_dates_and_nuts"><hi rend="sc">SPICE CAKES (With Dates and Nuts)</hi></head>
                <list>
                   <item n="1">1 ½ cups flour</item>
                   <item n="2">1 cup dates, cut up</item>
@@ -487,7 +487,7 @@
             </div>
 
             <div type="recipe">
-               <head><hi rend="sc">AID SOCIETY CAKES</hi></head>
+               <head xml:id="aid_society_cakes"><hi rend="sc">AID SOCIETY CAKES</hi></head>
                <p>Put into a sauce pan the following:</p>
                <list>
                   <item n="1">1 cup brown sugar</item>
@@ -508,23 +508,23 @@
             </div>
 
             <div type="recipe">
-               <head><hi rend="sc">GINGERBREAD DROPS</hi></head>
+               <head xml:id="gingerbread_drops"><hi rend="sc">GINGERBREAD DROPS</hi></head>
                <p>Beat two cupfuls of brown sugar with four eggs for 10 minutes; add two-third <pb
                      n="40"/>cup water, one pint flour two teaspoons baking powder, one tablespoon
                   ginger, one teaspoon lemon; mix into smooth spong and bake in gem pans.</p>
             </div>
 
             <div type="recipe">
-               <head><hi rend="sc">LADY BALTIMORE</hi></head>
+               <head xml:id="lady_baltimore"><hi rend="sc">LADY BALTIMORE</hi></head>
                <p>Rub a cupful butter to a cream with two cups powdered sugar, add a cupful milk,
                   when well mixed stir in the juice of one lemon and whip very light, then stir in
                   alternately the stiffened whites of six eggs and four even cupfuls flour, sifted
                   twice, with a round tsp. baking powder.</p>
-               <byline><hi rend="sc"><persName>MRS. H. LANDES.</persName></hi></byline>
+               <byline><hi rend="sc"><persName>Mrs. H. Landes.</persName></hi></byline>
             </div>
 
             <div type="recipe">
-               <head><hi rend="sc">ANGEL FOOD CAKE</hi></head>
+               <head xml:id="angel_food_cake"><hi rend="sc">ANGEL FOOD CAKE</hi></head>
                <list>
                   <item n="1">Whites of 11 eggs</item>
                   <item n="2">1 glass flour</item>
@@ -537,11 +537,11 @@
                   Add this to the beaten whites of eggs, stirring as little as possible. Put in
                   ungreased cake pan, and cook 40 minutes in a slow oven. Turn the pan upside down
                   when the cake is down, and let it remain until cold.</p>
-               <byline><persName>CASSIE LAWRENCE</persName></byline>
+               <byline><persName>Cassie Lawrence</persName></byline>
             </div>
 
             <div type="recipe">
-               <head><hi rend="sc">BURNED SUGAR CAKE</hi></head>
+               <head xml:id="burned_sugar_cake"><hi rend="sc">BURNED SUGAR CAKE</hi></head>
                <p>½ c. sugar, ½ c. butter mashed to a cream, yolks of 2 eggs well beaten, 1 cup
                   water, 2 ½ c. flour, 2 tsp. Baking pow-der, 1.2 cup burned sugar syrup, whites of
                   2 eggs, beaten stiff. Bake in layers. For the sugar syrup, take 1-3 c. sugar<pb
@@ -549,7 +549,7 @@
                   dough while syrup is hot, beat well. Icing—1 c. sugar mixed with ½ of burned
                   sugar, 5 tbsp. Water, boil until it threads, pour over well beaten white of 1 egg
                   and whip well.</p>
-               <byline><hi rend="sc"><persName>ISABELLA AUSTIN.</persName></hi></byline>
+               <byline><hi rend="sc"><persName>Isabella Austin.</persName></hi></byline>
             </div>
          </div>
       </body>
