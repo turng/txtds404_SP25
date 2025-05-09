@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>A Digital Edition of Bleak House and its Advertisements</title>
+                <author>Charles Dickens</author>
+                <editor xml:id="AC">Aries Chen</editor>
+                <editor xml:id="JN">Jessica Nero</editor>
+                <editor xml:id="LVH">Luke VanHouten</editor>
+                <respStmt>
+                    <resp>Transcription, encoding, and metadata collection by</resp>
+                    <name ref="#AC">Aries Chen</name>
+                    <name ref="#JN">Jessica Nero</name>
+                    <name ref="#LVH">Luke VanHouten</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition n="0.5">First draft of the project's metadata.</edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>Encoded in Oxygen, distributed via Github. For educational, non-commercial use only.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Bleak House</title>
+                    <author>Charles Dickens</author>
+                    <publisher>
+                        <name>Bradbury and Evans</name>
+                        <address>
+                            <addrLine>11 Bouverie Street</addrLine>
+                            <settlement>London</settlement>
+                            <country>England</country>
+                        </address>
+                    </publisher>
+                    <date notBefore="1853-09-01" notAfter="1853-09-11">September 1853</date>
+                    <note>The nineteenth serial</note>
+                </bibl>
+                <bibl>
+                    <title>Bleak House</title>
+                    <author>Charles Dickens</author>
+                    <publisher>
+                        <name>Bradbury and Evans</name>
+                        <address>
+                            <addrLine>11 Bouverie Street</addrLine>
+                            <settlement>London</settlement>
+                            <country>England</country>
+                        </address>
+                    </publisher>
+                    <date when="1853-09-12">12 September 1853</date>
+                    <note>The full novel</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <tagsDecl>
+                <rendition scheme="css" xml:id="covertitle1">font-family: sans-serif</rendition>
+                <rendition scheme="css" xml:id="covertitle2">font-family: sans-serif</rendition>
+                <rendition scheme="css" xml:id="titlepage1"></rendition>
+                <rendition scheme="css" xml:id="titlepage2">font-family: sans-serif</rendition>
+                <rendition scheme="css" xml:id="sectiontitle">font-family: serif</rendition>
+                <rendition scheme="css" xml:id="prefacetext">font-family: serif</rendition>
+                <rendition scheme="css" xml:id="tableofcontents">font-family: serif</rendition>
+                <rendition scheme="css" xml:id="listofplates">font-family: serif</rendition>
+                <rendition scheme="css" xml:id="maintext">font-family: serif</rendition>
+                <rendition scheme="css" xml:id="runningheader">font-family: serif</rendition>
+            </tagsDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change>
+                    Metadata entered
+                </change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>Some text here.</p>
+        </body>
+    </text>
+</TEI>
