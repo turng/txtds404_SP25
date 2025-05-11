@@ -19,7 +19,9 @@
             <p>Information about the source</p>
          </sourceDesc>
       </fileDesc>
-      <
+      <encodingDesc>
+         <projectDesc><p>With this project we aim to</p></projectDesc>
+      </encodingDesc>
   </teiHeader>
   <text>
       <body>
