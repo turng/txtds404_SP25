@@ -3,7 +3,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>The Hound of the Baskervilles</title>
@@ -14,18 +14,44 @@
          </titleStmt>
          <publicationStmt>
             <p>Publication Information</p>
+            <date when="2025-05-12"/>
          </publicationStmt>
          <sourceDesc>
-            <p>Information about the source</p>
+            <bibl>
+               <author>Arthur Conan Doyle</author>
+               <title>The Hound of the Baskervilles></title>
+               <publisher>George Newnes LTD.</publisher>
+               <pubPlace>
+                  <address>
+                     <addName>George Newnes LTD.</addName>
+                     <addrLine>7, 8, 9, 10, 11, &amp; 12, Southampton Street,</addrLine>
+                     <addrLine>and Exeter Street, London</addrLine>
+                  </address>
+               </pubPlace>
+               <date when="1901-08">August 1901</date>
+            </bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <projectDesc><p>With this project we aim to</p></projectDesc>
+         <projectDesc>
+            <p>With this project we aim to faithfully recreate the format and text of the first two
+               chapters of The Hound of the Baskervilles, as they were published in the August 1901
+               edition of The Strand Magazine.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Our aim with editiorial decisions is to avoid altering the text and its presentation
+               minimally. ----------</p>
+         </editorialDecl>
       </encodingDesc>
-  </teiHeader>
-  <text>
+      <revisionDesc>
+         <listChange>
+            <change when="2025-05-11">Began creating draft TEI Header</change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
       <body>
          <p>Some text here.</p>
       </body>
-  </text>
+   </text>
 </TEI>
