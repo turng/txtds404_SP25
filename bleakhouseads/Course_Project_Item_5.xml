@@ -22,7 +22,18 @@
                 <edition n="0.5">First draft of the project's metadata.</edition>
             </editionStmt>
             <publicationStmt>
-                <p>Encoded in Oxygen, distributed via Github. For educational, non-commercial use only.</p>
+                <p>Encoded in Oxygen, distributed via Github. For educational, non-commercial use
+                    only. The purpose of this text is to track the differences in publishing from a
+                    serial format to one of the more standard novel, including all that comes with
+                    that. With serial publications, the texts we know today were separated into
+                    brief chapters and periodicals, only publishing a small section of the final
+                    text monthly over a large time span. Once the periodical had finished,
+                    advertisements began getting published for the full text edition of the novel,
+                    including in the final periodical of Bleak House. With this edition, we aim to
+                    display the functional differences in publicaition of different mediums of text,
+                    particularly focusing on the publication elements of the texts individually as
+                    well as the advertisements used in the periodicals and how these additions
+                    affected readership and the reader experience.</p>
             </publicationStmt>
             <sourceDesc>
                 <bibl>
