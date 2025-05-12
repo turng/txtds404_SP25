@@ -15,11 +15,13 @@
          <publicationStmt>
             <p>Publication Information</p>
             <date when="2025-05-12"/>
+            <!-- date does not seem to work here, will probably have to delete-->
          </publicationStmt>
          <sourceDesc>
             <bibl>
                <author>Arthur Conan Doyle</author>
                <title>The Hound of the Baskervilles></title>
+               <!--need to find a way to include the volume of The Strand in this bibliography-->
                <publisher>George Newnes LTD.</publisher>
                <pubPlace>
                   <address>
@@ -29,6 +31,9 @@
                   </address>
                </pubPlace>
                <date when="1901-08">August 1901</date>
+               <availability>
+                  <p><!-- figure out copyright/usage info from Special Collections--></p>
+               </availability>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -40,7 +45,8 @@
          </projectDesc>
          <editorialDecl>
             <p>Our aim with editiorial decisions is to avoid altering the text and its presentation
-               minimally. ----------</p>
+               minimally. Original spelling, format, and punctuation wherever we can.
+               <!-- how do we want to deal with the unidentifiable characters?--></p>
          </editorialDecl>
       </encodingDesc>
       <revisionDesc>
