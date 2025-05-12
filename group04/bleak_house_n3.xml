@@ -7,7 +7,7 @@
       <fileDesc>
          <titleStmt>
             <title>Bleak House</title>
-            <author>Dickens, Charles, 1812-1870</author>
+            <author><persName xml:id="Dick">Dickens, Charles</persName>, <date type="birth">1812</date>-<date type="death">1870</date></author>
             <editor>Steven Haker</editor>
             <editor>Karalee Harris</editor>
             <editor>Paul Jason Perez</editor>
@@ -19,16 +19,16 @@
             <p>
                <bibl>
                   <title>Bleak House</title>
-                  <author>Dickens, Charles, 1812-1870</author>
+                  <author><ref target="#Dick">Dickens, Charles</ref>, <date type="birth">1812</date>-<date type="death">1870</date></author>
                   <respStmt>
                      <resp>illustrated by</resp>
-                     <name>Browne, Hablot Knight, 1815-1882</name>
+                     <persName xml:id="HKB">Browne, Hablot Knight, <date type="born">1815</date>-<date type="death">1882</date></persName>
                   </respStmt>
                   <edition>[First edition]</edition>
                   <extent>70 pp</extent>
-                  <publisher>Bradbury and Evans</publisher>
-                  <pubPlace>London</pubPlace>
-                  <date>1852-1853</date>
+                  <publisher xml:id="BandE">Bradbury and Evans</publisher>
+                  <pubPlace><placeName type="city">London, <country>England</country></placeName></pubPlace>
+                  <date><date when="1852">1852</date>-<date when="1853">1853</date></date>
                   <idno type="OCLC">38689984</idno>
                </bibl>
             </p>
