@@ -15,6 +15,10 @@
             </editor>
             <sponsor>University of Washington Libraries, Special Collections</sponsor>
          </titleStmt>    
+         <editionStmt>
+            <p>This edition focuses on a selection of pages from Clarence T. Arai’s scrapbook held in the University of Washington Special Collections.</p>
+            <p>We chose to work with a scrapbook because of the vulnerability conveyed through its visual and textual features. This edition, only a small selection of pieces from the full work, explores the choices Arai made in assembling his scrapbook, considering how these preserved materials capture a personal experience during World War II and contribute to a more holistic, human understanding of the period.</p>
+         </editionStmt>
          <publicationStmt>
             <publisher>University of Washington Student Project for TXTDS 404: Texts, Publics, and Publication</publisher>
             <pubPlace>Seattle, WA</pubPlace>
@@ -34,12 +38,8 @@
                <note>Box 2</note> 
                <note>This scrapbook, assembled by Clarence T. Arai, provides a perspective on his life as a Japanese American in Seattle before and during World War II. It includes correspondences, newspaper clippings, certificates, and other artifacts Arai selected to preserve.</note>
             </bibl>
-          </sourceDesc>                        
+          </sourceDesc>    
       </fileDesc>
-     <encodingDesc>
-        <p>This edition focuses on a selection of pages from Clarence T. Arai’s scrapbook held in the University of Washington Special Collections.</p>
-        <p>We chose to work with a scrapbook because of the vulnerability conveyed through its visual and textual features. This edition, only a small selection of pieces from the full work, explores the choices Arai made in assembling his scrapbook, considering how these preserved materials capture a personal experience during World War II and contribute to a more holistic, human understanding of the period.</p>
-     </encodingDesc>
   </teiHeader>
   <text>
       <body>
