@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bleak House Volume XVII Digital Edition</title>
+            <author>Charles Dickens</author>
+            <editor>Alysa Meng</editor>
+            <editor>Karthik Malli</editor>
+            <editor>Keren Truong</editor>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>TXTDS 404/504 Spring 2025 offering at the University of Washington</publisher>
+            <pubPlace>Seattle, Washington</pubPlace>
+            <date when="2025">2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Bleak House</title>
+               <author>Charles Dickens</author>
+               <publisher>Bradbury and Evans</publisher>
+               <pubPlace>London</pubPlace>
+               <date>1852–1853</date>
+               <note>Published in 20 monthly parts.</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <p>Some text here.</p>
+      </body>
+  </text>
+</TEI>
