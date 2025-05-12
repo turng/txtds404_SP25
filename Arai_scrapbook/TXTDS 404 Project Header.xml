@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Selections from the Clarence T. Arai Papers</title>
+            <author>Clarence T. Arai</author>
+            <editor>
+               <name xml:id="MO">Marisa Oishi</name>
+               <name xml:id="CL">Christine Leak</name>
+               <name xml:id="HS">Hannah Swoffer</name>
+            </editor>
+            <sponsor>University of Washington Libraries, Special Collections</sponsor>
+         </titleStmt>    
+         <publicationStmt>
+            <publisher>University of Washington Student Project for TXTDS 404: Texts, Publics, and Publication</publisher>
+            <pubPlace>Seattle, WA</pubPlace>
+            <date when="2025-06-06">June 6th, 2025</date>
+            <availability>
+               <p>Freely available for use.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+             <bibl>
+               <title>Clarence T. Arai Papers</title>
+               <author>Clarence T. Arai</author>
+               <pubPlace>University of Washington, Special Collections Manuscripts and Archives</pubPlace>
+               <date from="1919" to="1993">1919-1993</date>
+               <idno type="oclcNo">945773039</idno>
+               <idno type="accessionNo">acc5542-001</idno>
+               <note>Box 2</note> 
+               <note>This scrapbook, assembled by Clarence T. Arai, provides a perspective on his life as a Japanese American in Seattle before and during World War II. It includes correspondences, newspaper clippings, certificates, and other artifacts Arai selected to preserve.</note>
+            </bibl>
+          </sourceDesc>                        
+      </fileDesc>
+     <encodingDesc>
+        <p>This edition focuses on a selection of pages from Clarence T. Arai’s scrapbook held in the University of Washington Special Collections.</p>
+        <p>We chose to work with a scrapbook because of the vulnerability conveyed through its visual and textual features. This edition, only a small selection of pieces from the full work, explores the choices Arai made in assembling his scrapbook, considering how these preserved materials capture a personal experience during World War II and contribute to a more holistic, human understanding of the period.</p>
+     </encodingDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Some text here.</p>
+      </body>
+  </text>
+</TEI>
