@@ -3,22 +3,55 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Title</title>
+            <title>Bleak House</title>
+            <author><persName xml:id="Dick">Dickens, Charles</persName>, <date type="birth"
+                  >1812</date>-<date type="death">1870</date></author>
+            <editor>Steven Haker</editor>
+            <editor>Karalee Harris</editor>
+            <editor>Paul Jason Perez</editor>
          </titleStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <p>Bleak House itself is a fiction about the lives of the rich and poor in London
+               society during the Victorian era. However, our main focus is on the advertisements
+               appearing before and after the serialized novel. These advertisements are appealing
+               to a certain group of consumers during the mid-Victorian era of London. From our
+               edition, readers would be able to peek into the world of 1852 when Bleak House was
+               being published as a serial. The advertisements present in Bleak House are an
+               artifact of that time; though they were likely ignored during it, they now provide a
+               unique window into that time period. The audience for this edition would likely be
+               people researching this time period rather than people who want to read Bleak House
+               as a text; this means that it would lend itself moreso to scholars rather than
+               laypeople.</p>
          </publicationStmt>
          <sourceDesc>
-            <p>Information about the source</p>
+            <p>
+               <bibl>
+                  <title>Bleak House</title>
+                  <author><ref target="#Dick">Dickens, Charles</ref>, <date type="birth"
+                        >1812</date>-<date type="death">1870</date></author>
+                  <respStmt>
+                     <resp>illustrated by</resp>
+                     <persName xml:id="HKB">Browne, Hablot Knight, <date type="born"
+                           >1815</date>-<date type="death">1882</date></persName>
+                  </respStmt>
+                  <edition>[First edition]</edition>
+                  <extent>70 pp</extent>
+                  <publisher xml:id="BandE">Bradbury and Evans</publisher>
+                  <pubPlace><placeName type="city">London,
+                     <country>England</country></placeName></pubPlace>
+                  <date><date when="1852">1852</date>-<date when="1853">1853</date></date>
+                  <idno type="OCLC">38689984</idno>
+               </bibl>
+            </p>
          </sourceDesc>
       </fileDesc>
-  </teiHeader>
-  <text>
+   </teiHeader>
+   <text>
       <body>
          <p>Some text here.</p>
       </body>
-  </text>
+   </text>
 </TEI>

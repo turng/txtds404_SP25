@@ -22,7 +22,18 @@
                 <edition n="0.5">First draft of the project's metadata.</edition>
             </editionStmt>
             <publicationStmt>
-                <p>Encoded in Oxygen, distributed via Github. For educational, non-commercial use only.</p>
+                <p>Encoded in Oxygen, distributed via Github. For educational, non-commercial use
+                    only. The purpose of this text is to track the differences in publishing from a
+                    serial format to one of the more standard novel, including all that comes with
+                    that. With serial publications, the texts we know today were separated into
+                    brief chapters and periodicals, only publishing a small section of the final
+                    text monthly over a large time span. Once the periodical had finished,
+                    advertisements began getting published for the full text edition of the novel,
+                    including in the final periodical of Bleak House. With this edition, we aim to
+                    display the functional differences in publicaition of different mediums of text,
+                    particularly focusing on the publication elements of the texts individually as
+                    well as the advertisements used in the periodicals and how these additions
+                    affected readership and the reader experience.</p>
             </publicationStmt>
             <sourceDesc>
                 <bibl>
@@ -38,6 +49,9 @@
                     </publisher>
                     <date notBefore="1853-09-01" notAfter="1853-09-11">September 1853</date>
                     <note>The nineteenth serial</note>
+		    <note>Copy held in the University of Washington Libraries Special Collections. Call number: scbar PR4556 A1 1852 v. 19</note>
+		    <note>Contains various advertisements, including, notably, an advertisement for the complete novel edition of Bleak House, then-forthcoming. Other notable advertisements include works by the same author published by a different publisher.</note>
+		    <note>Prefatory materials are included in this nineteenth serial, placed after the main text of the story ends. They include a table of contents, which is valid, as the main text is paginated in one sequence through all serials. They also include a list of illustrations, which is not valid, as illutrations are included in each serial before the main text begins, rather than being on the specific page that the list of illustrations says they are on.</note>
                 </bibl>
                 <bibl>
                     <title>Bleak House</title>
@@ -52,21 +66,25 @@
                     </publisher>
                     <date when="1853-09-12">12 September 1853</date>
                     <note>The full novel</note>
+		    <note>Copy held in the University of Washington Libraries Special Collections. Call number: scbar PR4556 A1 1853</note>
+		    <note>Bound with the covers and some advertising materials from the fourth serial.</note>
+		    <note>Prefatory materials are included before the main text of the story starts. The pagination of the list of illustrations is valid against the locations of the illustrations in this edition.</note>
                 </bibl>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
             <tagsDecl>
-                <rendition scheme="css" xml:id="covertitle1">font-family: sans-serif</rendition>
-                <rendition scheme="css" xml:id="covertitle2">font-family: sans-serif</rendition>
-                <rendition scheme="css" xml:id="titlepage1"></rendition>
-                <rendition scheme="css" xml:id="titlepage2">font-family: sans-serif</rendition>
-                <rendition scheme="css" xml:id="sectiontitle">font-family: serif</rendition>
-                <rendition scheme="css" xml:id="prefacetext">font-family: serif</rendition>
-                <rendition scheme="css" xml:id="tableofcontents">font-family: serif</rendition>
-                <rendition scheme="css" xml:id="listofplates">font-family: serif</rendition>
-                <rendition scheme="css" xml:id="maintext">font-family: serif</rendition>
-                <rendition scheme="css" xml:id="runningheader">font-family: serif</rendition>
+                <rendition scheme="css" xml:id="covertitle1">font-size: large; font-family: sans-serif; text-transform: uppercase; text-align: center</rendition>
+                <rendition scheme="css" xml:id="covertitle2">font-size: large; font-family: sans-serif; text-transform: uppercase; text-align: center</rendition>
+                <rendition scheme="css" xml:id="titlepage1">font-size: large; text-transform: uppercase; text-align: center</rendition>
+                <rendition scheme="css" xml:id="titlepage2">font-size: large; font-family: sans-serif; text-transform: uppercase; text-align: center</rendition>
+		<rendition scheme="css" xml:id="smalltext">font-size: small; font-family: serif; text-transform: uppercase</rendition>
+                <rendition scheme="css" xml:id="sectiontitle">font-family: serif; text-transform: uppercase; text-align: center</rendition>
+                <rendition scheme="css" xml:id="prefacetext">font-family: serif; text-indent: 20px</rendition>
+                <rendition scheme="css" xml:id="tableofcontents">font-family: serif; text-align: justify</rendition>
+                <rendition scheme="css" xml:id="listofplates">font-family: serif; text-transform: uppercase; text-align: justify</rendition>
+                <rendition scheme="css" xml:id="maintext">font-family: serif; text-indent: 20px</rendition>
+                <rendition scheme="css" xml:id="runningheader">font-family: serif; text-transform: uppercase</rendition>
             </tagsDecl>
         </encodingDesc>
         <profileDesc>
@@ -76,7 +94,7 @@
         </profileDesc>
         <revisionDesc>
             <listChange>
-                <change>
+                <change notAfter="2025-05-12" who="#AC, #JC, #LVH">
                     Metadata entered
                 </change>
             </listChange>
