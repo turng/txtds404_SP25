@@ -6,15 +6,26 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Title</title>
+            <title>Kollege Kookery Kinks</title>
          </titleStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <p>This edition presents a digitized selection from Kollege Kookery Kinks, a 1920s cookbook published by the Young Women’s Christian Association in Seattle.
+               Our goal is to make a portion of this text accessible to contemporary readers through a faithful yet readable diplomatic transcription. 
+               While we preserved much of the original formatting and content, we normalized some visual aspects to improve clarity, including merging short lines into full paragraphs and standardizing inconsistencies in layout.
+               This edition focuses on two sections of the original volume,“Dainty Desserts” and “Cakes”,spanning pages 30 to 37. 
+               This edition is intended for educational and scholarly use, allowing readers to explore the cultural, linguistic, and culinary history of the early 20th-century Pacific Northwest.</p>
          </publicationStmt>
          <sourceDesc>
-            <p>Information about the source</p>
+            <bibl>
+               Young Women's Christian Association. <title>Kollege Kookery Kinks</title>. Seattle: University of Washington, 1920.
+               <note>This cookbook was published as a 48-page oblong booklet. It was created collectively by members of the Young Women’s Christian Association at the University of Washington and reflects student culinary culture during the 1920s.</note>
+            </bibl>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <p>In preparing this digital edition, we made minor normalization choices. Specifically, we regularized capitalization (e.g., names and ingredients) and merged line-broken phrases into complete sentences. 
+            We preserved original spelling and punctuation wherever possible, unless doing so obscured meaning or readability.</p>
+      </encodingDesc>
    </teiHeader>
    <text>
       <body>
