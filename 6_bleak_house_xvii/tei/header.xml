@@ -8,32 +8,50 @@
          <titleStmt>
             <title>Bleak House Volume XVII Digital Edition</title>
             <author>Charles Dickens</author>
-            <editor>Alysa Meng</editor>
-            <editor>Karthik Malli</editor>
-            <editor>Keren Truong</editor>
+            <editor ref="#Alysa">Alysa Meng</editor>
+            <editor ref="#Karthik">Karthik Malli</editor>
+            <editor ref="#Keren">Keren Truong</editor>
          </titleStmt>
          <publicationStmt>
             <publisher>TXTDS 404/504 Spring <date when="2025">2025</date> offering at the University
                of Washington</publisher>
-            <pubPlace>Seattle, Washington</pubPlace>
+            <pubPlace key="Seattle, WA, USA">Seattle, Washington</pubPlace>
             <date when="2025">2025</date>
-	    <distributor>From University of Washington Libraries Special Collections</distributor>
+            <distributor>From University of Washington Libraries Special Collections</distributor>
          </publicationStmt>
          <sourceDesc>
             <bibl>
                <title>Bleak House</title>
-               <author>Charles Dickens</author>
+               <author key="Dickens, Charles (1812-1870)">Charles Dickens</author>
                <publisher>Bradbury and Evans</publisher>
-               <pubPlace>London</pubPlace>
+               <pubPlace key="London, UK">London</pubPlace>
                <date>1852–1853</date>
-               <note>Published in 20 monthly parts.</note>
+               <note>Published in 20 installations monthly, beginning in <date when="1852-03-12">12
+                     March 1852</date> and ending <date when="1853-09-12">12 September 1853</date>.
+                  Our edition, No. XVII, was published <date when="1853-07-12">12 July
+                     1853</date>.</note>
             </bibl>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>We choose not to modernize the text, since we wish to preserve the textual impact of
+               the original 1852 publication. Thankfully, the language is not too far removed from
+               what modern readers are comfortable with. Instead, to supply more context, we choose
+               to annotate unfamiliar terms and concepts pertaining to 19th century British legal
+               culture and Bleak House as a larger text.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <creation>By Charles Dickens.<date>1852-53</date></creation>
+         <langUsage>
+            <language ident="en">The text is in English.</language>
+         </langUsage>
+      </profileDesc>
    </teiHeader>
-  <text>
+   <text>
       <body>
          <p>Some text here.</p>
       </body>
-  </text>
+   </text>
 </TEI>
