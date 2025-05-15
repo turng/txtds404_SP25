@@ -6,10 +6,42 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Title</title>
+            <title>Reindeer Recipes</title>
+		<author>The Great Northern Dining Car Department</author>
+            <editor>Priyanka Kannan, Preyal Garg, Ryan Gottlieb, Zooey Whang</editor>
          </titleStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <p>TThis digital edition is based on a physical pamphlet held in Special Collections at
+               the University of Washington Libraries. The pamphlet is titled <title>Reindeer
+                  Recipes</title> and was produced by the Great Northern Dining Car
+                  Department. The physical document appears undated, though the style
+               suggests early 20th century. No publisher is explicitly listed on the pamphlet. <bibl>
+                  <title>Reindeer Recipes</title>
+                  <author>Great Northern Dining Car Department</author>
+                  <publisher>Unknown</publisher>
+                  <date notBefore="1889" notAfter="1970">[between 1889 and 1970]</date>
+                  <idno type="callNumber">SCPNW TX749.5.R45 1910z</idno>
+		<msDesc>
+                     <msIdentifier>
+                        <repository>University of Washington Special Collections</repository>
+                        <idno>SCPNW TX749.5.R45 1910z</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc>
+                           <supportDesc>
+                              <support>Printed booklet on paper, approximately 6 pages. The paper is
+                                 cream-colored with green border around it. Cover art is of a
+                                 reindeer with its herd in the background of a snowy hill at sunset,
+                                 with a orange sun and a few barren trees.</support>
+                           </supportDesc>
+                        </objectDesc>
+                     </physDesc>
+                     <history>
+                        <origin>Produced by the Great Northern Railway Dining Car Department
+                           sometime between 1889 and 1970.</origin>
+                     </history>
+                  </msDesc>
+               </bibl></p>
          </publicationStmt>
          <sourceDesc>
             <p>Information about the source</p>
