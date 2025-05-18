@@ -53,18 +53,13 @@
   <text>
       <front>
           <div type="editorial_intro">
-              <p></p>
-              <p></p>
+              <p>TODO</p>
+              <p>TODO</p>
               <p>We chose to preserve the original spelling and punctuation used in the scrapbook to 
                   maintain authenticity. </p>
           </div>
           <div type="annotations">
               
-          </div>
-          <div type="bibliography">
-              <listBibl>
-                  <bibl type="website"></bibl>
-              </listBibl>
           </div>
       </front>
       <body>
@@ -426,5 +421,18 @@ Staff Association
 
 P.S. Miss Calkins, head of our Reference department, is coming with a friend to Puyallup tomorrow and will be at the gate of the Camp at 5:30 and will be very happy to see you if you can be there.</ab>
       </body>
+      <back>
+          <div type="bibliography">
+              <listBibl>
+                  <bibl xml:id="TODO" type="webpage">
+                      "<title level="a">TODO</title>."
+                      <title level="m">TODO</title>
+                      <publisher>TODO</publisher>
+                      <date>TODO</date>
+                      <ref target="INSERT_LINK">INSERT_NAME_OF_LINK</ref>
+                  </bibl>
+              </listBibl>
+          </div>
+      </back>
   </text>
 </TEI>
