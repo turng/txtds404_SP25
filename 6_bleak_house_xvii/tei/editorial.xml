@@ -17,8 +17,36 @@
       </fileDesc>
   </teiHeader>
   <text>
+     <front>
+        <titlePage>
+           <titlePart>
+              ...
+           </titlePart>
+        </titlePage>
+        <div type="editorial_intro">
+           <p></p>
+        </div>
+        <div type="preface">
+           <p></p>
+        </div>
+        <div type="maintext">
+           <p></p>
+        </div>
+     </front>
       <body>
          <p>Some text here.</p>
       </body>
+     <back>
+        <div type="endnotes">
+           
+        </div>
+        <div type="biblio">
+           <listBibl xml:id="source1">
+              <bibl>
+                <title>...</title>
+              </bibl>
+           </listBibl>
+        </div>
+     </back>
   </text>
 </TEI>
