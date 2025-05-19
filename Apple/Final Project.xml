@@ -478,17 +478,19 @@
          <div type="bibliography">
             <listBibl>
                <bibl xml:id="source1">
-                  <title>From Recipe to Biography: Georgiana Hill's life in cooking</title>
-               </bibl>
+                  <author>Rich, Rachel.</author>
+                  <title>From Recipe to Biography: Georgiana Hill's life in cooking.</title> The
+                  Recipes Project, May 1, 2014. </bibl>
                <bibl xml:id="source2">
-                  <title>Cookbook Writers and Recipe Readers: Georgiana Hill, Isabella Beaton, and
-                     Victorian domesticity</title>
-               </bibl>
+                  <author>Rich, Rachel.</author>
+                  <title>Cookbook Writers and Recipe Readers: Georgiana Hill, Isabella Beeton and
+                     Victorian Domesticity</title> Journal of Victorian Culture, Volume 25, Issue 3,
+                  July 2020, Pages 408–423, </bibl>
                <bibl xml:id="source3">
                   <title>Gender and the Historian</title>
                </bibl>
                <bibl xml:id="source4"> “Merriam-Webster Dictionary.” Merriam-Webster.com, 12 Apr.
-                  2025, www.merriam-webster.com/dictionary/ne%20plus%20ultra. </bibl>
+                  2025.</bibl>
                <bibl xml:id="source5"> “Orange Pippin.” Apple - Esopus Spitzenburg - Tasting Notes,
                   Identification, Reviews, 18 July 2022. </bibl>
                <bibl xml:id="source6"> “Golden Pippin.” Brighton Permaculture Trust,
