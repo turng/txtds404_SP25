@@ -15,12 +15,6 @@
                original visually and textually. By keeping almost all of the text the same as the
                original, we are hoping to preserve recipes from this 1869 cookbook, in hopes that
                readers will reflect on the way recipes can mirror the time they were written in</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>"How To Cook Potatoes, Apples, Eggs, Fish, Four Hundred Different Ways" is a cookbook
-               by Georgiana Hill, a 19th century cookery book writer and journalist. This cookbook
-               is not only a collection of recipes, but a reflection of Georgiana Hill’s character.
-               Her often humorous section introductions, the almost casual nature of the recipes,
                and the deviation of the cookbook from just British recipes paints Georgiana Hill as
                a well-traveled and educated woman with the intention of reaching other women with
                her cooking knowledge.</p>
@@ -32,6 +26,12 @@
                   <pubPlace>New York</pubPlace>
                   <date>1869</date>
                </bibl></p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>"How To Cook Potatoes, Apples, Eggs, Fish, Four Hundred Different Ways" is a cookbook
+               by Georgiana Hill, a 19th century cookery book writer and journalist. This cookbook
+               is not only a collection of recipes, but a reflection of Georgiana Hill’s character.
+               Her often humorous section introductions, the almost casual nature of the recipes,
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
@@ -456,16 +456,24 @@
          </div>
       </body>
       <back>
+         <div type="endnotes">
+            <note>...</note>
+            <note>....</note>
+            <note>...</note>
+            <note>....</note>
+         </div>
          <div type="bibliography">
-            <bibl xml:id="source1">
-               <title>From Recipe to Biography: Georgiana Hill's life in cooking</title>
-            </bibl>
-            <bibl xml:id="source2">
-               <title>Cookbook Writers and Recipe Readers: Georgiana Hill, Isabella Beaton, and Victorian domesticity</title>
-            </bibl>
-            <bibl xml:id="source3">
-               <title>Gender and the Historian</title>
-            </bibl>
+            <listBibl>
+               <bibl xml:id="source1">
+                  <title>From Recipe to Biography: Georgiana Hill's life in cooking</title>
+               </bibl>
+               <bibl xml:id="source2">
+                  <title>Cookbook Writers and Recipe Readers: Georgiana Hill, Isabella Beaton, and Victorian domesticity</title>
+               </bibl>
+               <bibl xml:id="source3">
+                  <title>Gender and the Historian</title>
+               </bibl>
+            </listBibl>
          </div>
       </back>
    </text>
