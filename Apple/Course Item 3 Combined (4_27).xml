@@ -53,7 +53,7 @@
             <p>We chose to “How to Cook Potatoes, Apples, Eggs, Fish, Four Hundred Different Ways”
                by Georgiana Hill, because we were interested in the history and how women used to
                use cookbooks as a form of expression. Georgiana Hill was a Victorian-era cookery
-               writer, historian, and activist. While Georgiana Hill’s life story is not known
+               writer, historian, and suffragist. While Georgiana Hill’s life story is not known
                extensively, her impact is illustrated in at least 21 known works, often about
                cooking, historical dress, and the life of women in Victorian England. For the book
                we are working on, the casual composition of the text and recipes illustrated how
@@ -439,5 +439,18 @@
                cold.</p>
          </div>
       </body>
+      <back>
+         <div type="bibliography">
+            <bibl xml:id="source1">
+               <title>From Recipe to Biography: Georgiana Hill’s life in cooking</title>
+            </bibl>
+            <bibl xml:id = "source2">
+               <title>Cookbook Writers and Recipe Readers: Georgiana Hill, Isabella Beaton, and Victorian domesticity</title>
+            </bibl>
+            <bibl xml:id="source3">
+               <title>Gender and the Historian</title>
+            </bibl>
+         </div>
+      </back>
    </text>
 </TEI>
