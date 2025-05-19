@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <titlePage>
+            <titlePart> ... </titlePart>
+         </titlePage>
+         <div type="intro">
+            <p>Bleak House is a mid 19th century novel by Charles Dickens, originally published in
+               serialized form. The story of Bleak House follows the course of a legal dispute in
+               the British Court of Chancery, as the Jarndyce family waits over generations to
+               receive an inheritance they believe they deserve. The story is a commentary on the
+               convoluted legal system in Britain, and the corruption inherent in it.</p>
+         </div>
+         <div type="preface">
+            <p>Through this edition, we are interested in examining the intertextuality between
+               advertisements and different groups of readers, as well as the juxtaposition of ads
+               and the prose text of the novel.</p>
+         </div>
+         <div type="editorial">
+            <p>We choose not to modernize the text, since we wish to preserve the textual impact of
+               the original 1852 publication. Thankfully, the language is not too far removed from
+               what modern readers are comfortable with. Instead, to supply more context, we choose
+               to annotate unfamiliar terms and concepts pertaining to 19th century British legal
+               culture and Bleak House as a larger text.</p>
+         </div>
+         <div type="maintext">
+            <p/>
+         </div>
+      </front>
+      <body>
+         <p>Some text here.</p>
+      </body>
+      <back>
+         <div type="endnotes">
+            <note xml:id="n1">The novel features the fictional case, Jarndyce and Jarndyce.</note>
+            <note xml:id="n2">Royal seal of the United Kingdom.</note>
+         </div>
+         <div type="biblio">
+            <listBibl>
+               <bibl xml:id="Wiki">
+                  <title ref="https://en.wikipedia.org/wiki/Bleak_House">Wikipedia</title>
+               </bibl>
+               <bibl xml:id="University_of_New_England">
+                  <title ref="http://esthersnarrative.une.edu.au/themes-1/">University of New England website</title>
+               </bibl>
+               
+            </listBibl>
+         </div>
+      </back>
+   </text>
+</TEI>

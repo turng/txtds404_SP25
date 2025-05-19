@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -9,25 +7,73 @@
             <title>Kollege Kookery Kinks</title>
          </titleStmt>
          <publicationStmt>
-            <p>This edition presents a digitized selection from Kollege Kookery Kinks, a 1920s cookbook published by the Young Women’s Christian Association in Seattle.
-               Our goal is to make a portion of this text accessible to contemporary readers through a faithful yet readable diplomatic transcription. 
-               While we preserved much of the original formatting and content, we normalized some visual aspects to improve clarity, including merging short lines into full paragraphs and standardizing inconsistencies in layout.
-               This edition focuses on two sections of the original volume,“Dainty Desserts” and “Cakes”,spanning pages 30 to 37. 
-               This edition is intended for educational and scholarly use, allowing readers to explore the cultural, linguistic, and culinary history of the early 20th-century Pacific Northwest.</p>
+            <p>This edition is intended for educational and scholarly use, allowing readers to
+               explore the cultural, linguistic, and culinary history of the early 20th-century
+               Pacific Northwest.</p>
          </publicationStmt>
          <sourceDesc>
             <bibl>
-               Young Women's Christian Association. <title>Kollege Kookery Kinks</title>. Seattle: University of Washington, 1920.
-               <note>This cookbook was published as a 48-page oblong booklet. It was created collectively by members of the Young Women’s Christian Association at the University of Washington and reflects student culinary culture during the 1920s.</note>
+               <author>Young Women's Christian Association</author>
+               <title>Kollege Kookery Kinks</title>
+               <publisher>University of Washington</publisher>
+               <pubPlace>Seattle</pubPlace>
+               <date>1920</date>
             </bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <p>In preparing this digital edition, we made minor normalization choices. Specifically, we regularized capitalization (e.g., names and ingredients) and merged line-broken phrases into complete sentences. 
-            We preserved original spelling and punctuation wherever possible, unless doing so obscured meaning or readability.</p>
+         <editorialDecl>
+            <p>This edition presents a digitized selection from <title>Kollege Kookery
+               Kinks</title>, a 1920s cookbook published by the Young Women’s Christian Association
+               in Seattle. Our goal is to make a portion of this text accessible to contemporary
+               readers through a faithful yet readable diplomatic transcription.</p>
+
+            <p>We preserved much of the original formatting and content but normalized some visual
+               aspects to improve clarity. Specifically, we regularized capitalization (e.g., names
+               and ingredients), merged short lines into full paragraphs or complete sentences, and
+               standardized inconsistencies in layout. Original spelling and punctuation were
+               retained unless doing so obscured meaning or readability.</p>
+
+            <p>This edition focuses on two sections of the original volume, “Dainty Desserts” and
+               “Cakes”, spanning pages 30 to 37.</p>
+         </editorialDecl>
       </encodingDesc>
    </teiHeader>
    <text>
+      <front>
+         <div type="editorial_intro">
+            <p>Kollege Kookery Kinks is a quirky, playful cookbook produced by <ref type="note"
+                  target="#n6">the Young Women’s Christian Association (YWCA) at the University of
+                  Washington (UW)</ref>, published in 1920. It provides an array of recipes with
+               practical tips and instructions for simple meals. This text was initially meant for
+               the audience of young, collegiate women wanting to learn simple, easy recipes that
+               require no prior cooking experience. This original audience reflects young women's
+               domestic and social lives while blending with the trend of the rise of women in
+               higher education. This cookbook provides simple recipes, but is also a cultural
+               artifact representing the social lives, diets, and collective community of UW women
+               in the early 1900s.</p>
+
+            <p>Our edition of Kollege Kookery Kinks aims to provide readers with a more accessible
+               format by digitizing the text for modern readers. We prioritized preserving the
+               original text’s historical value and authenticity. Therefore, the audience of our
+               edition should be able to glimpse what the early 20th-century cooking methods and
+               diets were like. Readers can analyze and compare these recipes compiled in the 1920s
+               to modern-day recipes and diets. The readers of our edition will primarily target
+               contemporary UW students and can extend, but not limit to, researchers and UW alumni.
+               We hope that making this text digitally accessible broadens the outreach to people
+               outside the limited few who have access to UW’s Special Collections Library.</p>
+
+            <p>Editorial choices that we’ve made were made with the intent of honoring the
+               cookbook’s historical authenticity. We’ve retained the original recipes' spelling,
+               grammar, format, graphics, and additional quotes. Annotations added to the footnotes
+               provide further explanations of outdated terms or references. <ref type="note"
+                  target="#n2">The sections we’ve selected to transcribe are “Dainty Desserts” and
+                  “Cakes”</ref>. This was chosen out of the appeal for the recipes themselves, and
+               to align with the playful tone of the cookbook. Our edition of Kollege Kookery Kinks
+               provides an authentic transcription, making this resource more accessible and
+               user-friendly.</p>
+         </div>
+      </front>
       <body>
          <!-- Chapter: Dainty Desserts-->
          <div type="chapter">
@@ -58,7 +104,7 @@
             <div type="recipe">
                <head xml:id="marshmallow_delight"><hi rend="sc">MARSHMALLOW DELIGHT</hi></head>
                <list>
-                  <item n="1">1 lb. best marshmallows</item>
+                  <item n="1">1 lb. best <ref type="note" target="#n4">marshmallows</ref></item>
                   <item n="2">60 maraschino cherries</item>
                   <item n="3">2. cups chopped nuts</item>
                   <item n="4">1 pint whipping cream</item>
@@ -66,7 +112,8 @@
                </list>
                <p>Beat cream until thick. Cut marshmallows into small pieces with scissors and add
                   to cream. Add cherries and nuts and all juice of cherries. Sweeten to taste.</p>
-               <byline><hi rend="sc"><persName>Mrs. J. Allen Smith</persName>.</hi></byline>
+               <byline><hi rend="sc"><ref type="note" target="#n3"><persName>Mrs. J. Allen
+                           Smith</persName></ref>.</hi></byline>
             </div>
 
             <div type="recipe">
@@ -94,9 +141,10 @@
             <div type="recipe">
                <head xml:id="fresh_fruit_mousse"><hi rend="sc">FRESH FRUIT MOUSSE</hi></head>
                <p>Crush a dozen and a half ripe peaches and sweeten. Whip one quart of cream and add
-                  to the fruit. Flavor with vanilla. Put the mixture in a mould and pack with
-                  cracked ice and salt. Change the packing three times and at the end of four hours
-                  the mousse will be frozen. Any kind of fresh fruit may be substituted.</p>
+                  to the fruit. Flavor with vanilla. <ref type="note" target="#n9">Put the mixture
+                     in a mould and pack with cracked ice and salt</ref>. Change the packing three
+                  times and at the end of four hours the mousse will be frozen. Any kind of fresh
+                  fruit may be substituted.</p>
                <byline><hi rend="sc"><persName>Elizabeth Daulton</persName>.</hi></byline>
             </div>
 
@@ -111,7 +159,7 @@
                <head xml:id="branberry_tarts"><hi rend="sc">BRANBERRY TARTS</hi></head>
                <list>
                   <item n="1">1 cup raisins, ground fine</item>
-                  <item n="2">1 milk cracker, ground fine</item>
+                  <item n="2">1 <ref type="note" target="#n5">milk cracker</ref>, ground fine</item>
                   <item n="3">1 lemon, juice and peeling</item>
                   <item n="4">1 cup sugar</item>
                   <item n="5">Butter size of an egg</item>
@@ -124,9 +172,10 @@
 
             <div type="recipe">
                <head xml:id="chocolate_puffs"><hi rend="sc">CHOCOLATE PUFFS</hi></head>
-               <p>Beat white of egg until very light; add confectioner's sugar and cocoa until a
-                  good paste. Add pinch of salt and vanilla to taste. Mould into little balls, roll
-                  in granulated sugar and place in oven for three minutes.</p>
+               <p><ref type="note" target="#n10">Beat white of egg</ref> until very light; add
+                  confectioner's sugar and cocoa until a good paste. Add pinch of salt and vanilla
+                  to taste. Mould into little balls, roll in granulated sugar and place in oven for
+                  three minutes.</p>
             </div>
 
             <pb n="32"/>
@@ -137,7 +186,7 @@
                   <item n="2">2 cups water</item>
                   <item n="3">2 rounding tsp. cornstarch</item>
                   <item n="4">2 tsp. vanilla</item>
-                  <item n="5">½ cup nut meats</item>
+                  <item n="5">½ cup <ref type="note" target="#n6">nut meats</ref></item>
                </list>
                <p>Dissolve sugar in water and bring to a boil. Add cornstarch dissolved in a little
                   water; boil three minutes (or until clear). Remove from fire, add vanilla and nuts
@@ -169,7 +218,7 @@
                   <item n="5">3 sq. melted chocolate</item>
                   <item n="6">2 egg yolks</item>
                   <item n="7">½ cup butter</item>
-                  <item n="8">1 tsp. Soda</item>
+                  <item n="8">1 tsp. <ref type="note" target="#n7">Soda</ref></item>
                </list>
                <p>Make a batter of these ingredients and bake in hot buttered muffin pans. Serve hot
                   with whipped cream. If cream is not available serve milk sauce with individual
@@ -185,8 +234,8 @@
                   <item n="4">1tbsp. butter</item>
                </list>
                <pb n="33"/>
-               <p>Mix ½ cup molasses and ½ cup sweet milk. Steam 1 or 2 hours. Serve with orange
-                  sauce.</p>
+               <p>Mix ½ cup molasses and ½ cup <ref type="note" target="#n8">sweet milk</ref>. Steam
+                  1 or 2 hours. Serve with orange sauce.</p>
                <list>
                   <item n="1">1 tbsp. butter</item>
                   <item n="2">2 tbsp. flour</item>
@@ -276,7 +325,8 @@
             </div>
 
             <div type="recipe">
-               <head xml:id="custard_souffle_fruit_sauce"><hi rend="sc">CUSTARD SOUFFLE (Fruit Sauce)</hi></head>
+               <head xml:id="custard_souffle_fruit_sauce"><hi rend="sc">CUSTARD SOUFFLE (Fruit
+                     Sauce)</hi></head>
                <list>
                   <item n="1">3 teaspoons butter</item>
                   <item n="2">3 teaspoons flour</item>
@@ -299,7 +349,8 @@
          <!-- Chapter: Cakes -->
          <div type="chapter">
             <head>Cakes</head>
-            <quote>"The last taste of sweets is sweetest last." — <persName>Shakespeare</persName></quote>
+            <quote>"The last taste of sweets is sweetest last." —
+               <persName>Shakespeare</persName></quote>
             <!-- Flower icon -->
             <figure type="ornament" place="inline">
                <figDesc>A floral ornament</figDesc>
@@ -481,7 +532,8 @@
             </div>
 
             <div type="recipe">
-               <head xml:id="spice_cakes_with_dates_and_nuts"><hi rend="sc">SPICE CAKES (With Dates and Nuts)</hi></head>
+               <head xml:id="spice_cakes_with_dates_and_nuts"><hi rend="sc">SPICE CAKES (With Dates
+                     and Nuts)</hi></head>
                <list>
                   <item n="1">1 ½ cups flour</item>
                   <item n="2">1 cup dates, cut up</item>
@@ -564,5 +616,98 @@
             </div>
          </div>
       </body>
+
+      <back>
+         <div type="endnotes">
+            <note xml:id="n1">The University of Washington Young Women’s Christian Association
+               (1895-1996) was founded in 1895 by Ella Chamberlain, the head of the UW English
+               department. It was the first women's organization on campus, and initially served as
+               a religious organization that offered Bible study, devotional gatherings, and
+               missionary work, including teaching English to Japanese immigrants in the 1910s. Over
+               the years, the organization evolved from a religious group to a feminist organization
+               that is committed to women’s health, rights, employment, racial justice, LGBTQ+
+               support, and freedom of speech. <ref type="bibl" target="#ywca1930">See YWCA
+                  records</ref>. </note>
+
+            <note xml:id="n2">Our text focuses on the "Dainty Desserts and Cakes" section of Kollege
+               Kookery Kinks, which often features recipes that require baking. In the 1920s,
+               electric ovens became increasingly common and revolutionized home baking by making it
+               more accessible and efficient. Unlike traditional wood or coal-fired ovens, electric
+               ovens offered precise temperature control and consistent heat distribution. Today’s
+               readers of this cookbook can easily follow the baking instructions using a modern
+               electric oven. <ref type="bibl" target="#grove">See Grove</ref>. </note>
+
+            <note xml:id="n3">MRS. J. ALLEN SMITH: The wife of J. Allen Smith. J. Allen Smith
+               (1860–1924) was an important figure in the early development of the University of
+               Washington's political science and economics programs, Smith Hall was named in his
+               honor. It was difficult to find information by searching the contributor’s name, but
+               the example of Mrs. J. Allen Smith shows that both students and wives of faculty
+               members contributed to this cookbook. <ref type="bibl" target="#aswt2014">See Arts
+                  &amp; Sciences Web Team</ref>. </note>
+
+            <note xml:id="n4">Best Marshmallows= Marshmallow</note>
+            <note xml:id="n5">Milk Cracker = Cracker</note>
+            <note xml:id="n6">Nut Meat = Nut </note>
+            <note xml:id="n7">Soda = Baking Soda</note>
+            <note xml:id="n8">Sweet Milk = Milk</note>
+            <note xml:id="n9">Today, however, we would typically use a freezer to chill the
+               mousse.</note>
+            <note xml:id="n10">The receipts instruct stirring or beating eggs or cream by hand, but
+               today we could use electric mixers to mix these ingredients. </note>
+
+         </div>
+
+         <div type="bibliography">
+            <listBibl>
+               <bibl xml:id="aswt2014">
+                  <author>Arts &amp; Sciences Web Team</author>
+                  <date when="2014-05-14">2014, May 14</date>
+                  <title level="a">Political science: An inauspicious beginning</title>
+                  <publisher>University of Washington Department of Political Science</publisher>
+                  <ptr
+                     target="https://www.polisci.washington.edu/news/2014/05/14/political-science-inauspicious-beginning"
+                  />
+               </bibl>
+
+               <bibl xml:id="ferguson2012">
+                  <author>
+                     <surname>Ferguson</surname>, <forename>K.</forename>
+                  </author>
+                  <date when="2012">2012</date>
+                  <title level="a">Intensifying Taste, Intensifying Identity: Collectivity through
+                     Community Cookbooks</title>
+                  <title level="j">Signs: Journal of Women in Culture and Society</title>
+                  <biblScope unit="volume">37</biblScope>
+                  <biblScope unit="issue">3</biblScope>
+                  <biblScope unit="page">695–717</biblScope>
+                  <idno type="DOI">10.1086/662697</idno>
+                  <ptr target="https://doi.org/10.1086/662697"/>
+               </bibl>
+
+               <bibl xml:id="grove">
+                  <author>
+                     <surname>Grove</surname>, <forename>S.</forename>
+                  </author>
+                  <date n="n.d.">n.d.</date>
+                  <title level="a">Baking through time: Exploring the fascinating 19th century
+                     ovens</title>
+                  <publisher>19th Century</publisher>
+                  <note>Retrieved May 18, 2025</note>
+                  <ptr target="https://19thcentury.us/19th-century-oven/"/>
+               </bibl>
+
+               <bibl xml:id="ywca1930">
+                  <author>Young Women&apos;s Christian Association (University of
+                     Washington)</author>
+                  <date from="1903" to="1982">1903–1982</date>
+                  <title level="m">Young Women&apos;s Christian Association (University of
+                     Washington) records</title>
+                  <idno type="collection">Collection No. 1930</idno>
+                  <publisher>University of Washington Libraries, Special Collections</publisher>
+                  <ptr target="https://archiveswest.orbiscascade.org/ark:/80444/xv26006"/>
+               </bibl>
+            </listBibl>
+         </div>
+      </back>
    </text>
 </TEI>
