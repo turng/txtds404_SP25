@@ -22,20 +22,22 @@
             <titlePart> ... </titlePart>
          </titlePage>
          <div type="intro">
-            <p>Charles Dickens is one of the most well-known English authors, who had a diverse
-               writing career as a reporter, editor and essayist. He produced 14 novels, most of
-               which were published in serial editions. This included a 20-month serialization of
-               Bleak House published by Bradbury and Evans with illustrations by Hablot Knight
-               Browne (also known as "Phiz"). The story of Bleak House follows the course of a legal
-               dispute in the British Court of Chancery, as the Jarndyce family waits over
-               generations to receive an inheritance they believe they deserve. The story is a
-               commentary on the convoluted legal system in Britain, and the corruption inherent in
-               it. </p>
+            <p><name type="person" ref="dickens"><forname>Charles</forname><surname>Dickens</surname></name> 
+	       is one of the most well-known English authors, who had a diverse writing career as a reporter, 
+	       editor and essayist. He produced 14 novels, most of which were published in serial editions. 
+	       This included a 20-month serialization of Bleak House published by Bradbury and Evans with 
+	       illustrations by <name type="person" ref="browne"><forename type="first">Hablot</forename> 
+	       <forename type="middle">Knight</forename> <surname>Browne</surname> </name> (also known as "Phiz").
+	       The story of Bleak House follows the course of a legal dispute in the British Court of Chancery, 
+	       as the Jarndyce family waits over generations to receive an inheritance they believe they deserve.
+               The story is a commentary on the convoluted legal system in Britain, and the corruption inherent 
+	       in it. </p>
             <p>Thanks to the serial format, Bleak House reached a wide range of audiences. The
                critical perspective towards the legal system in Bleak House would have appealed to a
                more educated population. Furthermore, the relatively afforable installments, public
                readings, and library lendings would allow the working class to access the novel.
-               Eventually, Dicken's work would achieve a global audience.</p>
+               Eventually, <name type="person"><surname>Dicken<surname></name>'s work would achieve a 
+	       global audience.</p>
          </div>
          <div type="preface">
             <p>Through this edition, we are interested in examining the intertextuality between
@@ -63,6 +65,9 @@
          <div type="endnotes">
             <note xml:id="n1">The novel features the fictional case, Jarndyce and Jarndyce.</note>
             <note xml:id="n2">Royal seal of the United Kingdom.</note>
+	<div type="characters">
+		<note></note>
+	</div>
          </div>
          <div type="biblio">
             <listBibl>
@@ -77,9 +82,35 @@
                   <title ref="https://www.poetryfoundation.org/poets/charles-dickens">Poetry
                      Foundation</title>
                </bibl>
-
             </listBibl>
          </div>
+	<div type="index">
+        <listPerson type="real">
+           <person xml:id="dickens">
+              <persName>
+                 <surname type="first">Charles</surname>
+		 <surname type="middle">Knight</surname>    
+                 <forename>Dickens</forename>
+              </persName>
+              <note>
+                 <p> He was one of the most well-known English authors, who had a diverse writing 
+		career as a reporter, editor and essayist.</p>
+              </note>
+           </person>
+        </listPerson>
+
+	<listPerson type="real">
+           <person xml:id="browne">
+              <persName>
+                 <surname>Hablot</surname>
+                 <forename>Browne</forename>
+              </persName>
+              <note>
+                 <p>An illustrator for Bradbury and Evans. His nickname is "Phiz."</p>
+              </note>
+           </person>
+        </listPerson>
+     </div>
       </back>
    </text>
 </TEI>
