@@ -471,7 +471,8 @@
             </note>
             <note xml:id="n3">The Golden Pippin apple were widely avaible in the 18th century,
                however today they are harder to find, usually being grown in backyards and
-               occasionally sold at farmer's markets. </note>
+               occasionally sold at farmer's markets. <ref type="biblio">See source 6</ref>
+            </note>
             <note>....</note>
          </div>
          <div type="bibliography">
@@ -490,6 +491,8 @@
                   2025, www.merriam-webster.com/dictionary/ne%20plus%20ultra. </bibl>
                <bibl xml:id="source5"> “Orange Pippin.” Apple - Esopus Spitzenburg - Tasting Notes,
                   Identification, Reviews, 18 July 2022. </bibl>
+               <bibl xml:id="source6"> “Golden Pippin.” Brighton Permaculture Trust,
+                  brightonpermaculture.org.uk/golden-pippin/. Accessed 19 May 2025. </bibl>
             </listBibl>
          </div>
       </back>
