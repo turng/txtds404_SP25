@@ -50,8 +50,8 @@
    </teiHeader>
    <text>
       <body>
-         <p>Some text here.</p>
-         <p>More text here.</p>
+         <p>TEXT.</p>
+         <p>TEXT.</p>
       </body>
    </text>
 </TEI>
