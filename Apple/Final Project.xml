@@ -80,7 +80,7 @@
             <head rend="smallcaps">115. Pommes Au Naturel.</head>
             <p>The Evil One, who first offered apples to our universal mother, exemplified his
                serpent-like sapience by tempting her to try them off the tree: this, notwithstanding
-               the enthusiasm we entertain for the culinary art, is unquestionably the ne plus ultra
+               the enthusiasm we entertain for the culinary art, is unquestionably the <note place="foot" n="1" rend="italic">ne plus ultra</note>
                of epicurism in apple-eating. </p>
             <p>The learned tell us that apples, by keeping, become mellow; that time turns their
                natural acids into sugar; but there is a season for the perfection of apples, as for
@@ -457,7 +457,7 @@
       </body>
       <back>
          <div type="endnotes">
-            <note>...</note>
+            <note xml:id="n1">This term can be defined as "the most prodound degree of a quality or state" <ref type="biblio">See source 4</ref></note>
             <note>....</note>
             <note>...</note>
             <note>....</note>
@@ -473,6 +473,9 @@
                <bibl xml:id="source3">
                   <title>Gender and the Historian</title>
                </bibl>
+               <bible xml:id="source4">
+                  “Merriam-Webster Dictionary.” Merriam-Webster.com, 12 Apr. 2025, www.merriam-webster.com/dictionary/ne%20plus%20ultra.
+               </bible>
             </listBibl>
          </div>
       </back>
