@@ -55,13 +55,13 @@
          <div type="editorial_intro">
             <p>We chose to “How to Cook Potatoes, Apples, Eggs, Fish, Four Hundred Different Ways”
                by Georgiana Hill, because we were interested in the history and how women used to
-               use cookbooks as a form of expression. <note place="foot" n="3">Georgiana Hill was a Victorian-era cookery
-               writer, historian, and activist</note>. While Georgiana Hill’s life story is not known
+               use cookbooks as a form of expression. Georgiana Hill was a Victorian-era cookery
+               writer, historian, and activist. While Georgiana Hill’s life story is not known
                extensively, her impact is illustrated in at least 21 known works, often about
                cooking, historical dress, and the life of women in Victorian England. For the book
                we are working on, the casual composition of the text and recipes illustrated how
-               <note place ="foot" n="4">Georgiana Hill wrote this cookbook to reach out to other women and build a sense of
-               community through the knowledge of cooking</note>.</p>
+               Georgiana Hill wrote this cookbook to reach out to other women and build a sense of
+               community through the knowledge of cooking.</p>
             <p>Considering the historical context, we decided to leave the text as untouched as
                possible. Changing historical spelling would change the sense of time of the text,
                and altering the casual form of the recipes would hide what we perceive as Hill’s
@@ -166,11 +166,12 @@
          <div type="recipe" n="121">
             <head rend="smallcaps">121. Pippin Tarts.</head>
             <p>Take three large oranges, peel them very thin, boil the peel until it becomes soft,
-               then take it up and chop it small; pare and core four dozen golden pippins, boil them
-               with only enough water to cover them; when nearly done, add a pound and a half of
-               brown sugar, the shred orange peel, and the juice of the oranges; boil it all
-               together until smooth, and let it get cold; line your patty-pans with thin paste, and
-               fill up each with the fruit. These tarts can be eaten warm or cold.</p>
+               then take it up and chop it small; pare and core four dozen <note place="foot" n="3"
+                  >golden pippins</note>, boil them with only enough water to cover them; when
+               nearly done, add a pound and a half of brown sugar, the shred orange peel, and the
+               juice of the oranges; boil it all together until smooth, and let it get cold; line
+               your patty-pans with thin paste, and fill up each with the fruit. These tarts can be
+               eaten warm or cold.</p>
          </div>
          <div type="recipe" n="122">
             <head rend="smallcaps">122. Gâteau De Pommes.</head>
@@ -462,35 +463,38 @@
       <back>
          <div type="endnotes">
             <note xml:id="n1">This term can be defined as "the most prodound degree of a quality or
-               state" <ref type="biblio" target="source4">See source 4</ref></note>
+               state" <ref type="biblio">See source 4</ref></note>
             <note xml:id="n2">Spitzenbergen apples were very common starting at the end of the 18th
                century and throughout the 19th century, and were found in New York. Since then,
                these apples have become much less common in stores, but are avaible in nurseries.
-                  <ref type="biblio" target="source5">See source 5</ref>
+                  <ref type="biblio">See source 5</ref>
             </note>
-             <note xml:id="n3">The Golden Pippin apple were widely avaible in the 18th century,
-                 however today they are harder to find, usually being grown in backyards and
-                 occasionally sold at farmer's markets. <ref type="biblio">See source 6</ref>
-             </note>
-             <note>....</note>
+            <note xml:id="n3">The Golden Pippin apple were widely avaible in the 18th century,
+               however today they are harder to find, usually being grown in backyards and
+               occasionally sold at farmer's markets. <ref type="biblio">See source 6</ref>
+            </note>
+            <note>....</note>
          </div>
          <div type="bibliography">
             <listBibl>
                <bibl xml:id="source1">
-                  <title>From Recipe to Biography: Georgiana Hill's life in cooking</title>
-               </bibl>
+                  <author>Rich, Rachel.</author>
+                  <title>From Recipe to Biography: Georgiana Hill's life in cooking.</title> The
+                  Recipes Project, May 1, 2014.</bibl>
                <bibl xml:id="source2">
-                  <title>Cookbook Writers and Recipe Readers: Georgiana Hill, Isabella Beaton, and
-                     Victorian domesticity</title>
-               </bibl>
+                  <author>Rich, Rachel.</author>
+                  <title>Cookbook Writers and Recipe Readers: Georgiana Hill, Isabella Beeton and
+                     Victorian Domesticity</title> Journal of Victorian Culture, Volume 25, Issue 3,
+                  July 2020, Pages 408–423, </bibl>
                <bibl xml:id="source3">
-                  <title>Gender and the Historian</title>
-               </bibl>
+                  <author>Alberti, Johanna</author>.<title>Gender and the Historian</title>. Pearson
+                  Education Limited, New York, 2002.</bibl>
                <bibl xml:id="source4"> “Merriam-Webster Dictionary.” Merriam-Webster.com, 12 Apr.
-                  2025, www.merriam-webster.com/dictionary/ne%20plus%20ultra. </bibl>
+                  2025.</bibl>
                <bibl xml:id="source5"> “Orange Pippin.” Apple - Esopus Spitzenburg - Tasting Notes,
-                  Identification, Reviews, 18 July 2022.
-                  </bibl>
+                  Identification, Reviews, 18 July 2022.</bibl>
+               <bibl xml:id="source6"> “Golden Pippin.” Brighton Permaculture Trust,
+                  brightonpermaculture.org.uk/golden-pippin/. Accessed 19 May 2025.</bibl>
             </listBibl>
          </div>
       </back>
