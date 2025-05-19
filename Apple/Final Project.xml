@@ -166,11 +166,12 @@
          <div type="recipe" n="121">
             <head rend="smallcaps">121. Pippin Tarts.</head>
             <p>Take three large oranges, peel them very thin, boil the peel until it becomes soft,
-               then take it up and chop it small; pare and core four dozen golden pippins, boil them
-               with only enough water to cover them; when nearly done, add a pound and a half of
-               brown sugar, the shred orange peel, and the juice of the oranges; boil it all
-               together until smooth, and let it get cold; line your patty-pans with thin paste, and
-               fill up each with the fruit. These tarts can be eaten warm or cold.</p>
+               then take it up and chop it small; pare and core four dozen <note place="foot" n="3"
+                  >golden pippins</note>, boil them with only enough water to cover them; when
+               nearly done, add a pound and a half of brown sugar, the shred orange peel, and the
+               juice of the oranges; boil it all together until smooth, and let it get cold; line
+               your patty-pans with thin paste, and fill up each with the fruit. These tarts can be
+               eaten warm or cold.</p>
          </div>
          <div type="recipe" n="122">
             <head rend="smallcaps">122. Gâteau De Pommes.</head>
@@ -468,7 +469,9 @@
                these apples have become much less common in stores, but are avaible in nurseries.
                   <ref type="biblio">See source 5</ref>
             </note>
-            <note>...</note>
+            <note xml:id="n3">The Golden Pippin apple were widely avaible in the 18th century,
+               however today they are harder to find, usually being grown in backyards and
+               occasionally sold at farmer's markets. </note>
             <note>....</note>
          </div>
          <div type="bibliography">
@@ -486,8 +489,7 @@
                <bibl xml:id="source4"> “Merriam-Webster Dictionary.” Merriam-Webster.com, 12 Apr.
                   2025, www.merriam-webster.com/dictionary/ne%20plus%20ultra. </bibl>
                <bibl xml:id="source5"> “Orange Pippin.” Apple - Esopus Spitzenburg - Tasting Notes,
-                  Identification, Reviews, 18 July 2022.
-                  </bibl>
+                  Identification, Reviews, 18 July 2022. </bibl>
             </listBibl>
          </div>
       </back>
