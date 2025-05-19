@@ -455,5 +455,18 @@
                cold.</p>
          </div>
       </body>
+      <back>
+         <div type="bibliography">
+            <bibl xml:id="source1">
+               <title>From Recipe to Biography: Georgiana Hill's life in cooking</title>
+            </bibl>
+            <bibl xml:id="source2">
+               <title>Cookbook Writers and Recipe Readers: Georgiana Hill, Isabella Beaton, and Victorian domesticity</title>
+            </bibl>
+            <bibl xml:id="source3">
+               <title>Gender and the Historian</title>
+            </bibl>
+         </div>
+      </back>
    </text>
 </TEI>
