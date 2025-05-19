@@ -46,7 +46,31 @@
    </teiHeader>
    <text>
       <front>
-         <!-- title page, preface -->
+         <titlePage>
+            <titlePart>...</titlePart>
+         </titlePage>
+         <div type="editorial_intro">
+            <p>We chose to “How to Cook Potatoes, Apples, Eggs, Fish, Four Hundred Different Ways”
+               by Georgiana Hill, because we were interested in the history and how women used to
+               use cookbooks as a form of expression. Georgiana Hill was a Victorian-era cookery
+               writer, historian, and activist. While Georgiana Hill’s life story is not known
+               extensively, her impact is illustrated in at least 21 known works, often about
+               cooking, historical dress, and the life of women in Victorian England. For the book
+               we are working on, the casual composition of the text and recipes illustrated how
+               Georgiana Hill wrote this cookbook to reach out to other women and build a sense of
+               community through the knowledge of cooking.</p>
+            <p>Considering the historical context, we decided to leave the text as untouched as
+               possible. Changing historical spelling would change the sense of time of the text,
+               and altering the casual form of the recipes would hide what we perceive as Hill’s
+               intention for the text.</p>
+            <p>The main editorial decision we made was to preserve this text as closely to its
+               original form. The only edits made were changes to misspellings (i.e. editing powered
+               sugar to powdered sugar), but not changes to historical spellings. (i.e. editing
+               mould to mold).</p>
+         </div>
+         <div type="preface">
+            <p/>
+         </div>
       </front>
       <body>
          <div type="chaptertitle">
@@ -193,16 +217,20 @@
                with the inside of the apple upwards. Put into each orifice a spoonful of good thick
                cream, and strew some pounded loaf sugar over the bread and fruit. Place it in a slow
                oven, and renew the cream and sugar as they dissolve. When done, arrange the lozenges
-               of bread, with the apples upon them, in a clean dish, pouring over <choice><sic>shem</sic><corr>them</corr></choice> any juice
-               that may remain unabsorbed by the crusts. Serve them warm.</p>
+               of bread, with the apples upon them, in a clean dish, pouring over <choice>
+                  <sic>shem</sic>
+                  <corr>them</corr>
+               </choice> any juice that may remain unabsorbed by the crusts. Serve them warm.</p>
          </div>
          <div type="recipe" n="128">
             <head rend="smallcaps">128. Apple Fritters.</head>
-            <p>Make a thick batter with six well-beaten eggs, a pint of milk, a little <choice><sic>powered</sic><corr>powdered</corr></choice>
-               nutmeg, a glass of brandy, and fine flour enough to make it of the requisite
-               consistency. Slice some good dressing apples into rounds, and dip each piece into the
-               batter; then fry, in very hot lard, over a quick fire. The lard should smoke before
-               the fritters are put in, otherwise they will not be of a good color.</p>
+            <p>Make a thick batter with six well-beaten eggs, a pint of milk, a little <choice>
+                  <sic>powered</sic>
+                  <corr>powdered</corr>
+               </choice> nutmeg, a glass of brandy, and fine flour enough to make it of the
+               requisite consistency. Slice some good dressing apples into rounds, and dip each
+               piece into the batter; then fry, in very hot lard, over a quick fire. The lard should
+               smoke before the fritters are put in, otherwise they will not be of a good color.</p>
          </div>
          <div type="recipe" n="129">
             <head rend="smallcaps">129. Gélatine De Pommes.</head>
@@ -231,9 +259,11 @@
                colander; then sweeten them to taste, and stir in a little powdered cinnamon; put the
                fruit into a deep dish, and when quite cold, pour rich custard over it. Whip up the
                whites of the eggs remaining from the custard, and when they form a stiff snow, lay
-               it daintily in small pieces upon the surface of the custard; sift some
-               finely-<choice><sic>powered</sic><corr>powdered</corr></choice> loaf sugar over it, and put into a moderate oven for a quarter of an
-               hour or twenty minutes. This is equally good hot or cold.</p>
+               it daintily in small pieces upon the surface of the custard; sift some finely-<choice>
+                  <sic>powered</sic>
+                  <corr>powdered</corr>
+               </choice> loaf sugar over it, and put into a moderate oven for a quarter of an hour
+               or twenty minutes. This is equally good hot or cold.</p>
          </div>
          <div type="recipe" n="133">
             <head rend="smallcaps">133. Stewed Golden Pippins.</head>
@@ -258,8 +288,11 @@
             <p>Take some small codlins, wrap each in a vine leaf, and pack them closely in a
                stewpan; pour in as much cold water as will barely cover them, put them on the fire
                and let them simmer very slowly until sufficiently tender to take their skins off
-               when cold enough to <choice><sic>do do</sic><corr>do</corr></choice> so. Well powder them over with sifted white sugar, and
-               serve upon cream or with custards in glasses.</p>
+               when cold enough to <choice>
+                  <sic>do do</sic>
+                  <corr>do</corr>
+               </choice> so. Well powder them over with sifted white sugar, and serve upon cream or
+               with custards in glasses.</p>
          </div>
          <div type="recipe" n="136">
             <head rend="smallcaps">136. Boiled Apple Dumplings.</head>
@@ -345,10 +378,13 @@
                coarse needle, stew some sugar over, and bake them in a slack oven. While they are
                doing, boil half a pound of rice in a sufficiency of water, shaking it frequently.
                When nearly done, stir in three ounces of fresh butter, four ounces of white sugar,
-               and a little <choice><sic>powered</sic><corr>powdered</corr></choice> cinnamon. Have ready a strong infusion of saffron, which strain
-               into the rice. Take it up, and arrange the apples upon the rice in a deep dish;
-               garnish it with citron chips, and, if not quite warm enough to serve, put it into the
-               oven for a few moments. </p>
+               and a little <choice>
+                  <sic>powered</sic>
+                  <corr>powdered</corr>
+               </choice> cinnamon. Have ready a strong infusion of saffron, which strain into the
+               rice. Take it up, and arrange the apples upon the rice in a deep dish; garnish it
+               with citron chips, and, if not quite warm enough to serve, put it into the oven for a
+               few moments. </p>
          </div>
          <div type="recipe" n="146">
             <head rend="smallcaps">146. Apple Syrup.</head>
