@@ -55,13 +55,13 @@
          <div type="editorial_intro">
             <p>We chose to “How to Cook Potatoes, Apples, Eggs, Fish, Four Hundred Different Ways”
                by Georgiana Hill, because we were interested in the history and how women used to
-               use cookbooks as a form of expression. Georgiana Hill was a Victorian-era cookery
-               writer, historian, and activist. While Georgiana Hill’s life story is not known
+               use cookbooks as a form of expression. <note place="foot" n="3">Georgiana Hill was a Victorian-era cookery
+               writer, historian, and activist</note>. While Georgiana Hill’s life story is not known
                extensively, her impact is illustrated in at least 21 known works, often about
                cooking, historical dress, and the life of women in Victorian England. For the book
                we are working on, the casual composition of the text and recipes illustrated how
-               Georgiana Hill wrote this cookbook to reach out to other women and build a sense of
-               community through the knowledge of cooking.</p>
+               <note place ="foot" n="4">Georgiana Hill wrote this cookbook to reach out to other women and build a sense of
+               community through the knowledge of cooking</note>.</p>
             <p>Considering the historical context, we decided to leave the text as untouched as
                possible. Changing historical spelling would change the sense of time of the text,
                and altering the casual form of the recipes would hide what we perceive as Hill’s
@@ -462,14 +462,14 @@
       <back>
          <div type="endnotes">
             <note xml:id="n1">This term can be defined as "the most prodound degree of a quality or
-               state" <ref type="biblio">See source 4</ref></note>
+               state" <ref type="biblio" target="source4">See source 4</ref></note>
             <note xml:id="n2">Spitzenbergen apples were very common starting at the end of the 18th
                century and throughout the 19th century, and were found in New York. Since then,
                these apples have become much less common in stores, but are avaible in nurseries.
-                  <ref type="biblio">See source 5</ref>
+                  <ref type="biblio" target="source5">See source 5</ref>
             </note>
-            <note>...</note>
-            <note>....</note>
+            <note xml:id="n3">Georgiana Hill was a cookery writer, historian, and suffragist of the Victorian era. <ref type = "biblio" target="source1" target = "source3">See sources 1 and 3.</ref> </note>
+            <note xml:id="n4">Looking through Georgiana Hill's works, she not only reached out to many women with her writing, but she also extended the role of women as writers. She often presented herself as a gastronomer, often a role held by men, rather than an educator in cooking/kitchen management.<ref type="biblio" target="source2">See source 2</ref></note>
          </div>
          <div type="bibliography">
             <listBibl>
