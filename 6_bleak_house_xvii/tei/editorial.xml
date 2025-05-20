@@ -70,8 +70,10 @@
          </div>
          <div type="biblio">
             <listBibl>
-               <bibl xml:id="Wiki">
-                  <title ref="https://en.wikipedia.org/wiki/Bleak_House">Wikipedia</title>
+               <bibl xml:id="bleakhouse_wiki"><author>Wikipedia Contributors</author>. “<title>Bleak House</title>.” 
+		       Wikipedia, <publisher>Wikimedia Foundation</publisher>, <date>1 Dec. 2019</date>, 
+		       <ref target="https://en.wikipedia.org/wiki/Bleak_House">en.wikipedia.org/wiki/Bleak_House.</ref>
+                  <!--<title ref="https://en.wikipedia.org/wiki/Bleak_House">Wikipedia</title>-->
                </bibl>
                <bibl xml:id="University_of_New_England">
                   <title ref="http://esthersnarrative.une.edu.au/themes-1/">University of New
