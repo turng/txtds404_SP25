@@ -6,15 +6,64 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Title</title>
+            <title>The Hound of the Baskervilles</title>
+            <author>Arthur Conan Doyle</author>
+            <editor>Em Backstrom</editor>
+            <editor>Blue Jordan</editor>
+            <editor>Rowan Herron</editor>
          </titleStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <p>We plan to publish this edition of The Hound of the Baskervilles in June 2025.</p>
          </publicationStmt>
          <sourceDesc>
-            <p>Information about the source</p>
+            <bibl>
+               <series>
+                  <title>The Strand Magazine</title>
+                  <biblScope unit="volume">22</biblScope>
+               </series>
+               <author>Arthur Conan Doyle</author>
+               <title>The Hound of the Baskervilles></title>
+               <publisher>George Newnes LTD.</publisher>
+               <pubPlace>
+                  <address>
+                     <addrLine>George Newnes LTD.</addrLine>
+                     <addrLine>7, 8, 9, 10, 11, &amp; 12, Southampton Street,</addrLine>
+                     <addrLine>and Exeter Street, London</addrLine>
+                  </address>
+               </pubPlace>
+               <date when="1901-08">August 1901</date>
+               <availability>
+                  <p>Held by UW Special Collections under the call number 051 SM v.22.</p>
+               </availability>
+            </bibl>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>This edition was created as part of TXTDS 404 at the University of Washington over
+               the course of Spring Quarter 2025. Our first goal with this digital edition is to
+               reproduce the copytext as close to the original as possible, including text itself as
+               well as form, format, and illustrations, using the tools of digital editing such as
+               XML, TEI, HTML, and CSS. Our second goal is to include interesting contextual
+               information to the story to enrich and contextualize a reader's experience by
+               connecting readers with Doyle’s history with The Strand and also to the geographic
+               elements in the story and its mediation. We are also interested in how historic
+               audiences received and reacted to the story. Our edition, including our HTML and CSS
+               formatting of the TEI encoding, was published online using the Vergil web publishing
+               system.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Our aim with editiorial decisions is to avoid altering the text and its presentation
+               minimally. Original spelling, format, and punctuation is recreated wherever we can. We will
+               normalize certain punctuation that resembles em dashes and dashes but are neither.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2025-05-11">Began creating draft TEI Header</change>
+            <change when="2025-05-12">Finish draft TEI Header</change>
+         </listChange>
+      </revisionDesc>
    </teiHeader>
    <text>
       <front> </front>
@@ -47,7 +96,7 @@
             <p><s>"I think," said I, following as far as I could the methods of my companion,
             "that Dr. Mortimer is a successful elderly medical man, </s>*</p>
             
-            <pb/>126 THE STRAND MAGAZINE 
+            <pb/>126 THE STRAND MAGAZINE
          
          
          
