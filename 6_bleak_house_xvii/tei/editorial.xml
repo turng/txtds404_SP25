@@ -81,6 +81,10 @@
                   <title ref="https://www.poetryfoundation.org/poets/charles-dickens">Poetry
                      Foundation</title>
                </bibl>
+		<bibl xml:id="Gale">
+                  <title ref="https://www.gale.com/intl/essays/amy-j-lloyd-advertising">University
+		      of Cambridge</title>
+               </bibl>
             </listBibl>
          </div>
          <div type="index">
