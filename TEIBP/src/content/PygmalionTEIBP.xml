@@ -21,10 +21,9 @@
       </fileDesc>
    </teiHeader>
    <text>
-      
       <body>
          <head>Pygmalion by George Bernard Shaw</head>
-
+         
          <div type="act" n="1" xml:id="act1">
             <head>Act I</head>
             <stage rend="italics">Covent Garden at 11.15 p.m. Torrents of heavy summer rain. Cab whistles blowing
@@ -35,45 +34,45 @@
                preoccupied with a notebook in which he is writing busily.</stage>
             <stage>[The church clock strikes the first quarter.]</stage>
             <sp>
-               <speaker rend="caps">THE DAUGHTER</speaker>
-               <stage>[in the space between the central pillars, close to the one on her
+               <speaker rend="caps">The Daughter</speaker>
+               <stage rend="italics">[in the space between the central pillars, close to the one on her
                   left]</stage>
                <p>I'm getting chilled to the bone. What can Freddy be doing all this time? He's been
                   gone twenty minutes.</p>
             </sp>
             <sp>
-               <speaker>THE MOTHER</speaker>
-               <stage>[on her daughter's right]</stage>
+               <speaker rend="caps">The Mother</speaker>
+               <stage rend="italics">[on her daughter's right]</stage>
                <p>Not so long. But he ought to have got us a cab by this.</p>
             </sp>
             <sp>
-               <speaker>A BYSTANDER</speaker>
-               <stage>[on the lady's right]</stage>
+               <speaker rend="caps">A Bystander</speaker>
+               <stage rend="italics">[on the lady's right]</stage>
                <p>He won't get no cab not until half-past eleven, missus, when they come back after
                   dropping their theatre fares.</p>
             </sp>
             <sp>
-               <speaker>THE MOTHER</speaker>
+               <speaker rend="caps">The Mother</speaker>
                <p>But we must have a cab. We can't stand here until half-past eleven. It's too
                   bad.</p>
             </sp>
             <sp>
-               <speaker>THE BYSTANDER</speaker>
+               <speaker rend="caps">The Bystander</speaker>
                <p>Well, it ain't my fault, missus.</p>
             </sp>
             <sp>
-               <speaker>THE DAUGHTER</speaker>
+               <speaker rend="caps">The Daughter</speaker>
                <p>If Freddy had a bit of gumption, he would have got one at the theatre door.</p>
             </sp>
             <sp>
-               <speaker>THE MOTHER</speaker>
+               <speaker rend="caps">The Mother</speaker>
                <p>What could he have done, poor boy?</p>
             </sp>
             <sp>
-               <speaker>THE DAUGHTER</speaker>
+               <speaker rend="caps">The Daughter</speaker>
                <p>Other people got cabs. Why couldn't he?</p>
             </sp>
-            <stage>[Freddy rushes in out of the rain from the Southampton Street side, and comes
+            <stage rend="itals">[Freddy rushes in out of the rain from the Southampton Street side, and comes
                between them closing a dripping umbrella. He is a young man of twenty, in evening
                dress, very wet around the ankles.]</stage>
          </div>
