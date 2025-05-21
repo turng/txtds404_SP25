@@ -1,0 +1,42 @@
+# Node stuff#
+node_modules/**
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+#  TEI content #
+################
+/content/a_rondel_syracuse.xml
+/content/rondel.xml
+/content/lcc.xml
+content/c22r (temptative).xml
+content/rvf.xml
+
+
+# Images #
+##########
+images/vat-lat3195-f/
+images/vat-lat3915-f-large/
+doc/
+
+content/c22r.xml
+
+content/c22v-c23r.xml
+
+content/petrarchive.rnc
+
+images/vat-lat3195-f/vat-lat3195-f-001r.jpg
+
+content/c01v.xml
+
+content/c01v.xml
+
+css/petrarchive.css
