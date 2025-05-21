@@ -1558,6 +1558,7 @@ spanGrp {
 speaker {
   font-weight: bold;
   margin-right: 0;
+  text-transform: uppercase;
 }
 specDesc {
   /* NOT SURE, look back on */
