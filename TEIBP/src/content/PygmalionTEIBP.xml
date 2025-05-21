@@ -21,18 +21,7 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <front>
-         <div type="toc">
-            <head>Table of Contents</head>
-            <list>
-               <item corresp="#act1">Act 1</item>
-               <item corresp="#act2">Act 2</item>
-               <item corresp="#act3">Act 3</item>
-               <item corresp="#act4">Act 4</item>
-               <item corresp="#act5">Act 5</item>
-            </list>
-         </div>  
-      </front>
+      
       <body>
          <head>Pygmalion by George Bernard Shaw</head>
 
