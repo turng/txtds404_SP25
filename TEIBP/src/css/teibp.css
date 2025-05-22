@@ -1843,6 +1843,7 @@ html {
   background-color: #EBEBEB;
   color: #292929;
   width: 33em;
+  margin: auto;
 }
 img {
   border: 1px solid #AAA;
