@@ -1266,7 +1266,7 @@ pubPlace {
   /* Empty Rule Set */
 }
 publicationStmt > * {
-  display: none;
+  display: block;
 }
 publicationStmt {
   display: block;
