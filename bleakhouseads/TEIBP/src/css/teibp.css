@@ -1536,7 +1536,7 @@ source {
   margin-bottom: 0;
 }
 sourceDesc {
-  display: none;
+  display: block;
 }
 sp {
   /*empty rule set*/
