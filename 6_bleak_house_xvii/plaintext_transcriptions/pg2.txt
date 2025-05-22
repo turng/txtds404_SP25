@@ -1,0 +1,69 @@
+advertisements. //  all in lowercase caps
+//*two lines under*
+Works by Charles Dickens. // bolded
+// a small line with a diamond in the middle
+Price Ss. 6d. each, neatly bound in cloth, // very tiny under the diamond line
+THE FIRST AND SECOND VOLUMES // all caps
+of // all in lowercase caps
+A CHILD'S HISTORY OF ENGLAND. // bold and all caps
+BY CHARLES KICKENS.
+WITH FRONTISPIECES FROM DRAWINGS BY F. W. TOPHAM.
+corrected and revised from "household words," with a table of dates. // all in lowercase caps
+//three astricks in the same line as line 13
+The History will be completed in Three Volumes. // italics
+// two lines to seperate title ad page
+
+// column on the left
+BLEAK HOUSE. // line 1
+With Illustrations // lowercase caps, line 1
+by Hablot K. Browne. Now // lowercase caps, line 2
+Publishing in // line 2
+Monthly Parts, price 1s. each. (To be completed // line 3
+in Twenty.) // line 4
+
+// line to divide columns
+
+// column on the right
+DOMBEY AND SON. With Forty Illus- // line 1
+trations by // line 2  
+H.K. Brown // lowercase caps, line 2
+Price 21s. in cloth. // line 2
+OLIVER TWIST. With Illustrations // line 3
+by // line 4
+George Cruikshank. // lowercase caps, line 4
+Price 11s. in cloth. // line 4
+PRICTURES FROM ITALY. In fcap. // line 5
+8vo. Price 6s. in cloth.
+
+// line under column
+
+bradbury and evans, 11, bouverie street. // lowercase caps
+
+// two lines to seperate title ad page
+
+In Weekly Numbers, price 2d., or stamped for post, 3d.; in Monthly Parts,
+and in Half-yearly Volumes // italics
+
+HOUSEHOLD WORDS: // big
+A Weekly Journey, conudcted by CHARLES DICKENS.
+designed for the instruction and amusement of all classes of readers, and to assist in
+the discussion of the social questions of the time. // centered, lowercase caps
+
+Six Volumes are published, price 5s. 6d. each, in cloth boards, and are always on sale.
+
+// line
+
+Also, publihsed at the end of every Month, at the same Office, price 2d., or stamped for post, 3d. // italics
+
+THE HOUSEHOLD NARRATIVE OF 
+CURRENT EVENTS ;
+Which being declared, by the Judgement of the Court of Exehequer, a Legal Publication, not coming 
+within the provisions of the Stamp Act, will be regularly continuted and much improved.
+// three astricks
+The First, Second, and Third Volumes, being a Record of the Public Events of 1850, 1851,
+and 1852, may always be had, price 3s. each, neatly bound in cloth. Each Volume con-
+tains a copious index.
+
+// line
+
+OFFICE, 16, WELLINGTON STREET NORTH. Sold by all Booksellers and Newsmen.

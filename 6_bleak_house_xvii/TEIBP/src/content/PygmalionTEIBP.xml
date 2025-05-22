@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<!-- use this processing statement  to link an XML file with a styelsheet: whether CSS or XSLT (adjust the @type value if XSLT: text/xslt)-->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pygmalion</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <tagsDecl>
+            <rendition xml:id="allcaps">text-transform: uppercase;</rendition>
+         </tagsDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Pygmalion by George Bernard Shaw</head>
+         
+         <div type="act" n="1" xml:id="act1">
+            <head>Act I</head>
+            <stage rend="italics">Covent Garden at 11.15 p.m. Torrents of heavy summer rain. Cab whistles blowing
+               frantically in all directions. Pedestrians running for shelter into the market and
+               under the portico of St. Paul's Church, where there are already several people, among
+               them a lady and her daughter in evening dress. They are all peering out gloomily at
+               the rain, except one man with his back turned to the rest, who seems wholly
+               preoccupied with a notebook in which he is writing busily.</stage>
+            <stage>[The church clock strikes the first quarter.]</stage>
+            <sp>
+               <speaker rend="caps">The Daughter</speaker>
+               <stage rend="italics">[in the space between the central pillars, close to the one on her
+                  left]</stage>
+               <p>I'm getting chilled to the bone. What can Freddy be doing all this time? He's been
+                  gone twenty minutes.</p>
+            </sp>
+            <sp>
+               <speaker rendition="#caps">The Mother</speaker>
+               <stage rend="italics">[on her daughter's right]</stage>
+               <p>Not so long. But he ought to have got us a cab by this.</p>
+            </sp>
+            <sp>
+               <speaker rend="caps">A Bystander</speaker>
+               <stage rend="italics">[on the lady's right]</stage>
+               <p>He won't get no cab not until half-past eleven, missus, when they come back after
+                  dropping their theatre fares.</p>
+            </sp>
+            <sp>
+               <speaker rend="caps">The Mother</speaker>
+               <p>But we must have a cab. We can't stand here until half-past eleven. It's too
+                  bad.</p>
+            </sp>
+            <sp>
+               <speaker rend="caps">The Bystander</speaker>
+               <p>Well, it ain't my fault, missus.</p>
+            </sp>
+            <sp>
+               <speaker rend="caps">The Daughter</speaker>
+               <p>If Freddy had a bit of gumption, he would have got one at the theatre door.</p>
+            </sp>
+            <sp>
+               <speaker rend="caps">The Mother</speaker>
+               <p>What could he have done, poor boy?</p>
+            </sp>
+            <sp>
+               <speaker rend="caps">The Daughter</speaker>
+               <p>Other people got cabs. Why couldn't he?</p>
+            </sp>
+            <stage rend="itals">[Freddy rushes in out of the rain from the Southampton Street side, and comes
+               between them closing a dripping umbrella. He is a young man of twenty, in evening
+               dress, very wet around the ankles.]</stage>
+         </div>
+      </body>
+   </text>
+</TEI>

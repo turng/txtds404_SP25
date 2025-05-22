@@ -1,0 +1,61 @@
+//page is blue
+WILLIAM S. BURTON'S // bold
+GENERAL FURNISHING IRONMONGERY WAREHOUSE,
+39, OXFORD STREET,
+(corner of newman street) ; // lowercase capsNos. 1 & 2, Newman Street; and 4 & 5, Perry's Place, London.
+// two lines under
+BATHS AND TOILETTE WARE. // sans, bold
+WILLIAM S. BURTON
+HAS ONE LARGE SHOW ROOM
+Devoted exclusively to the DISPLAY of BATHS and TOILETTE WARE. The stock of each is at once the
+largest, newest, and most varied ever submitted to the Public, and marked at prices proportionate with those
+that have tended to make his establishment the most distinguished in this country. Portable Showers, 7s.,
+Pillar Showers, L2 15s. to £4 15s. ; Nursery, 11s. 6d. to 30s.; Sponging, 14s. to 30s.; Hip, 18s. 6d. to 29s.
+A large assortment of Hot and Cold Plunge, Vapour, and Camp Shower Baths. Toilette Ware in great
+variety, from 10s. 6d. to 45s. the Set of Three.
+
+// two lines
+
+THE BEST SHOW OF IRON BEDSTEADS in the KINGDOM is
+WILLIAM S. BURTON'S.
+
+He has added to his SHOW-ROOMS Two very large ones, which are devoted to the exclusive show of
+IRON and BRASS HEDSTEADS and CHILDREN'S COTS, with appropriate Bedding and Mattresses. Many
+of these are quite new, and all are marked in plain figures. Common Iron Bedsteads, from 16s. 3d; Portable
+Folding Bedsteads from 13s. 6d; Patent Iron Beadsteads, fitted with dove-tail joints and patent sacking, from
+19s. 9d ; and Cots from 21s each. Handsome Ornamental Iron and Brass Bedsteads in great variety, from L3 15s. to L31.
+
+// two lines
+
+NEW FOLDING CHAIR BEDSTEAD.
+WILLIAM S. BURTON
+
+Has pleasure in offering an entirely new and very ingenious WROUGH IRON CHAIR BEDSTEAD, which, //w all caps is lowercase capitalized
+from its being extremely light, durable, and portable (measuring, when folded, 2 ft. 11in. by 2ft. by 8 in 
+deep), and easily and instantaneously convertible from a chair to a bedstead, or *vise versa*, present to
+
+MILITARY OFFICERS AND PARTIES TRAVELLING
+
+an amount of comfort and elegance long desiderated, but hitherto unattainable. Price L2 2s ; complete,
+with best hair mattress and stuffed arms, £3 12s.
+
+// two lines
+
+PAPIER MÂCHÉ AND IRON TEA TRAYS.
+An assortment of TEA TRAYS and WAITERS< wholly unprecedented, whether as to extent, variety, or
+
+// list
+Gothic shape Papier Mâché Trays, per set of three . . . . . . from 20s. 0d. to 10 guineas.
+Ditto, Iron ditto . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . from 15s. 6d. to 4 guineas.
+Convex shape, ditto . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . from 7s 6d.
+
+A large quantity of small Papier Mâché and iron Trays, many of them executed in the highest style of art,
+at about a quarter of their original cost; being odd, or slightly out of condition. These are especially worthy
+the attention of Tavern and Coffee-house Keepers. Round and Gothic Waiters, Cake and Bread Baskets,
+equally low.
+
+// two lines
+
+WILLIAM S. BURTON
+HAS TEN LARGE SHOW ROOMS
+(all communicating), exclusive of the shop, devoted solely to the show of

@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bleak House</title>
+            <author><ref target="#Dick"/></author>
+            <editor>Steven Haker</editor>
+            <editor>Karalee Harris</editor>
+            <editor>Paul Jason Perez</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>Bleak House itself is a fiction about the lives of the rich and poor in London
+               society during the Victorian era. However, our main focus is on the advertisements
+               appearing before and after the serialized novel. These advertisements are appealing
+               to a certain group of consumers during the mid-Victorian era of London. From our
+               edition, readers would be able to peek into the world of 1852 when Bleak House was
+               being published as a serial. The advertisements present in Bleak House are an
+               artifact of that time; though they were likely ignored during it, they now provide a
+               unique window into that time period. The audience for this edition would likely be
+               people researching this time period rather than people who want to read Bleak House
+               as a text; this means that it would lend itself moreso to scholars rather than
+               laypeople.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>
+               <bibl>
+                  <title>Bleak House</title>
+                  <author><ref target="#Dick">Dickens, Charles</ref>, <date type="birth"
+                        >1812</date>-<date type="death">1870</date></author>
+                  <respStmt>
+                     <resp>illustrated by</resp>
+                     <persName xml:id="HKB">Browne, Hablot Knight, <date type="born"
+                           >1815</date>-<date type="death">1882</date></persName>
+                  </respStmt>
+                  <edition>[First edition]</edition>
+                  <extent>70 pp</extent>
+                  <publisher xml:id="BandE">Bradbury and Evans</publisher>
+                  <pubPlace><placeName type="city">London,
+                     <country>England</country></placeName></pubPlace>
+                  <date><date when="1852">1852</date>-<date when="1853">1853</date></date>
+                  <idno type="OCLC">38689984</idno>
+               </bibl>
+            </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="introduction">
+            <p>This edition focuses on the advertisements that appeared alongside the original
+               serialized publication of Bleak House written by Charles Dickens and illustrated by
+               Hablot Knight Browne. This first edition was published in monthly parts between 1852
+               and 1853 and a well preserved complete set is available at the Special Collections of
+               the University of Washington Libraries. While the novel itself has been widely
+               studied for its plot, characters, and social commentary, the ads printed in each
+               issue are often overlooked. These advertisements offer a lot of information about
+               what people were buying, what they cared about, and how products and services were
+               marketed to them. From cures for illnesses to new inventions and fashion trends, the
+               ads show what everyday life might have looked like for mid-Victorian era of
+               London.</p>
+            <p>Our approach treats each advertisement as a single unit of analysis, carefully
+               examining its components such as images, product descriptions, catalogs,
+               testimonials, and more. What remedies for ailments were marketed to the public 150
+               years ago? Do they resemble the products sold to us today? How about their fashion,
+               do some of those trends still exists today? What can these advertisements reveal
+               about Victorian-era society, and how might those insights still resonate with our
+               present-day culture? These are the questions we found compelling, and we hope you, as
+               the reader, will find them just as intriguing.</p>
+            <p>In creating this edition, our team chose to present a diplomatic transcription to
+               preserve the original appearance and appeal of these advertisements as they were seen
+               by the public. We maintained the original language and the layout of images alongside
+               the text. In cases where words were hyphenated due to space constraints in the
+               original print, we have standardized them into single words for clarity. We've also
+               highlighted distinctive elements within the advertisements that we believe offer
+               valuable opportunities for further analysis of print media from that era. We hope you
+               enjoy this unique edition of Bleak House.</p>
+         </div>
+      </front>
+      <body>
+         <div type="ad" xml:id="edmiston">
+            <pb n="0"/>
+            <p><emph rend="ac">To sportsmen, tourist, &amp; travelers.</emph>
+               <graphic url="img/p0_1.png"/>
+               <emph rend="ac">Edmiston's pocket siphonia</emph>, or waterproof overcoat. weight 10
+                  oz.<graphic url="img/p0_2.png"/>Sole Manufacturer of the celebrated Pocket
+               Siphonia, remarkable for its lightness and softness of texture, adapted for
+               Sportsmen, Travellers, and Tourists, easily folded to carry in the Pocket or on
+               Saddle ; the most important feature in this Waterproofing is being mineralised, which
+               effectually resists the powerful heat of the sun and the most violent rains, also
+               obviating the stickiness and unpleasant smell peculiar to all other Waterproofs.--
+               Price according to size, 40s. to 55s. ; all silk throughout, 50s. to 65s.
+               Measurement, length of coat, and size round the chest over the coat <graphic
+                  url="img/p0_3.png"/>Notice--Name &amp; address stamped inside. None others are
+               genuine. Edmiston &amp; Son, 416 &amp; 69, Strand Near the Adelphi Theatre.</p>
+            <p><emph rend="ac">Opinions of the press.</emph>Waterproof--<q>The lightest and most
+                  effectual, is the Siphonia, made by Edmiston &amp; Son, of 69, Strand ; they can
+                  be carried in the hat or pocket.</q>-- Bell's Life, April 20th, 1851. <q>A new
+                  waterproof garment adapted to the very changeable weather of the season, has been
+                  manufactured by Edmiston &amp; Son. It is remarkably light and soft, and may be
+                  carried in the pocket. This is really an ingenious substitute for the cumbersome
+                  great coat or the troublesome umbrella.</q>--Home News, May 24th, 1851.</p>
+            <p><graphic url="img/p0_4.png"/>Leggings or Overall. Yacht Jackets. Fishing and Shooting
+               Hats or Caps Driving Gloves. Cricketing do. Gun Covers. Gig Aprons. Sou-Westers.
+                  Goloshes.<graphic url="img/p0_5.png"/>Ladies' Capes, with Hoods. Do. Paletots. Air
+               Cushions. Do. Pillows. Do. Beds. India Rubber Portable Folding Baths. Nursing Aprons.
+               Crib Sheets.<graphic url="img/p0_6.png"/></p>
+            <p>The newly invented Swimming Gloves, Of great propelling power. <emph rend="ac"
+                  >Edmiston's life-belts none should be without.</emph>Fishing and shooting boots,
+               soft and pliable, require no dressing, and every description of India Rubber and
+               Gutta Percha Goods, Piping, Tubing for Watering Gardens, &amp;c. Belfast--Albion
+               Cloth Company. Edinbrugh--Grieve &amp; Oliver, Princes-street. Liverpool--Radcliffe
+               &amp; Corlet, Castle-street; J.H. Smith, 22, Lord-street. Shaftsbury--Jas. Seagrove,
+               Brothers. Southampton--Batten &amp; Lukes. <emph rend="ac">London: Edmiston &amp;
+                  Son, 416 &amp; 69, Strand, near Adelphi.</emph></p>
+         </div>
+         <div type="ad" xml:id="nortonPills">
+            <pb n="58"/>
+            <p>
+               <fw type="header"><emph rend="ac hugeFont">Important Family Medicine</emph></fw><lb/>
+               <emph rend="ac bold hugeFont">Norton's Camomile Pills,</emph>
+               <emph rend="ac medFont">The<lb/> most certain preserver of health; </emph><emph
+                  rend="sc">A<lb/>mild, yet speedy, safe, and<lb/></emph><emph
+                  rend="ac bold medFont">Effectual Aid in cases of indigestion,<lb/>And all stomach
+                  complaints,<lb/></emph><emph rend="sc">And, as a natural consequence,</emph><lb/>
+               <emph rend="sc medFont">A purifier of the blood, and a sweetener of the whole
+                  system.</emph><lb/>Indigestion is a weakness or want of power of the digestive
+               juices in the stomach to convert what we eat and drink into healthy matter, for the
+               proper nourishment of the whole system. It is caused by every thing which weakens the
+               system in general, or the stomach in particular. From it proceed nearly all diseases
+               to which we are liable; for it is very certain, that if we could always keep the
+               stomach right we should only die by old age or accident. Indigestion produces a great
+               variety of unpleasant sensations: amongst the prominent of its miserable effects are
+               a want of, or an inordinate, appetite, sometimes attended with a constant craving for
+               drink, a distension or feeling enlargement of the stomach, flatulency, heartburn,
+               pains in the stomach, acidity, unpleasant taste in the mouth, perhaps sickness,
+               rumbling noise in the bowels: in some cases of depraved digestions there is nearly a
+               complete disrelish for food, but still the appetite is not greatly impaired, as at
+               the stated period of meals persons so afflicted can eat heartily, although without
+               much gratification; a long train of nervous symptoms are also frequent attendants,
+               general debility, great languidess, and incapacity for exertion. The minds of persons
+               so afflicted frequently become irraitable and desponding, and great anxiety is
+               observable in the countenance; they appear thoughtful, melancholy, and dejected,
+               under great apprehension of some imaginary danger, will start at any unexpected noise
+               or occurrence, and become so agitated that they require some time to calm and collect
+               themselves; yet for all this the mind is exhilarated without much difficulty;
+               pleasing events, society, will for a time dissipate all appearance of disease; but
+               the excitement produced by an agreeable change vanishes soon after the cause has gone
+               by. Other symptoms are, voilent palpitations, restlessness, the sleep disturbed by
+               frightful dreams and startings, and affording little or no refreshment: occasionally
+               there is much moaning, with a sense of weight and oppression upon the chest,
+               nightmare, &amp;c.<lb/>It is almost impossible to enumerate all the symptoms of this
+               first invader upon the constitution, as in a hundred cases of <emph rend="ital"
+                  >Indigestion</emph> there will probably be something peculiar to each; but, be
+               they what they may, they are all occassioned by the food becoming a burden rather
+               than a support to the stomach; and in all its stages the medicine most wanted is that
+               which will afford speedy and effectual assistance to the digestive organs, and give
+               energy to the nervous and muscular systems,-nothing can more speedily or with more
+               certainty effect so desirable an object than <emph rend="ital">Norton's Extract of
+                  Camomile Flowers</emph>. The herb has from time immemorial been highly esteemed in
+               England as a grateful anodyne, imparting an aromatic bitter to the taste, and a
+               pleasing degree of warmth and strength to the stomach; and in all cases of
+               indigestion, gout in the stomach, windy colic, and general weakness, it has for ages
+               been strongly recommended by the most eminent practitioners as very useful and
+               beneficial. The great, indeed only, objection to its use has been the large quantity
+               of water which it takes to dissolve a small part of the flowers and which must be
+               taken with it into the<pb n="59"/><fw type="page_number" place="top_right">2</fw>
+               stomach. It requires a quarter of a pint of boiling water to dissolve the soluble
+               portion of one drachm of camomile flowers; and, when one or even two ounces may be
+               taken with advantage, it must at once be seen how impossible it is to take a proper
+               dose of this wholesome herb in the form of tea; and the only reason why it has not
+               long since been placed the very first in rank of all restorative medicines is that in
+               taking it the stomach has always been loaded with water which tends in a great
+               measure to counteract, and very frequently wholly to destroy the effect. It must be
+               evident that loading a weak stomach with a large purpose of conveying into it a small
+               quantity of medicine must be injurious; and that the medicines must possess powerful
+               renovating properties only to counteract the bad effects likely to be produced by the
+               water. Generally speaking, this has been the case with camomile flowers, a herb
+               possessing the highest restorative qualities, and when properly taken, decidedly the
+               most speedy restorer, and the most certain preserver of health.<lb/>These <emph
+                  rend="sc"> pills</emph> are wholly <emph rend="sc">camomile</emph>, prepared by a
+               peculiar process, accidentally discovered, and known only to the proprietor, and
+               which he firmly believes to be one of the most valuable modern discoveries in
+               medicine, by which all the essential and extractice matter of more than an ounce of
+               the flowers is concentrated in four moderate-sized pills. Experience has afforded the
+               most ample proof that they possess all the fine aromatic and stomachic properties for
+               which the herb has been esteemed; and, as they are taken into the stomach
+               unencumbered by any diluting or indigestible substance, in the same degree has their
+               benefit been more immediate and decided. Mild in their operation and pleasant in
+               their effect, they may be taken at any age, and under any circumstance, without
+               danger or inconvenience. A person exposed to cold and wet a whole day or night could
+               not possibly receive any injury from taking them, but, on the contrary, they would
+               effectually prevent a cold being taken. After a long acquaintance with and strict
+               observance of the medicinal properties of <emph rend="ital">Norton's Camomile
+                  Pills</emph>, it is only doing them justice to say, that they are really the most
+               valuable of all <emph rend="sc">tonic medicines</emph>. By the word tonic is meant a
+               medicine which gives strength to the stomach sufficient to digest in proper
+               quantities all wholesome food, which increases the power of every nerve and muscle of
+               the human body, or, in other words, invigorates the nervous and muscular systems. The
+               solidity or firmness of the whole tissue of the body which so quickly follows the use
+               of <emph rend="ital">Norton's Camomile Pills</emph>, their certain and speedy effects
+               in repairing the partial dilapidations from time or intemperance, and their lasting
+               salutary in fluence on the whole frame, is most con vincing, that in the smallest
+               compass is contained the largest quantity of the tonic principle, of so peculiar a
+               nature as to pervade the whole system, through which it diffuses health and strength
+               sufficient to resist the formation of disease, and also to fortify the consitution
+               against contagion; as such, their general use is strongly recommended as a
+               preventative during the prevalence of malignant fever or other infectious diseases,
+               and to persons attending sick rooms they are invaluable as in no one instance have
+               they ever failed in preventing the taking of illness, even under the most trying
+               circumstances.<lb/> As <emph rend="ital"> Norton's Camomile Pills</emph> are
+               particularly recommended for all stomach complaints or indigestion, it will probably
+               be expected that some advice should be given respecting diet, though after all that
+               has been written upon the subject, after the publication of volume upon volume, after
+               the country has, as it were, been inundated with practical essays on diet, as a means
+               of prolonging life, it would be unnecessary to say more, did we not feel it our duty
+               to make the humble endeavor of inducing the public to regard them not, but to adopt
+               that course which is dictated by nature, by reason, and common sense. Those persons
+               who study the wholesomes, and are governed by the opinions of writers on diet, are
+               uniformly both unhealthy in body and weak in mind. There can be no doubt that the
+               palate is designed to inform us what is proper for the stomach, and of course that
+               must best instruct us what food to take and what to avoid: we want no other adviser.
+               Nothing can be more clear than that those articles which are agreeable to the taste
+               were by nature intended for our food and sustenance, whether liquid or solid, foreign
+               or of native production: if they are pure and unadulterated, no harm need be dreaded
+               by their<pb n="60"/><fw type="page_number" place="top_right">3</fw> use; they will
+               only injure by abuse. Consequently, whatever the palate approves, eat and drink
+               always in moderation, but never in excess; keeping in mind that the first process of
+               digestion is performed in the mouth, the second in the stomach; and that, in order
+               that the stomach may be able to do its work properly, it is requisite the first
+               should be well performed; this consists in masticating or chewing the solid food, so
+               as to break down and separate the fibres and small substances of meat and vegetables,
+               mixing them well, and blending the whole together before they are swallowed; and it
+               is particularly urged upon all to take plenty of time to their meals and never eat in
+               haste. If you conform to this short and simple, but comprehensive advice, and find
+               that there are various things which others eat and drink with pleasure and without
+               inconvenience, and which would be pleasant to yourself only that they disagree, you
+               may at once conclude that the fault is in the stomach, that it does not possess the
+               power which it ought to do, that it wants assistance, and the sooner that assistance
+               is afforded the better. A very short trial of this medicine will best prove how soon
+               it will put the stomach in a condition to perform with ease all the work which nature
+               intended for it. By its use you will soon be able to enjoy, in moderation, whatever
+               is agreeable to the taste, and unable to name one individual article of food which
+               disagrees with or sits unpleasantly on the stomach. Never forget that a small meal
+               well digested affords more nourishment to the system than a large one, even of the
+               same food, when digested imperfectly. Let the dish be ever so delicious, ever so
+               enticing a variety offered, the bottle ever so enchanting, never forget that
+               temperance tends to preserve health, and that health is the soul of enjoyment. But
+               should an impropriety be at any time, or ever so often, committed, by which the
+               stomach becomes overloaded or disordered, render it immediate aid by taking a dose of
+                  <emph rend="ital">Norton's Camomile Pills</emph>, which will so promtly assist in
+               carrying off the burden thus imposed upon it that all will soon be right
+               again.<lb/>It is most certainly true that every person in his lifetime consumes a
+               quantity of noxious matter, which if taken at one meal would be fatal; it is these
+               small quantities of noxious matter, which are introduced into our food, either by
+               accident or wilful adulteration, which we find so often upset the stomach, and not
+               unfrequently lay the foundation of illness, and perhaps final ruination to health. To
+               preserve the constitution, it should be our constant care, if possible, to counteract
+               the effect of these small quantities of unwholesome matter; and whenever, in that
+               way, an enemy to the consitution finds its way into the stomach, a friend should be
+               immediately sent after it, which would prevent its mischievous effects, and expel it
+               altogether; no better friend can be found, nor one which will perform the task with
+               greater certainty, than <emph rend="sc">norton's camomile pills</emph>. And let it be
+               observed that the longer this medicine is taken the less it will be wanted; it can in
+               no case become habitual, as its entire action is to give energy and force to the
+               stomach, which is the spring of life, the source from which the whole frame draws its
+               succour and support. After an excess of eating or drinking, and upon every occasion
+               of the general health being at all disturbed, these <emph rend="sc">pills</emph>
+               should be immediately taken, as they will stop and eradicate disease at its
+               commencement. Indeed it is most confidently asserted, that by the timely use of this
+               medicine only, and a common degree of caution, any person may enjoy all the comforts
+               within his reach, may pass through life without an illness, and with the certainty of
+               attaining a healthy <emph rend="sc">old age</emph>.<lb/> On account of their volatile
+               properties, they must be kept in bottles; and if closely corked their qualities are
+               neither impaired by time nor injured by any change of climate whatever. Price 13 1/2
+               d. and 2s.9d.each, with full directions. The large bottle contains the quantity of
+               three small ones, or <emph rend="sc">pills</emph> equal to fourteen ounce of <emph
+                  rend="sc">camomile flowers</emph>. <lb/><emph rend="medFont">Sold by nearly all
+                  respectable Medicine Vendors.</emph><lb/><emph rend="bold medFont">Be particular
+                  to ask for "<emph rend="ac">norton's pills</emph>," and do not be persuaded to
+                  purchase an imitation.</emph>
+            </p>
+         </div>
+         <div type="ad" xml:id="godfreyFlowers">
+            <pb n="61"/>
+            <p>
+               <fw type="header"><emph rend="bold sc MedFont">A Clear
+                  Complexion.</emph></fw><lb/><emph rend="ac fancyFont medFont">Godfrey's Extract of
+                  Elder Flowers</emph><lb/>is strongly recommended for Softening, Improving,
+               Beautifying, and Preserving the SKIN, and giving it a blooming and charming
+               appearance; being at once a most fragrant perfume and delightful cosmetic. It will
+               completely remove Tan, Sunburn, Redness, &amp;c.; and, by its Balsamic and Healing
+               qualities, render the skin soft, pliable, and free from dryness, scurf, &amp;c.;
+               clear it from every humour, pimple, or eruption; and, by continuing its use only a
+               short time, the skin will become and continue soft and smooth, and the complexion
+               perfectly clear and beautiful. In the process of shaving it is invaluable, as it
+               allays the irritation and smarting pain, annihilates every pimple and all roughness,
+               and renders the skin smooth and firm. It protects the skin from the effects of the
+               cold winds and damp atmosphere which prevail during the winter months, and will be
+               found beyond all praise to use as a Family Lotion on all occasions.<lb/>Sold in
+               Bottles, price 2s.9d., with Directions for using it, by all Medicine Vendors and
+               Perfumers. </p>
+
+         </div>
+         <div type="ad" xml:id="simcoGout">
+            <p>
+               <fw type="header"><emph rend="bold sc medFont">A Cure for Gout and
+                  Rheumatism.</emph></fw><lb/><emph rend="normFont"><emph rend="ital">"The Eighth
+                     Plague,"</emph> said the learned Dr. Johnson, <emph rend="ital">"is the Gout,
+                     and that man who discovers a Medicine to alleviate its torments deserves well
+                     of his country; but he who can effect a cure should have a Monument raised to
+                     his memory as high as St. Paul's, as wide as the Thames, and as lasting as
+                     time."</emph></emph><lb/><emph rend="ac fancyFont medFont">Simco's Gout and
+                  Rheumatic Pills</emph><lb/>are sold by nearly all Medicine Venders at <emph
+                  rend="ital">1s. 1 1/2d., and 2s.9d. per Box; the former containing does for</emph>
+               five <emph rend="ital">and the latter for</emph> fifteen <emph rend="ital"
+                  >days</emph>; and so many individuals, who considered themselves martyrs to Gout
+               or Rheumatism, are now ready and willing to bear testimony of the wonderful effects
+               of Simco's Pills, that the Proprietor fearlessly challenges the whole world to
+               produce Medicine which at all deserves to be compared to them. There are <emph
+                  rend="ital">many</emph> instances in which person have been completely restored to
+               health and activity by taking <emph rend="sc">Simco's Gout Pills</emph>, who have
+               suffered from Rheumatic Gout for several years, and had drawn on a miserable
+               existence, having lost the use of their limbs, believing that death alone could
+               terminate their sufferings.<lb/> Whilst taking the Pills, no particular rules or
+               restrictions are necessary, as they are warranted not to contain any preparation of
+               Mercury whatever; they seldom produce perspiration, purging, or sickness, but
+               invariably improve the general health, sharpen the appetite, and facilitate
+               digestion. Those periodically subject to Gout, Rheumatic Gout, Rheumatic Fever,
+               &amp;c., should keep these Pills by them, as by their timely use an approaching
+               attack may always be averted, and the tendency of these complaints to attack a vital
+               part be effectually counteracted. </p>
+         </div>
+         <div type="ad" xml:id="simcoLinseed">
+            <p>
+               <fw type="header"><emph rend="bold sc medFont">Influenza, Coughs, and
+                  Colds.</emph></fw><lb/><emph rend="ac fancyFont medFont">Simco's Essence of
+                  Linseed</emph><lb/>is the most efficacious remedy ever discovered for the relief
+               of persons suffering from Influenza; the first two doses generally arrest the
+               progress of this distressing complaint, and a little perseverance completely removes
+               it. Children's Coughs, as well as recent ones in Adults, will be removed by a few
+               doses (frequently by the first); and Asthmatic persons, who previously had not been
+               able to lie down in bed, have received the utmost benefit from the use of<lb/><emph
+                  rend="ac medFont">Simco's Essence of Linseed.</emph><lb/>Sold in Bottles at <emph
+                  rend="ital">1s 1/2d.</emph>, and <emph rend="ital">2s. 9d.</emph> each. </p>
+         </div>
+         <div type="ad" xml:id="williamAuto">
+            <pb n="62"/>
+            <p>
+               <fw type="header"><emph rend="fancyFont hugeFont">The Autobiograph of William
+                     Jerdan;</emph></fw><lb/>
+               <emph rend="sc">with his</emph><lb/>
+               <emph rend="bold medFont">Literary, Political, and Social Reminiscences</emph><lb/>
+               <emph rend="fancyFont medFont">And Correspondence,</emph><lb/>
+               <emph rend="sc medFont">During the last forty years</emph><lb/>
+               <emph rend="bold medFont">As Editor of the "Sun" Newspaper, 1812-17, &amp; of the
+                  "Literary Gazette," 1817-50,</emph><lb/>
+               <emph rend="sc">IN CONNECTION WITH MOST OF THE EMINENT PERSON WHO HAVE BEEN
+                  DISTINGUISED IN THE PAST HALF CENTURY AS STATESMEN, POETS, AUTHORS, MEN OF
+                  SCIENCE, ARTISTS, ETC.</emph><lb/>The First Volume, price 5s., with a Portrait of
+               the Author, Engraved by <emph rend="sc">Robinson</emph>, from a Painting by <emph
+                  rend="sc">Harlowe</emph>, will appear on the <date when="1852-05-01">1st of
+                  May</date>, and it is proposed to complete the Work in Four or Six Volumes, to be
+               published Quarterly.<lb/>
+               <emph rend="ital bold">Among many Distinguished Names introduced in the Narrative and
+                  Correspondence will be found,</emph>
+               <list>
+                  <item><surname>Ainsworth</surname>, <forename>W. Harrison</forename>, and
+                        <forename>W. Francis</forename></item>
+                  <item><persName><surname>Arbuthnot</surname>,
+                        <forename>Charles</forename></persName></item>
+                  <item><persName>Bangor, <roleName>Bishop</roleName> of
+                     (Magendle)*</persName></item>
+                  <item><persName><surname>Bannister</surname></persName></item>
+                  <item><persName><surname>Barham</surname> (Ingoldsby)*</persName></item>
+                  <item><persName><surname>Barrow</surname>, <roleName>Sir</roleName>
+                        John</persName></item>
+                  <item><persName><surname>Barry</surname>, <roleName>Sir</roleName>
+                     C.*</persName></item>
+                  <item><persName><surname>Blackwood</surname></persName></item>
+                  <item><persName><surname>Blessington</surname>,
+                        <roleName>Lady</roleName></persName></item>
+                  <item><persName><surname>Bowles</surname>, Lislo*</persName></item>
+                  <item><persName><surname>Braham</surname></persName></item>
+                  <item><persName><surname>Bray</surname>,
+                     <roleName>Mrs</roleName>.</persName></item>
+                  <item><persName><surname>Bristol</surname>, <roleName>Bishop</roleName> of
+                        (Gray)</persName></item>
+                  <item><persName><surname>Brougham</surname>,
+                     <roleName>Lord</roleName></persName></item>
+                  <item><persName><surname>Bulwer</surname>, Lytton <roleName>Sir</roleName>
+                        E.</persName></item>
+                  <item><persName><surname>Burgess</surname>, <roleName>Bishop</roleName> of
+                        Sallisbury</persName></item>
+                  <item><ref target="#byron"/><persName><surname>Byron</surname>,
+                           <roleName>Lord</roleName></persName></item>
+                  <item><persName><surname>Campbell</surname>, Thomas</persName></item>
+                  <item><persName><surname>Canning</surname>, George</persName></item>
+                  <item><surname>Chambers</surname>, <forename>W.</forename> &amp;
+                        <forename>R.</forename></item>
+                  <item><persName><surname>Chantrey</surname>, <roleName>Sir</roleName>
+                        F.</persName></item>
+                  <item><persName><surname>Clarendon</surname>,
+                     <roleName>Lord</roleName></persName></item>
+                  <item><persName><surname>Coleridge</surname>, S.T.</persName></item>
+                  <item><persName><surname>Colman</surname>, G.</persName></item>
+                  <item><persName><surname>Colton</surname></persName></item>
+                  <item><persName><surname>Cooke</surname> (tragodian), Tom*</persName></item>
+                  <item><persName><surname>Cooke</surname>, T.P.</persName></item>
+                  <item><persName><surname>Croly</surname>,
+                     <roleName>Dr.</roleName></persName></item>
+                  <item><persName><surname>Cunningham</surname>, Allan</persName></item>
+                  <item><persName><surname>De Tabley</surname>,
+                     <roleName>Lord</roleName></persName></item>
+                  <item><ref target="#Dick"><persName><surname>Dickens</surname>,
+                        Charles</persName></ref></item>
+                  <item><persName><surname>Disraeli</surname>, Isaac and <ref target="#disraeliB"
+                           >Benjamin</ref></persName></item>
+                  <item><persName><surname>Eldon</surname>,
+                     <roleName>Lord</roleName></persName></item>
+                  <item><persName><surname>Erskine</surname>,
+                     <roleName>Lord</roleName></persName></item>
+                  <item><persName><surname>Essex</surname>,
+                     <roleName>Lady</roleName></persName></item>
+                  <item><persName><surname>Faraday</surname>,
+                        <roleName>Professor</roleName></persName></item>
+                  <item><persName><surname>Farnborough</surname>,
+                        <roleName>Lord</roleName></persName></item>
+                  <item><persName><surname>Freeling</surname>, <roleName>Sir</roleName>
+                        Francis</persName></item>
+                  <item><persName><surname>Galt</surname></persName></item>
+                  <item><persName><surname>Godwin</surname>, William</persName></item>
+                  <item><persName><surname>Grenville</surname>, T.</persName></item>
+                  <item><persName><surname>Griffin</surname>, G.</persName></item>
+                  <item><persName><surname>Guizot</surname>, M.</persName></item>
+                  <item><persName><surname>Hall</surname>, <roleName>Mr.</roleName> and
+                           <roleName>Mrs.</roleName> S.C.</persName></item>
+                  <item><persName><surname>Hallam</surname>,</persName></item>
+                  <item><persName><surname>Hemans</surname>,
+                     <roleName>Mrs</roleName>.</persName></item>
+                  <item><persName><surname>Hogg</surname></persName></item>
+                  <item><persName><surname>Hood</surname>, Thomas</persName></item>
+                  <item><persName><surname>Hook</surname>, Theodore</persName></item>
+                  <item><persName><surname>Hunt</surname>, Leigh</persName></item>
+                  <item><persName><surname>Huskisson</surname></persName></item>
+                  <item><persName><surname>Irving</surname>, Washington</persName></item>
+                  <item><persName><surname>James</surname>, G.P.E.</persName></item>
+                  <item><persName><surname>Keats</surname></persName></item>
+                  <item><persName><surname>Kemble</surname> (family)</persName></item>
+                  <item><persName><surname>Lamb</surname>, Charles</persName></item>
+                  <item><persName><surname>Landon</surname> (L.E.L.)</persName></item>
+                  <item><persName><surname>Landseers</surname></persName></item>
+                  <item><persName><surname>Lansdowne</surname>,
+                     <roleName>Lord</roleName></persName></item>
+                  <item><persName><surname>Laurence</surname>, <roleName>Sir</roleName>
+                        T.</persName></item>
+                  <item><persName><surname>Lockhart</surname></persName></item>
+                  <item><persName><surname>Londesborough</surname>,
+                        <roleName>Lord</roleName></persName></item>
+                  <item><persName><surname>Longman</surname>, Thomas Norton</persName></item>
+                  <item><persName><surname>Lover</surname></persName></item>
+                  <item><persName><surname>M'Clise</surname></persName></item>
+                  <item><persName><surname>Macintosh</surname>, <roleName>Sir</roleName>
+                        J.</persName></item>
+                  <item><persName><surname>Macready</surname></persName></item>
+                  <item><persName><surname>Maginn</surname></persName></item>
+                  <item><persName><surname>Marryat</surname>,
+                        <roleName>Captain</roleName></persName></item>
+                  <item><persName><surname>Mathews</surname></persName></item>
+                  <item><persName><surname>Milman</surname>, Ian*</persName></item>
+                  <item><persName><surname>Milnes</surname>, Monckton*</persName></item>
+                  <item><persName><surname>Mitford</surname>,
+                     <roleName>Miss</roleName></persName></item>
+                  <item><persName><surname>Montomgery</surname>, James</persName></item>
+                  <item><persName><surname>Moore</surname></persName></item>
+                  <item><persName><surname>Munden</surname></persName></item>
+                  <item><persName><surname>Munster</surname>,
+                     <roleName>Lord</roleName></persName></item>
+                  <item><persName><surname>Murchison</surname>, <roleName>Sir</roleName>
+                        R.</persName></item>
+                  <item><persName><surname>Murray</surname>, John</persName></item>
+                  <item><persName><surname>Nares</surname>, Archdescon</persName></item>
+                  <item><persName><surname>Normanby</surname>,
+                     <roleName>Lord</roleName></persName></item>
+                  <item><persName><surname>Northampton</surname>,
+                        <roleName>Lord</roleName></persName></item>
+                  <item><persName><surname>Orme</surname>, Cosmo</persName></item>
+                  <item><persName><surname>Ousely</surname>, <roleName>Sir</roleName> Wm. and
+                           <roleName>Sir</roleName> Gore</persName></item>
+                  <item><persName><surname>Owen</surname>,
+                     <roleName>Professor</roleName></persName></item>
+                  <item><persName><surname>Perceval</surname>, Spencer</persName></item>
+                  <item><persName><surname>Ferry</surname>, James</persName></item>
+                  <item><persName><surname>Pollock</surname>, <roleName>Lord Chief</roleName>
+                        Baron</persName></item>
+                  <item><persName><surname>Proctor</surname>, B.W. (Barry
+                           <surname>Cornwall</surname>)</persName></item>
+                  <item><persName><surname>Ripon</surname>,
+                     <roleName>Lord</roleName></persName></item>
+                  <item><persName><surname>Roberts</surname>, D.</persName></item>
+                  <item><persName><surname>Ross</surname>, <roleName>Sir</roleName> James
+                        Clark</persName></item>
+                  <item><persName><surname>Russell</surname>, <roleName>Lord</roleName>
+                        John</persName></item>
+                  <item><persName><surname>Scott</surname>, <roleName>Sir</roleName>
+                        Walter</persName></item>
+                  <item><persName><surname>Sedgwick</surname></persName></item>
+                  <item><persName><surname>Shelley</surname></persName></item>
+                  <item><persName><surname>Sheridan</surname>, R. Brinsley, Tom &amp;
+                        Frank</persName></item>
+                  <item><persName><surname>Smith</surname>, James</persName></item>
+                  <item><persName><surname>Smith</surname>, Sydney</persName></item>
+                  <item><persName><surname>Southey</surname></persName></item>
+                  <item><persName><surname>Stanfield</surname>, Clarkson</persName></item>
+                  <item><persName><surname>Swain</surname>, Charles</persName></item>
+                  <item><persName><surname>Talfourd</surname>, Justice</persName></item>
+                  <item><persName><surname>Thackeray</surname></persName></item>
+                  <item><persName><surname>Truro</surname>,
+                     <roleName>Lord</roleName></persName></item>
+                  <item><persName><surname>Turaer</surname>, Sharon</persName></item>
+                  <item><persName><surname>Tytler</surname>, P.P.</persName></item>
+                  <item><persName><surname>Ward</surname>, R. Plumer</persName></item>
+                  <item><persName><roleName>Wellington, Duke of</roleName></persName></item>
+                  <item><persName><surname>West</surname>, B.</persName></item>
+                  <item><persName><surname>Westmacott</surname>, <roleName>Sir</roleName>
+                        R.</persName></item>
+                  <item><persName><surname>Whewell</surname></persName></item>
+                  <item><persName><surname>Wilkie</surname>, <roleName>Sir</roleName>
+                        David</persName></item>
+                  <item><persName><surname>Willoughby de Eresb</surname>y,
+                        <roleName>Lord</roleName></persName></item>
+                  <item><persName><roleName>Winchester, Biship of
+                     (Summer)</roleName></persName></item>
+                  <item><persName><surname>Wordsworth</surname></persName></item>
+                  <item><persName><surname>Wright</surname>, T.</persName></item>
+                  <item><persName><surname>Young</surname>, (tragedian)</persName></item>
+               </list>
+               <emph rend="sc bold">Subscribers' Names Received by All Booksellers.</emph><lb/>
+               <emph rend="sc">Arthur Hall, Virtue, and Co., 25, Paternoster Row.</emph>
+            </p>
+         </div>
+      </body>
+      <back>
+         <note xml:id="byron"><persName><roleName>Lord</roleName><forename>George</forename> Gordon
+                  <surname>Byron</surname></persName>, <date type="birth" when="1788-01-01">January
+               22, 1788</date>-<date type="death" when="1824-04-19">April 19, 1824</date></note>
+         <note xml:id="disraeliB"
+               ><persName><forename>Benjamin</forename><surname>Disraeli</surname></persName>, <date
+               type="birth" when="1804-12-21">December 21, 1804</date>-<date type="death"
+               when="1881-04-19">April 19, 1881</date></note>
+         <note xml:id="Dick"><persName><surname>Dickens</surname>,
+               <forename>Charles</forename></persName>, <date type="birth" when="1812-02-17"
+               >February 17, 1812</date>-<date type="death" when="1870-06-09">June 9,
+            1870</date></note>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Selections from the Clarence T. Arai Papers</title>
+            <author>Clarence T. Arai</author>
+            <editor xml:id="MO">Marisa Oishi</editor>
+            <editor xml:id="CL">Christine Leak</editor>
+            <editor xml:id="HS">Hannah Swoffer</editor>
+            <sponsor>University of Washington Libraries, Special Collections</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <p>This edition focuses on a selection of pages from Clarence T. Arai’s scrapbook held
+               in the University of Washington Special Collections.</p>
+            <p>We chose to work with a scrapbook because of the vulnerability conveyed through its
+               visual and textual features. This edition, only a small selection of pieces from the
+               full work, explores the choices Arai made in assembling his scrapbook, considering
+               how these preserved materials capture a personal experience during World War II and
+               contribute to a more holistic, human understanding of the period.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Washington Student Project for TXTDS 404: Texts, Publics, and
+               Publication</publisher>
+            <pubPlace>Seattle, WA</pubPlace>
+            <date when="2025-06-06">June 6th, 2025</date>
+            <availability>
+               <p>Freely available for use.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Clarence T. Arai Papers</title>
+               <author>Clarence T. Arai</author>
+               <pubPlace>University of Washington, Special Collections Manuscripts and
+                  Archives</pubPlace>
+               <date from="1919" to="1993">1919-1993</date>
+               <idno type="oclcNo">945773039</idno>
+               <idno type="accessionNo">acc5542-001</idno>
+               <note>Box 2</note>
+               <note>This scrapbook, assembled by Clarence T. Arai, provides a perspective on his
+                  life as a Japanese American in Seattle before and during World War II. It includes
+                  correspondences, newspaper clippings, certificates, and other artifacts Arai
+                  selected to preserve.</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="editorial_intro">
+            <p>The phrase "on paper" is an interesting one. On paper, Clarence Takeya Arai was an
+               accomplished and influential member of the Seattle community. He was the first
+               Japanese American to earn a law degree from the University of Washington and the
+               first nisei commissioned officer in the US Army Reserve. He was a founder and the
+               first president of the Japanese American Citizens League, the oldest Asian American
+               civil rights organization, as well as a Republican precinct committee member and
+               delegate to the Washington State Republican Convention. On paper, Arai and his family
+               were sent to the Puyallup Fairgrounds, and then to a concentration camp in Minidoka,
+               Idaho, when over a hundred thousand innocent Japanese Americans were incarcerated
+               during World War II. His health deteriorated there, but he continued to advocate for
+               Japanese Americans' legal rights within the camp. Three months after the war ended,
+               his son Ken died of a brain tumor. Arai gave up practicing law full time and took up
+               photography. He died less than twenty years later.</p>
+            <p>When we discovered the Clarence T. Arai papers in the University of Washington
+               Special Collections, we didn't just discover certificates and newspaper clippings
+               taped to yellowing pages that crumbled as we turned them. This was a life, a
+               collection of moments of pride and tragedy, lived in service to his community and yet
+               persecuted by his country. This was an autobiography, a telling of Arai's story
+               through the papers he decided to preserve. He had a Cocker Spaniel named Duke of Main
+               Street. His son Ken liked "hot dog sandwiches" and bus rides to Portland. On paper,
+               Arai was a lawyer, civil rights advocate, and photographer. But on paper, he was also
+               a gardener, a father, a man with dreams and indignation with the injustice he knew he
+               was living: a human.</p>
+            <p>Regrettably, we could not include every insightful artifact in Arai’s scrapbook. We
+               each chose a genre (personal correspondences, state issues, and newspaper articles)
+               and selected a few pages from that genre, maintaining original spellings and
+               punctuation to preserve authenticity. Our goal was to provide a glimpse into the
+               first-hand experiences of Japanese Americans in Washington before and during World
+               War II. Arai’s scrapbook offers a perspective unlike textbooks or documentaries,
+               providing insight on lived experiences through his personal memorabilia and
+               artifacts. By publishing this work, we hope that readers will gain a more
+               well-rounded, holistic perspective on this time period, and an awareness of Arai’s
+               life and enduring legacy.</p>
+         </div>
+         <div type="annotations">
+            <note xml:id="pike_place">Pike Place Market is a public market in Seattle that opened in
+               1907. This is one of the oldest continuously operated public markets in the United
+               States. <ref target="#pike_place_bibl"/>
+            </note>
+            <note xml:id="dore">John F. Dore (1881-1938) served as the Mayor of Seattle from 1932 to
+               1934 and from 1936 to 1938. <ref target="#dore_bibl"/>
+            </note>
+            <note/>
+            <note xml:id="de_witt">J.L. DeWitt was a United States general officer known for
+               overseeing the incarceration of over 110,000 Japanese Americans. <ref
+                  target="#de_witt_bibl"/>
+            </note>
+            <note xml:id="fujiyama">Aiichiro Fujiyama was the Japanese Foreign Minister from
+               1957-1960 <ref target="#fujiyama_bibl"/>
+            </note>
+         </div>
+      </front>
+      <body>
+         <p>test</p>
+      </body>
+      <back>
+         <div type="bibliography">
+            <listBibl>
+               <bibl xml:id="pike_place_bibl" type="webpage"> “<title level="a">Pike Place
+                     Market</title>. <title level="m">Wikipedia</title>
+                  <author>Wikipedia Authors</author>
+                  <ref target="https://en.wikipedia.org/
+                     wiki/Pike_Place_Market">https://en.wikipedia.org/
+                     wiki/Pike_Place_Market</ref>
+               </bibl>
+               <bibl xml:id="dore_bibl" type="webpage"> “<title level="a">Dore, John Francis
+                     (1881-1938)</title>. <title level="m">History Link.org</title>
+                  <author>Wilma, David</author>
+                  <ref target="https://www.historylink.org/File/2720"
+                     >https://www.historylink.org/File/2720</ref>
+               </bibl>
+               <bibl xml:id="de_witt_bibl" type="webpage"> “<title level="a">National Park
+                     Service</title>. <title level="m">History Link.org</title>
+                  <author>National Park Service Authors</author>
+                  <ref target="https://www.nps.gov/people/john-lesesne-dewitt.htm"
+                     >https://www.nps.gov/people/john-lesesne-dewitt.htm</ref>
+               </bibl>
+               <bibl xml:id="fujiyama_bibl" type="webpage"> “<title level="a">Aiichiro Fujiyama, 87;
+                     Ex-Japanese Politician</title>. <title level="m">New York Times</title>
+                  <author>New York Times Authors</author>
+                  <ref
+                     target="https://www.nytimes.com/1985/02/23/world/aiichiro-fujiyama-87-ex-japanese-politician.html"
+                     >https://www.nytimes.com/1985/02/23/world/aiichiro-fujiyama-87-ex-japanese-politician.html</ref>
+               </bibl>
+            </listBibl>
+         </div>
+      </back>
+   </text>
+</TEI>

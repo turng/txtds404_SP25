@@ -1,0 +1,20 @@
+No. XVII. /* space so that next part is centered */ JULY. /* space so that next part is right aligned */ Price 1s.
+
+/* this part centered within illustrated border of presumably what are bleak house characters */
+
+/* in large text */
+BLEAK
+HOUSE
+
+/* in smaller text */
+BY
+CHARLES DICKENS.
+
+WITH ILLUSTRATIONS BY H. K. BROWNE.
+
+/* at the bottom, in smaller text */
+LONDON: BRADBURY & EVANS, BOUVERIE STREET.
+AGENTS: J. MENZIES, EDINBURGH; MURRAY AND SON, GLASGOW; J. M'GLASHAN, DUBLIN.
+
+The Author of this Work notifies that it is his intention to reserve the
+right of translating it.
