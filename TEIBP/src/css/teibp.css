@@ -1672,7 +1672,7 @@ table > head {
   text-align: center;
 }
 teiHeader {
-  display: block;
+  display: none;
   /*
 border-radius: 15px;
 border: 1px solid black;
