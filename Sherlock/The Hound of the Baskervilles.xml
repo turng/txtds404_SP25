@@ -54,8 +54,9 @@
          </projectDesc>
          <editorialDecl>
             <p>Our aim with editiorial decisions is to avoid altering the text and its presentation
-               minimally. Original spelling, format, and punctuation is recreated wherever we can. We will
-               normalize certain punctuation that resembles em dashes and dashes but are neither.</p>
+               minimally. Original spelling, format, and punctuation is recreated wherever we can.
+               We will normalize certain punctuation that resembles em dashes and dashes but are
+               neither.</p>
          </editorialDecl>
       </encodingDesc>
       <revisionDesc>
@@ -68,46 +69,92 @@
    <text>
       <front> </front>
       <body>
-         <pb n="125"/>The Strand Magazine. Vol. xxii. August, 1901. No. 128. 
-         The Hound of the Baskervilles.*
-         ANOTHER ADVENTURE OF SHERLOCK HOLMES.
-         BY CONAN DOYLE. 
-         <div type="chapter" n="1"> CHAPTER I.
-               <ab>MR. SHERLOCK HOLMES.</ab>
-            <p>MR. SHERLOCK HOLMES, who was usually very late in the mornings, save upon those not
-               infrequent occasions when he was up all night, was seated at the breakfast table. I
-               stood upon the hearth-rug and picked up the stick which our visitor had left behind
-               him the night before. It was a fine, thick piece of wood, bulbous-headed, of the sort
-               which is known as a "Penang lawyer." Just under the head was a broad silver band,
-               nearly an inch across. "To James Mortimer, M. R. C. S., from his friends of the C. C.
-               H.," was engraved upon it, with the date "1884." It was just such a stick as the
-               old-fashioned family practitioner used to carry—dignified, solid, and reassuring.</p>
+         <pb n="123"/>
+         <head><lb/>The Strand Magazine. <lb/>Vol. xxii. August, 1901. No. 128. <lb/>The Hound of
+            the Baskervilles.* <lb/>ANOTHER ADVENTURE OF<lb/>SHERLOCK HOLMES. <lb/>BY CONAN
+            DOYLE.</head>
+         <cb/>
+         <div type="chapter" n="1">
+            <ab>CHAPTER I.</ab>
+            <ab>MR. SHERLOCK HOLMES.</ab>
+            <p>MR. SHERLOCK HOLMES, <lb break="no"/>who was usually very late in <lb break="no"/>the
+               mornings, save upon those <lb break="no"/>not infrequent occasions when <lb
+                  break="no"/>he was up all night, was seated <lb break="no"/>at the breakfast
+               table. I stood <lb break="no"/>upon the hearth-rug and picked up the stick <lb
+                  break="no"/>which our visitor had left behind him the night <lb break="no"
+               />before. It was a fine, thick piece of wood, <lb break="no"/>bulbous-headed, of the
+               sort which is known <lb break="no"/>as a "Penang lawyer." Just under the head <lb
+                  break="no"/>was a broad silver band, nearly an inch <lb break="no"/>across. "To
+               James Mortimer, M. R. C. S., <lb break="no"/>from his friends of the C. C. H.," was
+               engraved <lb break="no"/>upon it, with the date "1884." It was just <lb break="no"
+               />such a stick as the old-fashioned family <lb break="no"/>practitioner used to
+               carry—dignified, solid, <lb break="no"/>and reassuring.</p>
             <p><s>"Well, Watson, what do you make of it?"</s></p>
-            <p>Holmes was sitting with his back to me, and I had given him no sign of my
-               occupa-tion.</p>
-            <p><s>"How did you know what I was doing? I believe you have eyes in the back of your
-               head."</s></p>
-            <p><s>"I have, at least, a well-polished silver-plated coffee-pot in front of me,"</s> said
-               he.</p>
-            <p><s>"But, tell me, Watson, what do you make of our visitor's stick? Since we have been so
-               unfortunate as to miss him and have no notion of his errand, this accidental souvenir
-               becomes of importance. Let me hear you reconstruct the man by an examination of
-               it."</s></p> 
-            <p><s>"I think," said I, following as far as I could the methods of my companion,
-            "that Dr. Mortimer is a successful elderly medical man, </s>*</p>
-            
-            <pb n="126"/><ab>126 THE STRAND MAGAZINE</ab>
-         
-         
-         
+            <p>Holmes was sitting with his back to me, <lb break="no"/>and I had given him no sign
+               of my occupa-<lb break="yes"/>tion.</p>
+            <p><s>"How did you know what I was doing? <lb break="no"/>I believe you have eyes in the
+                  back of your <lb break="no"/>head."</s></p>
+            <p><s>"I have, at least, a well-polished silver-<lb break="no"/>plated coffee-pot in
+                  front of me,"</s> said he. <lb break="no"/><s>"But, tell me, Watson, what do you
+                  make of <lb break="no"/>our visitor's stick? Since we have been so <lb break="no"
+                  />unfortunate as to miss him and have no <lb break="no"/>notion of his errand,
+                  this accidental souvenir <lb break="no"/>becomes of importance. Let me hear you
+                     <lb break="no"/>reconstruct the man by an examination of it."</s></p>
+            <p><s>"I think," said I, following as far as I could <lb break="no"/>the methods of my
+                  companion, "that Dr. <lb break="no"/>Mortimer is a successful elderly medical
+                     man,
+                  <fw type="-----">
+                     <!--what should we call this??????????-->* This story owes its inception to my
+                     friend, Mr. Fletcher <lb break="no"/>Robinson, who has helped me both in the
+                     general plot and in <lb break="no"/>the local details.—A. C. D.</fw>
+                  <cb/><lb break="no"/>well-esteemed, since those who know him <lb break="no"/>give him
+                  this mark of their appreciation."</s></p>
+            <p><s>"Good!"</s> said Holmes. <s>"Excellent!"</s></p>
+            <p><s>"I think also that the probability is in <lb break="no"/>favour of his being a
+                  country practitioner <lb break="no"/>who does a great deal of his visiting on
+                  foot."</s></p>
+            <p><s>"Why so?"</s></p>
+            <p><s>"Because this stick, though originally a <lb break="no"/>very handsome one, has
+                  been so knocked <lb break="no"/>about that I can hardly imagine a town <lb
+                     break="no"/>practitioner carrying it. The thick iron <lb break="no"/>ferrule is
+                  worn down, so it is evident that he <lb break="no"/>has done a great amount of
+                  walking with it."</s></p>
+            <p><s>"Perfectly sound !"</s> said Holmes.</p>
+            <p><s>"And then again, there is the 'friends of<lb break="no"/> the C.C.H.' I should
+                  guess that to be the <lb break="no"/>Something Hunt, the local hunt to whose <lb
+                     break="no"/>members he has possibly given some surgical <lb break="no"
+                  />assistance, and which has made him a small <lb break="no"/>presentation in
+                  return."</s></p>
+            <p><s>"Really, Watson, you excel yourself,"</s> said <lb break="no"/>Holmes, pushing
+               back his chair and lighting <lb break="no"/>a cigarette. <s>"I am bound to say that
+                  in all <lb break="no"/>the accounts which you have been so good <lb break="no"/>as
+                  to give of my own small achievements you <lb break="no"/>have habitually
+                  underrated your own abilities. <lb break="no"/>It may be that you are not yourself
+                  luminous, <lb break="no"/>but you are a conductor of light. Some <lb break="no"
+                  />people without possessing genius have a <lb break="no"/>remarkable power of
+                  stimulating it. I con-<lb break="yes"/>fess, my dear fellow, that I am very much
+                  in <lb break="no"/>your debt."</s></p>
+            <p>He had never said as much before, and I <lb break="no"/>must admit that his words
+               gave me keen <lb break="no"/>pleasure, for I had often been piqued by his <lb
+                  break="no"/>indifference to my admiration and to the <lb break="no"/>attempts
+               which I had made to give publicity <lb break="no"/>to his methods. I was proud too to
+               think <lb break="no"/>that I had so far mastered his system as to <lb break="no"
+               />apply it in a way which earned his approval. <lb break="no"/>He now took the stick
+               from my hands<fw>Vol. xxii.-16.</fw><pb n="124"/><fw type="RunnningHead" rend="caps">
+                  124 The Strand Magazine.</fw>
+            </p>
+
+
+
+
+            <pb n="126"/>
+            <fw>126 THE STRAND MAGAZINE</fw>
+
+
+
+
          </div>
-         <div type="chapter" n="2">
-            
-            
-            
-            
-            
-         </div>
+         <div type="chapter" n="2"> </div>
       </body>
    </text>
 </TEI>
