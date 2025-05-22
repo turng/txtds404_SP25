@@ -590,7 +590,7 @@ epigraph {
   margin-bottom: 1em;
 }
 fileDesc > extent {
-  display: none;
+  display: block;
 }
 /* f */
 figure {
@@ -1274,10 +1274,10 @@ publicationStmt {
   margin-bottom: 1em;
 }
 publicationStmt > date {
-  display: none;
+  display: block;
 }
 publicationStmt > publisher {
-  display: none;
+  display: block;
 }
 purpose {
   /* Empty Rule Set */
