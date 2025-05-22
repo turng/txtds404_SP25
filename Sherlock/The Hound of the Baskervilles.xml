@@ -70,13 +70,14 @@
       <front> </front>
       <body>
          <pb n="123"/>
-         <head><lb/>The Strand Magazine. <lb/>Vol. xxii. August, 1901. No. 128. <lb/>The Hound of
+         <head><title type="magazine"><lb/>The Strand Magazine. <lb/>Vol. xxii. <date when="1901-08">August, 1901.</date> No. 128.<lb/></title>
+            <title type="novel">The Hound of
             the Baskervilles.* <lb/>ANOTHER ADVENTURE OF<lb/>SHERLOCK HOLMES. <lb/>BY CONAN
-            DOYLE.</head>
+            DOYLE.</title></head>
          <cb/>
-         <div type="chapter" n="1">
+         <div type="chapter" n="1" rend="title">
             <ab>CHAPTER I.</ab>
-            <ab>MR. SHERLOCK HOLMES.</ab>
+            <ab rend="caps">Mr. Sherlock Holmes .</ab>
             <p>MR. SHERLOCK HOLMES, <lb break="no"/>who was usually very late in <lb break="no"/>the
                mornings, save upon those <lb break="no"/>not infrequent occasions when <lb
                   break="no"/>he was up all night, was seated <lb break="no"/>at the breakfast
