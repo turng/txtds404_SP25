@@ -200,6 +200,51 @@
                      type="person">Dr. Lindley</name>. 12s. cloth.</p>
                <p>&#8757;The glossary may be had separately, price 5s. cloth.</p>
             </div>
+            <div type="ad" xml:id="elementsOfMedAndEconBotany">
+               <head rend="ac">The elements of medical and economical botany.</head>
+               <p>By <name rend="ac" type="person">Dr. Lindley</name>. With numerous illustrations.
+                  8vo, price 14s. cloth.</p>
+            </div>
+            <div type="ad" xml:id="schoolBotany">
+               <head>School botany; or, the rudiments of botanical science.</head>
+               <p>By <name rend="ac" type="person">Dr. Lindley</name>.</p>
+               <p>With nearly 400 illustrations. 8vo, price 5s. 6d. half-bound.</p>
+            </div>
+            <div type="ad" xml:id="orchidaceae">
+               <head rend="ac">Orchidace&#198; Lindenian&#198; Or notes upon a collection of orchids
+                  formed in Colombia and Cuba.</head>
+               <p>By <name rend="ac" type="person">Mr. J. Linden</name>. 8vo, price 2s. 6d.</p>
+            </div>
+            <div type="ad" xml:id="ladiesCompanionFlowerGarden">
+               <head rend="ac">The ladies’ companion to the flower-garden.</head>
+               <p rend="ac">Being an alphabetical arrangement of all the ornamental plants grown in
+                  gardens and shrubberies, with full directions for their culture.</p>
+               <p rend="ac">By<name>Mrs. Loudon</name>.</p>
+               <p>The fifth edition. Price 7s. cloth, with numerous woodcuts representing the
+                  processes of grafting, budding, layering, &amp;c.</p>
+            </div>
+            <div type="ad" xml:id="howToLayOutASmallGarden">
+               <head rend="ac">How to lay out a small garden.</head>
+               <p>Intended as a guide to amateurs in choosing, forming, or improving a place (from a
+                  quarter of an acre to thirty acres in extent), with reference to both design and
+                  execution.</p>
+               <p><seg rend="ac">By <name type="person">Edward Kemp</name></seg>, landscape
+                  gardener, <name type="place">Birkenhead Park</name>. Price 3s. 6d., bound in
+                  cloth.</p>
+            </div>
+            <div type="ad" xml:id="theHandbookOfGardening">
+               <head rend="ac">The hand-book of gardening.</head>
+               <p rend="ac">By the same author.</p>
+               <p>A new edition, enlarged and improved. Price to 2s. cloth.</p>
+            </div>
+            <div rend="ac">
+               <p><location>
+                     <address>
+                        <addrLine>Bradbury and Evans</addrLine>
+                        <street>11, Bouverie Street</street>
+                     </address>
+                  </location></p>
+            </div>
          </div>
          <div/>
          <div/>
