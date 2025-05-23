@@ -97,13 +97,14 @@
                Measurement, length of coat, and size round the chest over the coat <graphic
                   url="img/p0_3.png"/>Notice--Name &amp; address stamped inside. None others are
                genuine. Edmiston &amp; Son, 416 &amp; 69, Strand Near the Adelphi Theatre.</p>
-            <p><emph rend="ac">Opinions of the press.</emph>Waterproof--<q>The lightest and most
-                  effectual, is the Siphonia, made by Edmiston &amp; Son, of 69, Strand ; they can
-                  be carried in the hat or pocket.</q>-- Bell's Life, April 20th, 1851. <q>A new
-                  waterproof garment adapted to the very changeable weather of the season, has been
-                  manufactured by Edmiston &amp; Son. It is remarkably light and soft, and may be
-                  carried in the pocket. This is really an ingenious substitute for the cumbersome
-                  great coat or the troublesome umbrella.</q>--Home News, May 24th, 1851.</p>
+            <p><emph rend="ac">Opinions of the press.</emph>Waterproof--<q type="testimony">The
+                  lightest and most effectual, is the Siphonia, made by Edmiston &amp; Son, of 69,
+                  Strand ; they can be carried in the hat or pocket.</q>-- Bell's Life, April 20th,
+               1851. <q type="testimony">A new waterproof garment adapted to the very changeable
+                  weather of the season, has been manufactured by Edmiston &amp; Son. It is
+                  remarkably light and soft, and may be carried in the pocket. This is really an
+                  ingenious substitute for the cumbersome great coat or the troublesome
+                  umbrella.</q>--Home News, May 24th, 1851.</p>
             <p><graphic url="img/p0_4.png"/>Leggings or Overall. Yacht Jackets. Fishing and Shooting
                Hats or Caps Driving Gloves. Cricketing do. Gun Covers. Gig Aprons. Sou-Westers.
                   Goloshes.<graphic url="img/p0_5.png"/>Ladies' Capes, with Hoods. Do. Paletots. Air
@@ -172,6 +173,40 @@
                   </address>
                </location><date when="1852-05-01">May 1st, 1852</date></closer>
          </div>
+         <div type="ad-group" xml:id="gardeningAndBotany">
+            <pb n="2"/>
+            <head>Works on Gardening and Botany.</head>
+            <div type="ad" xml:id="paxtonFlowerGarden">
+               <head rend="ac">Paxton's Flower-Garden.</head>
+               <p rend="ac">Edited by <name type="person">Dr. Lindley</name> and <name type="person"
+                     >Sir Joseph Paxton</name></p>
+               <p rend="ac">Each volume is illustrated by thirty-six highly finished plates and more
+                  than two hundred beautiful engravings on wood.</p>
+               <p>Volumes I, and II, are published. Price 33s. each, elegantly bound in cloth.</p>
+               <p>&#8757;This work is also published in Monthly Parts of which 27 are published, and
+                  may be procured by order of any bookseller. Price 2s. 6d.</p>
+            </div>
+            <div type="ad" xml:id="paxtonBotanicalDictionary">
+               <head rend="ac">Paxton’s botanical dictionary.</head>
+               <p>Comprising the names, history, and culture of all plants known in <name
+                     type="place">Britain</name>; with a full explanation of technical terms. Crown
+                  8vo, 16s.</p>
+               <p>&#8757;The supplement, containing all the new plants since the first edition, may
+                  be had separately, price 5s.</p>
+            </div>
+            <div type="ad" xml:id="theElementsOfBotany">
+               <head rend="ac">The elements of botany; Structural and physiological.</head>
+               <p>With a glossary of technical terms, and numerous illustrations. By <name rend="ac"
+                     type="person">Dr. Lindley</name>. 12s. cloth.</p>
+               <p>&#8757;The glossary may be had separately, price 5s. cloth.</p>
+            </div>
+         </div>
+         <div/>
+         <div/>
+         <div/>
+         <div/>
+         <div/>
+         <div/>
          <div type="ad" xml:id="nortonPills">
             <pb n="58"/>
             <p>
