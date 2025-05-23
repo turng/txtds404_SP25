@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Hound of the Baskervilles</title>
+            <author>Arthur Conan Doyle</author>
+            <editor>Em Backstrom</editor>
+            <editor>Blue Jordan</editor>
+            <editor>Rowan Herron</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>This edition was created as part of TXTDS four oh four at the University of
+               Washington over the course of Spring Quarter 2025. Our first goal with this digital
+               edition is to reproduce the copytext as close to the original as possible, including
+               text itself as well as form, format, and illustrations, using the tools of digital
+               editing such as XML, TEI, HTML, and CSS. Our second goal is to include interesting
+               contextual information to the story to enrich and contextualize a reader's experience
+               by connecting readers with Doyle’s history with The Strand and also to the geographic
+               elements in the story and its mediation. We are also interested in how historic
+               audiences received and reacted to the story. Our edition, including our HTML and CSS
+               formatting of the TEI encoding, was published online using the Vergil web publishing
+               system.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Our source text is “The Hound of the Baskervilles” by Arthur Conan Doyle as it was
+               first published in Strand Magazine, in August 1901. The Magazine was published in
+               London, England. The story text consists of pages 122 through 132 (11 total) of the
+               August issue. It also contains seven illustrations with captions for the actions they
+               depict, most of which are nestled within the text. The first page of text also
+               doubles as the title page for that month’s issue. Our specific copytext is a bound
+               volume of Strand Magazine issues which is held in Special Collections at University
+               of Washington Libraries under the call number 051 SM v.22. This is the 22nd volume of
+               collected magazine issues and was published by the Strand in December of 1901.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <titlePage>
+            <titlePart/>
+         </titlePage>
+         <div type="editorial_intro">
+            <p>Sherlock Holmes is such a widely known character it’s difficult to find a way to
+               introduce him. He retains global popularity even after almost one hundred years since
+               his last published adventure by Sir Arthur Conan Doyle. There are fifty-six short
+               stories and four novels that comprise the sixty canon Sherlock stories, with The
+               Hound of the Baskervilles being the third serialized novel. This text is significant
+               not only because of its remarkable literary merit as a standout entry in the Sherlock
+               Holmes canon, but also because it was the first text published after The Final
+               Problem, where Sherlock had died. Sherlock’s death had sparked grief and outrage,
+               including people unsubscribing from The Strand magazine. His return was welcomed and
+               widely read and remains a must-read for people seeking the best of Sir Arthur Conan
+               Doyle’s work.</p>
+            <p>Our edition aims to produce a digital version of the original text and formatting of
+               “The Hound of Baskervilles” that will connect modern readers to the original
+               publication. Modern readers most often access the Sherlock Holmes stories through
+               adaptations and remediations that, for example, collect the different serialized
+               chapters into one unit. With our edition, readers can think about how the original
+               way the story was published in the Strand magazine might have affected readers’
+               experience, the significance of place to the story and to its publication, and
+               experience a digital recreation of the original formatting and feel of the story.</p>
+            <p>Our editorial decisions coalesce around the approach of attempting to create as close
+               of a type facsimile as possible, in line with the aim of our editorial work. In this
+               spirit we will maintain spelling and punctuation as they appear in the text. We will
+               also maintain the layout of the text, including columns, pages, where images are
+               placed, and where words are split between lines. One area where we might have to
+               diverge from a type facsimile’s recreation of our source is with the column
+               dimensions, depending on whether we can measure them in our source. This approach
+               aligns with our project goals by providing our readers with insight into the
+               serialized magazine publication format we are closely recreating. </p>
+         </div>
+      </front>
+      <body>
+         <div type="main_text>">
+            <p>Sir Arthur Conan <ref type="note" target="#Doyle">Doyle</ref><note xml:id="Doyle">Sir
+                  Arthur Conan Doyle was a British author who created the Sherlock Holmes series,
+                  whose books became classics in the mystery genre. Doyle published the fourth
+                  Sherlock Holmes novel, The Hound of The Baskervilles in 1902.</note></p>
+            <p><ref type="note" target="#dashes">Odd Dashes</ref><note xml:id="dashes">These
+                  characters appear as long lines in the source that are too long to resemble an em
+                  dash. The char element has been used to denote these.</note></p>
+            <p><ref type="note" target="#dyspnea">Dyspnœa</ref><note xml:id="dyspnea">More likely to
+                  be spelled today as “dyspnea,” refers to shortness of breath.</note></p>
+            <p><ref type="note" target="#michaelmas">Michaelmas</ref><note xml:id="michaelmas">A
+                  holiday in the Western Christian calendar celebrated on September 29th. Celebrated
+                  the archangel Michael and marked the end of the harvest season and beginning of
+                  winter. Celebrations include feasting.</note></p>
+            <p><ref type="note" target="#phrenology">Phrenology</ref><note xml:id="phrenology"
+                     ><persName ref="#mortimer"><roleName>Dr.</roleName>
+                     <surname>Mortimer</surname></persName> is practicing phrenology. Associated
+                  with eugenics, phrenology involves studying the shape and form of human skulls as
+                  a way to determine the personality, nature, and morality of the person, or kind of
+                  person. This practice was done in service of colonialism and white supremacy. It
+                  was used to ascribe biological and scientific reality to racial hierarchies.
+                  Racist ideas about the behavior and psychology of African, Indigenous, and other
+                  non-white peoples were justified and “proven” using phrenology.</note></p>
+
+         </div>
+      </body>
+      <back>
+         <div type="biblography">
+            <listBibl>
+               <bibl xml:id="Enfield">Enfield, Lizzie, Cregan-Reid, Vybarr. "The Hound of the
+                  Baskervilles". Encyclopedia Britannica, 25 Mar. 2025,
+                  https://www.britannica.com/topic/The-Hound-of-the-Baskervilles. Accessed 17 May
+                  2025.</bibl>
+               <bibl xml:id="Clausen">Clausen, Christopher. “Sherlock Holmes, Order, and the
+                  Late-Victorian Mind.” The Georgia Review, vol. 38, no. 1, 1984, pp. 104–23. JSTOR,
+                  http://www.jstor.org/stable/41398643. Accessed 18 May 2025.</bibl>
+               <bibl xml:id="Bass">Bass, John. “Dyspnea.” Clinical Methods: The History, Physical,
+                  and Laboratory Examination,. 3rd edition. Butterworths, Boston 1990.
+                  https://www.ncbi.nlm.nih.gov/books/NBK357/.</bibl>
+               <bibl xml:id="Lewis">Lewis, Charlton Thomas. A Latin Dictionary: Founded on Andrew’s
+                  Edition of Freund’s Latin Dictionary. Reproduction en fac-Similé, Clarendon Press,
+                  1980.
+                  https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0059:entry=dyspnoea. </bibl>
+               <bibl xml:id="Michaelmas">“Michaelmas.” Britannica,
+                  https://www.britannica.com/topic/Michaelmas. Accessed 19 May 2025.</bibl>
+               <bibl xml:id="Thompson">Thompson, Courtney E. “Phrenology.” Encyclopedia of the
+                  History of Science, vol. 4, no. 1, Nov. 2021. ethos.lps.library.cmu.edu,
+                  https://doi.org/10.34758/ymce-b249.</bibl>
+            </listBibl>
+         </div>
+      </back>
+   </text>
+</TEI>

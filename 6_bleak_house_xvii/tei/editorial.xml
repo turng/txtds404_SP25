@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <titlePage>
+            <titlePart> ... </titlePart>
+         </titlePage>
+         <div type="intro">
+            <p><ref target="#dickens">Charles Dickens</ref>
+               is one of the most well-known English authors, who had a diverse writing career as a reporter, 
+               editor and essayist. He produced 14 novels, most of which were published in serial editions. 
+               This included a 20-month serialization of Bleak House published by Bradbury and Evans with 
+               illustrations by <ref target="#browne">Hablot Knight Browne</ref>.
+               The story of Bleak House follows the course of a legal dispute in the British Court of Chancery, 
+               as the Jarndyce family waits over generations to receive an inheritance they believe they deserve.
+               The story is a commentary on the convoluted legal system in Britain, and the corruption inherent 
+               in it. </p>
+            <p>Thanks to the serial format, Bleak House reached a wide range of audiences. The
+               critical perspective towards the legal system in Bleak House would have appealed to a
+               more educated population. Furthermore, the relatively afforable installments, public
+               readings, and library lendings would allow the working class to access the novel.
+               Eventually, <ref target="#dickens">Dickens</ref>' work would achieve a 
+               global audience.</p>
+         </div>
+         <div type="preface">
+            <p>Through this edition, we are interested in examining the intertextuality between
+               advertisements and different groups of readers, as well as the juxtaposition of
+               advertisements and the prose text of the novel. Along the way, we provide access to a
+               serialized experience of the novel, as a modern parallel to how Bleak House would
+               have been read when it was first published in 1852. The digital edition also augments
+               searchability and increases accessibility for a 21st-century reader.</p>
+         </div>
+         <div type="editorial">
+            <p>We choose not to modernize the text, since we wish to preserve the textual impact of
+               the original 1852 publication. Thankfully, the language is not too far removed from
+               what modern readers are comfortable with. Instead, to supply more context, we choose
+               to annotate unfamiliar terms and concepts pertaining to 19th-century British legal
+               culture and Bleak House as a larger text.</p>
+         </div>
+         <div type="maintext">
+            <p/>
+         </div>
+      </front>
+      <body>
+         <p>Some text here.</p>
+      </body>
+      <back>
+         <div type="endnotes">
+            <note xml:id="n1">The novel features the fictional case, Jarndyce and Jarndyce.</note>
+            <note xml:id="n2">Royal seal of the United Kingdom.</note>
+            <div type="characters">
+               <note></note>
+            </div>
+         </div>
+         <div type="biblio">
+            <listBibl>
+               <bibl xml:id="bleakhouse_wiki"><author>Wikipedia Contributors</author>. “<title>Bleak House</title>.” 
+		       Wikipedia, <publisher>Wikimedia Foundation</publisher>, <date>1 Dec. 2019</date>, 
+		       <ref target="https://en.wikipedia.org/wiki/Bleak_House">en.wikipedia.org/wiki/Bleak_House.</ref>
+                  <!--<title ref="https://en.wikipedia.org/wiki/Bleak_House">Wikipedia</title>-->
+               </bibl>
+               <bibl xml:id="University_of_New_England">
+                  <title ref="http://esthersnarrative.une.edu.au/themes-1/">University of New
+                     England website</title>
+               </bibl>
+               <bibl xml:id="Poetry_Foundation">
+                  <title ref="https://www.poetryfoundation.org/poets/charles-dickens">Poetry
+                     Foundation</title>
+               </bibl>
+		          <bibl xml:id="Gale">
+                  <title ref="https://www.gale.com/intl/essays/amy-j-lloyd-advertising">University
+		      of Cambridge</title>
+               </bibl>
+            </listBibl>
+         </div>
+         <div type="index">
+            <listPerson type="real">
+               <person xml:id="dickens">
+                  <persName>
+                     <surname type="first">Charles</surname>
+                     <surname type="middle">Knight</surname>    
+                     <forename>Dickens</forename>
+                  </persName>
+                  <note>
+                     <p> He was one of the most well-known English authors, who had a diverse writing 
+                        career as a reporter, editor and essayist.</p>
+                  </note>
+               </person>
+            </listPerson>
+            
+            <listPerson type="real">
+               <person xml:id="browne">
+                  <persName>
+                     <surname>Hablot</surname>
+                     <forename>Browne</forename>
+                  </persName>
+                  <note>
+                     <p>An illustrator for Bradbury and Evans. His nickname is "Phiz."</p>
+                  </note>
+               </person>
+            </listPerson>
+         </div>
+      </back>
+   </text>
+</TEI>
