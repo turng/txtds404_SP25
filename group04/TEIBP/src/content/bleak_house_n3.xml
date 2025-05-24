@@ -718,7 +718,7 @@
                      >2</biblScope>, <date>2006</date>, p.<biblScope unit="page"
                   >132-162</biblScope>. <publisher>Project MUSE</publisher>, <ptr
                      target="https://dx.doi.org/10.1353/nar.2006.0007"/>.</bibl>
-               <bibl xml:id="li2018"><author><surname>Li</surname>,
+               <bibl xml:id="li2018" type="article"><author><surname>Li</surname>,
                      <forename>Sumiao</forename></author>.<title level="a">FASHION, FASHIONABLE
                      INTELLIGENCE, AND THE VICTORIAN NOVEL: THE VERSATILE CASE OF BLEAK
                      HOUSE</title>.<title level="j">Victorian Literature and Culture</title>, vol.
