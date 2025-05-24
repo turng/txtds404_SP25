@@ -52,17 +52,17 @@
    <text>
       <front>
          <div type="introduction">
-            <p>This edition focuses on the advertisements that appeared alongside the original
-               serialized publication of Bleak House written by Charles Dickens and illustrated by
-               Hablot Knight Browne. This first edition was published in monthly parts between 1852
-               and 1853 and a well preserved complete set is available at the Special Collections of
-               the University of Washington Libraries. While the novel itself has been widely
-               studied for its plot, characters, and social commentary, the ads printed in each
-               issue are often overlooked. These advertisements offer a lot of information about
-               what people were buying, what they cared about, and how products and services were
-               marketed to them. From cures for illnesses to new inventions and fashion trends, the
-               ads show what everyday life might have looked like for mid-Victorian era of
-               London.</p>
+            <p>This edition focuses on the advertisements that appeared alongside the original <ref
+                  type="note" target="#n1">serialized publication</ref> of Bleak House written by
+               Charles Dickens and illustrated by Hablot Knight Browne. This first edition was
+               published in monthly parts between 1852 and 1853 and a well preserved complete set is
+               available at the Special Collections of the University of Washington Libraries. While
+               the novel itself has been widely studied for its plot, characters, and social
+               commentary, the ads printed in each issue are often overlooked. These advertisements
+               offer a lot of information about what people were buying, what they cared about, and
+               how products and services were marketed to them. From cures for illnesses to new
+               inventions and fashion trends, the ads show what everyday life might have looked like
+               for mid-Victorian era of London.</p>
             <p>Our approach treats each advertisement as a single unit of analysis, carefully
                examining its components such as images, product descriptions, catalogs,
                testimonials, and more. What remedies for ailments were marketed to the public 150
@@ -679,17 +679,40 @@
          </div>
       </body>
       <back>
-         <note xml:id="byron"><persName><roleName>Lord</roleName><forename>George</forename> Gordon
-                  <surname>Byron</surname></persName>, <date type="birth" when="1788-01-01">January
-               22, 1788</date>-<date type="death" when="1824-04-19">April 19, 1824</date></note>
-         <note xml:id="disraeliB"
-               ><persName><forename>Benjamin</forename><surname>Disraeli</surname></persName>, <date
-               type="birth" when="1804-12-21">December 21, 1804</date>-<date type="death"
-               when="1881-04-19">April 19, 1881</date></note>
-         <note xml:id="Dick"><persName><surname>Dickens</surname>,
-               <forename>Charles</forename></persName>, <date type="birth" when="1812-02-17"
-               >February 17, 1812</date>-<date type="death" when="1870-06-09">June 9,
-            1870</date></note>
+         <div type="endnotes">
+            <note xml:id="n1">Dickens is not the first author to publish a serialized form of the
+               novel, this is attributed to an author known only as <hi rend="italics">Boz</hi>
+               through the publishing company Chapman and Hall. Boz's work, popularly known back
+               then as the <hi rend="italics">Pickwick Papers</hi>, were selling as much as 40,000
+               copies per month in 1836. Nevertheless, Dickens is considered as the first already
+               commencially successful author, as he already finished his 8th novel -- <hi
+                  rend="italics">David Copperfield</hi>, who then published in serialized form. See
+                  <ref type="biblio" target="steinlight2006">Steinlight, 2006.</ref>.</note>
+            <note xml:id="byron"><persName><roleName>Lord</roleName><forename>George</forename>
+                  Gordon <surname>Byron</surname></persName>, <date type="birth" when="1788-01-01"
+                  >January 22, 1788</date>-<date type="death" when="1824-04-19">April 19,
+                  1824</date></note>
+            <note xml:id="disraeliB"
+                     ><persName><forename>Benjamin</forename><surname>Disraeli</surname></persName>,
+                  <date type="birth" when="1804-12-21">December 21, 1804</date>-<date type="death"
+                  when="1881-04-19">April 19, 1881</date></note>
+            <note xml:id="Dick"><persName><surname>Dickens</surname>,
+                  <forename>Charles</forename></persName>, <date type="birth" when="1812-02-17"
+                  >February 17, 1812</date>-<date type="death" when="1870-06-09">June 9,
+               1870</date></note>
+         </div>
+         <div type="bibliography">
+            <listBibl>
+               <bibl xml:id="steinlight2006" type="article"
+                        ><author><surname>Steinlight</surname><forename>Emily</forename></author>."<title
+                     level="a">'Anti-Bleak House': Advertising and the Victorian
+                     Novel</title>."<title level="j">Narrative</title>, vol.<biblScope unit="volume"
+                     >14</biblScope> no.<biblScope unit="issue"
+                     >2</biblScope>,<date>2006</date>,p.<biblScope unit="page"
+                     >132-162</biblScope>.<publisher>Project MUSE</publisher>,<ptr
+                     target="https://dx.doi.org/10.1353/nar.2006.0007"/>.</bibl>
+            </listBibl>
+         </div>
       </back>
    </text>
 </TEI>
