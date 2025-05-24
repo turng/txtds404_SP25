@@ -703,13 +703,12 @@
          </div>
          <div type="bibliography">
             <listBibl>
-               <bibl xml:id="steinlight2006" type="article"
-                        ><author><surname>Steinlight</surname><forename>Emily</forename></author>."<title
-                     level="a">'Anti-Bleak House': Advertising and the Victorian
-                     Novel</title>."<title level="j">Narrative</title>, vol.<biblScope unit="volume"
-                     >14</biblScope> no.<biblScope unit="issue"
-                     >2</biblScope>,<date>2006</date>,p.<biblScope unit="page"
-                     >132-162</biblScope>.<publisher>Project MUSE</publisher>,<ptr
+               <bibl xml:id="steinlight2006" type="article"><author><surname>Steinlight</surname>,
+                        <forename>Emily</forename></author>.<title level="a">'Anti-Bleak House':
+                     Advertising and the Victorian Novel</title>.<title level="j">Narrative</title>,
+                     vol.<biblScope unit="volume">14</biblScope> no.<biblScope unit="issue"
+                     >2</biblScope>, <date>2006</date>, p.<biblScope unit="page"
+                  >132-162</biblScope>. <publisher>Project MUSE</publisher>, <ptr
                      target="https://dx.doi.org/10.1353/nar.2006.0007"/>.</bibl>
             </listBibl>
          </div>
