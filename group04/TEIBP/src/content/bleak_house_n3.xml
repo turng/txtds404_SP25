@@ -122,11 +122,11 @@
          <div type="ad" xml:id="dakinCompany">
             <pb n="1"/>
             <opener><salute><name rend="ac">Chas. Dickens, Esq.</name> Sir,</salute></opener>
-            <p>We thank you for your new work. Though its name is <q rend="ac">Bleak House,</q>we
-               know well that its inmates will be warm and life-like. We thank you for it, not only
-               for the pleasure that we, in common with all its other readers, shall receive in its
-               perusal, but we thank you on more solid grounds; ,ve thank you for it as a matter of
-               business.</p>
+            <p><ref type="note" target="#n2">We thank you for your new work</ref>. Though its name
+               is <q rend="ac">Bleak House,</q>we know well that its inmates will be warm and
+               life-like. We thank you for it, not only for the pleasure that we, in common with all
+               its other readers, shall receive in its perusal, but we thank you on more solid
+               grounds; ,ve thank you for it as a matter of business.</p>
             <p>If it be true, that an observer must know of the existence of a place before he can
                arrange for visiting it, it must be equally true, that the public must be aware of
                the existence of an establishment before they can contemplate patronising it; and
@@ -688,6 +688,14 @@
                commercially successful author, as he already finished his 8th novel -- <hi
                   rend="italics">David Copperfield</hi>, who then published in serialized form. See
                   <ref type="biblio" target="steinlight2006">Steinlight, 2006</ref>.</note>
+            <note xml:id="n2">Although this appears to be a letter to Charles Dickens, it is an
+               adevertisement, nonetheless. In this sort of letter, the company thanked Dickens for
+               his work on Bleak House and also mentioned his other popular work such as <hi
+                  rend="italics">David Copperfield</hi>, to perhaps show sincerity, and then went on
+               to promote and rave about their products. This strategy of connecting the
+               advertisement to the source material, either to Bleak House or to Charles Dickens
+               himself, is seen in other ads of those days. See for example <ref type="biblio"
+                  target="li2018">Li, 2018</ref>.</note>
             <note xml:id="byron"><persName><roleName>Lord</roleName><forename>George</forename>
                   Gordon <surname>Byron</surname></persName>, <date type="birth" when="1788-01-01"
                   >January 22, 1788</date>-<date type="death" when="1824-04-19">April 19,
@@ -706,10 +714,17 @@
                <bibl xml:id="steinlight2006" type="article"><author><surname>Steinlight</surname>,
                         <forename>Emily</forename></author>.<title level="a">'Anti-Bleak House':
                      Advertising and the Victorian Novel</title>.<title level="j">Narrative</title>,
-                     vol.<biblScope unit="volume">14</biblScope> no.<biblScope unit="issue"
+                  vol. <biblScope unit="volume">14</biblScope> no. <biblScope unit="issue"
                      >2</biblScope>, <date>2006</date>, p.<biblScope unit="page"
                   >132-162</biblScope>. <publisher>Project MUSE</publisher>, <ptr
                      target="https://dx.doi.org/10.1353/nar.2006.0007"/>.</bibl>
+               <bibl xml:id="li2018"><author><surname>Li</surname>,
+                     <forename>Sumiao</forename></author>.<title level="a">FASHION, FASHIONABLE
+                     INTELLIGENCE, AND THE VICTORIAN NOVEL: THE VERSATILE CASE OF BLEAK
+                     HOUSE</title>.<title level="j">Victorian Literature and Culture</title>, vol.
+                     <biblScope unit="volume">46</biblScope>, no. <biblScope unit="issue"
+                     >1</biblScope>, <date>2018</date>, pp.<biblScope unit="page">23-55</biblScope>.
+                     <ptr target="https://doi.org/10.1017/S1060150317000316"/>.</bibl>
             </listBibl>
          </div>
       </back>
