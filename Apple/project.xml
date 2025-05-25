@@ -287,20 +287,21 @@
          </div>
          <div type="recipe" n="134">
             <head rend="smallcaps">134. Preserved Apples.</head>
-            <p>Cut up a quantity of lemon pippins, take the parings and the cores and boil them, by
-               themselves, for an hour; strain the water from them and add it to the sliced fruit,
-               put it into an enamelled saucepan upon a slow fire, and let it simmer until the
-               apples are done, then weigh a pound and a-half of sugar to each quart of fruit. Let
-               it boil gently for an hour and a-half, paying attention that it does not burn. This
-               is a very convenient preserve for keeping to use with damson or any other jams, which
-               are generally too scarce to be employed freely in the winter season.</p>
+            <p>Cut up a quantity of <note place="foot" n="5">lemon pippins</note>, take the parings
+               and the cores and boil them, by themselves, for an hour; strain the water from them
+               and add it to the sliced fruit, put it into an enamelled saucepan upon a slow fire,
+               and let it simmer until the apples are done, then weigh a pound and a-half of sugar
+               to each quart of fruit. Let it boil gently for an hour and a-half, paying attention
+               that it does not burn. This is a very convenient preserve for keeping to use with
+               damson or any other jams, which are generally too scarce to be employed freely in the
+               winter season.</p>
          </div>
          <div type="recipe" n="135">
             <head rend="smallcaps">135. Scalded Codlins></head>
-            <p>Take some small codlins, wrap each in a vine leaf, and pack them closely in a
-               stewpan; pour in as much cold water as will barely cover them, put them on the fire
-               and let them simmer very slowly until sufficiently tender to take their skins off
-               when cold enough to <choice>
+            <p>Take some small <note place="foot" n="6">codlins</note>, wrap each in a vine leaf,
+               and pack them closely in a stewpan; pour in as much cold water as will barely cover
+               them, put them on the fire and let them simmer very slowly until sufficiently tender
+               to take their skins off when cold enough to <choice>
                   <sic>do do</sic>
                   <corr>do</corr>
                </choice> so. Well powder them over with sifted white sugar, and serve upon cream or
@@ -310,9 +311,9 @@
             <head rend="smallcaps">136. Boiled Apple Dumplings.</head>
             <p>Take some medium-sized apples, not too large, or they will not be nicely done; peel,
                but do not core them, as the pips enhance the flavor of the fruit; wrap each in a
-               good beef-suet paste, made as for apple pudding (<emph>see</emph> No. 131), put them
-               into boiling water, and let them boil gently for an hour. Serve them as hot as
-               possible, and always with the following sauce.</p>
+               good beef-suet paste, made as for apple pudding (<emph rend="italic">see No.</emph>
+               131), put them into boiling water, and let them boil gently for an hour. Serve them
+               as hot as possible, and always with the following sauce.</p>
          </div>
          <div type="recipe" n="137">
             <head rend="smallcaps">137. Ginger Sauce.</head>
@@ -320,7 +321,7 @@
                gradually dredge in enough flour to make it thick; then stir in two tablespoonfuls of
                white sugar, and two dessertspoonfuls of the best ginger in powder; stir it over the
                fire until it boils. This forms a most relishing sauce for apple dumplings, apple
-               puddings, &amp;e., &amp;e.</p>
+               puddings, &amp;c., &amp;c.</p>
          </div>
          <div type="recipe" n="138">
             <head rend="smallcaps">138. Apple Fool.</head>
@@ -481,11 +482,20 @@
                occasionally sold at farmer's markets. <ref type="bibliography" target="golden">See
                   "Golden Pippin"</ref>
             </note>
-            <note xml:id="n4">Newtown Pippin apples originated in the 17th century in Newtown on Long
-               Island. They became popular in colonial America for eating, cooking, and cidermaking.
-               They are also very easy to store. The cultivation of Newtown Pippin apples spread to
-               Europe in the 1800. Today Newtown Pippins are a popular garden apple, but are not
-               readily avaible in most grocery stores. <ref type="bibliography" target="newtown"/>See "Newtown Pippin Apple"</note>
+            <note xml:id="n4">Newtown Pippin apples originated in the 17th century in Newtown on
+               Long Island. They became popular in colonial America for eating, cooking, and
+               cidermaking. They are also very easy to store. The cultivation of Newtown Pippin
+               apples spread to Europe in the 1800. Today Newtown Pippins are a popular garden
+               apple, but are not readily avaible in most grocery stores. <ref type="bibliography"
+                  target="newtown">See "Newtown Pippin Apple"</ref></note>
+            <note xml:id="n5">Lemon Pippin apples likely originated in Continental Europe in the
+               1500s. Used exclusively as a culinary or dessert apple, they are relatively difficult
+               to find today, but may be bought at speciality nurseries. <ref type="bibliography"
+                  target="lemon">See "Lemon Pippin"</ref>
+            </note>
+            <note xml:id="n6"> 'Codlin' or 'coldling" is a term used to describe a cooking apple,
+               often large, gree, and conic in shape. There are many different varities of apples
+               that fit inside this term. <ref type="bibliography" target="codlin"/></note>
          </div>
          <div type="bibliography">
             <listBibl>
@@ -503,4 +513,14 @@
                   Education Limited, New York, 2002.</bibl>
                <bibl xml:id="mw"> “Merriam-Webster Dictionary.” Merriam-Webster.com, 12 Apr.
                   2025.</bibl>
-               <bibl xml:id="orange"> “Esopus Spitzenburg Apple.�
+               <bibl xml:id="orange"> “Esopus Spitzenburg Apple.” Orange Pippin. 2009.</bibl>
+               <bibl xml:id="golden"> “Golden Pippin.” Brighton Permaculture Trust,
+                  brightonpermaculture.org.uk/golden-pippin/.</bibl>
+               <bibl xml:id="newtown"> "Newtown Pippin Apple." Orange Pippin. 2008. </bibl>
+               <bibl xml:id="lemon">"Lemon Pippin." Pomiferous. 2016. </bibl>
+               <bibl xml:id="codlin">"Dutch Codlin." Pomiferous. 2016.</bibl>
+            </listBibl>
+         </div>
+      </back>
+   </text>
+</TEI>
