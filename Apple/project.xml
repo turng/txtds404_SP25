@@ -55,17 +55,18 @@
          <div type="editorial_intro">
             <p>We chose to “How to Cook Potatoes, Apples, Eggs, Fish, Four Hundred Different Ways”
                by Georgiana Hill, because we were interested in the history and how women used to
-               use cookbooks as a form of expression. <ref type="bibliography" target="rich1">Georgiana Hill was a
-                  Victorian-era cookery writer, historian, and suffragist.</ref> While Georgiana
-               Hill’s life story is not known extensively, her impact is illustrated in at least 21
-               known works, often about cooking, historical dress, and the life of women in
-               Victorian England. Not only was Hill known for connecting women via her writing, but
-               she also altered the role of women as writers. <ref type="bibliography" target="rich2">Her writing painted
-               herself as a gastronomer, often a role held only by men, when women were expected
-               to only see cooking as a form of kitchen management.</ref>For the book we are
-               working on, the casual composition of the text and recipes illustrated how Georgiana
-               Hill wrote this cookbook to reach out to other women and build a sense of community
-               through the knowledge of cooking. </p>
+               use cookbooks as a form of expression. <ref type="bibliography" target="rich1"
+                  >Georgiana Hill was a Victorian-era cookery writer, historian, and
+                  suffragist.</ref> While Georgiana Hill’s life story is not known extensively, her
+               impact is illustrated in at least 21 known works, often about cooking, historical
+               dress, and the life of women in Victorian England. Not only was Hill known for
+               connecting women via her writing, but she also altered the role of women as writers.
+                  <ref type="bibliography" target="rich2">Her writing painted herself as a
+                  gastronomer, often a role held only by men, when women were expected to only see
+                  cooking as a form of kitchen management.</ref>For the book we are working on, the
+               casual composition of the text and recipes illustrated how Georgiana Hill wrote this
+               cookbook to reach out to other women and build a sense of community through the
+               knowledge of cooking. </p>
             <p>Considering the historical context, we decided to leave the text as untouched as
                possible. Changing historical spelling would change the sense of time of the text,
                and altering the casual form of the recipes would hide what we perceive as Hill’s
@@ -120,10 +121,11 @@
                and a glasss of raisin or Madeira wine. When this forms is a smooth paste, stir in a
                pound of pulped apples, which should have been previously boiled and allowed to grow
                cold. All the ingredients being properly mingled, put them into a well-buttered
-               mould, and either boil or bake it for half an hour. In Marseilles, where we partook
-               of this elegant compound, it was served with a sauce prepared with sugar and rum, in
-               which a clove or two of garlic had been steeped. National prejudices did not prevent
-               our pronouncing it delicious.</p>
+               mould, and either boil or bake it for half an hour. In
+                  <placeName>Marseilles</placeName>, where we partook of this elegant compound, it
+               was served with a sauce prepared with sugar and rum, in which a clove or two of
+               garlic had been steeped. National prejudices did not prevent our pronouncing it
+               delicious.</p>
          </div>
          <div type="recipe" n="117">
             <head rend="smallcaps">117. Apple Ginger.</head>
@@ -244,10 +246,11 @@
          <div type="recipe" n="129">
             <head rend="smallcaps">129. Gélatine De Pommes.</head>
             <p>In a pint of water boil one pound and a half of white sugar until it is reduced to a
-               very thick syrup; then add two pounds of Newtown pippins, pared, cored, and cut into
-               slices; squeeze in the juice of three lemons, and simmer gently until it is almost a
-               paste; then pour it into a mould and, when cold, it will turn out a solid jelly.
-               Serve it surrounded with scaled cream in a deep dish. </p>
+               very thick syrup; then add two pounds of <note place="foot" n="4">Newtown
+                  pippins</note>, pared, cored, and cut into slices; squeeze in the juice of three
+               lemons, and simmer gently until it is almost a paste; then pour it into a mould and,
+               when cold, it will turn out a solid jelly. Serve it surrounded with scaled cream in a
+               deep dish. </p>
          </div>
          <div type="recipe" n="130">
             <head rend="smallcaps">130. Apples With Pork Chops.</head>
@@ -476,8 +479,13 @@
             <note xml:id="n3">The Golden Pippin apple were widely avaible in the 18th century,
                however today they are harder to find, usually being grown in backyards and
                occasionally sold at farmer's markets. <ref type="bibliography" target="golden">See
-                  source 6</ref>
+                  "Golden Pippin"</ref>
             </note>
+            <note xml:id="n4">Newtown Pippin apples originated in the 17th century in Newtown on Long
+               Island. They became popular in colonial America for eating, cooking, and cidermaking.
+               They are also very easy to store. The cultivation of Newtown Pippin apples spread to
+               Europe in the 1800. Today Newtown Pippins are a popular garden apple, but are not
+               readily avaible in most grocery stores. <ref type="bibliography" target="newtown"/>See "Newtown Pippin Apple"</note>
          </div>
          <div type="bibliography">
             <listBibl>
@@ -495,10 +503,11 @@
                   Education Limited, New York, 2002.</bibl>
                <bibl xml:id="mw"> “Merriam-Webster Dictionary.” Merriam-Webster.com, 12 Apr.
                   2025.</bibl>
-               <bibl xml:id="orange"> “Orange Pippin.” Apple - Esopus Spitzenburg - Tasting Notes,
-                  Identification, Reviews, 18 July 2022.</bibl>
+               <bibl xml:id="orange"> “Esopus Spitzenburg Apple.” Orange Pippin. 2009.</bibl>
                <bibl xml:id="golden"> “Golden Pippin.” Brighton Permaculture Trust,
-                  brightonpermaculture.org.uk/golden-pippin/. Accessed 19 May 2025.</bibl>
+                  brightonpermaculture.org.uk/golden-pippin/.</bibl>
+               <bibl xml:id="newtown"> "Newtown Pippin Apple." Orange Pippin. 2008.
+               </bibl>
             </listBibl>
          </div>
       </back>
