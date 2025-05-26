@@ -745,7 +745,10 @@
          </div>
          <div type="ad" xml:id="johnCumming">
             <pb n="64"/>
-            <p><fw type="header"><emph rend="fancyFont medFont">Works by the Reb.</emph></fw>
+            <p><fw type="header"><emph rend="fancyFont medFont">Works by the <ref type="note"
+                        target="#n3"><persName><roleName>Rev</roleName>. <forename>John</forename>
+                           <surname>Cumming</surname>
+                           <roleName>D. D.</roleName></persName></ref></emph></fw>
                <lb/> Fifth Thousand, in 2 vols. fcap 8vo, price 9s, cloth, full gilt,<lb/>
                <emph rend="sc medFont">Forshadows;</emph>
                <emph rend="medFont">or, Lecutres on our Lord's Miracles</emph><lb/> and parables as
@@ -835,6 +838,13 @@
                   <forename>Charles</forename></persName>, <date type="birth" when="1812-02-17"
                   >February 17, 1812</date>-<date type="death" when="1870-06-09">June 9,
                1870</date></note>
+            <note xml:id="n3"><persName><roleName>Rev</roleName>. <forename>John</forename>
+                  <surname>Cumming</surname>
+                  <roleName>D. D.</roleName></persName>, (<date type="birth" when="1807"
+                  >1807</date>-<date type="death" when="1881">1881</date>) was a prolific writer and
+               a notable minister of the National Scottish Church. He was most known for his
+               interest in the prophesied apocalypse, his anti-Catholic views, and his dislike
+               towards Rome</note>
          </div>
          <div type="bibliography">
             <listBibl>
@@ -852,6 +862,14 @@
                      <biblScope unit="volume">46</biblScope>, no. <biblScope unit="issue"
                      >1</biblScope>, <date>2018</date>, pp.<biblScope unit="page">23-55</biblScope>.
                      <ptr target="https://doi.org/10.1017/S1060150317000316"/>.</bibl>
+               <bibl xml:id="cummingJohn"><author><persName><surname>Ellison</surname>,
+                           <forename>Robert</forename></persName></author> and
+                           <author><persName><surname>Carol</surname>
+                        <forename>Engelhardt</forename></persName></author>.
+                  “<title level="a"><persName><forename>John</forename>
+                        <surname>Cumming</surname></persName> -- An Introduction.</title>” <publisher>The
+                  Victorian Web</publisher>, <date when="2002-08-27">27 Aug. 2002</date>, <ptr target="https://victorianweb.org/religion/sermons/rhe12.html"/>.
+               </bibl>
             </listBibl>
          </div>
       </back>
