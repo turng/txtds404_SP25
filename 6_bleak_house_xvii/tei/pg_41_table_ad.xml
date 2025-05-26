@@ -148,6 +148,7 @@
                        </table>
                     </cell>
                     <!-- ... -->
+                    <cell cols="9" rend="placeholder">...</cell>
                     <!-- nested table for Threaded. -->
                     <cell>
                        <table>
@@ -205,6 +206,7 @@
                        </table>
                     </cell>
                     <!-- ... -->
+                    <cell cols="9" rend="placeholder">...</cell>
                     <!-- nested table for King's -->
                     <cell>
                        <table>
@@ -267,7 +269,7 @@
            
            <div rend="bold">
               <p>Superb Epergnes, Candelabra, Salad Stands, Wine Coolers, Waiters, Corner Dishes,</p>
-              <p>Meat and Venison Dishes, Dish Covers, Cruet Frames, Liqueur Stands, Spoons and                         Forks,</p>
+              <p>Meat and Venison Dishes, Dish Covers, Cruet Frames, Liqueur Stands, Spoons and Forks,</p>
               <p>Tea and Coffee Services,Tea Kettles, Toast Racks, &amp;c., &amp;c.</p>
            </div>
            <div>
