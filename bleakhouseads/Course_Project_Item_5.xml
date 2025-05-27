@@ -102,7 +102,19 @@
     </teiHeader>
     <text>
         <body>
-            <p>Some text here.</p>
+            <div>
+                <head rend="bold caps">Bleak House Advertisers.</head>
+                <lb/>
+                <p rend="bold" style="font-size:20px">Completion of Bleak House.</p>
+                <lb/>
+                <p>On Monday, 12th September will be published,</p>
+                <p><hi rend="italics">Complete in One thick Volume, 8vo, with Forty Illustrations by</hi> H.K. Browne,</p>
+                <p style="font-size:30px"><hi rend="caps">Bleak House.</hi></p>
+                <p style="font-size:12px"><hi rend="caps">By</hi></p>
+                <p style="font-size:16px"><hi rend="caps">Charles Dickens.</hi></p>
+                <p>The Publishers beg to inform the Public and the Trade that <hi rend="caps">Bleak House,</hi> complete in One Volume, will be ready for delivery on the 12th September.</p>
+                <p>Price, neatly bound in cloth</p>
+            </div>
         </body>
     </text>
 </TEI>

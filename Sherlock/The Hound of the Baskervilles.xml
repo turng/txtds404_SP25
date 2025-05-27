@@ -68,8 +68,16 @@
    </teiHeader>
    <text>
       <front xml:lang="en"> 
-      
-      
+         <pb n="122"/>
+         <figure place="center">
+            <graphic url="link to image file"/>
+            <P rend="bottom">
+               
+            </P>
+            <figDesc>
+               
+            </figDesc>
+         </figure>
       
       </front>
       <body xml:lang="en">

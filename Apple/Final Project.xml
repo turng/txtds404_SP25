@@ -2,14 +2,11 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Various Ways of Cooking Apples</title>
+            <title>Various Ways of Cooking Appless</title>
             <author>Georgiana Hill</author>
             <editor>Ainsley Lin, Isabelle Bowman</editor>
          </titleStmt>
@@ -56,20 +53,16 @@
             <titlePart>...</titlePart>
          </titlePage>
          <div type="editorial_intro">
-            <p>We chose to transcribe “How to Cook Potatoes, Apples, Eggs, Fish, Four Hundred Different Ways”
+            <p>We chose to “How to Cook Potatoes, Apples, Eggs, Fish, Four Hundred Different Ways”
                by Georgiana Hill, because we were interested in the history and how women used to
-               use cookbooks as a form of expression. <ref type="bibliography" target="rich1"
-                  >Georgiana Hill was a Victorian-era cookery writer, historian, and
-                  suffragist.</ref> While Georgiana Hill’s life story is not known extensively, her
-               impact is illustrated in at least 21 known works, often about cooking, historical
-               dress, and the life of women in Victorian England. Not only was Hill known for
-               connecting women via her writing, but she also altered the role of women as writers.
-                  <ref type="bibliography" target="rich2">Her writing painted herself as a
-                  gastronomer, often a role held only by men, when women were expected to only see
-                  cooking as a form of kitchen management.</ref>For the book we are working on, the
-               casual composition of the text and recipes illustrated how Georgiana Hill wrote this
-               cookbook to reach out to other women and build a sense of community through the
-               knowledge of cooking. </p>
+               use cookbooks as a form of expression. <note place="foot" n="4">Georgiana Hill was a
+                  Victorian-era cookery writer, historian, and activist.</note> While Georgiana
+               Hill’s life story is not known extensively, her impact is illustrated in at least 21
+               known works, often about cooking, historical dress, and the life of women in
+               Victorian England. For the book we are working on, the casual composition of the text
+               and recipes illustrated how <note place="foot" n="5">Georgiana Hill wrote this
+                  cookbook to reach out to other women and build a sense of community through the
+                  knowledge of cooking.</note></p>
             <p>Considering the historical context, we decided to leave the text as untouched as
                possible. Changing historical spelling would change the sense of time of the text,
                and altering the casual form of the recipes would hide what we perceive as Hill’s
@@ -124,11 +117,10 @@
                and a glasss of raisin or Madeira wine. When this forms is a smooth paste, stir in a
                pound of pulped apples, which should have been previously boiled and allowed to grow
                cold. All the ingredients being properly mingled, put them into a well-buttered
-               mould, and either boil or bake it for half an hour. In
-                  <placeName>Marseilles</placeName>, where we partook of this elegant compound, it
-               was served with a sauce prepared with sugar and rum, in which a clove or two of
-               garlic had been steeped. National prejudices did not prevent our pronouncing it
-               delicious.</p>
+               mould, and either boil or bake it for half an hour. In Marseilles, where we partook
+               of this elegant compound, it was served with a sauce prepared with sugar and rum, in
+               which a clove or two of garlic had been steeped. National prejudices did not prevent
+               our pronouncing it delicious.</p>
          </div>
          <div type="recipe" n="117">
             <head rend="smallcaps">117. Apple Ginger.</head>
@@ -137,7 +129,7 @@
                them up; clarify weight for weight of white sugar, and boil it to almost a candy
                height, throw in the apples, draining them from the water, and, without boiling, put
                them aside for half an hour, keeping them closely covered; then pour in a bottle and
-               a half of Brown's tincture of ginger; boil it all until clear and of a proper
+               a half of Brown's tincture of ginger; boil it all unitl clear and of a proper
                consistency. When sufficiently cool, put it into bottles or jars. This economical
                preparation is very little inferior to foreign preserved ginger; it keeps well, and
                is exceedingly beneficial as a restorative for weak nerves.</p>
@@ -249,11 +241,10 @@
          <div type="recipe" n="129">
             <head rend="smallcaps">129. Gélatine De Pommes.</head>
             <p>In a pint of water boil one pound and a half of white sugar until it is reduced to a
-               very thick syrup; then add two pounds of <note place="foot" n="4">Newtown
-                  pippins</note>, pared, cored, and cut into slices; squeeze in the juice of three
-               lemons, and simmer gently until it is almost a paste; then pour it into a mould and,
-               when cold, it will turn out a solid jelly. Serve it surrounded with scaled cream in a
-               deep dish. </p>
+               very thick syrup; then add two pounds of Newtown pippins, pared, cored, and cut into
+               slices; squeeze in the juice of three lemons, and simmer gently until it is almost a
+               paste; then pour it into a mould and, when cold, it will turn out a solid jelly.
+               Serve it surrounded with scaled cream in a deep dish. </p>
          </div>
          <div type="recipe" n="130">
             <head rend="smallcaps">130. Apples With Pork Chops.</head>
@@ -290,21 +281,20 @@
          </div>
          <div type="recipe" n="134">
             <head rend="smallcaps">134. Preserved Apples.</head>
-            <p>Cut up a quantity of <note place="foot" n="5">lemon pippins</note>, take the parings
-               and the cores and boil them, by themselves, for an hour; strain the water from them
-               and add it to the sliced fruit, put it into an enamelled saucepan upon a slow fire,
-               and let it simmer until the apples are done, then weigh a pound and a-half of sugar
-               to each quart of fruit. Let it boil gently for an hour and a-half, paying attention
-               that it does not burn. This is a very convenient preserve for keeping to use with
-               damson or any other jams, which are generally too scarce to be employed freely in the
-               winter season.</p>
+            <p>Cut up a quantity of lemon pippins, take the parings and the cores and boil them, by
+               themselves, for an hour; strain the water from them and add it to the sliced fruit,
+               put it into an enamelled saucepan upon a slow fire, and let it simmer until the
+               apples are done, then weigh a pound and a-half of sugar to each quart of fruit. Let
+               it boil gently for an hour and a-half, paying attention that it does not burn. This
+               is a very convenient preserve for keeping to use with damson or any other jams, which
+               are generally too scarce to be employed freely in the winter season.</p>
          </div>
          <div type="recipe" n="135">
-            <head rend="smallcaps">135. Scalded Codlins.</head>
-            <p>Take some small <note place="foot" n="6">codlins</note>, wrap each in a vine leaf,
-               and pack them closely in a stewpan; pour in as much cold water as will barely cover
-               them, put them on the fire and let them simmer very slowly until sufficiently tender
-               to take their skins off when cold enough to <choice>
+            <head rend="smallcaps">135. Scalded Codlins></head>
+            <p>Take some small codlins, wrap each in a vine leaf, and pack them closely in a
+               stewpan; pour in as much cold water as will barely cover them, put them on the fire
+               and let them simmer very slowly until sufficiently tender to take their skins off
+               when cold enough to <choice>
                   <sic>do do</sic>
                   <corr>do</corr>
                </choice> so. Well powder them over with sifted white sugar, and serve upon cream or
@@ -314,9 +304,9 @@
             <head rend="smallcaps">136. Boiled Apple Dumplings.</head>
             <p>Take some medium-sized apples, not too large, or they will not be nicely done; peel,
                but do not core them, as the pips enhance the flavor of the fruit; wrap each in a
-               good beef-suet paste, made as for apple pudding (<emph rend="italic">see No.</emph>
-               131), put them into boiling water, and let them boil gently for an hour. Serve them
-               as hot as possible, and always with the following sauce.</p>
+               good beef-suet paste, made as for apple pudding (<emph>see</emph> No. 131), put them
+               into boiling water, and let them boil gently for an hour. Serve them as hot as
+               possible, and always with the following sauce.</p>
          </div>
          <div type="recipe" n="137">
             <head rend="smallcaps">137. Ginger Sauce.</head>
@@ -324,7 +314,7 @@
                gradually dredge in enough flour to make it thick; then stir in two tablespoonfuls of
                white sugar, and two dessertspoonfuls of the best ginger in powder; stir it over the
                fire until it boils. This forms a most relishing sauce for apple dumplings, apple
-               puddings, &amp;c., &amp;c.</p>
+               puddings, &amp;e., &amp;e.</p>
          </div>
          <div type="recipe" n="138">
             <head rend="smallcaps">138. Apple Fool.</head>
@@ -364,22 +354,21 @@
          </div>
          <div type="recipe" n="142">
             <head rend="smallcaps">142. Apple Tart.</head>
-            <p>Pare some good dressing apples, <note place="foot" n="7">winter russetings</note> are
-               the best, cut them into long slices, scald them until quite soft, but use very little
-               water; when tender enough, mash them smoothly with the liquor; add two ounces of
-               fresh butter, a gill of cream, the grated rind of a lemon, and some white sugar; mix
-               all well together, squeeze over it the juice of the lemon; put a very light paste
-               round the dish, and a few ornamental bars across. Half an hour in a brisk oven will
-               do this tart.</p>
+            <p>Pare some good dressing apples, winter russetings are the best, cut them into long
+               slices, scald them until quite soft, but use very little water; when tender enough,
+               mash them smoothly with the liquor; add two ounces of fresh butter, a gill of cream,
+               the grated rind of a lemon, and some white sugar; mix all well together, squeeze over
+               it the juice of the lemon; put a very light paste round the dish, and a few
+               ornamental bars across. Half an hour in a brisk oven will do this tart.</p>
          </div>
          <div type="recipe" n="143">
             <head rend="smallcaps">143. Confiture De Pommes.</head>
-            <p>To each pound of boiling clarified sugar throw in the same weight of <ref type="note"
-                  target="#n4">Newtown pippins</ref> cut into very thin slices, and the juice and
-               finely-shred, rind of three oranges. Let it boil for twenty minutes, skimming it
-               carefully; then retire it from the fire, and when sufficiently cold, put it into your
-               preserving pots. The next day strew a little white sugar over each, cover them with
-               brandied or oiled papers, and tie them down.</p>
+            <p>To each pound of boiling clarified sugar throw in the same weight of Newtown pippins
+               cut into very thin slices, and the juice and finely-shred, rind of three oranges. Let
+               it boil for twenty minutes, skimming it carefully; then retire it from the fire, and
+               when sufficiently cold, put it into your preserving pots. The next day strew a little
+               white sugar over each, cover them with brandied or oiled papers, and tie them
+               down.</p>
          </div>
          <div type="recipe" n="144">
             <head rend="smallcaps">144. Apple Sauce To Keep For Winter Use.</head>
@@ -405,13 +394,12 @@
          </div>
          <div type="recipe" n="146">
             <head rend="smallcaps">146. Apple Syrup.</head>
-            <p>Peel, but do not core, some <ref type="note" target="#n2">spitzenbergen apples</ref>;
-               cut them into very thin slices, and to each pound of fruit add a pound of white sugar
-               and a teacupful of boiling water; put this into an earthen jar, which stands inside a
-               saucepan of water. Let it remain boiling for two hours and a-half, occasionally
-               shaking, but on no account stirring with a spoon or other utensil. When it is cold,
-               pour off the clear syrup as gently as possible from the pulp, and put it into bottles
-               for keeping.</p>
+            <p>Peel, but do not core, some spitzenbergen apples; cut them into very thin slices, and
+               to each pound of fruit add a pound of white sugar and a teacupful of boiling water;
+               put this into an earthen jar, which stands inside a saucepan of water. Let it remain
+               boiling for two hours and a-half, occasionally shaking, but on no account stirring
+               with a spoon or other utensil. When it is cold, pour off the clear syrup as gently as
+               possible from the pulp, and put it into bottles for keeping.</p>
          </div>
          <div type="recipe" n="147">
             <head rend="smallcaps">147. Baked Apple Pudding.</head>
@@ -476,61 +464,46 @@
       <back>
          <div type="endnotes">
             <note xml:id="n1">This term can be defined as "the most prodound degree of a quality or
-               state" <ref type="bibliography" target="mw">See Merriam-Webster</ref></note>
+               state" <ref type="bibliography" target="source4">See source 4</ref></note>
             <note xml:id="n2">Spitzenbergen apples were very common starting at the end of the 18th
                century and throughout the 19th century, and were found in New York. Since then,
                these apples have become much less common in stores, but are avaible in nurseries.
-                  <ref type="bibliography" target="orange">See "Orange Pippin" 5</ref>
+                  <ref type="bibliography" target="source5">See source 5</ref>
             </note>
             <note xml:id="n3">The Golden Pippin apple were widely avaible in the 18th century,
                however today they are harder to find, usually being grown in backyards and
-               occasionally sold at farmer's markets. <ref type="bibliography" target="golden">See
-                  "Golden Pippin"</ref>
+               occasionally sold at farmer's markets. <ref type="bibliography" target="source6">See
+                  source 6</ref>
             </note>
-            <note xml:id="n4">Newtown Pippin apples originated in the 17th century in Newtown on
-               Long Island. They became popular in colonial America for eating, cooking, and
-               cidermaking. They are also very easy to store. The cultivation of Newtown Pippin
-               apples spread to Europe in the 1800. Today Newtown Pippins are a popular garden
-               apple, but are not readily avaible in most grocery stores. <ref type="bibliography"
-                  target="newtown">See "Newtown Pippin Apple"</ref></note>
-            <note xml:id="n5">Lemon Pippin apples likely originated in Continental Europe in the
-               1500s. Used exclusively as a culinary or dessert apple, they are relatively difficult
-               to find today, but may be bought at speciality nurseries. <ref type="bibliography"
-                  target="lemon">See "Lemon Pippin"</ref>
+            <note xml:id="n4">Georgiana Hill was a cookbook writer, historian and suffragist in the
+               Victorian era.<ref type="bibliography" target="source1">See source 1.</ref>
             </note>
-            <note xml:id="n6"> 'Codlin' or 'coldling" is a term used to describe a cooking apple,
-               often large, gree, and conic in shape. There are many different varities of apples
-               that fit inside this term. <ref type="bibliography" target="codlin">See "Dutch
-                  Codlin"</ref>
-            </note>
-            <note xml:id="n7"> A winter russet apple is a culinary apple and can be found at
-               speciality nurseries. <ref type="bibliography" target="winter">See "Winter
-                  Russet</ref>
-            </note>
+            <note xml:id="n5">Not only was Hill known for connecting women via her writing, but she
+               also altered the role of women as writers. Her writing painted herself as a
+               gastronomer, often a role held only by men, when women were expected to only see
+               cooking as a form of kitchen management. <ref type="bibliography" target="source2"
+                  >See source 2.</ref></note>
          </div>
          <div type="bibliography">
             <listBibl>
-               <bibl xml:id="rich1">
+               <bibl xml:id="source1">
                   <author>Rich, Rachel.</author>
                   <title>From Recipe to Biography: Georgiana Hill's life in cooking.</title> The
                   Recipes Project, May 1, 2014.</bibl>
-               <bibl xml:id="rich2">
+               <bibl xml:id="source2">
                   <author>Rich, Rachel.</author>
                   <title>Cookbook Writers and Recipe Readers: Georgiana Hill, Isabella Beeton and
                      Victorian Domesticity</title> Journal of Victorian Culture, Volume 25, Issue 3,
                   July 2020, Pages 408–423, </bibl>
-               <bibl xml:id="alberti">
+               <bibl xml:id="source3">
                   <author>Alberti, Johanna</author>.<title>Gender and the Historian</title>. Pearson
                   Education Limited, New York, 2002.</bibl>
-               <bibl xml:id="mw"> “Merriam-Webster Dictionary.” Merriam-Webster.com, 12 Apr.
+               <bibl xml:id="source4"> “Merriam-Webster Dictionary.” Merriam-Webster.com, 12 Apr.
                   2025.</bibl>
-               <bibl xml:id="orange"> “Esopus Spitzenburg Apple.” Orange Pippin. 2009.</bibl>
-               <bibl xml:id="golden"> “Golden Pippin.” Brighton Permaculture Trust,
-                  brightonpermaculture.org.uk/golden-pippin/.</bibl>
-               <bibl xml:id="newtown"> "Newtown Pippin Apple." Orange Pippin. 2008. </bibl>
-               <bibl xml:id="lemon">"Lemon Pippin." Pomiferous. 2016. </bibl>
-               <bibl xml:id="codlin">"Dutch Codlin." Pomiferous. 2016.</bibl>
-               <bibl xml:id="winter">"Winter Russet." Pomiferous. 2016.</bibl>
+               <bibl xml:id="source5"> “Orange Pippin.” Apple - Esopus Spitzenburg - Tasting Notes,
+                  Identification, Reviews, 18 July 2022.</bibl>
+               <bibl xml:id="source6"> “Golden Pippin.” Brighton Permaculture Trust,
+                  brightonpermaculture.org.uk/golden-pippin/. Accessed 19 May 2025.</bibl>
             </listBibl>
          </div>
       </back>

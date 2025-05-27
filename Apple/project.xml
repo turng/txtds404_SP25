@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Various Ways of Cooking Appless</title>
+            <title>Various Ways of Cooking Apples</title>
             <author>Georgiana Hill</author>
             <editor>Ainsley Lin, Isabelle Bowman</editor>
          </titleStmt>
@@ -53,7 +53,7 @@
             <titlePart>...</titlePart>
          </titlePage>
          <div type="editorial_intro">
-            <p>We chose to “How to Cook Potatoes, Apples, Eggs, Fish, Four Hundred Different Ways”
+            <p>We chose to transcribe “How to Cook Potatoes, Apples, Eggs, Fish, Four Hundred Different Ways”
                by Georgiana Hill, because we were interested in the history and how women used to
                use cookbooks as a form of expression. <ref type="bibliography" target="rich1"
                   >Georgiana Hill was a Victorian-era cookery writer, historian, and
@@ -134,7 +134,7 @@
                them up; clarify weight for weight of white sugar, and boil it to almost a candy
                height, throw in the apples, draining them from the water, and, without boiling, put
                them aside for half an hour, keeping them closely covered; then pour in a bottle and
-               a half of Brown's tincture of ginger; boil it all unitl clear and of a proper
+               a half of Brown's tincture of ginger; boil it all until clear and of a proper
                consistency. When sufficiently cool, put it into bottles or jars. This economical
                preparation is very little inferior to foreign preserved ginger; it keeps well, and
                is exceedingly beneficial as a restorative for weak nerves.</p>
@@ -297,7 +297,7 @@
                winter season.</p>
          </div>
          <div type="recipe" n="135">
-            <head rend="smallcaps">135. Scalded Codlins></head>
+            <head rend="smallcaps">135. Scalded Codlins.</head>
             <p>Take some small <note place="foot" n="6">codlins</note>, wrap each in a vine leaf,
                and pack them closely in a stewpan; pour in as much cold water as will barely cover
                them, put them on the fire and let them simmer very slowly until sufficiently tender
@@ -361,21 +361,22 @@
          </div>
          <div type="recipe" n="142">
             <head rend="smallcaps">142. Apple Tart.</head>
-            <p>Pare some good dressing apples, winter russetings are the best, cut them into long
-               slices, scald them until quite soft, but use very little water; when tender enough,
-               mash them smoothly with the liquor; add two ounces of fresh butter, a gill of cream,
-               the grated rind of a lemon, and some white sugar; mix all well together, squeeze over
-               it the juice of the lemon; put a very light paste round the dish, and a few
-               ornamental bars across. Half an hour in a brisk oven will do this tart.</p>
+            <p>Pare some good dressing apples, <note place="foot" n="7">winter russetings</note> are
+               the best, cut them into long slices, scald them until quite soft, but use very little
+               water; when tender enough, mash them smoothly with the liquor; add two ounces of
+               fresh butter, a gill of cream, the grated rind of a lemon, and some white sugar; mix
+               all well together, squeeze over it the juice of the lemon; put a very light paste
+               round the dish, and a few ornamental bars across. Half an hour in a brisk oven will
+               do this tart.</p>
          </div>
          <div type="recipe" n="143">
             <head rend="smallcaps">143. Confiture De Pommes.</head>
-            <p>To each pound of boiling clarified sugar throw in the same weight of Newtown pippins
-               cut into very thin slices, and the juice and finely-shred, rind of three oranges. Let
-               it boil for twenty minutes, skimming it carefully; then retire it from the fire, and
-               when sufficiently cold, put it into your preserving pots. The next day strew a little
-               white sugar over each, cover them with brandied or oiled papers, and tie them
-               down.</p>
+            <p>To each pound of boiling clarified sugar throw in the same weight of <ref type="note"
+                  target="#n4">Newtown pippins</ref> cut into very thin slices, and the juice and
+               finely-shred, rind of three oranges. Let it boil for twenty minutes, skimming it
+               carefully; then retire it from the fire, and when sufficiently cold, put it into your
+               preserving pots. The next day strew a little white sugar over each, cover them with
+               brandied or oiled papers, and tie them down.</p>
          </div>
          <div type="recipe" n="144">
             <head rend="smallcaps">144. Apple Sauce To Keep For Winter Use.</head>
@@ -401,12 +402,13 @@
          </div>
          <div type="recipe" n="146">
             <head rend="smallcaps">146. Apple Syrup.</head>
-            <p>Peel, but do not core, some spitzenbergen apples; cut them into very thin slices, and
-               to each pound of fruit add a pound of white sugar and a teacupful of boiling water;
-               put this into an earthen jar, which stands inside a saucepan of water. Let it remain
-               boiling for two hours and a-half, occasionally shaking, but on no account stirring
-               with a spoon or other utensil. When it is cold, pour off the clear syrup as gently as
-               possible from the pulp, and put it into bottles for keeping.</p>
+            <p>Peel, but do not core, some <ref type="note" target="#n2">spitzenbergen apples</ref>;
+               cut them into very thin slices, and to each pound of fruit add a pound of white sugar
+               and a teacupful of boiling water; put this into an earthen jar, which stands inside a
+               saucepan of water. Let it remain boiling for two hours and a-half, occasionally
+               shaking, but on no account stirring with a spoon or other utensil. When it is cold,
+               pour off the clear syrup as gently as possible from the pulp, and put it into bottles
+               for keeping.</p>
          </div>
          <div type="recipe" n="147">
             <head rend="smallcaps">147. Baked Apple Pudding.</head>
@@ -495,7 +497,13 @@
             </note>
             <note xml:id="n6"> 'Codlin' or 'coldling" is a term used to describe a cooking apple,
                often large, gree, and conic in shape. There are many different varities of apples
-               that fit inside this term. <ref type="bibliography" target="codlin"/></note>
+               that fit inside this term. <ref type="bibliography" target="codlin">See "Dutch
+                  Codlin"</ref>
+            </note>
+            <note xml:id="n7"> A winter russet apple is a culinary apple and can be found at
+               speciality nurseries. <ref type="bibliography" target="winter">See "Winter
+                  Russet</ref>
+            </note>
          </div>
          <div type="bibliography">
             <listBibl>
@@ -519,6 +527,7 @@
                <bibl xml:id="newtown"> "Newtown Pippin Apple." Orange Pippin. 2008. </bibl>
                <bibl xml:id="lemon">"Lemon Pippin." Pomiferous. 2016. </bibl>
                <bibl xml:id="codlin">"Dutch Codlin." Pomiferous. 2016.</bibl>
+               <bibl xml:id="winter">"Winter Russet." Pomiferous. 2016.</bibl>
             </listBibl>
          </div>
       </back>
