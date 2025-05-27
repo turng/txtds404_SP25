@@ -70,10 +70,10 @@
       <front xml:lang="en"> 
          <pb n="122"/>
          <figure place="center">
-            <graphic url="link to image file"/>
-            <P rend="bottom">
-               
-            </P>
+            <graphic url="BaskervillePage122.png"/>
+            <p rendition="bottom" rend="caps"><!-- in places where we need to have two rendition attribtes, can we we do rendition and rend?-->
+               The Hound of the Baskerville</p>
+            <ab rend="italics">(See page 128.)</ab>
             <figDesc>
                
             </figDesc>
@@ -307,8 +307,10 @@
       </body>
    </text>
    <standOff>
-      
-      
-      
+      <bibl>
+         
+         
+         
+      </bibl>
    </standOff>
 </TEI>
