@@ -908,6 +908,7 @@
             </closer>
          </div>
          <div type="ad-group" xml:id="newWorks">
+	    <pb n="65"/>
             <p>
                <fw type="header"><emph rend="fancyFont medfont">New Works and New Editions.</emph></fw><lb/>
             </p>   
