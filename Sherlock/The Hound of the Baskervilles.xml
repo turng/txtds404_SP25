@@ -2,315 +2,310 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>The Hound of the Baskervilles</title>
-            <author>Arthur Conan Doyle</author>
-            <editor>Em Backstrom</editor>
-            <editor>Blue Jordan</editor>
-            <editor>Rowan Herron</editor>
+            <title>Title</title>
          </titleStmt>
          <publicationStmt>
-            <p>We plan to publish this edition of The Hound of the Baskervilles in June 2025.</p>
+            <p>Publication Information</p>
          </publicationStmt>
          <sourceDesc>
-            <bibl>
-               <series>
-                  <title>The Strand Magazine</title>
-                  <biblScope unit="volume">22</biblScope>
-               </series>
-               <author>Arthur Conan Doyle</author>
-               <title>The Hound of the Baskervilles></title>
-               <publisher>George Newnes LTD.</publisher>
-               <pubPlace>
-                  <address>
-                     <addrLine>George Newnes LTD.</addrLine>
-                     <addrLine>7, 8, 9, 10, 11, &amp; 12, Southampton Street,</addrLine>
-                     <addrLine>and Exeter Street, London</addrLine>
-                  </address>
-               </pubPlace>
-               <date when="1901-08">August 1901</date>
-               <availability>
-                  <p>Held by UW Special Collections under the call number 051 SM v.22.</p>
-               </availability>
-            </bibl>
+            <p>Information about the source</p>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>This edition was created as part of TXTDS 404 at the University of Washington over
-               the course of Spring Quarter 2025. Our first goal with this digital edition is to
-               reproduce the copytext as close to the original as possible, including text itself as
-               well as form, format, and illustrations, using the tools of digital editing such as
-               XML, TEI, HTML, and CSS. Our second goal is to include interesting contextual
-               information to the story to enrich and contextualize a reader's experience by
-               connecting readers with Doyle’s history with The Strand and also to the geographic
-               elements in the story and its mediation. We are also interested in how historic
-               audiences received and reacted to the story. Our edition, including our HTML and CSS
-               formatting of the TEI encoding, was published online using the Vergil web publishing
-               system.</p>
-         </projectDesc>
-         <editorialDecl>
-            <p>Our aim with editiorial decisions is to avoid altering the text and its presentation
-               minimally. Original spelling, format, and punctuation is recreated wherever we can.
-               We will normalize certain punctuation that resembles em dashes and dashes but are
-               neither.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc>
-         <listChange>
-            <change when="2025-05-11">Began creating draft TEI Header</change>
-            <change when="2025-05-12">Finish draft TEI Header</change>
-         </listChange>
-      </revisionDesc>
    </teiHeader>
    <text>
-      <front xml:lang="en"> 
-         <pb n="122"/>
-         <figure place="center">
-            <graphic url="BaskervillePage122.png"/>
-            <p rendition="bottom" rend="caps"><!-- in places where we need to have two rendition attribtes, can we we do rendition and rend?-->
-               The Hound of the Baskerville</p>
-            <ab rend="italics">(See page 128.)</ab>
-            <figDesc>
-               
-            </figDesc>
-         </figure>
-      
-      </front>
-      <body xml:lang="en">
-         <pb n="123"/>
-         <head><title type="magazine"><lb/>The Strand Magazine. <lb/>Vol. xxii. <date when="1901-08"
-                  >August, 1901.</date> No. 128.<lb/></title>
-            <title type="novel">The Hound of the Baskervilles.* <lb/>ANOTHER ADVENTURE
-               OF<lb/>SHERLOCK HOLMES.</title>
-            <abbr rend="caps">By Conan Doyle.</abbr><!-- cannot add a rend font in this author section--></head>
-         <cb/>
-         <div type="chapter" n="1" rend="title">
-            <ab rend="caps">Chapter I.</ab>
-            <ab rend="caps"><persName ref="#Holmes">Mr. Sherlock Holmes</persName>.</ab>
-            <p><persName ref="#Holmes">MR. SHERLOCK HOLMES</persName>,<lb break="yes"/>who was usually very late in<lb break="yes"
-               />the mornings, save upon those<lb break="yes"/>not infrequent occasions when<lb
-                  break="yes"/>he was up all night, was seated<lb break="yes"/>at the breakfast
-               table. I stood<lb break="yes"/>upon the hearth-rug and picked up the stick<lb
-                  break="yes"/>which our visitor had left behind him the night<lb break="yes"
-               />before. It was a fine, thick piece of wood,<lb break="yes"/>bulbous-headed, of the
-               sort which is known<lb break="yes"/>as a "Penang lawyer." Just under the head<lb
-                  break="yes"/>was a broad silver band, nearly an inch<lb break="yes"/>across. "To
-               <persName ref="#Mortimer">James Mortimer, <abbr>M. R. C. S</abbr></persName>.,<lb break="yes"/>from his friends of the <placeName ref="#CCHospital"><abbr>C. C. H.</abbr></placeName>," was
-               engraved <lb break="yes"/>upon it, with the date "1884." It was just<lb break="yes"
-               />such a stick as the old-fashioned family<lb break="yes"/>practitioner used to
-               carry—dignified, solid,<lb break="yes"/>and reassuring.</p>
-            <p><said>"Well, <persName ref="Watson">Watson</persName>, what do you make of it?"</said></p>
-            <p><persName ref="#Holmes">Holmes</persName> was sitting with his back to me,<lb break="yes"/>and I had given him no sign
-               of my occupa-<lb break="no"/>tion.</p>
-            <p><said>"How did you know what I was doing?<lb break="yes"/>I believe you have eyes in
-                  the back of your<lb break="yes"/>head."</said></p>
-            <p><said>"I have, at least, a well-polished silver-<lb break="yes"/>plated coffee-pot in
-                  front of me,"</said> said he.<lb break="yes"/><s>"But, tell me, <persName ref="Watson">Watson</persName>, what do you
-                  make of<lb break="yes"/>our visitor's stick? Since we have been so<lb
-                     break="yes"/>unfortunate as to miss him and have no<lb break="yes"/>notion of
-                  his errand, this accidental souvenir<lb break="yes"/>becomes of importance. Let
-                  me hear you<lb break="yes"/>reconstruct the man by an examination of it."</s></p>
-            <p><said>"I think," said I, following as far as I could<lb break="yes"/>the methods of my
-                  companion, "that <persName ref="#Mortimer">Dr.<lb break="yes"/>Mortimer</persName> is a successful elderly medical
-                  man,
-                  <fw type="-----">
-                     <!--what should we call this??????????-->* This story owes its inception to my
-                     friend, Mr. Fletcher<lb break="yes"/>Robinson, who has helped me both in the
-                     general plot and in<lb break="yes"/>the local details.—A. C. D.</fw>
-                  
-                  <cb/><lb break="yes"/>well-esteemed, since those who know him<lb break="yes"
-                  />give him this mark of their appreciation."</said></p>
-            <p><said>"Good!"</said> said <persName ref="#Holmes">Holmes</persName>. <s>"Excellent!"</s></p>
-            <p><said>"I think also that the probability is in <lb break="yes"/>favour of his being a
-                  country practitioner<lb break="yes"/>who does a great deal of his visiting on
-                  foot."</said></p>
-            <p><said>"Why so?"</said></p>
-            <p><said>"Because this stick, though originally a<lb break="yes"/>very handsome one, has
-                  been so knocked<lb break="yes"/>about that I can hardly imagine a town<lb
-                     break="yes"/>practitioner carrying it. The thick iron<lb break="yes"/>ferrule
-                  is worn down, so it is evident that he<lb break="yes"/>has done a great amount of
-                  walking with it."</said></p>
-            <p><said>"Perfectly sound !"</said> said <persName ref="#Holmes">Holmes</persName>.</p>
-            <p><said>"And then again, there is the 'friends of<lb break="yes"/>the <abbr>C.C.H.</abbr>' I should
-                  guess that to be the<lb break="yes"/>Something Hunt, the local hunt to whose<lb
-                     break="yes"/>members he has possibly given some surgical<lb break="yes"
-                  />assistance, and which has made him a small<lb break="yes"/>presentation in
-                  return."</said></p>
-            <p><said>"Really, <persName ref="Watson">Watson</persName>, you excel yourself,"</said> said<lb break="yes"/><persName ref="#Holmes">Holmes</persName>, pushing
-               back his chair and lighting <lb break="yes"/>a cigarette. <said>"I am bound to say that
-                  in all <lb break="yes"/>the accounts which you have been so good <lb break="yes"
-                  />as to give of my own small achievements you <lb break="no"/>have habitually
-                  underrated your own abilities. <lb break="yes"/>It may be that you are not
-                  yourself luminous, <lb break="yes"/>but you are a conductor of light. Some <lb
-                     break="yes"/>people without possessing genius have a <lb break="yes"
-                  />remarkable power of stimulating it. I con-<lb break="no"/>fess, my dear fellow,
-                  that I am very much in <lb break="yes"/>your debt."</said></p>
-            <p>He had never said as much before, and I <lb break="yes"/>must admit that his words
-               gave me keen <lb break="yes"/>pleasure, for I had often been piqued by his <lb
-                  break="yes"/>indifference to my admiration and to the <lb break="yes"/>attempts
-               which I had made to give publicity <lb break="yes"/>to his methods. I was proud too
-               to think <lb break="yes"/>that I had so far mastered his system as to <lb break="yes"
-               />apply it in a way which earned his approval. <lb break="yes"/>He now took the stick
-               from my hands<fw type="--------------------">Vol. xxii.-16.</fw>
-               <!-- what type would this fw be??????-->
-               
-               <pb n="124"/><fw type="RunnningHead" rend="caps"> 124 The Strand
-               Magazine.</fw>
-               <cb/>and examined it for a few minutes with his<lb break="yes"/>naked
-               eyes. Then with an expression of<lb break="yes"/>interest he laid down his cigarette
-               and, carry-<lb break="no"/>ing the cane to the window, he looked over<lb break="yes"
-               />it again with a convex lens.</p>
-            <p><said>"Interesting, though elementary,"</said> said he,<lb break="yes"/>as he returned to his
-               favourite corner of the<lb break="yes"/>settee. <said>"There are certainly one or two<lb
-                  break="yes"/>indications upon the stick.<lb break="yes"/>It gives us the basis
-               for<lb break="yes"/>several deductions."</said></p>
-            <p><said>"Has anything escaped<lb break="yes"/>me?"</said> I asked, with some<lb break="yes"
-            />self-importance. <said>"I trust<lb break="yes"/>that there is nothing of<lb break="yes"
-               />consequence which I have<lb break="yes"/>overlooked?"</said></p>
-            <p><said>"I am afraid, my dear<lb break="yes"/><persName ref="#Watson">Watson</persName>, that most of your<lb break="yes"
-               />conclusions were erro-<lb break="no"/>neous. When I said that<lb break="yes"/>you
-               stimulated me I meant,<lb break="yes"/>to be frank, that in noting<lb break="yes"
-               />your fallacies I was occa-<lb break="no"/>sionally guided towards the<lb
-                  break="yes"/>truth. Not that you are<lb break="yes"/>entirely wrong in this
-                  in-<lb break="no"/>stance. The man is cer-<lb break="no"/>tainly a country
-                  practi-<lb break="yes"/>tioner. And he walks a<lb break="yes"/>good deal."</said></p>
-            <p><said>"Then I was right."</said></p>
-            <p><said>"To that extent."</said></p>
-            <p><said>"But that was all."</said></p>
-            <p><said>"No, no, my dear Wat-<lb break="no"/>son, not all—by no means<lb break="yes"/>all. I
-               would suggest, for<lb break="yes"/>example, that a presenta-<lb break="no"/>tion to
-               a doctor is more<lb break="yes"/>likely to come from an<lb break="yes"/>hospital
-               than from a<lb break="yes"/>hunt, and that when<lb break="yes"/>the initials '<abbr>C.C.</abbr>'
-               are<lb break="yes"/>placed before that hospital<lb break="yes"/>the words 'Charing
-               <lb break="yes"/>Cross' very naturally suggest themselves."</said></p>
-            <p><said>"You may be right."</said></p>
-            <p><said>"The probability lies in that direction.<lb break="yes"/>And if we take this as a
-               working hypothesis<lb break="yes"/>we have a fresh basis from which to start our<lb
-                  break="yes"/>construction of this unknown visitor."</said></p>
-            <p><said>"Well, then, supposing that '<abbr>C.C.H</abbr>.' does<lb break="yes"/>stand for '<placeName ref="#CCHospital">Charing Cross
-               Hospital</placeName>,' what<lb break="yes"/>further inferences may we draw?"</said></p>
-            <p><said>"Do none suggest themselves? You<lb break="yes"/>know my methods. Apply them!"</said></p>
-            <p><said>"I can only think of the obvious conclu-<lb break="no"/>sion that the man has
-               practiced in town<lb break="yes"/>before going to the country."</said></p>
-
+      <body>
+         <div type="chapter" n="1">
+            <!-- this actually starts way before rn -->
+            <pb n="126"/>
+            <fw type="RunnningHead" rend="caps">126 THE STRAND MAGAZINE</fw>
+            <p><!-- this should actually start on the previous page-->
+               <cb/>the stick in <persName ref="#Holmes">Holmes</persName>'s hand, and he ran<lb
+                  break="yes"/>towards it with an exclamation of joy. <said>"I am<lb break="yes"/>so
+                  very glad,"</said> said he. <said>"I was not sure<lb break="yes"/>whether I had
+                  left it here or in the <placeName ref="ShippingOffice">Shipping<lb break="yes"
+                     />Office</placeName>. I would not lose that stick for the<lb break="yes"
+                  />world."</said></p>
+            <p><said>"A presentation, I see,"</said> said <persName ref="#Holmes"
+               >Holmes</persName>.</p>
+            <p><said>"Yes, sir."</said></p>
+            <p><said>"From <placeName ref="#CCHospital">Charing Cross
+               Hospital</placeName>?"</said></p>
+            <p><said>"From one or two friends there on the<lb break="yes"/>occasion of my
+                  marriage."</said></p>
+            <p><said>"Dear, dear, that's bad!"</said> said <persName ref="#Holmes"
+                  >Holmes</persName>,<lb break="yes"/>shaking his head.</p>
+            <p><persName ref="#Mortimer">Dr. Mortimer</persName> blinked through his glasses<lb
+                  break="yes"/>in mild astonishment.</p>
+            <p><said>"Why was it bad?"</said></p>
+            <p><said>"Only that you have disarranged our little<lb break="yes"/>deductions. Your
+                  marriage, you say?"</said></p>
+            <p><said>"Yes, sir. I married, and so left the<lb break="yes"/>hospital, and with it all
+                  hopes of a consulting<lb break="yes"/>practice. It was necessary to make a home<lb
+                     break="yes"/>of my own."</said></p>
+            <p><said>"Come, come, we are not so far wrong<lb break="yes"/>after all,"</said> said
+                  <persName ref="#Holmes">Holmes</persName>. <said>"And now, <persName
+                     ref="#Mortimer">Dr.<lb break="yes"/>James Mortmer</persName><g
+                     ref="#LongEmdash"/>"</said></p>
+            <p><said>"Mister, sir, Mister—a humble <abbr>M.R.C.S.</abbr>"</said></p>
+            <p><said>"And a man of precise mind, evidently."</said></p>
+            <p><said>"A dabbler in science, <persName ref="#Holmes">Mr. Holmes</persName>, a<lb
+                     break="yes"/>picker up of shells on the shores of the<lb break="yes"/>great
+                  unknown ocean. I presume that it is<lb break="yes"/><persName ref="#Holmes">Mr.
+                     Sherlock Holmes</persName> whom I am<lb break="yes"/>addressing and
+                  not——"</said></p>
+            <p><said>"No, this is my friend <persName ref="#Watson">Dr.
+               Watson</persName>."</said></p>
+            <p><ref target="#phrenology"><said>"Glad to meet you, sir. I have heard<lb break="yes"
+                     />your name mentioned in connection with that<lb break="yes"/>of your friend.
+                     You interest me very much,<lb break="yes"/><persName ref="#Holmes">Mr.
+                        Holmes</persName>. I had hardly expected so<lb break="yes"/>dolichocephalic
+                     a skull or such well-marked<lb break="yes"/>supra-orbital development. Would
+                     you have<lb break="yes"/>any objection to my running my finger along<lb
+                        break="yes"/>you parietal fissure? A cast of your skull,<lb break="yes"
+                     />sir, until the original is available, would be<lb break="yes"/>an ornament to
+                     any anthropological museum.<lb break="yes"/>It is not my intention to be
+                     fulsome, but I<lb break="yes"/>confess that I covet your
+               skull."</said></ref></p>
+            <p><persName ref="#Holmes">Sherlock Holmes</persName> waved our strange visitor<lb
+                  break="yes"/>into a chair. <said>"You are an enthusiast in your<lb break="yes"
+                  />line of thought, I perceive, sir, as I am in<lb break="yes"/>mine,"</said> said
+               he. <said>"I observe from your fore-<lb break="maybe"/>finger that you make your own
+                     cigarettes.<lb break="yes"/>Have no hesitation in lighting one."</said></p>
+            <p>The man drew out paper and tobacco and<lb break="yes"/>twirled the one up into the
+               other with surpis-<lb break="no"/>ing dexterity. He had long, quivering fingers<lb
+                  break="yes"/>as agile and restless as the antennæ of an<lb break="yes"
+               />insect.</p>
+            <p><persName ref="#Holmes">Holmes</persName> was silent, but his little darting<lb
+                  break="yes"/>glances showed me the interest which he<lb break="yes"/>took in our
+               curious companion.</p>
             <cb/>
-            <p><said>"I think that we might venture a little<lb break="yes"/>farther than this. Look at
-               it in this<lb break="yes"/>light. On what occasion would it be<lb break="yes"/>most
-               probable that such a presentation<lb break="yes"/>would be made? When would his
-               friends<lb break="yes"/>unite to give him a pledge of their good will?<lb
-                  break="yes"/>Obviously at the moment when <persName ref="Mortimer">Dr. Mortimer</persName><lb break="yes"/>withdrew
-               from the service of the hospital in<lb break="yes"/>order to start in practice<lb
-                  break="yes"/>for himself. We know<lb break="yes"/>there has been a presenta-<lb
-                  break="no"/>tion. We believe there has<lb break="yes"/>been a change from a town
-                  <lb break="yes"/>hospital to a country prac-<lb break="no"/>tice. Is it, then,
-               stretching<lb break="yes"/>our inference too far to say<lb break="yes"/>that the
-               presentation was<lb break="yes"/>on the occasion of the<lb break="yes"
-               />change?"</said></p>
-            <p><said>"It certainly seems<lb break="yes"/>probable."</said></p>
-            <p><said>"Now, you will observe<lb break="yes"/>that he could not have been<lb break="yes"
-               />on the <emph rend="italics">staff</emph> of the hospital,<lb break="yes"/>since
-               only a man well-<lb break="maybe"/>established in a London<lb break="yes"/>practice
-               could hold such a<lb break="yes"/>position, and such a one<lb break="yes"/>would
-               not drift into the<lb break="yes"/>country. What was he then?<lb break="yes"/>If he
-               was in the hos-<lb break="no"/>pital and yet not on the<lb break="yes"/>staff he
-               could only have<lb break="yes"/>been a house-surgeon or a<lb break="yes"
-               />house-physician — little<lb break="yes"/>more than a senior student.<lb
-                  break="yes"/>And he left five years ago<lb break="yes"/>—the date is on the stick.
-               <lb break="yes"/>So on your grave, middle-aged<lb break="yes"/>family
-               practitioner vanishes<lb break="yes"/>into thin air,<lb break="yes"/>my dear
-                  <persName ref="Watson">Wat-<lb break="no"/>son</persName>, and there emerges a<lb break="yes"/>young fellow under
-               thirty,<lb break="yes"/>amiable, unambitious,<lb break="yes"/>absent-minded, and
-               the<lb break="yes"/>possessor of a favourite dog, which I should<lb break="yes"
-               />describe roughly as being larger than a terrier<lb break="yes"/>and smaller than a
-               mastiff."</said></p>
-            <p>I laughed incredulously as <persName ref="#Holmes">Sherlock<lb break="yes"/>Holmes</persName> leaned back in his settee
-               and blew<lb break="yes"/>little wavering rings of smoke up to the<lb break="yes"
-               />ceiling.</p>
-            <p><said>"As to the latter part, I have no means<lb break="yes"/>of checking you,"</said> said I,
-               <said>"but at least<lb break="yes"/>it is not difficult to find out a few par-<lb
-                  break="no"/>ticulars about the man's age and profes-<lb break="no"/>sional
-               career."</said> From my small medical<lb break="yes"/>shelf I took down the Medical
-               Directory and<lb break="yes"/>turned up the name. There were several
-               
-               <pb n="125"
-                  /><fw type="RunningHead" rend="caps">The Hound of the Baskervilles 125</fw>
-               Mortimers, but only one who could be our<lb break="yes"/>visitor. I read his record
-               aloud.</p>
-            <p><said>"<persName ref="#Mortimer">Mortimer, James, <abbr>M.R.C.S.</abbr></persName>, 1882,<lb break="yes"/><placeName ref="#Grimpen">Grimpen</placeName>, <placeName ref="#Dartmoor">Dartmoor</placeName>, <placeName ref="#Devon">Devon</placeName>. House
-               surgeon,<lb break="yes"/>from 1882 to 1884, at <placeName ref="#CCHospital">Charing Cross<lb break="yes"
-               />Hospital</placeName>. Winner of the Jackson prize for<lb break="yes"/>Comparative Pathology,
-               with essay entitled<lb break="yes"/>'Is Disease a Reversion?' Corresponding<lb
-                  break="yes"/>member of the Swedish Pathological Society.<lb break="yes"/>Author
-               of 'Some Freaks of Atavism'<lb break="yes"/><q rend="italics">(Lancet, 1882)</q>. 'Do We Progress?'
-               <q rend="italics">(Journal<lb break="yes"/>of Psychology, March, 1883)</q>. <!-- unsure whether we will be creating some sort of citation format--> Medical<lb break="yes"
-               />Officer for the parishes of <placeName ref="Grimpen">Grimpen</placeName>,<lb break="yes"/><placeName ref="#Thorsley">Thorsley</placeName>, and <placeName ref="#HighBarrow">High
-               Barrow</placeName>."</said></p>
-            <p><said>"No mention of that local hunt, <persName ref="#Watson">Watson</persName>,"</said><lb break="yes"/>said <persName ref="#Holmes">Holmes</persName>, with a
-               mischievous smile, <said>"but<lb break="yes"/>a country doctor, as you very astutely
-               observed.<lb break="yes"/>I think that I am fairly justified in my infer-<lb
-                  break="no"/>ences. As to the adjectives, I said, if I<lb break="yes"/>remember
-               right, amiable, unambitious, and<lb break="yes"/>absent-minded. It is my experience
-               that it is<lb break="yes"/>only an amiable man in this world who<lb break="yes"
-               />receives testimonials, only<lb break="yes"/>an unambitious one who<lb break="yes"
-               />abandons a London career<lb break="yes"/>for the country, and only<lb break="yes"
-               />an absent-minded one who<lb break="yes"/>leaves his stick and not his<lb
-                  break="yes"/>visiting-card after waiting<lb break="yes"/>an hour in your
-               room."</said></p>
-            <p><said>"And the dog?"</said></p>
-            <p><said>"Has been in the habit<lb break="yes"/>of carrying this stick behind<lb break="yes"
-               />his master. Being a heavy<lb break="yes"/>stick the dog has held it<lb
-                  break="yes"/>tightly by the middle, and<lb break="yes"/>the marks of his teeth
-               are<lb break="yes"/>very plainly visible. The<lb break="yes"/>dog's jaw, as shown
-               in the<lb break="yes"/>space between these marks,<lb break="yes"/>is too broad in
-               my opinion<lb break="yes"/>for a terrier and not broad<lb break="yes"/>enough for a
-               mastiff. It may<lb break="yes"/>have been—yes, by Jove, it<lb break="yes"/>is a
-               curly-haired spaniel."</said></p>
-            <p>He had risen and paced<lb break="yes"/>the room as he spoke. Now<lb break="yes"/>he
-               halted in the recess of<lb break="yes"/>the window. There was<lb break="yes"/>such
-               a ring of conviction in<lb break="yes"/>his voice that I glanced up<lb break="yes"
-               />in surprise.</p>
-            <p><said>"My dear fellow, how<lb break="yes"/>can you possibly be so<lb break="yes"/>sure of
-               that?"</said></p>
-            <p><said>"For the very simple<lb break="yes"/>reason that I see the dog<lb break="yes"
-               />himself on our very door-<lb break="maybe"/>step, and there is the ring 
-               
-               <cb/>of its
-               owner. Don't move, I beg you, <persName ref="#Watson">Watson</persName>.<lb break="yes"/>He is a professional brother
-               of yours, and your<lb break="yes"/>presence may be of assistance to me. Now is<lb
-                  break="yes"/>the dramatic moment of fate, <persName ref="#Watson">Watson</persName>, when<lb break="yes"/>you hear a
-               step upon the stair which is walking<lb break="yes"/>into your life, and you know
-               not whether for<lb break="yes"/>good or ill. What does <persName ref="#Mortimer">Dr. James Mortimer</persName>, <lb
-                  break="yes"/>the man of science, ask of <persName ref="#Holmes">Sherlock Holmes</persName>,<lb break="yes"/>the
-               specialist in crime? Come in!"</said></p>
-            <p>The appearance of our visitor was a surprise<lb break="yes"/>to me, since I had
-               expected a typical country<lb break="yes"/>practitioner. He was a very tall, thin
-               man,<lb break="yes"/>with a long nose like a beak, which jutted out<lb break="yes"
-               />between two keen, grey eyes, set closely<lb break="yes"/>together and sparkling
-               brightly from behind a<lb break="yes"/>pair of gold-rimmed glasses. He was clad in
-               <lb break="yes"/>a professional but rather slovenly fashion, for<lb break="yes"
-               />his frock-coat dingy and his trousers<lb break="yes"/>frayed. Though young, his
-               long back was<lb break="yes"/>already bowed, and he walked with a forward<lb
-                  break="yes"/>thrust of his head and a general air of peering<lb break="yes"
-               />benevolence. As he entered his eyes fell upon
-               
-               <pb n="126"/>
-               <fw>126 THE STRAND MAGAZINE</fw>
-            </p>
-
-
+            <p><said>"I presume, sir,"</said> said he at last, <said>"that it<lb break="yes"/>was
+                  not merely for the purpose of examining<lb break="yes"/>my skull that you have
+                  done me the honour<lb break="yes"/>to call here last night and again
+                  to-day?"</said></p>
+            <p><said>"No, sir, no; though I am happy to have<lb break="yes"/>had the opportunity of
+                  doing that as well. I<lb break="yes"/>came to you, <persName ref="#Holmes">Mr.
+                     Holmes</persName>, because I recog-<lb break="no"/>nise that I am myself an
+                  unpractical man,<lb break="yes"/>and because I am suddenly confronted with<lb
+                     break="yes"/>a most serious and extraordinary problem.<lb break="yes"
+                  />Recognising, as I do, that you are the second<lb break="yes"/>highest expert in
+                     <placeName ref="#Europe">Europe</placeName><g ref="#LongEmdash"/>"</said></p>
+            <p><said>"Indeed, sir! May I inquire who has the<lb break="yes"/>honour to be the
+                  first?"</said> asked <persName ref="#Holmes">Holmes</persName>, with<lb
+                  break="yes"/>some asperity.</p>
+            <p><said>"To the man of precisely scientific mind<lb break="yes"/>the work <persName
+                     ref="#Bertillon">Monsieur Bertillon</persName> must always<lb break="yes"
+                  />appeal strongly."</said></p>
+            <p><said>"Then had you not better consult him?"</said></p>
+            <p><said>"I said, sir, to the precisely scientific<lb break="yes"/>mind. But as a
+                  practical man of affairs it is<lb break="yes"/>acknowledged that you stand alone.
+                  I trust,<lb break="yes"/>sir, that I have not inadvertently<g ref="#LongEmdash"
+                  />"</said></p>
+            <p><said>"Just a little," said <persName ref="#Holmes">Holmes</persName>. "I think,<lb
+                     break="yes"/><persName ref="#Mortimer">Dr. Mortimer</persName>, you would do
+                  wisely if without<lb break="yes"/>more ado you would kindly tell me plainly<lb
+                     break="yes"/>what the exact nature of the problem is in<lb break="yes"/>which
+                  you demand my assistance."</said></p>
          </div>
-         <div type="chapter" n="2"> </div>
+         <div type="chapter" n="2">
+            <ab><g ref="#ChapterLine"/></ab>
+            <ab rend="caps">CHAPTER II.</ab>
+            <ab rend="caps">THE CURSE OF THE BASKERVILLES.</ab>
+            <p><said>"I have in my pocket a manuscript,"</said> said<lb break="yes"/><persName
+                  ref="#Mortimer">Dr. James Mortimer</persName>.</p>
+            <p><said>"I observed it as you entered the room,"</said><lb break="yes"/>said <persName
+                  ref="#Holmes">Holmes</persName>.</p>
+            <p><said>"It is an old manuscript."</said></p>
+            <p><said>"Early eighteenth century, unless it is a<lb break="yes"/>forgery."</said></p>
+            <p><said>"How can you say that, sir?"</said></p>
+            <p><said>"You have presented an inch or two of it<lb break="yes"/>to my examination all
+                  the time that you have<lb break="yes"/>been talking. It would be a poor expert
+                     who<lb break="yes"/>could not give the date of a document within<lb break="yes"
+                  />a decade or so. You may possibly have read<lb break="yes"/>my little monograph
+                  upon the subject. I put<lb break="yes"/>that at <date when="1730"
+                  >1730</date>."</said></p>
+            <p><said>"The exact date is <date when="1742">1742</date>."</said>
+               <persName ref="#Mortimer">Dr. Mortimer</persName><lb break="yes"/>drew it from his
+               breast-pocket. <said>"This family<lb break="yes"/>paper was committed to my care by
+                     <persName ref="#CBaskerville">Sir<lb break="yes"/>Charles
+                     Baskerville</persName>, whose sudden and tragic<lb break="yes"/>death some
+                  three months ago created so<lb break="yes"/>much excitement in <placeName
+                     ref="#Devonshire">Devonshire</placeName>. I may say<lb break="yes"/>that I was
+                  his personal friend as well as his<lb break="yes"/>medical attendant. He was a
+                     strong-minded<lb break="yes"/>man, sir, shrewd, practical, and as unimagi-<lb
+                     break="no"/>native as I am myself. Yet he took this<lb break="yes"/>document
+                  very seriously, and his mind was<lb break="yes"/>prepared for just such an end as
+                  did even-<lb break="no"/>tually overtake him."</said></p>
+
+            <pb n="127"/>
+            <fw type="RunnningHead" rend="caps">THE HOUND OF THE BASKERVILLES 127</fw>
+            <p><persName ref="#Holmes">Holmes</persName> stretched out his hand for the<lb
+                  break="yes"/>manuscript and flattened it upon his knee.</p>
+            <p><said>"You will observe, <persName ref="#Watson">Watson</persName>, the
+                     alternative<lb break="yes"/>use of the long s and the short. It is one<lb
+                     break="yes"/>of several indications which enabled me to fix the
+               date."</said></p>
+            <p>I looked over his shoulder at the yellow<lb break="yes"/>paper and the faded script.
+               At the head<lb break="yes"/>was written: "<placeName ref="BaskervilleHall"
+                  >Baskerville Hall</placeName>," and below, in<lb break="yes"/>large, scrawling
+               figures: "<date when="1742">1742</date>."</p>
+            <figure place="center">
+               <graphic url="BaskervillePage127.png"/>
+               <p rendition="bottom" rend="caps"
+                  ><!-- in places where we need to have two rendition attribtes, can we we do rendition and rend?-->
+                     "<persName ref="#Mortimer">DR. MORTIMER</persName> TURNED THE MANUSCRIPT TO THE
+                  LIGHT AND READ."</p>
+               <figDesc/>
+            </figure>
+            <p><said>"It appears to be a statement of some<lb break="yes"/>sort."</said></p>
+            <p><said>"Yes, it is a statement of a certain legend<lb break="yes"/>which runs in the
+                  Baskerville family."</said></p>
+            <p><said>"But I understand that it is something<lb break="yes"/>more modern and
+                  practical upon which you<lb break="yes"/> wish to consult me?"</said></p>
+            <p><said>"Most modern. A most practical, press-<lb break="no"/>ing matter, which must be
+                  decided within<lb break="yes"/> twenty-four hours. But the manuscript is<lb
+                     break="yes"/>short and is intimately connected with the<lb break="yes"/>affair.
+                  With your permission I will read it<lb break="yes"/>to you."</said></p>
+            <p>Holmes leaned back in his chair, placed<cb/>his finger-tips together, and closed his
+                  eyes,<lb break="yes"/>with an air of resignation. <persName ref="#Mortimer">Dr.
+                  Mortimer</persName><lb break="yes"/>turned the manuscript to the light and read<lb
+                  break="yes"/>in a high, crackling voice the following<lb break="yes"/>curious,
+               old-world narrative:—</p>
+            <p><said>"Of the origin of the Hound of the<lb break="yes"/>Baskervilles there have been
+                  many state-<lb break="no"/>ments, yet as I come in a direct line from<lb
+                     break="yes"/><persName ref="HBaskerville">Hugo Baskerville</persName>, and as I
+                  had the story<lb break="yes"/>from my father, who also had it from his.<lb
+                     break="yes"/>I have set it down with all belief that it oc-<lb break="no"
+                  />curred even as is here set forth. And I would<lb break="yes"/>have you believe,
+                  my sons, that the same<lb break="yes"/><ref>Justice</ref> which punishes sin may
+                  also most<lb break="yes"/>graciously forgive it, and that no ban is so<lb
+                     break="yes"/>heavy but that by prayer and repentance it<lb break="yes"/>may be
+                  removed. Learn then from this<lb break="yes"/>story not to fear the fruits of the
+                  past, but<lb break="yes"/>rather to be circumspect in the future, that<lb
+                     break="yes"/>those foul passions whereby our family has<lb break="yes"
+                  />suffered so grievously may not again be loosed to our undoing.</said></p>
+            <p><said>"Know then that in the time of the <ref>Great<lb break="yes"/>Rebellion</ref>
+                  (the history of which by the learned<pb n="128"/>
+                  <fw type="RunnningHead" rend="caps">128 THE STRAND MAGAZINE</fw>
+                  <!-- what to do if these things are within saids? -->
+                  <ref>Lord Clarendon<!-- This is a real guy apparently --></ref> I most earnestly
+                     commend<lb break="yes"/>to your attention) this <placeName
+                     ref="#BaskervilleHall">Manor of Baskerville</placeName><lb break="yes"/>was
+                  held by <persName ref="#HBaskerville">Hugo</persName> of that name, nor can it<lb
+                     break="yes"/>be gainsaid that he was a most wild, pro-<lb break="no"/>fane, and
+                  godless man. This, in truth his<lb break="yes"/>neighbours might have pardoned,
+                  seeing that<lb break="yes"/>saints have never flourished in those parts,<lb
+                     break="yes"/>but there was in him a certain wanton and<lb break="yes"/>cruel
+                  humour which made his name a by-<lb break="maybe"/>word through the West. It
+                  chanced that<lb break="yes"/>this <persName ref="#HBaskerville">Hugo</persName>
+                  came to love (if, indeed, so dark<lb break="yes"/>a passion may be known under so
+                  bright a<lb break="yes"/>name) <persName ref="#theMaiden">the daughter</persName>
+                  of a yeoman who held<lb break="yes"/>lands near the <placeName
+                     ref="#BaskervilleHall">Baskerville estate</placeName>. But the<lb break="yes"
+                  />young <persName ref="#theMaiden">maiden</persName>, being discreet and of
+                     good<lb break="yes"/>repute, would ever avoid him, for she feared<lb
+                     break="yes"/>his evil name. So it came to pass that one<lb break="yes"/><ref
+                     target="#michaelmas">Michaelmas</ref> this <persName ref="#HBaskerville"
+                     >Hugo</persName>, with five or six of his<lb break="yes"/>idle and wicked
+                  companions, stole down<lb break="yes"/>upon the farm and carried off <persName
+                     ref="#theMaiden">the maiden</persName>,<lb break="yes"/>her father and brothers
+                  being from home, as<lb break="yes"/>he well knew. When they had brought her<lb
+                     break="yes"/>to the <placeName ref="#BaskervilleHall">Hall</placeName>
+                  <persName ref="#theMaiden">the maiden</persName> was placed in an<lb break="yes"
+                  />upper chamber, while <persName ref="#HBaskerville">Hugo</persName> and his
+                     friends<lb break="yes"/>sat down to a long carouse, as was their<lb break="yes"
+                  />nightly custom. Now, the poor lass upstairs<lb break="yes"/>was like to have her
+                  wits turned at the sing-<lb break="no"/>ing and shouting and terrible oaths
+                     which<lb break="yes"/>came up to her from below, for they say that<lb
+                     break="yes"/>the words used by <persName ref="#HBaskerville">Hugo
+                     Baskerville</persName>, when<lb break="yes"/>he was in wine, were such as might
+                  blast the<lb break="yes"/>man who said them. At last in the stress of<lb
+                     break="yes"/>her fear she did that which might have<lb break="yes"/>daunted the
+                  bravest or most active man, for<lb break="yes"/>by the aid of the growth of ivy
+                  which covered<lb break="yes"/>(and still covers) the south wall she came down from
+                  under the eaves, and so home-<lb break="no"/>ward across the moor, there being
+                     three<lb break="yes"/>leagues betwixt <placeName ref="#BaskervilleHall">the
+                     Hall</placeName> and her father's farm.</said></p>
+            <p><said>"It chanced that some little time later<lb break="yes"/><persName
+                     ref="#HBaskerville">Hugo</persName> left his guests to carry food and drink<lb
+                     break="yes"/>—with other worse things, perchance—to <persName ref="#theMaiden"
+                        >his<lb break="yes"/>captive</persName>, and so found the cage empty and
+                     <persName ref="#theMaiden">the<lb break="yes"/>bird</persName> escaped. Then,
+                  as it would seem, he<lb break="yes"/>became as one that hath a devil, for,
+                     rushing<lb break="yes"/>down the stairs into the dining-hall, he<lb break="yes"
+                  />sprang upon the great table, flagons and<lb break="yes"/>trenchers flying before
+                  him, and he cried<lb break="yes"/>aloud before all the company that he would<lb
+                     break="yes"/>that very night render his body and soul to<lb break="yes"/>the
+                     <ref>Powers of Evil</ref> if he might but overtake<lb break="yes"/><persName
+                     ref="theMaiden">the wench</persName>. And while the revelers stood<lb
+                     break="yes"/>aghast at the fury of the man, one more<lb break="yes"/>wicked or,
+                  it may be, more drunken than<lb break="yes"/>the rest, cried out that they should
+                  put the<lb break="yes"/>hounds upon her. Whereat <persName ref="#HBaskerville"
+                     >Hugo</persName> ran from<lb break="yes"/>the house, crying to his grooms that
+                     they<lb break="yes"/>should saddle his mare and unkennel the<lb break="yes"
+                  />pack, and giving the hounds a kerchief of<cb/>the maid's, he swung them to the
+                  line, and so<lb break="yes"/>off full cry in the moonlight over <placeName
+                     ref="#theMoor">the moor</placeName>.</said></p>
+            <p><said>"Now, for some space the revelers stood<lb break="yes"/>agape, unable to
+                  understand all that<lb break="yes"/>had been done in such haste. But anon their
+                     =<lb break="yes"/>bemused wits awoke to the nature of the<lb break="yes"/>deed
+                  which was like to be done upon <placeName ref="#theMoor">the<lb break="yes"
+                     />moorlands</placeName>. Everything was now in an up-<lb break="no"/>roar, some
+                  calling for their pistols, some for<lb break="yes"/>their horses, and some for
+                  another flask of<lb break="yes"/>wine. But at length some sense came back<lb
+                     break="yes"/>to their crazed minds, and the whole of them,<lb break="yes"
+                  />thirteen in number, took horse and started in<lb break="yes"/>pursuit. The moon
+                  shone clear above them,<lb break="yes"/>and they rode swiftly abreast, taking
+                     that<lb break="yes"/>course which <persName ref="#theMaiden">the
+                     maid</persName> must needs have taken<lb break="yes"/>if she were to reach her
+                  own home.</said></p>
+            <p><said>"They had gone a mile or two when they<lb break="yes"/>passed one of the night
+                  shepherds upon <placeName ref="#theMoor">the<lb break="yes"
+                  />moorlands</placeName>, and they cried to him to know if<lb break="yes"/>he had
+                  seen the hunt. And the man, as the<lb break="yes"/>story goes, was so crazed with
+                  fear that he could scarce speak, but at last he said that<lb break="yes"/>he had
+                  indeed seen <persName ref="#theMaiden">the unhappy maiden</persName>,<lb
+                     break="yes"/>with the hounds upon her track. 'But I<lb break="yes"/>have seen
+                  more than that,'<!-- what do we do about quotes in said? --> said he, 'for<lb
+                     break="yes"/><persName>Hugo Baskerville</persName> passed me upon his black<lb
+                     break="yes"/>mare, and there ran mute behind him such a<lb break="yes"/>hound
+                  of hell as God forbid should ever be<lb break="yes"/>at my heels.' So the drunken
+                     squires<lb break="yes"/>cursed the shepherd and rode onwards. But<lb
+                     break="yes"/>soon their skins turned cold, for there came<lb break="yes"/>a
+                  galloping across <placeName ref="#theMoor">the moor</placeName>, and the black<lb
+                     break="yes"/>mare, dabbled with white froth, went past<lb break="yes"/>with
+                  trailing bridle and an empty saddle. Then<lb break="yes"/>the revelers rode close
+                  together, for a great<lb break="yes"/>fear was on them, but they still followed
+                     over<lb break="yes"/>the moor, though each, had he been alone,<lb break="yes"
+                  />would have been right glad to have turned<lb break="yes"/>his horse's head.
+                  Riding slowly in this<lb break="yes"/>fashion they came at last upon the
+                     hounds.<lb break="yes"/>These, though known for their valour and<lb break="yes"
+                  />their breed, were whimpering in a cluster at<lb break="yes"/>the head of a deep
+                  dip or goyal, as we call<lb break="yes"/>it, upon <placeName ref="#theMoor">the
+                     moor</placeName>, some slinking away and<lb break="yes"/>some, with starting
+                  hackles and staring eyes,<lb break="yes"/>gazing down the narrow valley before
+                  them.</said></p>
+            <p><said>"The company then come to a halt, more<lb break="yes"/>sober men, as you may
+                  guess, than when<lb break="yes"/>they started. The most of them would by<lb
+                     break="yes"/>no means advance, but three of them, the<lb break="yes"/>boldest,
+                  or it may be the most drunken, rode<lb break="yes"/>forward down the goyal. Now,
+                  it opened<lb break="yes"/>into a broad space in which stood two of<lb break="yes"
+                  />those great stones, still to be seen there,<lb break="yes"/>which were set by
+                  certain forgotten peoples<lb break="yes"/>in the days of old. The moon was
+                     shining<lb break="yes"/>bright upon the clearing, and there in the<lb
+                     break="yes"/>centre lay <persName ref="#theMaiden">the unhappy maid</persName>
+                  where she had <pb n="129"/>
+               </said><!-- ends on next page, in Em's section -->
+            </p>
+            <!-- ends on next page, in Em's section -->
+         </div>
+         <!-- Chapter 2 div, won't end until the very end of the story -->
+
       </body>
    </text>
-   <standOff>
-      <bibl>
-         
-         
-         
-      </bibl>
-   </standOff>
 </TEI>
