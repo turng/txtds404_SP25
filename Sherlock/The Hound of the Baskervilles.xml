@@ -73,9 +73,9 @@
             <graphic url="BaskervillePage122.png"/>
             <p rendition="bottom" rend="caps"><!-- in places where we need to have two rendition attribtes, can we we do rendition and rend?-->
                The Hound of the Baskerville</p>
-            <ab rend="italics">(See page 128.)</ab>
+            <p rend="italics">(See page 128.)</p>
             <figDesc>
-               
+               <!-- need to add fig Descriptions later-->
             </figDesc>
          </figure>
       
@@ -166,7 +166,15 @@
                />it again with a convex lens.</p>
             <p><said>"Interesting, though elementary,"</said> said he,<lb break="yes"/>as he returned to his
                favourite corner of the<lb break="yes"/>settee. <said>"There are certainly one or two<lb
-                  break="yes"/>indications upon the stick.<lb break="yes"/>It gives us the basis
+                  break="yes"/>indications upon the stick.
+                  <figure place="center">
+                     <graphic url="BaskervillePage124.png"/>
+                     <p rend="caps">"He looked over it again with a convex lens."</p>
+                     <figDesc>
+                        
+                     </figDesc>
+                  </figure>
+                  <lb break="yes"/>It gives us the basis
                for<lb break="yes"/>several deductions."</said></p>
             <p><said>"Has anything escaped<lb break="yes"/>me?"</said> I asked, with some<lb break="yes"
             />self-importance. <said>"I trust<lb break="yes"/>that there is nothing of<lb break="yes"
@@ -255,7 +263,15 @@
                   break="no"/>ences. As to the adjectives, I said, if I<lb break="yes"/>remember
                right, amiable, unambitious, and<lb break="yes"/>absent-minded. It is my experience
                that it is<lb break="yes"/>only an amiable man in this world who<lb break="yes"
-               />receives testimonials, only<lb break="yes"/>an unambitious one who<lb break="yes"
+               />receives testimonials, only
+                  <figure>
+                     <graphic url="BaskervillePage125.png"/>
+                     <p rend="caps">"His eyes fell upon the stick in Holme's hand."</p>
+                     <figDesc>
+                        
+                     </figDesc>
+                  </figure>
+                  <lb break="yes"/>an unambitious one who<lb break="yes"
                />abandons a London career<lb break="yes"/>for the country, and only<lb break="yes"
                />an absent-minded one who<lb break="yes"/>leaves his stick and not his<lb
                   break="yes"/>visiting-card after waiting<lb break="yes"/>an hour in your
