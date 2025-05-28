@@ -2,7 +2,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-stylesheet type="text/css" href="https://turng.github.io/txtds404_SP25/group4/TEIBP/src/css/teibp.css"?>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -52,17 +52,17 @@
    <text>
       <front>
          <div type="introduction">
-            <p>This edition focuses on the advertisements that appeared alongside the original
-               serialized publication of Bleak House written by Charles Dickens and illustrated by
-               Hablot Knight Browne. This first edition was published in monthly parts between 1852
-               and 1853 and a well preserved complete set is available at the Special Collections of
-               the University of Washington Libraries. While the novel itself has been widely
-               studied for its plot, characters, and social commentary, the ads printed in each
-               issue are often overlooked. These advertisements offer a lot of information about
-               what people were buying, what they cared about, and how products and services were
-               marketed to them. From cures for illnesses to new inventions and fashion trends, the
-               ads show what everyday life might have looked like for mid-Victorian era of
-               London.</p>
+            <p>This edition focuses on the advertisements that appeared alongside the original <ref
+                  type="note" target="#n1">serialized publication</ref> of Bleak House written by
+               Charles Dickens and illustrated by Hablot Knight Browne. This first edition was
+               published in monthly parts between 1852 and 1853 and a well preserved complete set is
+               available at the Special Collections of the University of Washington Libraries. While
+               the novel itself has been widely studied for its plot, characters, and social
+               commentary, the ads printed in each issue are often overlooked. These advertisements
+               offer a lot of information about what people were buying, what they cared about, and
+               how products and services were marketed to them. From cures for illnesses to new
+               inventions and fashion trends, the ads show what everyday life might have looked like
+               for mid-Victorian era of London.</p>
             <p>Our approach treats each advertisement as a single unit of analysis, carefully
                examining its components such as images, product descriptions, catalogs,
                testimonials, and more. What remedies for ailments were marketed to the public 150
@@ -85,7 +85,7 @@
          <div type="ad" xml:id="edmiston">
             <pb n="0"/>
             <p><emph rend="ac">To sportsmen, tourist, &amp; travelers.</emph>
-               <graphic url="img/p0_1.png"/>
+               <graphic url="../images/p0_1.png"/>
                <emph rend="ac">Edmiston's pocket siphonia</emph>, or waterproof overcoat. weight 10
                   oz.<graphic url="img/p0_2.png"/>Sole Manufacturer of the celebrated Pocket
                Siphonia, remarkable for its lightness and softness of texture, adapted for
@@ -97,13 +97,14 @@
                Measurement, length of coat, and size round the chest over the coat <graphic
                   url="img/p0_3.png"/>Notice--Name &amp; address stamped inside. None others are
                genuine. Edmiston &amp; Son, 416 &amp; 69, Strand Near the Adelphi Theatre.</p>
-            <p><emph rend="ac">Opinions of the press.</emph>Waterproof--<q>The lightest and most
-                  effectual, is the Siphonia, made by Edmiston &amp; Son, of 69, Strand ; they can
-                  be carried in the hat or pocket.</q>-- Bell's Life, April 20th, 1851. <q>A new
-                  waterproof garment adapted to the very changeable weather of the season, has been
-                  manufactured by Edmiston &amp; Son. It is remarkably light and soft, and may be
-                  carried in the pocket. This is really an ingenious substitute for the cumbersome
-                  great coat or the troublesome umbrella.</q>--Home News, May 24th, 1851.</p>
+            <p><emph rend="ac">Opinions of the press.</emph>Waterproof--<q type="testimony">The
+                  lightest and most effectual, is the Siphonia, made by Edmiston &amp; Son, of 69,
+                  Strand ; they can be carried in the hat or pocket.</q>-- Bell's Life, April 20th,
+               1851. <q type="testimony">A new waterproof garment adapted to the very changeable
+                  weather of the season, has been manufactured by Edmiston &amp; Son. It is
+                  remarkably light and soft, and may be carried in the pocket. This is really an
+                  ingenious substitute for the cumbersome great coat or the troublesome
+                  umbrella.</q>--Home News, May 24th, 1851.</p>
             <p><graphic url="img/p0_4.png"/>Leggings or Overall. Yacht Jackets. Fishing and Shooting
                Hats or Caps Driving Gloves. Cricketing do. Gun Covers. Gig Aprons. Sou-Westers.
                   Goloshes.<graphic url="img/p0_5.png"/>Ladies' Capes, with Hoods. Do. Paletots. Air
@@ -118,6 +119,139 @@
                Brothers. Southampton--Batten &amp; Lukes. <emph rend="ac">London: Edmiston &amp;
                   Son, 416 &amp; 69, Strand, near Adelphi.</emph></p>
          </div>
+         <div type="ad" xml:id="dakinCompany">
+            <pb n="1"/>
+            <opener><salute><name rend="ac">Chas. Dickens, Esq.</name> Sir,</salute></opener>
+            <p><ref type="note" target="#n2">We thank you for your new work</ref>. Though its name
+               is <q rend="ac">Bleak House,</q>we know well that its inmates will be warm and
+               life-like. We thank you for it, not only for the pleasure that we, in common with all
+               its other readers, shall receive in its perusal, but we thank you on more solid
+               grounds; ,ve thank you for it as a matter of business.</p>
+            <p>If it be true, that an observer must know of the existence of a place before he can
+               arrange for visiting it, it must be equally true, that the public must be aware of
+               the existence of an establishment before they can contemplate patronising it; and
+               further, that they must be aware of the advantages offered by a particular concern
+               before they will select that in preference to any other. On these grounds, then, we
+               thank you for <q rend="ac">Bleak House</q> in a business point of view, because it
+               affords us an opportunity of conveying to all its readers the advantages or our
+               Establishment, and the principles upon which it continues to be conducted.</p>
+            <p>Many thousands of readers have, we doubt not, entered upon their tasks since even <q
+                  rend="ac"><name type="person">David Copperfield</name></q> monthly appeared,
+               between his <q>green leaves,</q> and some of these readers may note with favour the
+               statement we here subjoin.</p>
+            <p><q>We keep for the selection of purchaser all kinds or Tea and Coffee fit for use
+                  imported into this country, and we supply them at the most moderate cost at which
+                  they can possibly be sold.</q></p>
+            <p><q>We have endeavoured to render ourselves particularly celebrated for supplying Teas
+                  of the most sound and excellent qualities.</q></p>
+            <p><q>We have a Patented Invention for Roasting Coffee, Cocoa, &amp;c. in Silver. By
+                  this plan the ordinary evils of roasting such produce in a cylinder made of base
+                  metal are avoided, whilst the cost of the produce is not increased.</q></p>
+            <p><q>We deliver by our Vans all Orders from any part of the <name type="place"
+                     >Metropolitan Districts</name>, within eight miles of <name type="place">St.
+                     Paul's</name>, on tho day after such orders are given.</q></p>
+            <p><q>We also send into the Country, free of carriage, all Orders, if they be
+                  accompanied by a remittance for payment, whether by half-notes, Post Office Order,
+                  or otherwise, provided the goods ordered amount to £2 or upwards.</q></p>
+            <p><q>We sell our goods only for immediate payment. Our tariff of profit is fixed
+                  without allowing for the interest on capital necessary to support a heavy amount
+                  of debts.</q></p>
+            <p>For the facilities that this excellent medium of publicity has allowed us for making
+               known the above particulars, we sincerely thank you, and we trust and hope that by
+               our care and attention, and by the excellence of the Goods we supply, those readers
+               of <q rend="ac">Bleak House</q> who may turn their favourable patronage to <q>Number
+                  One</q>, will never regret having glanced over the first page of its white paper,
+               on this 1st day of May.</p>
+            <p>Wishing that you may long live to give birth to heaps of <q rend="ac">Household
+                  Words</q>, and to numerous Brothers and Sisters of <q rend="ac"><name
+                     type="person">David Copperfield</name>,</q></p>
+            <closer><salute>We remain, Sir, Very respectfully, Your obedient Servants</salute><name
+                  type="organization">Dakin &amp; Company</name><location>
+                  <address>
+                     <street>No. 1, St. Paul's Church-yard</street>
+                     <settlement>London</settlement>
+                  </address>
+               </location><date when="1852-05-01">May 1st, 1852</date></closer>
+         </div>
+         <div type="ad-group" xml:id="gardeningAndBotany">
+            <pb n="2"/>
+            <head>Works on Gardening and Botany.</head>
+            <div type="ad" xml:id="paxtonFlowerGarden">
+               <head rend="ac">Paxton's Flower-Garden.</head>
+               <p rend="ac">Edited by <name type="person">Dr. Lindley</name> and <name type="person"
+                     >Sir Joseph Paxton</name></p>
+               <p rend="ac">Each volume is illustrated by thirty-six highly finished plates and more
+                  than two hundred beautiful engravings on wood.</p>
+               <p>Volumes I, and II, are published. Price 33s. each, elegantly bound in cloth.</p>
+               <p>&#8757;This work is also published in Monthly Parts of which 27 are published, and
+                  may be procured by order of any bookseller. Price 2s. 6d.</p>
+            </div>
+            <div type="ad" xml:id="paxtonBotanicalDictionary">
+               <head rend="ac">Paxton’s botanical dictionary.</head>
+               <p>Comprising the names, history, and culture of all plants known in <name
+                     type="place">Britain</name>; with a full explanation of technical terms. Crown
+                  8vo, 16s.</p>
+               <p>&#8757;The supplement, containing all the new plants since the first edition, may
+                  be had separately, price 5s.</p>
+            </div>
+            <div type="ad" xml:id="theElementsOfBotany">
+               <head rend="ac">The elements of botany; Structural and physiological.</head>
+               <p>With a glossary of technical terms, and numerous illustrations. By <name rend="ac"
+                     type="person">Dr. Lindley</name>. 12s. cloth.</p>
+               <p>&#8757;The glossary may be had separately, price 5s. cloth.</p>
+            </div>
+            <div type="ad" xml:id="elementsOfMedAndEconBotany">
+               <head rend="ac">The elements of medical and economical botany.</head>
+               <p>By <name rend="ac" type="person">Dr. Lindley</name>. With numerous illustrations.
+                  8vo, price 14s. cloth.</p>
+            </div>
+            <div type="ad" xml:id="schoolBotany">
+               <head>School botany; or, the rudiments of botanical science.</head>
+               <p>By <name rend="ac" type="person">Dr. Lindley</name>.</p>
+               <p>With nearly 400 illustrations. 8vo, price 5s. 6d. half-bound.</p>
+            </div>
+            <div type="ad" xml:id="orchidaceae">
+               <head rend="ac">Orchidace&#198; Lindenian&#198; Or notes upon a collection of orchids
+                  formed in Colombia and Cuba.</head>
+               <p>By <name rend="ac" type="person">Mr. J. Linden</name>. 8vo, price 2s. 6d.</p>
+            </div>
+            <div type="ad" xml:id="ladiesCompanionFlowerGarden">
+               <head rend="ac">The ladies’ companion to the flower-garden.</head>
+               <p rend="ac">Being an alphabetical arrangement of all the ornamental plants grown in
+                  gardens and shrubberies, with full directions for their culture.</p>
+               <p rend="ac">By<name>Mrs. Loudon</name>.</p>
+               <p>The fifth edition. Price 7s. cloth, with numerous woodcuts representing the
+                  processes of grafting, budding, layering, &amp;c.</p>
+            </div>
+            <div type="ad" xml:id="howToLayOutASmallGarden">
+               <head rend="ac">How to lay out a small garden.</head>
+               <p>Intended as a guide to amateurs in choosing, forming, or improving a place (from a
+                  quarter of an acre to thirty acres in extent), with reference to both design and
+                  execution.</p>
+               <p><seg rend="ac">By <name type="person">Edward Kemp</name></seg>, landscape
+                  gardener, <name type="place">Birkenhead Park</name>. Price 3s. 6d., bound in
+                  cloth.</p>
+            </div>
+            <div type="ad" xml:id="theHandbookOfGardening">
+               <head rend="ac">The hand-book of gardening.</head>
+               <p rend="ac">By the same author.</p>
+               <p>A new edition, enlarged and improved. Price to 2s. cloth.</p>
+            </div>
+            <div rend="ac">
+               <p><location>
+                     <address>
+                        <addrLine>Bradbury and Evans</addrLine>
+                        <street>11, Bouverie Street</street>
+                     </address>
+                  </location></p>
+            </div>
+         </div>
+         <div/>
+         <div/>
+         <div/>
+         <div/>
+         <div/>
+         <div/>
          <div type="ad" xml:id="nortonPills">
             <pb n="58"/>
             <p>
@@ -543,19 +677,201 @@
                <emph rend="sc">Arthur Hall, Virtue, and Co., 25, Paternoster Row.</emph>
             </p>
          </div>
+         <div type="ad" xml:id="bartlettGiftBook">
+            <pb n="63"/>
+            <p>
+               <fw type="header"><emph rend="fancyFont medFont">Mr. Bartlett's New Gift
+                  Book.</emph></fw>
+               <lb/> Third Edition, in super-royal 7vo, Twenty-three Envgravings on Steel and
+               several Woodcuts, price 14s. cloth, gilt edges, or 26s Morocco elegant, <lb/>
+               <emph rend="ac medFont">Footsteps of our lord and his apostles</emph>
+               <lb/> In Syria, Greece, and Italy, a Succession of Vists to the Scenes of New
+               Testament Narrative.<lb/> "If beauty of design and execution, combined with elegance
+               of narrative and trustworthy description, can be any recommendation to a book, it is
+               sufficient to say that this excellent volume posseses every one of these features,
+               and establishes its own character without the need of any further praise." -Bell's
+               Messenger.<lb/> "Mr. Bartlett has with success brought together in an effective and
+               attractive volume, a series of written and engraved memorials of the early days of
+               our faith, which cannot but find a welcome in many a domestic circle, and cheer with
+               its reccolections every Christian heart, whilst it pleases with its artistic beauty
+               the most careless inspectors. We close the book with regret, and recommend it without
+               fear." -Britanica<lb/> "This is one of the happiest of the many happy Christmas
+               ventures that their publishers have put forth. It is got up in excellent taste, and
+               written in a pleasing and attractive style." -Church and State
+               Gazette.<lb/>2.<lb/>Second Edition, in super-royal 8vo, price 16s. handsomely bound
+               in cloth gilt, or 28s. Morocco elegant, <lb/>
+               <emph rend="ac medFont">Gleanings, Antiquarian and Pictorial,</emph>
+               <emph rend="medFont">on</emph>
+               <lb/>the Overland Route, illustrated with 28 Steel Plates and Maps, and 23 Woodcuts.
+               <lb/>"The present work is as excellent as his former productions, for its lively and
+               picturesque narrative, and for the exquisite engravings by which it is illustrated."
+               -Athenaeum <lb/>"It is unquestionably one of the most elegant volumes ever published.
+               The letterpress gives an excellent historical account of Malta, with graphic sketches
+               of travelling adventures, both at that place and at Gibraltar." -Atlas<lb/>"Should be
+               in the hands of every person travelling by the Overland Route, as well as in every
+               library in the kingdom with at least pretensions to completeness."
+               -Observer.<lb/>3.<lb/>Third Edition, in super-royal 8vo, price 16s. cloth gilt; 28s.
+               Morocco gilt,<lb/>
+               <emph rend="ac medFont">The Nile Boat;</emph>
+               <emph rend="medFont">or, Glimpses of the Land of Egypt.</emph>
+               <lb/>Illustrated by 35 Steel Engravings and Maps, with numerous Cuts.<lb/>"Of Mr.
+               Bartlett's merit as a pictorial traveler we have frequently had occasion to speak in
+               terms of high commendation. In the present work he has been eminently successful."
+               -Athenaeum.<lb/>4.<lb/>Forth Edition, in super-royal 8vo, price 12s. cloth gilt;
+               Morocco gilt, 21s.,<lb/>
+               <emph rend="ac medFont">Forty Days in the Desert</emph>
+               <emph rend="medFont">on the Track of the</emph>
+               <lb/>Israelites; or A Journey from Cairo by Wady Feiran to Mount Sinai and Petra.
+               With 27 Engravings on Steel, a Map and numerous Woodcuts.<lb/>"The author presents,
+               in this volume, one of the most picturesque accounts of the route across the
+               wilderness of sand we have ever read." -Morning Herald.<lb/>5.<lb/>New Edition, in
+               super-royal 8vo, cloth gilt, 12s.; Morocco gilt, 21s., <emph rend="ac medFont">Walks
+                  about Jerusalem and its environs.</emph>
+               <lb/>Illustrated by 24 Steel Engravings, 2 Maps, and many superior Woodcuts.<lb/>"The
+               volume is well got up in point of embellishments, and contains much valuable matter,
+               with illustrations beautifully executed." -Church of England Magazine.<lb/>"It is
+               very elegantly got up, and will be richly ornamental to the table of any
+               drawing-room, library, or boudoir." -Wesleyan Association Magazine.<lb/>"We have at
+               length, in this attractive volume, the desideratum of a complete picturesque guide to
+               the topography of Jerusalem." -Patriot.<lb/>"Our impression is, that Jerusalem was
+               never before so successfully delineated." -Evangelical Magazine.<lb/>6.<lb/>Now
+               ready, price 4s. cloth gilt, post 8vo,<lb/>
+               <emph rend="ac medFont">Scripture Sites and Scenes</emph>
+               <emph rend="medFont">from actual Survey,</emph>
+               <lb/>in Egypt, Arabia, and Palestine. Illustrated by 17 Steel Engravings, 3 Maps, and
+               37 Woodcuts.<lb/>
+               <emph rend="ac medFont">Arthur Hall, Virtue, and Co., 25, Paternoster Row.</emph>
+            </p>
+         </div>
+         <div type="ad" xml:id="johnCumming">
+            <pb n="64"/>
+            <p><fw type="header"><emph rend="fancyFont medFont">Works by the <ref type="note"
+                        target="#n3"><persName><roleName>Rev</roleName>. <forename>John</forename>
+                           <surname>Cumming</surname>
+                           <roleName>D. D.</roleName></persName></ref></emph></fw>
+               <lb/> Fifth Thousand, in 2 vols. fcap 8vo, price 9s, cloth, full gilt,<lb/>
+               <emph rend="sc medFont">Forshadows;</emph>
+               <emph rend="medFont">or, Lecutres on our Lord's Miracles</emph><lb/> and parables as
+               Earnests of the Age to Come.<lb/> 2.<lb/>
+               <emph rend="sc medFont">Prophetic Studies;</emph>
+               <emph rend="medFont">or, Lectures on the Book of</emph><lb/> Daniel. Sixth Thousand,
+               in fcap 8vo, 9s. cloth, elegantly gilt; or 13s. Morocco.<lb/> 3.<lb/>
+               <emph rend="sc medFont">Apocalyptic Sketches;</emph>
+               <emph rend="medFont">or, Lecutres on the Book</emph><lb/> of Revelation. Delivered at
+               Exter Hall, and Crown Court Church. New Editions, revised and corrected, with Two
+               Indiees. Eleventh Thousand, in two vols. price 9s. each, cloth gilt, or 26s.
+               Morocco.<lb/> 4.<lb/>
+               <emph rend="sc medFont">Apocalyptic Sketches-</emph><emph rend="medFont">Third
+                  Series. Or, Lectures</emph><lb/> on the Seven Churches of Asian Minor. Illustrated
+               by Wood Engravings, representing the present state of the Apostolic Churches. Eight
+               Thousand, uniform with the above.<lb/> 5.<lb/>
+               <emph rend="sc medFont">"Is Christianity from God?"</emph>
+               <emph rend="medFont">a Manual of</emph><lb/>Christian Evidences for Scripture
+               Readers, Sunday School Teachers, City Missionaries, and Young Persons. Eighth
+               Edition, fcap 8vo, cloth, price 3s.<lb/> 6.<lb/>
+               <emph rend="sc medFont">Our Father;</emph>
+               <emph rend="medFont">a Manual of Family Prayers for General</emph><lb/> and Special
+               Occasions, with Short Prayers for Spare Minutes, and Passages for Reflection. Fifth
+               Edition, fcap 8vo, price 3s. cloth, gilt edges.<lb/> 7.<lb/>
+               <emph rend="sc medFont">The Communion Table;</emph>
+               <emph rend="medFont">or, Communicant's Manual:</emph><lb/> a Plain and Practical
+               Exposition of the Lord's Supper. New Eidtion, fcap 8vo, price 3s. cloth,<lb/> 8.<lb/>
+               <emph rend="sc medFont">Romish Miracles:</emph>
+               <emph rend="medFont">a Lecture delivered in the Town</emph><lb/> Hall, Birmingham,
+               Third Thousand, price 1s.<lb/> 9.<lb/>
+               <emph rend="sc medFont">The Celebrated Protestant Discussion</emph>
+               <emph rend="medFont">be-</emph><lb/>tween the Rev. John Cumming, D.D. and Daniel
+               French, Esq., held at Hammersmith, in 1839, Cheap Edition, Price 6s. cloth
+               lettered.<lb/> 10.<lb/>
+               <emph rend="sc medFont">Lecutres for the times;</emph>
+               <emph rend="medFont">or Iluustrations and</emph><lb/> Refutations of the Errors of
+               Romanism and Tractarianism. New Edition, Revised, with Additions, price 6s. in
+               cloth.<lb/> 11.<lb/>
+               <emph rend="sc medFont">Infant Salvation;</emph>
+               <emph rend="medFont">or, All Saved who Die in Infancy.</emph><lb/> Specially
+               addressed to Mothers mourning the loss of Infants and Children. Fourth Edition, fcap
+               8vo, cloth, gilt edges, price 2s.<lb/> 12.<lb/>
+               <emph rend="sc medFont">The Baptismal Font;</emph>
+               <emph rend="medFont">an Exposition of the Nature</emph><lb/> and Obligations of
+               Christian Baptism. With an Appendix. Third Eddition, fcap 8vo, gilt edges, price
+               2s.<lb/> 12.<lb/>
+               <emph rend="sc medFont">A Message from God;</emph>
+               <emph rend="medFont">or, Thoughts on Religion for</emph><lb/> Thinking Men. Fourth
+               Edition, fcap 8vo, cloth, gilt edges, 2s.<lb/> 14.<lb/>
+               <emph rend="sc medFont">Occasional Discourses.</emph>
+               <emph rend="medFont">Two vols., price 4s. each,</emph><lb/> cloth. Contents:-1,
+               Liberty. 2. Equality. 3. Fraternity. 4. The Revolutionists. 5. The True Charter. 6.
+               The True Succession. 7. Psalm for the Day. 8. Thanksgiving. 9. Salvation. 10. Autumn
+               Thoughts, &amp;c.<lb/>
+               <emph rend="sc medFont">Arthur Hall, Virtue, and Co., 25, Paternoster
+               Row.</emph><lb/>
+            </p>
+         </div>
       </body>
       <back>
-         <note xml:id="byron"><persName><roleName>Lord</roleName><forename>George</forename> Gordon
-                  <surname>Byron</surname></persName>, <date type="birth" when="1788-01-01">January
-               22, 1788</date>-<date type="death" when="1824-04-19">April 19, 1824</date></note>
-         <note xml:id="disraeliB"
-               ><persName><forename>Benjamin</forename><surname>Disraeli</surname></persName>, <date
-               type="birth" when="1804-12-21">December 21, 1804</date>-<date type="death"
-               when="1881-04-19">April 19, 1881</date></note>
-         <note xml:id="Dick"><persName><surname>Dickens</surname>,
-               <forename>Charles</forename></persName>, <date type="birth" when="1812-02-17"
-               >February 17, 1812</date>-<date type="death" when="1870-06-09">June 9,
-            1870</date></note>
+         <div type="endnotes">
+            <note xml:id="n1">Dickens is not the first author to publish a serialized form of the
+               novel, this is attributed to an author known only as <hi rend="italics">Boz</hi>
+               through the publishing company Chapman and Hall. Boz's work, popularly known back
+               then as the <hi rend="italics">Pickwick Papers</hi>, were selling as much as 40,000
+               copies per month in 1836. Nevertheless, Dickens is considered as the first already
+               commercially successful author, as he already finished his 8th novel -- <hi
+                  rend="italics">David Copperfield</hi>, who then published in serialized form. See
+                  <ref type="biblio" target="steinlight2006">Steinlight, 2006</ref>.</note>
+            <note xml:id="n2">Although this appears to be a letter to Charles Dickens, it is an
+               adevertisement, nonetheless. In this sort of letter, the company thanked Dickens for
+               his work on Bleak House and also mentioned his other popular work such as <hi
+                  rend="italics">David Copperfield</hi>, to perhaps show sincerity, and then went on
+               to promote and rave about their products. This strategy of connecting the
+               advertisement to the source material, either to Bleak House or to Charles Dickens
+               himself, is seen in other ads of those days. See for example <ref type="biblio"
+                  target="li2018">Li, 2018</ref>.</note>
+            <note xml:id="byron"><persName><roleName>Lord</roleName><forename>George</forename>
+                  Gordon <surname>Byron</surname></persName>, <date type="birth" when="1788-01-01"
+                  >January 22, 1788</date>-<date type="death" when="1824-04-19">April 19,
+                  1824</date></note>
+            <note xml:id="disraeliB"
+                     ><persName><forename>Benjamin</forename><surname>Disraeli</surname></persName>,
+                  <date type="birth" when="1804-12-21">December 21, 1804</date>-<date type="death"
+                  when="1881-04-19">April 19, 1881</date></note>
+            <note xml:id="Dick"><persName><surname>Dickens</surname>,
+                  <forename>Charles</forename></persName>, <date type="birth" when="1812-02-17"
+                  >February 17, 1812</date>-<date type="death" when="1870-06-09">June 9,
+               1870</date></note>
+            <note xml:id="n3"><persName><roleName>Rev</roleName>. <forename>John</forename>
+                  <surname>Cumming</surname>
+                  <roleName>D. D.</roleName></persName>, (<date type="birth" when="1807"
+                  >1807</date>-<date type="death" when="1881">1881</date>) was a prolific writer and
+               a notable minister of the National Scottish Church. He was most known for his
+               interest in the prophesied apocalypse, his anti-Catholic views, and his dislike
+               towards Rome</note>
+         </div>
+         <div type="bibliography">
+            <listBibl>
+               <bibl xml:id="steinlight2006" type="article"><author><surname>Steinlight</surname>,
+                        <forename>Emily</forename></author>.<title level="a">'Anti-Bleak House':
+                     Advertising and the Victorian Novel</title>.<title level="j">Narrative</title>,
+                  vol. <biblScope unit="volume">14</biblScope> no. <biblScope unit="issue"
+                     >2</biblScope>, <date>2006</date>, p.<biblScope unit="page"
+                  >132-162</biblScope>. <publisher>Project MUSE</publisher>, <ptr
+                     target="https://dx.doi.org/10.1353/nar.2006.0007"/>.</bibl>
+               <bibl xml:id="li2018"><author><surname>Li</surname>,
+                     <forename>Sumiao</forename></author>.<title level="a">FASHION, FASHIONABLE
+                     INTELLIGENCE, AND THE VICTORIAN NOVEL: THE VERSATILE CASE OF BLEAK
+                     HOUSE</title>.<title level="j">Victorian Literature and Culture</title>, vol.
+                     <biblScope unit="volume">46</biblScope>, no. <biblScope unit="issue"
+                     >1</biblScope>, <date>2018</date>, pp.<biblScope unit="page">23-55</biblScope>.
+                     <ptr target="https://doi.org/10.1017/S1060150317000316"/>.</bibl>
+               <bibl xml:id="cummingJohn"><author><persName><surname>Ellison</surname>,
+                           <forename>Robert</forename></persName></author> and
+                           <author><persName><surname>Carol</surname>
+                        <forename>Engelhardt</forename></persName></author>.
+                  “<title level="a"><persName><forename>John</forename>
+                        <surname>Cumming</surname></persName> -- An Introduction.</title>” <publisher>The
+                  Victorian Web</publisher>, <date when="2002-08-27">27 Aug. 2002</date>, <ptr target="https://victorianweb.org/religion/sermons/rhe12.html"/>.
+               </bibl>
+            </listBibl>
+         </div>
       </back>
    </text>
 </TEI>

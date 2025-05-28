@@ -2,15 +2,15 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
-<!-- use this processing statement  to link an XML file with a styelsheet: whether CSS or XSLT (adjust the @type value if XSLT: text/xslt)-->
 
+<!-- use this processing statement  to link an XML file with a styelsheet: whether CSS or XSLT (adjust the @type value if XSLT: text/xslt)-->
+<?xml-stylesheet type="text/css" href="teibp.css"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Pygmalion</title>
+            <title>Title</title>
          </titleStmt>
          <publicationStmt>
             <p>Publication Information</p>
@@ -19,16 +19,11 @@
             <p>Information about the source</p>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc>
-         <tagsDecl>
-            <rendition xml:id="allcaps">text-transform: uppercase;</rendition>
-         </tagsDecl>
-      </encodingDesc>
    </teiHeader>
    <text>
       <body>
          <head>Pygmalion by George Bernard Shaw</head>
-         
+
          <div type="act" n="1" xml:id="act1">
             <head>Act I</head>
             <stage rend="italics">Covent Garden at 11.15 p.m. Torrents of heavy summer rain. Cab whistles blowing

@@ -1266,7 +1266,7 @@ pubPlace {
   /* Empty Rule Set */
 }
 publicationStmt > * {
-  display: none;
+  display: block;
 }
 publicationStmt {
   display: block;
@@ -1536,7 +1536,7 @@ source {
   margin-bottom: 0;
 }
 sourceDesc {
-  display: none;
+  display: block;
 }
 sp {
   /*empty rule set*/
