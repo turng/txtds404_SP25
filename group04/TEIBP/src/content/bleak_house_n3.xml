@@ -30,12 +30,10 @@
             <p>
                <bibl>
                   <title>Bleak House</title>
-                  <author><ref target="#Dick">Dickens, Charles</ref>, <date type="birth"
-                        >1812</date>-<date type="death">1870</date></author>
+                  <author><ref target="#Dick">Dickens, Charles</ref>, <date type="birth">1812</date>-<date type="death">1870</date></author>
                   <respStmt>
                      <resp>illustrated by</resp>
-                     <persName xml:id="HKB">Browne, Hablot Knight, <date type="born"
-                           >1815</date>-<date type="death">1882</date></persName>
+                     <persName xml:id="HKB">Browne, Hablot Knight, <date type="born">1815</date>-<date type="death">1882</date></persName>
                   </respStmt>
                   <edition>[First edition]</edition>
                   <extent>70 pp</extent>
@@ -52,8 +50,7 @@
    <text>
       <front>
          <div type="introduction">
-            <p>This edition focuses on the advertisements that appeared alongside the original <ref
-                  type="note" target="#n1">serialized publication</ref> of Bleak House written by
+            <p>This edition focuses on the advertisements that appeared alongside the original <ref type="note" target="#n1">serialized publication</ref> of Bleak House written by
                Charles Dickens and illustrated by Hablot Knight Browne. This first edition was
                published in monthly parts between 1852 and 1853 and a well preserved complete set is
                available at the Special Collections of the University of Washington Libraries. While
@@ -94,8 +91,7 @@
                effectually resists the powerful heat of the sun and the most violent rains, also
                obviating the stickiness and unpleasant smell peculiar to all other Waterproofs.--
                Price according to size, 40s. to 55s. ; all silk throughout, 50s. to 65s.
-               Measurement, length of coat, and size round the chest over the coat <graphic
-                  url="img/p0_3.png"/>Notice--Name &amp; address stamped inside. None others are
+               Measurement, length of coat, and size round the chest over the coat <graphic url="img/p0_3.png"/>Notice--Name &amp; address stamped inside. None others are
                genuine. Edmiston &amp; Son, 416 &amp; 69, Strand Near the Adelphi Theatre.</p>
             <p><emph rend="ac">Opinions of the press.</emph>Waterproof--<q type="testimony">The
                   lightest and most effectual, is the Siphonia, made by Edmiston &amp; Son, of 69,
@@ -110,8 +106,7 @@
                   Goloshes.<graphic url="img/p0_5.png"/>Ladies' Capes, with Hoods. Do. Paletots. Air
                Cushions. Do. Pillows. Do. Beds. India Rubber Portable Folding Baths. Nursing Aprons.
                Crib Sheets.<graphic url="img/p0_6.png"/></p>
-            <p>The newly invented Swimming Gloves, Of great propelling power. <emph rend="ac"
-                  >Edmiston's life-belts none should be without.</emph>Fishing and shooting boots,
+            <p>The newly invented Swimming Gloves, Of great propelling power. <emph rend="ac">Edmiston's life-belts none should be without.</emph>Fishing and shooting boots,
                soft and pliable, require no dressing, and every description of India Rubber and
                Gutta Percha Goods, Piping, Tubing for Watering Gardens, &amp;c. Belfast--Albion
                Cloth Company. Edinbrugh--Grieve &amp; Oliver, Princes-street. Liverpool--Radcliffe
@@ -135,8 +130,7 @@
                thank you for <q rend="ac">Bleak House</q> in a business point of view, because it
                affords us an opportunity of conveying to all its readers the advantages or our
                Establishment, and the principles upon which it continues to be conducted.</p>
-            <p>Many thousands of readers have, we doubt not, entered upon their tasks since even <q
-                  rend="ac"><name type="person">David Copperfield</name></q> monthly appeared,
+            <p>Many thousands of readers have, we doubt not, entered upon their tasks since even <q rend="ac"><name type="person">David Copperfield</name></q> monthly appeared,
                between his <q>green leaves,</q> and some of these readers may note with favour the
                statement we here subjoin.</p>
             <p><q>We keep for the selection of purchaser all kinds or Tea and Coffee fit for use
@@ -147,8 +141,7 @@
             <p><q>We have a Patented Invention for Roasting Coffee, Cocoa, &amp;c. in Silver. By
                   this plan the ordinary evils of roasting such produce in a cylinder made of base
                   metal are avoided, whilst the cost of the produce is not increased.</q></p>
-            <p><q>We deliver by our Vans all Orders from any part of the <name type="place"
-                     >Metropolitan Districts</name>, within eight miles of <name type="place">St.
+            <p><q>We deliver by our Vans all Orders from any part of the <name type="place">Metropolitan Districts</name>, within eight miles of <name type="place">St.
                      Paul's</name>, on tho day after such orders are given.</q></p>
             <p><q>We also send into the Country, free of carriage, all Orders, if they be
                   accompanied by a remittance for payment, whether by half-notes, Post Office Order,
@@ -163,10 +156,8 @@
                   One</q>, will never regret having glanced over the first page of its white paper,
                on this 1st day of May.</p>
             <p>Wishing that you may long live to give birth to heaps of <q rend="ac">Household
-                  Words</q>, and to numerous Brothers and Sisters of <q rend="ac"><name
-                     type="person">David Copperfield</name>,</q></p>
-            <closer><salute>We remain, Sir, Very respectfully, Your obedient Servants</salute><name
-                  type="organization">Dakin &amp; Company</name><location>
+                  Words</q>, and to numerous Brothers and Sisters of <q rend="ac"><name type="person">David Copperfield</name>,</q></p>
+            <closer><salute>We remain, Sir, Very respectfully, Your obedient Servants</salute><name type="organization">Dakin &amp; Company</name><location>
                   <address>
                      <street>No. 1, St. Paul's Church-yard</street>
                      <settlement>London</settlement>
@@ -178,8 +169,7 @@
             <head>Works on Gardening and Botany.</head>
             <div type="ad" xml:id="paxtonFlowerGarden">
                <head rend="ac">Paxton's Flower-Garden.</head>
-               <p rend="ac">Edited by <name type="person">Dr. Lindley</name> and <name type="person"
-                     >Sir Joseph Paxton</name></p>
+               <p rend="ac">Edited by <name type="person">Dr. Lindley</name> and <name type="person">Sir Joseph Paxton</name></p>
                <p rend="ac">Each volume is illustrated by thirty-six highly finished plates and more
                   than two hundred beautiful engravings on wood.</p>
                <p>Volumes I, and II, are published. Price 33s. each, elegantly bound in cloth.</p>
@@ -188,16 +178,14 @@
             </div>
             <div type="ad" xml:id="paxtonBotanicalDictionary">
                <head rend="ac">Paxton’s botanical dictionary.</head>
-               <p>Comprising the names, history, and culture of all plants known in <name
-                     type="place">Britain</name>; with a full explanation of technical terms. Crown
+               <p>Comprising the names, history, and culture of all plants known in <name type="place">Britain</name>; with a full explanation of technical terms. Crown
                   8vo, 16s.</p>
                <p>&#8757;The supplement, containing all the new plants since the first edition, may
                   be had separately, price 5s.</p>
             </div>
             <div type="ad" xml:id="theElementsOfBotany">
                <head rend="ac">The elements of botany; Structural and physiological.</head>
-               <p>With a glossary of technical terms, and numerous illustrations. By <name rend="ac"
-                     type="person">Dr. Lindley</name>. 12s. cloth.</p>
+               <p>With a glossary of technical terms, and numerous illustrations. By <name rend="ac" type="person">Dr. Lindley</name>. 12s. cloth.</p>
                <p>&#8757;The glossary may be had separately, price 5s. cloth.</p>
             </div>
             <div type="ad" xml:id="elementsOfMedAndEconBotany">
@@ -251,9 +239,7 @@
             <p>
                <fw type="header"><emph rend="ac hugeFont">Important Family Medicine</emph></fw><lb/>
                <emph rend="ac bold hugeFont">Norton's Camomile Pills,</emph>
-               <emph rend="ac medFont">The<lb/> most certain preserver of health; </emph><emph
-                  rend="sc">A<lb/>mild, yet speedy, safe, and<lb/></emph><emph
-                  rend="ac bold medFont">Effectual Aid in cases of indigestion,<lb/>And all stomach
+               <emph rend="ac medFont">The<lb/> most certain preserver of health; </emph><emph rend="sc">A<lb/>mild, yet speedy, safe, and<lb/></emph><emph rend="ac bold medFont">Effectual Aid in cases of indigestion,<lb/>And all stomach
                   complaints,<lb/></emph><emph rend="sc">And, as a natural consequence,</emph><lb/>
                <emph rend="sc medFont">A purifier of the blood, and a sweetener of the whole
                   system.</emph><lb/>Indigestion is a weakness or want of power of the digestive
@@ -282,8 +268,7 @@
                frightful dreams and startings, and affording little or no refreshment: occasionally
                there is much moaning, with a sense of weight and oppression upon the chest,
                nightmare, &amp;c.<lb/>It is almost impossible to enumerate all the symptoms of this
-               first invader upon the constitution, as in a hundred cases of <emph rend="ital"
-                  >Indigestion</emph> there will probably be something peculiar to each; but, be
+               first invader upon the constitution, as in a hundred cases of <emph rend="ital">Indigestion</emph> there will probably be something peculiar to each; but, be
                they what they may, they are all occassioned by the food becoming a burden rather
                than a support to the stomach; and in all its stages the medicine most wanted is that
                which will afford speedy and effectual assistance to the digestive organs, and give
@@ -309,8 +294,7 @@
                renovating properties only to counteract the bad effects likely to be produced by the
                water. Generally speaking, this has been the case with camomile flowers, a herb
                possessing the highest restorative qualities, and when properly taken, decidedly the
-               most speedy restorer, and the most certain preserver of health.<lb/>These <emph
-                  rend="sc"> pills</emph> are wholly <emph rend="sc">camomile</emph>, prepared by a
+               most speedy restorer, and the most certain preserver of health.<lb/>These <emph rend="sc"> pills</emph> are wholly <emph rend="sc">camomile</emph>, prepared by a
                peculiar process, accidentally discovered, and known only to the proprietor, and
                which he firmly believes to be one of the most valuable modern discoveries in
                medicine, by which all the essential and extractice matter of more than an ounce of
@@ -406,8 +390,7 @@
                properties, they must be kept in bottles; and if closely corked their qualities are
                neither impaired by time nor injured by any change of climate whatever. Price 13 1/2
                d. and 2s.9d.each, with full directions. The large bottle contains the quantity of
-               three small ones, or <emph rend="sc">pills</emph> equal to fourteen ounce of <emph
-                  rend="sc">camomile flowers</emph>. <lb/><emph rend="medFont">Sold by nearly all
+               three small ones, or <emph rend="sc">pills</emph> equal to fourteen ounce of <emph rend="sc">camomile flowers</emph>. <lb/><emph rend="medFont">Sold by nearly all
                   respectable Medicine Vendors.</emph><lb/><emph rend="bold medFont">Be particular
                   to ask for "<emph rend="ac">norton's pills</emph>," and do not be persuaded to
                   purchase an imitation.</emph>
@@ -443,14 +426,11 @@
                      of his country; but he who can effect a cure should have a Monument raised to
                      his memory as high as St. Paul's, as wide as the Thames, and as lasting as
                      time."</emph></emph><lb/><emph rend="ac fancyFont medFont">Simco's Gout and
-                  Rheumatic Pills</emph><lb/>are sold by nearly all Medicine Venders at <emph
-                  rend="ital">1s. 1 1/2d., and 2s.9d. per Box; the former containing does for</emph>
-               five <emph rend="ital">and the latter for</emph> fifteen <emph rend="ital"
-                  >days</emph>; and so many individuals, who considered themselves martyrs to Gout
+                  Rheumatic Pills</emph><lb/>are sold by nearly all Medicine Venders at <emph rend="ital">1s. 1 1/2d., and 2s.9d. per Box; the former containing does for</emph>
+               five <emph rend="ital">and the latter for</emph> fifteen <emph rend="ital">days</emph>; and so many individuals, who considered themselves martyrs to Gout
                or Rheumatism, are now ready and willing to bear testimony of the wonderful effects
                of Simco's Pills, that the Proprietor fearlessly challenges the whole world to
-               produce Medicine which at all deserves to be compared to them. There are <emph
-                  rend="ital">many</emph> instances in which person have been completely restored to
+               produce Medicine which at all deserves to be compared to them. There are <emph rend="ital">many</emph> instances in which person have been completely restored to
                health and activity by taking <emph rend="sc">Simco's Gout Pills</emph>, who have
                suffered from Rheumatic Gout for several years, and had drawn on a miserable
                existence, having lost the use of their limbs, believing that death alone could
@@ -472,9 +452,7 @@
                progress of this distressing complaint, and a little perseverance completely removes
                it. Children's Coughs, as well as recent ones in Adults, will be removed by a few
                doses (frequently by the first); and Asthmatic persons, who previously had not been
-               able to lie down in bed, have received the utmost benefit from the use of<lb/><emph
-                  rend="ac medFont">Simco's Essence of Linseed.</emph><lb/>Sold in Bottles at <emph
-                  rend="ital">1s 1/2d.</emph>, and <emph rend="ital">2s. 9d.</emph> each. </p>
+               able to lie down in bed, have received the utmost benefit from the use of<lb/><emph rend="ac medFont">Simco's Essence of Linseed.</emph><lb/>Sold in Bottles at <emph rend="ital">1s 1/2d.</emph>, and <emph rend="ital">2s. 9d.</emph> each. </p>
          </div>
          <div type="ad" xml:id="williamAuto">
             <pb n="62"/>
@@ -490,8 +468,7 @@
                <emph rend="sc">IN CONNECTION WITH MOST OF THE EMINENT PERSON WHO HAVE BEEN
                   DISTINGUISED IN THE PAST HALF CENTURY AS STATESMEN, POETS, AUTHORS, MEN OF
                   SCIENCE, ARTISTS, ETC.</emph><lb/>The First Volume, price 5s., with a Portrait of
-               the Author, Engraved by <emph rend="sc">Robinson</emph>, from a Painting by <emph
-                  rend="sc">Harlowe</emph>, will appear on the <date when="1852-05-01">1st of
+               the Author, Engraved by <emph rend="sc">Robinson</emph>, from a Painting by <emph rend="sc">Harlowe</emph>, will appear on the <date when="1852-05-01">1st of
                   May</date>, and it is proposed to complete the Work in Four or Six Volumes, to be
                published Quarterly.<lb/>
                <emph rend="ital bold">Among many Distinguished Names introduced in the Narrative and
@@ -546,8 +523,7 @@
                      <roleName>Lord</roleName></persName></item>
                   <item><ref target="#Dick"><persName><surname>Dickens</surname>,
                         Charles</persName></ref></item>
-                  <item><persName><surname>Disraeli</surname>, Isaac and <ref target="#disraeliB"
-                           >Benjamin</ref></persName></item>
+                  <item><persName><surname>Disraeli</surname>, Isaac and <ref target="#disraeliB">Benjamin</ref></persName></item>
                   <item><persName><surname>Eldon</surname>,
                      <roleName>Lord</roleName></persName></item>
                   <item><persName><surname>Erskine</surname>,
@@ -775,8 +751,7 @@
             <pb n="64"/>
             <p>
                <fw type="header">
-                  <emph rend="fancyFont medFont">Works by the <ref type="note"
-                        target="#n3"><persName><roleName>Rev</roleName>. <forename>John</forename>
+                  <emph rend="fancyFont medFont">Works by the <ref type="note" target="#n3"><persName><roleName>Rev</roleName>. <forename>John</forename>
                            <surname>Cumming</surname>
                            <roleName>D. D.</roleName></persName></ref></emph>
                </fw><lb/>
@@ -908,7 +883,7 @@
             </closer>
          </div>
          <div type="ad-group" xml:id="newWorks">
-	    <pb n="65"/>
+            <pb n="65"/>
             <p>
                <fw type="header"><emph rend="fancyFont medfont">New Works and New Editions.</emph></fw><lb/>
             </p>   
@@ -1020,6 +995,116 @@
                Reed and Pardon, Printers Paternoster Row.
             </closer>
          </div>      
+         <div type="ad" xml:id="newLondon">
+            <pb n="66"/>
+            <p>
+               <fw type="header"><emph rend="bold ac medFont">New London Weekly Newspaper, Price
+                     Fourpence,</emph></fw><lb/>
+               <emph rend="ital">Will be Published on Saturday, the 15th of May.</emph><lb/>
+               <emph rend="bold medFont">A Presentation Plate <emph rend="ac">Gratis</emph>! Cost
+                  Engraving,<lb/> Four Hundred Guineas.</emph><lb/>
+               <emph rend="ital">A Beautiful Print, the</emph>
+               <emph rend="sc">Origin of the Stocking-Loom</emph>
+               <emph rend="ital">, painted by</emph>
+               <emph rend="ac">Alfred Elmore</emph>, A.R.A., and <emph rend="ital">Engraved on <emph
+                     rend="ac">Steel</emph> by</emph>
+               <emph rend="ac">Francis Hol</emph><emph rend="ital">, (published at £1 1s.) will be
+                  presented,</emph>
+               <emph rend="ac">Gratis</emph><emph rend="ital">, to Subscribers, with the Thirteenth
+                  Number.</emph><lb/>
+               <emph rend="sc">This Sketch Represents the</emph>
+               <emph rend="ac">Steel Engraving</emph>
+               <emph rend="sc">of the</emph>
+               <emph rend="ac">Origin of the Stocking-Loom</emph>, <emph rend="sc">the size of which
+                  is 22in, by 16 1/2in</emph>.<lb/>
+               <figure type="image" place="center">
+                  <graphic url="C:/Users/Steven/Desktop/tei work/66graphic.png"/>
+               </figure><lb/>
+               <emph rend="smallFont">[William Lee, of St. Johns College, Cambridge, was about the
+                  1589 expelled from the University for marrying contrary to the statutes. Having no
+                  fortune, the wife was obliged to contribute to their joint support by knitting;
+                  and Lee, while watching the motion of her fingers, conceived the idea of imitating
+                  those movements by a machine.</emph><lb/>
+               <emph rend="ac">The</emph><lb/>
+               <emph rend="ac bold hugeFont">London Weekly Paper,</emph><lb/>
+               <emph rend="ac">And</emph><lb/>
+               <emph rend="hugeFont fancyFont">Organ of the Middle Classes.</emph><lb/>
+               <emph rend="ac">A Record of Political, Domestic, and Foreign News, Literature, Arts,
+                  Science, etc.</emph><lb/>
+               <emph rend="sc">Under the Direction of</emph><lb/>
+               <emph rend="medFont ac">William Jerdan, Esq</emph>.,<lb/>
+               <emph rend="ital">(Late Editor of the Literary Gazette.)</emph><lb/>
+               <emph rend="medFont ac">To the Middle Classes.</emph><lb/> In offering the <emph
+                  rend="sc">London Weekly Paper</emph> to represent you in that great and still
+               growing power, the Parliament of the British Press, we are aware that, previous to
+               giving us your sufferages, you will demand--and justly--a full, clear, and candid
+               statement of the part we propose to act on this great stage of Social and Political
+               Life. With candour then we say, if we are returned, (and as those Members of
+               Parliament who represent the larger constituencies are those whose opinions are
+               attached the greater weight, so the greater number of votes you register in <pb
+                  n="67"/>our favor the greater will be our influence, and consequently our sphere
+               of usefulness,) that it is our purpose to enforce two high principles: I. Social
+               Improvement; II. Political Reform.<lb/> With our Social Duties then we will commence.
+               We desire to supply a want long felt by a large portion of the Public: -- <emph
+                  rend="ital">viz</emph>, a <emph rend="sc">Weekly Paper</emph> that shall at once
+               embrace all the <emph rend="ital">news and topics of the week</emph>, and, at the
+               same time, maintain a <emph rend="ital">higher literary character</emph> than has
+               generally been assumed by the weekly press. It will be of the full size, consisting
+               of sixty-four columns, printed on superior paper, from bold, clear type.<lb/> As our
+                  <emph rend="sc">London Weekly Paper</emph> is especially intended for the Family
+               Circle, the utmost care will be taken to preserve, throughout, a strictly Moral Tone,
+               and with this view, <emph rend="ital">all advertisements of an objectionable
+                  character will be carefully excluded</emph>. The proceedings of the Law and Police
+               Courts will be fully reported, and no pains will be spared to obtain the best and
+               latest Foreign, Town, and Country News, with Accurate Accounts of Public Meetings,
+               Lectures, Exhibitions, &amp;c. Carefully digested Reports of the Parliamentary
+               Proceedings and Debates will also be given. Due attention will be paid to the
+               Markets, Funds, Railways, Sporting Intelligence, &amp;c.<lb/> We intend making the
+               Reviews of New Books, Science, Archaeology, the Fine Arts, Music, the Theatres,
+               &amp;c., especial features: this portion will be confided to gentlemen distinguised
+               by their attainments in the Arts, Science, and Literature.<lb/>
+               <emph rend="ac">A Principal Novelty</emph> in this Paper, distinguishing it from all
+               others, will be the devotion, from week to week, of a portion of its Columns <emph
+                  rend="ital">to the <emph rend="ac">History of the Origin</emph> of contemporary
+                  events, with Biographical notices of persons lately sprung into notoriety</emph>.
+               Thus, we shall not think it enough to record a passing occurrence, but when it
+               possesses anny importance, make it a portion of our duty to give the particular of
+               such event, and the <emph rend="ital">cause</emph> which led to it. It has been a
+               matter of complaint, that, in the newspapers generally, great political incidents as
+               they occur are brought <emph rend="ital">abruptly</emph> before the public, without
+               that sort of information relating to their <emph rend="ital">antecedents</emph> which
+               would make them intelligible to the general reader; this defect we hope to
+               remedy.<lb/> But, while we devote a portion of our space to all these subjects, the
+               Political Department of our Paper will be earnestly conducted, nor shall we shrink,
+               in the slightest degree, from the responsibility attached to it. We will honestly
+               advocate the great cause of National Progress, and we need scarcely add the
+               continuance of the free and enlightened Commercial Policy which has so largely
+               contributed to the present material comforts of the humbler classes, and thus to the
+               general prosperity of the country: while we no less firmly support, on the other
+               hand, the interests of Social Order against Mob Despotism, and the great principles
+               of Constitutional Liberty against Individual or Combined Oppression.<lb/> With regard
+               to the Church, we profess ourselves Staunch Protestants, but we shall advocate the
+               cause of Religious Liberty, and do all in our power to promote Reform of Abuses which
+               have crept into Ecclesiastical Establishments. In short, we shall suport deliberate
+               and well-conducted Reform wherever it is required, in Church or in State, in Law, or
+               other Learned Professions, in Corporate Bodies and Institutions, in the Commerical
+               and Colonial Relations of the Kingdom, in Education, and in everyhthing which regards
+               the Social Condition and Social Comforts of our Countrymen. It is for them that our
+                  <emph rend="sc">Paper</emph> is designed; we shall espouse the cause of no sect or
+               party; but, whatever set of men may be in power, we shall judge every Measure of
+               Government only by its intrinsic merits and the benefits it is likely to secure for
+               the country.<lb/> An Edition will be published on Friday, in time for the Evening
+               Mails for the country, and the last Edition on Saturday evening at Six o'clock, which
+               will contain the latest general news, the market and commercial intelligence, with
+               quotations of prices corrected to the hour of going to press.<lb/> Orders will be
+               attended to by all News-vendors throughout the United Kingdom; or the Publisher will
+               send it directly from the office upon the receipt of a Quarter's Subscription, <emph
+                  rend="ital">viz</emph>., 4s. 4d.<lb/> Money orders to be made payable to
+                  <persName>Frederick Tallis</persName>, 1, Crane-court, Fleet-street.<lb/><emph
+                  rend="medFont ac">London:<lb/> Published by <persName>Frederick Tallis</persName>,
+                  1, Crane Court, Fleet Street.</emph>
+            </p>
+         </div>
       </body>
       <back>
          <div type="endnotes">
@@ -1028,33 +1113,25 @@
                through the publishing company Chapman and Hall. Boz's work, popularly known back
                then as the <hi rend="italics">Pickwick Papers</hi>, were selling as much as 40,000
                copies per month in 1836. Nevertheless, Dickens is considered as the first already
-               commercially successful author, as he already finished his 8th novel -- <hi
-                  rend="italics">David Copperfield</hi>, who then published in serialized form. See
+               commercially successful author, as he already finished his 8th novel -- <hi rend="italics">David Copperfield</hi>, who then published in serialized form. See
                   <ref type="biblio" target="steinlight2006">Steinlight, 2006</ref>.</note>
             <note xml:id="n2">Although this appears to be a letter to Charles Dickens, it is an
                adevertisement, nonetheless. In this sort of letter, the company thanked Dickens for
-               his work on Bleak House and also mentioned his other popular work such as <hi
-                  rend="italics">David Copperfield</hi>, to perhaps show sincerity, and then went on
+               his work on Bleak House and also mentioned his other popular work such as <hi rend="italics">David Copperfield</hi>, to perhaps show sincerity, and then went on
                to promote and rave about their products. This strategy of connecting the
                advertisement to the source material, either to Bleak House or to Charles Dickens
-               himself, is seen in other ads of those days. See for example <ref type="biblio"
-                  target="li2018">Li, 2018</ref>.</note>
+               himself, is seen in other ads of those days. See for example <ref type="biblio" target="li2018">Li, 2018</ref>.</note>
             <note xml:id="byron"><persName><roleName>Lord</roleName><forename>George</forename>
-                  Gordon <surname>Byron</surname></persName>, <date type="birth" when="1788-01-01"
-                  >January 22, 1788</date>-<date type="death" when="1824-04-19">April 19,
+                  Gordon <surname>Byron</surname></persName>, <date type="birth" when="1788-01-01">January 22, 1788</date>-<date type="death" when="1824-04-19">April 19,
                   1824</date></note>
-            <note xml:id="disraeliB"
-                     ><persName><forename>Benjamin</forename><surname>Disraeli</surname></persName>,
-                  <date type="birth" when="1804-12-21">December 21, 1804</date>-<date type="death"
-                  when="1881-04-19">April 19, 1881</date></note>
+            <note xml:id="disraeliB"><persName><forename>Benjamin</forename><surname>Disraeli</surname></persName>,
+                  <date type="birth" when="1804-12-21">December 21, 1804</date>-<date type="death" when="1881-04-19">April 19, 1881</date></note>
             <note xml:id="Dick"><persName><surname>Dickens</surname>,
-                  <forename>Charles</forename></persName>, <date type="birth" when="1812-02-17"
-                  >February 17, 1812</date>-<date type="death" when="1870-06-09">June 9,
+                  <forename>Charles</forename></persName>, <date type="birth" when="1812-02-17">February 17, 1812</date>-<date type="death" when="1870-06-09">June 9,
                1870</date></note>
             <note xml:id="n3"><persName><roleName>Rev</roleName>. <forename>John</forename>
                   <surname>Cumming</surname>
-                  <roleName>D. D.</roleName></persName>, (<date type="birth" when="1807"
-                  >1807</date>-<date type="death" when="1881">1881</date>) was a prolific writer and
+                  <roleName>D. D.</roleName></persName>, (<date type="birth" when="1807">1807</date>-<date type="death" when="1881">1881</date>) was a prolific writer and
                a notable minister of the National Scottish Church. He was most known for his
                interest in the prophesied apocalypse, his anti-Catholic views, and his dislike
                towards Rome</note>
@@ -1064,16 +1141,12 @@
                <bibl xml:id="steinlight2006" type="article"><author><surname>Steinlight</surname>,
                         <forename>Emily</forename></author>.<title level="a">'Anti-Bleak House':
                      Advertising and the Victorian Novel</title>.<title level="j">Narrative</title>,
-                  vol. <biblScope unit="volume">14</biblScope> no. <biblScope unit="issue"
-                     >2</biblScope>, <date>2006</date>, p.<biblScope unit="page"
-                  >132-162</biblScope>. <publisher>Project MUSE</publisher>, <ptr
-                     target="https://dx.doi.org/10.1353/nar.2006.0007"/>.</bibl>
+                  vol. <biblScope unit="volume">14</biblScope> no. <biblScope unit="issue">2</biblScope>, <date>2006</date>, p.<biblScope unit="page">132-162</biblScope>. <publisher>Project MUSE</publisher>, <ptr target="https://dx.doi.org/10.1353/nar.2006.0007"/>.</bibl>
                <bibl xml:id="li2018"><author><surname>Li</surname>,
                      <forename>Sumiao</forename></author>.<title level="a">FASHION, FASHIONABLE
                      INTELLIGENCE, AND THE VICTORIAN NOVEL: THE VERSATILE CASE OF BLEAK
                      HOUSE</title>.<title level="j">Victorian Literature and Culture</title>, vol.
-                     <biblScope unit="volume">46</biblScope>, no. <biblScope unit="issue"
-                     >1</biblScope>, <date>2018</date>, pp.<biblScope unit="page">23-55</biblScope>.
+                     <biblScope unit="volume">46</biblScope>, no. <biblScope unit="issue">1</biblScope>, <date>2018</date>, pp.<biblScope unit="page">23-55</biblScope>.
                      <ptr target="https://doi.org/10.1017/S1060150317000316"/>.</bibl>
                <bibl xml:id="cummingJohn"><author><persName><surname>Ellison</surname>,
                            <forename>Robert</forename></persName></author> and
