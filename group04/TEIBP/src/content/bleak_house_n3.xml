@@ -245,13 +245,7 @@
                      </address>
                   </location></p>
             </div>
-         </div>
-         <div/>
-         <div/>
-         <div/>
-         <div/>
-         <div/>
-         <div/>
+         </div>  
          <div type="ad" xml:id="nortonPills">
             <pb n="58"/>
             <p>
@@ -677,136 +671,354 @@
                <emph rend="sc">Arthur Hall, Virtue, and Co., 25, Paternoster Row.</emph>
             </p>
          </div>
-         <div type="ad" xml:id="bartlettGiftBook">
+         <div type="ad-group" xml:id="bartlettGiftBook">
             <pb n="63"/>
             <p>
-               <fw type="header"><emph rend="fancyFont medFont">Mr. Bartlett's New Gift
-                  Book.</emph></fw>
-               <lb/> Third Edition, in super-royal 7vo, Twenty-three Envgravings on Steel and
-               several Woodcuts, price 14s. cloth, gilt edges, or 26s Morocco elegant, <lb/>
-               <emph rend="ac medFont">Footsteps of our lord and his apostles</emph>
-               <lb/> In Syria, Greece, and Italy, a Succession of Vists to the Scenes of New
-               Testament Narrative.<lb/> "If beauty of design and execution, combined with elegance
-               of narrative and trustworthy description, can be any recommendation to a book, it is
-               sufficient to say that this excellent volume posseses every one of these features,
-               and establishes its own character without the need of any further praise." -Bell's
-               Messenger.<lb/> "Mr. Bartlett has with success brought together in an effective and
-               attractive volume, a series of written and engraved memorials of the early days of
-               our faith, which cannot but find a welcome in many a domestic circle, and cheer with
-               its reccolections every Christian heart, whilst it pleases with its artistic beauty
-               the most careless inspectors. We close the book with regret, and recommend it without
-               fear." -Britanica<lb/> "This is one of the happiest of the many happy Christmas
-               ventures that their publishers have put forth. It is got up in excellent taste, and
-               written in a pleasing and attractive style." -Church and State
-               Gazette.<lb/>2.<lb/>Second Edition, in super-royal 8vo, price 16s. handsomely bound
-               in cloth gilt, or 28s. Morocco elegant, <lb/>
-               <emph rend="ac medFont">Gleanings, Antiquarian and Pictorial,</emph>
-               <emph rend="medFont">on</emph>
-               <lb/>the Overland Route, illustrated with 28 Steel Plates and Maps, and 23 Woodcuts.
-               <lb/>"The present work is as excellent as his former productions, for its lively and
-               picturesque narrative, and for the exquisite engravings by which it is illustrated."
-               -Athenaeum <lb/>"It is unquestionably one of the most elegant volumes ever published.
-               The letterpress gives an excellent historical account of Malta, with graphic sketches
-               of travelling adventures, both at that place and at Gibraltar." -Atlas<lb/>"Should be
-               in the hands of every person travelling by the Overland Route, as well as in every
-               library in the kingdom with at least pretensions to completeness."
-               -Observer.<lb/>3.<lb/>Third Edition, in super-royal 8vo, price 16s. cloth gilt; 28s.
-               Morocco gilt,<lb/>
-               <emph rend="ac medFont">The Nile Boat;</emph>
-               <emph rend="medFont">or, Glimpses of the Land of Egypt.</emph>
-               <lb/>Illustrated by 35 Steel Engravings and Maps, with numerous Cuts.<lb/>"Of Mr.
-               Bartlett's merit as a pictorial traveler we have frequently had occasion to speak in
-               terms of high commendation. In the present work he has been eminently successful."
-               -Athenaeum.<lb/>4.<lb/>Forth Edition, in super-royal 8vo, price 12s. cloth gilt;
-               Morocco gilt, 21s.,<lb/>
-               <emph rend="ac medFont">Forty Days in the Desert</emph>
-               <emph rend="medFont">on the Track of the</emph>
-               <lb/>Israelites; or A Journey from Cairo by Wady Feiran to Mount Sinai and Petra.
-               With 27 Engravings on Steel, a Map and numerous Woodcuts.<lb/>"The author presents,
-               in this volume, one of the most picturesque accounts of the route across the
-               wilderness of sand we have ever read." -Morning Herald.<lb/>5.<lb/>New Edition, in
-               super-royal 8vo, cloth gilt, 12s.; Morocco gilt, 21s., <emph rend="ac medFont">Walks
-                  about Jerusalem and its environs.</emph>
-               <lb/>Illustrated by 24 Steel Engravings, 2 Maps, and many superior Woodcuts.<lb/>"The
-               volume is well got up in point of embellishments, and contains much valuable matter,
-               with illustrations beautifully executed." -Church of England Magazine.<lb/>"It is
-               very elegantly got up, and will be richly ornamental to the table of any
-               drawing-room, library, or boudoir." -Wesleyan Association Magazine.<lb/>"We have at
-               length, in this attractive volume, the desideratum of a complete picturesque guide to
-               the topography of Jerusalem." -Patriot.<lb/>"Our impression is, that Jerusalem was
-               never before so successfully delineated." -Evangelical Magazine.<lb/>6.<lb/>Now
-               ready, price 4s. cloth gilt, post 8vo,<lb/>
-               <emph rend="ac medFont">Scripture Sites and Scenes</emph>
-               <emph rend="medFont">from actual Survey,</emph>
-               <lb/>in Egypt, Arabia, and Palestine. Illustrated by 17 Steel Engravings, 3 Maps, and
-               37 Woodcuts.<lb/>
-               <emph rend="ac medFont">Arthur Hall, Virtue, and Co., 25, Paternoster Row.</emph>
+               <fw type="header"><emph rend="fancyFont medFont">Mr. Bartlett's New Gift Book.</emph></fw><lb/> 
             </p>
+            <div type="ad" xml:id="footSteps">
+               <p>
+                  Third Edition, in super-royal 7vo, Twenty-three Envgravings on Steel and
+                  several Woodcuts, price 14s. cloth, gilt edges, or 26s Morocco elegant, <lb/>
+                  <emph rend="ac medFont">Footsteps of our lord and his apostles</emph><lb/>
+                  In Syria, Greece, and Italy, a Succession of Vists to the Scenes of New
+                  Testament Narrative.<lb/>
+                  "If beauty of design and execution, combined with elegance
+                  of narrative and trustworthy description, can be any recommendation to a book, it is
+                  sufficient to say that this excellent volume posseses every one of these features,
+                  and establishes its own character without the need of any further praise." -Bell's
+                  Messenger.<lb/>
+                  "Mr. Bartlett has with success brought together in an effective and
+                  attractive volume, a series of written and engraved memorials of the early days of
+                  our faith, which cannot but find a welcome in many a domestic circle, and cheer with
+                  its reccolections every Christian heart, whilst it pleases with its artistic beauty
+                  the most careless inspectors. We close the book with regret, and recommend it without
+                  fear." -Britanica<lb/>
+                  "This is one of the happiest of the many happy Christmas
+                  ventures that their publishers have put forth. It is got up in excellent taste, and
+                  written in a pleasing and attractive style." -Church and State
+                  Gazette.<lb/>
+               </p>
+            </div>
+            <div type="ad" xml:id="gleanings">
+               <p>
+                  2.<lb/>
+                  Second Edition, in super-royal 8vo, price 16s. handsomely bound
+                  in cloth gilt, or 28s. Morocco elegant, <lb/>
+                  <emph rend="ac medFont">Gleanings, Antiquarian and Pictorial,</emph>
+                  <emph rend="medFont">on</emph><lb/>
+                  the <emph rend="sc">Overland Route</emph>, illustrated with 28 Steel Plates and Maps, and 23 Woodcuts.<lb/>
+                  "The present work is as excellent as his former productions, for its lively and
+                  picturesque narrative, and for the exquisite engravings by which it is illustrated."
+                  -Athenaeum <lb/>
+                  "It is unquestionably one of the most elegant volumes ever published.
+                  The letterpress gives an excellent historical account of Malta, with graphic sketches
+                  of travelling adventures, both at that place and at Gibraltar." -Atlas<lb/>
+                  "Should be in the hands of every person travelling by the Overland Route, as well as in every
+                  library in the kingdom with at least pretensions to completeness." -Observer.<lb/>
+               </p>
+            </div>
+            <div type="ad" xml:id="nileBoat">
+               <p>
+                  3.<lb/>
+                  Third Edition, in super-royal 8vo, price 16s. cloth gilt; 28s. morocco gilt, <lb/>
+                  <emph rend="ac medFont">The Nile Boat;</emph>
+                  <emph rend="medFont">or, Glimpses of the Land of Egypt.</emph><lb/>
+                  Illustrated by 35 Steel Engravings and Maps, with numerous Cuts.<lb/>
+                  "Of Mr.Bartlett's merit as a pictorial traveler we have frequently had occasion to speak in
+                  terms of high commendation. In the present work he has been eminently successful."
+                  -Athenaeum.<lb/>
+               </p>
+            </div>
+            <div type="ad" xml:id="fortyDays">
+               <p>
+                  4.<lb/>
+                  Forth Edition, in super-royal 8vo, price 12s. cloth gilt; Morocco gilt, 21s.,<lb/>
+                  <emph rend="ac medFont">Forty Days in the Desert</emph>
+                  <emph rend="medFont">on the Track of the</emph><lb/>
+                  Israelites; or A Journey from Cairo by Wady Feiran to Mount Sinai and Petra.
+                  With 27 Engravings on Steel, a Map and numerous Woodcuts.<lb/>
+                  "The author presents, in this volume, one of the most picturesque accounts of the route across the
+                  wilderness of sand we have ever read." -Morning Herald.<lb/>
+               </p>
+            </div>
+            <div type="ad" xml:id="walksJerusalem">
+               <p>
+                  5.<lb/>
+                  New Edition, in super-royal 8vo, cloth gilt, 12s.; Morocco gilt, 21s.,<lb/>
+                  <emph rend="ac medFont">Walks about Jerusalem and its Environs.</emph><lb/>
+                  Illustrated by 24 Steel Engravings, 2 Maps, and many superior Woodcuts.<lb/>
+                  "The volume is well got up in point of embellishments, and contains much valuable matter,
+                  with illustrations beautifully executed." -Church of England Magazine.<lb/>
+                  "It is very elegantly got up, and will be richly ornamental to the table of any
+                  drawing-room, library, or boudoir." -Wesleyan Association Magazine.<lb/>
+                  "We have at length, in this attractive volume, the desideratum of a complete picturesque guide to
+                  the topography of Jerusalem." -Patriot.<lb/>
+                  "Our impression is, that Jerusalem was never before so successfully delineated." -Evangelical Magazine.<lb/>
+               </p>
+            </div>
+            <div type="ad" xml:id="scriptureSites">
+               <p>
+                  6.<lb/>
+                  Now ready, price 4s. cloth gilt, post 8vo,<lb/>
+                  <emph rend="ac medFont">Scripture Sites and Scenes</emph>
+                  <emph rend="medFont">from actual Survey,</emph><lb/>
+                  in Egypt, Arabia, and Palestine. Illustrated by 17 Steel Engravings, 3 Maps, and
+                  37 Woodcuts.<lb/>
+               </p>
+            </div>
+            <closer>
+               <emph rend="ac medFont">Arthur Hall, Virtue, and Co., 25, Paternoster Row.</emph>
+            </closer>
          </div>
-         <div type="ad" xml:id="johnCumming">
+         <div type="ad-group" xml:id="johnCumming">
             <pb n="64"/>
-            <p><fw type="header"><emph rend="fancyFont medFont">Works by the <ref type="note"
+            <p>
+               <fw type="header">
+                  <emph rend="fancyFont medFont">Works by the <ref type="note"
                         target="#n3"><persName><roleName>Rev</roleName>. <forename>John</forename>
                            <surname>Cumming</surname>
-                           <roleName>D. D.</roleName></persName></ref></emph></fw>
-               <lb/> Fifth Thousand, in 2 vols. fcap 8vo, price 9s, cloth, full gilt,<lb/>
-               <emph rend="sc medFont">Forshadows;</emph>
-               <emph rend="medFont">or, Lecutres on our Lord's Miracles</emph><lb/> and parables as
-               Earnests of the Age to Come.<lb/> 2.<lb/>
-               <emph rend="sc medFont">Prophetic Studies;</emph>
-               <emph rend="medFont">or, Lectures on the Book of</emph><lb/> Daniel. Sixth Thousand,
-               in fcap 8vo, 9s. cloth, elegantly gilt; or 13s. Morocco.<lb/> 3.<lb/>
-               <emph rend="sc medFont">Apocalyptic Sketches;</emph>
-               <emph rend="medFont">or, Lecutres on the Book</emph><lb/> of Revelation. Delivered at
-               Exter Hall, and Crown Court Church. New Editions, revised and corrected, with Two
-               Indiees. Eleventh Thousand, in two vols. price 9s. each, cloth gilt, or 26s.
-               Morocco.<lb/> 4.<lb/>
-               <emph rend="sc medFont">Apocalyptic Sketches-</emph><emph rend="medFont">Third
-                  Series. Or, Lectures</emph><lb/> on the Seven Churches of Asian Minor. Illustrated
-               by Wood Engravings, representing the present state of the Apostolic Churches. Eight
-               Thousand, uniform with the above.<lb/> 5.<lb/>
-               <emph rend="sc medFont">"Is Christianity from God?"</emph>
-               <emph rend="medFont">a Manual of</emph><lb/>Christian Evidences for Scripture
-               Readers, Sunday School Teachers, City Missionaries, and Young Persons. Eighth
-               Edition, fcap 8vo, cloth, price 3s.<lb/> 6.<lb/>
-               <emph rend="sc medFont">Our Father;</emph>
-               <emph rend="medFont">a Manual of Family Prayers for General</emph><lb/> and Special
-               Occasions, with Short Prayers for Spare Minutes, and Passages for Reflection. Fifth
-               Edition, fcap 8vo, price 3s. cloth, gilt edges.<lb/> 7.<lb/>
-               <emph rend="sc medFont">The Communion Table;</emph>
-               <emph rend="medFont">or, Communicant's Manual:</emph><lb/> a Plain and Practical
-               Exposition of the Lord's Supper. New Eidtion, fcap 8vo, price 3s. cloth,<lb/> 8.<lb/>
-               <emph rend="sc medFont">Romish Miracles:</emph>
-               <emph rend="medFont">a Lecture delivered in the Town</emph><lb/> Hall, Birmingham,
-               Third Thousand, price 1s.<lb/> 9.<lb/>
-               <emph rend="sc medFont">The Celebrated Protestant Discussion</emph>
-               <emph rend="medFont">be-</emph><lb/>tween the Rev. John Cumming, D.D. and Daniel
-               French, Esq., held at Hammersmith, in 1839, Cheap Edition, Price 6s. cloth
-               lettered.<lb/> 10.<lb/>
-               <emph rend="sc medFont">Lecutres for the times;</emph>
-               <emph rend="medFont">or Iluustrations and</emph><lb/> Refutations of the Errors of
-               Romanism and Tractarianism. New Edition, Revised, with Additions, price 6s. in
-               cloth.<lb/> 11.<lb/>
-               <emph rend="sc medFont">Infant Salvation;</emph>
-               <emph rend="medFont">or, All Saved who Die in Infancy.</emph><lb/> Specially
-               addressed to Mothers mourning the loss of Infants and Children. Fourth Edition, fcap
-               8vo, cloth, gilt edges, price 2s.<lb/> 12.<lb/>
-               <emph rend="sc medFont">The Baptismal Font;</emph>
-               <emph rend="medFont">an Exposition of the Nature</emph><lb/> and Obligations of
-               Christian Baptism. With an Appendix. Third Eddition, fcap 8vo, gilt edges, price
-               2s.<lb/> 12.<lb/>
-               <emph rend="sc medFont">A Message from God;</emph>
-               <emph rend="medFont">or, Thoughts on Religion for</emph><lb/> Thinking Men. Fourth
-               Edition, fcap 8vo, cloth, gilt edges, 2s.<lb/> 14.<lb/>
-               <emph rend="sc medFont">Occasional Discourses.</emph>
-               <emph rend="medFont">Two vols., price 4s. each,</emph><lb/> cloth. Contents:-1,
-               Liberty. 2. Equality. 3. Fraternity. 4. The Revolutionists. 5. The True Charter. 6.
-               The True Succession. 7. Psalm for the Day. 8. Thanksgiving. 9. Salvation. 10. Autumn
-               Thoughts, &amp;c.<lb/>
-               <emph rend="sc medFont">Arthur Hall, Virtue, and Co., 25, Paternoster
-               Row.</emph><lb/>
+                           <roleName>D. D.</roleName></persName></ref></emph>
+               </fw><lb/>
             </p>
+            <div type="ad" xml:id="foreshadows">
+               <p>
+                  Fifth Thousand, in 2 vols. fcap 8vo, price 9s, cloth, full gilt,<lb/>
+                  <emph rend="sc medFont">Forshadows;</emph>
+                  <emph rend="medFont">or, Lecutres on our Lord's Miracles</emph><lb/>
+                  and <emph rend="sc">parables</emph> as Earnests of the Age to Come.<lb/>
+               </p>
+            </div>
+            <div type="ad" xml:id="propheticStudies">
+               <p>
+                  2.<lb/>
+                  <emph rend="sc medFont">Prophetic Studies;</emph>
+                  <emph rend="medFont">or, Lectures on the Book of</emph><lb/>
+                  Daniel. Sixth Thousand, in fcap 8vo, 9s. cloth, elegantly gilt; or 13s. Morocco.<lb/>
+               </p>
+            </div>
+            <div type="ad" xml:id="apocalyptic">
+               <p>
+                  3.<lb/>
+                  <emph rend="sc medFont">Apocalyptic Sketches;</emph>
+                  <emph rend="medFont">or, Lecutres on the Book</emph><lb/>
+                  of Revelation. Delivered at Exter Hall, and Crown Court Church. New Editions, revised and corrected, with Two
+                  Indiees. Eleventh Thousand, in two vols. price 9s. each, cloth gilt, or 26s.
+                  Morocco.<lb/>
+               </p>
+            </div>
+            <div type="ad" xml:id="apocalypticThird">
+               <p>
+                  4.<lb/>
+                  <emph rend="sc medFont">Apocalyptic Sketches-</emph><emph rend="medFont">Third Series. Or, Lectures</emph><lb/>
+                  on the Seven Churches of Asian Minor. Illustrated by Wood Engravings, representing the present state of the Apostolic Churches. Eight
+                  Thousand, uniform with the above.<lb/> 
+               </p>
+            </div>
+            <div type="ad" xml:id="isChristianity">
+               <p>
+                  5.<lb/>
+                  <emph rend="sc medFont">"Is Christianity from God?"</emph>
+                  <emph rend="medFont">a Manual of</emph><lb/>
+                  Christian Evidences for Scripture Readers, Sunday School Teachers, City Missionaries, and Young Persons. Eighth
+                  Edition, fcap 8vo, cloth, price 3s.<lb/>
+               </p>
+            </div>
+            <div type="ad" xml:id="ourFather">
+               <p>
+                  6.<lb/>
+                  <emph rend="sc medFont">Our Father;</emph>
+                  <emph rend="medFont">a Manual of Family Prayers for General</emph><lb/>
+                  and Special Occasions, with Short Prayers for Spare Minutes, and Passages for Reflection. Fifth
+                  Edition, fcap 8vo, price 3s. cloth, gilt edges.<lb/>
+               </p>
+            </div>
+            <div type="ad" xml:id="communionTable">
+               <p>
+                  7.<lb/>
+                  <emph rend="sc medFont">The Communion Table;</emph>
+                  <emph rend="medFont">or, Communicant's Manual:</emph><lb/>
+                  a Plain and Practical Exposition of the Lord's Supper. New Eidtion, fcap 8vo, price 3s. cloth,<lb/>
+               </p>
+            </div>
+            <div type="ad" xml:id="romish">
+               <p>
+                  8.<lb/>
+                  <emph rend="sc medFont">Romish Miracles:</emph>
+                  <emph rend="medFont">a Lecture delivered in the Town</emph><lb/>
+                  Hall, Birmingham, Third Thousand, price 1s.<lb/>
+               </p>
+            </div>
+            <div type="ad" xml:id="celebratedProtestant">
+               <p>
+                  9.<lb/>
+                  <emph rend="sc medFont">The Celebrated Protestant Discussion</emph>
+                  <emph rend="medFont">be-</emph><lb/>
+                  tween the Rev. John Cumming, D.D. and Daniel French, Esq., held at Hammersmith, in 1839, Cheap Edition, Price 6s. cloth
+                  lettered.<lb/>
+               </p>
+            </div>
+            <div type="ad" xml:id="lectures">
+               <p>
+                  10.<lb/>
+                  <emph rend="sc medFont">Lecutres for the times;</emph>
+                  <emph rend="medFont">or Iluustrations and</emph><lb/>
+                  Refutations of the Errors of Romanism and Tractarianism. New Edition, Revised, with Additions, price 6s. in
+                  cloth.<lb/>
+               </p>
+            </div>
+            <div type="ad" xml:id="infantSalv">
+               <p>
+                  11.<lb/>
+                  <emph rend="sc medFont">Infant Salvation;</emph>
+                  <emph rend="medFont">or, All Saved who Die in Infancy.</emph><lb/>
+                  Specially addressed to Mothers mourning the loss of Infants and Children. Fourth Edition, fcap
+                  8vo, cloth, gilt edges, price 2s.<lb/>
+               </p>
+            </div>
+            <div type="ad" xml:id="bapFront">
+               <p>
+                  12.<lb/>
+                  <emph rend="sc medFont">The Baptismal Font;</emph>
+                  <emph rend="medFont">an Exposition of the Nature</emph><lb/>
+                  and Obligations of Christian Baptism. With an Appendix. Third Eddition, fcap 8vo, gilt edges, price
+                  2s.<lb/>
+               </p>
+            </div>
+            <div type="ad" xml:id="messageGod">
+               <p>
+                  13.<lb/>
+                  <emph rend="sc medFont">A Message from God;</emph>
+                  <emph rend="medFont">or, Thoughts on Religion for</emph><lb/>
+                  Thinking Men. Fourth Edition, fcap 8vo, cloth, gilt edges, 2s.<lb/>
+               </p>
+            </div>
+            <div type="ad" xml:id="discourses">
+               <p>
+                  14.<lb/>
+                  <emph rend="sc medFont">Occasional Discourses.</emph>
+                  <emph rend="medFont">Two vols., price 4s. each,</emph><lb/>
+                  cloth. Contents:-1, Liberty. 2. Equality. 3. Fraternity. 4. The Revolutionists. 5. The True Charter. 6.
+                  The True Succession. 7. Psalm for the Day. 8. Thanksgiving. 9. Salvation. 10. Autumn
+                  Thoughts, &amp;c.<lb/>
+               </p>
+            </div>
+            <closer>
+               <emph rend="ac medFont">Arthur Hall, Virtue, and Co., 25, Paternoster Row.</emph>
+            </closer>
          </div>
+         <div type="ad-group" xml:id="newWorks">
+            <p>
+               <fw type="header"><emph rend="fancyFont medfont">New Works and New Editions.</emph></fw><lb/>
+            </p>   
+            <div type="ad" xml:id="CeltRomanSaxon">
+               <p>
+                  <emph rend="bold medFont"><emph rend="ac">The Celt, the Roman, and the Saxon.</emph> A His-</emph><lb/>
+                  tory of the Early Inhabitants of Britain down to the Conversion of the Anglo-Saxons to Christianity 
+                  Illustrated by the Ancient Remains brought to light by recent Research. By <emph rend="sc">Thomas Wright</emph>, Esq., M.A., F.S.A. 
+                  With numerous Illustrations.          <emph rend="ital">[Shortly.</emph>
+               </p><lb/>
+            </div>
+            <div type="ad" xml:id="Persepolis">
+               <p>
+                  <emph rend="bold medFont"><emph rend="ac">Nineveh and Persepolis:</emph> An Historical Sketch</emph><lb/>
+                  of Ancient Assyria and Persia, with an Account of the recent Researches in those Countries. By W.S.W. 
+                  Vaux, M.A., of the British Museum. Third Edition, revised and enlarged, in post 8vo, with numerous 
+                  Illustrations. Price 8s. bound in cloth; or 17s morocco antique.
+               </p><lb/>
+            </div>
+            <div type="ad" xml:id="indianPoetry">
+               <p>
+                  <emph rend="bold medFont"><emph rend="ac">Speciments of Old Indian Poetry.</emph> Translated from</emph><lb/>
+                  the Original Sanskrit into English Verse, by Ralph T.H. Griffith, M.A., Member of the Royal Asiatic Society, 
+                  and Boden Sanskrit Scholar in the University of Oxford.       <emph rend="ital">[In preparation.</emph>
+               </p><lb/>
+            </div>
+            <div type="ad" xml:id="anatomyPhysiology">
+               <p>
+                  <emph rend="ac bold medFont">A Manual of the Anatomy and Physiology</emph><lb/>
+                  <emph rend="sc">of the human mind.</emph> By <emph rend="sc"><persName><roleName>Rev.</roleName> 
+                        <forename>James</forename> <surname>Carlile</surname>,</persName> D.D.</emph>, of Personstown 
+                  and Dublin, Ireland. Feap, price 5s. cloth.<lb/>
+                  "Dr. Carlile has aimed at doing for metaphysics what Sir John Herschel accomplished 
+                  for astronomy in his popular <emph rend="ital">Manual</emph>, and Paley for his subject in his celebrated <emph rend="ital">Evidences 
+                  of Christianity</emph>. He has not merely compiled or analyzed, but has read and thought for himself, 
+                  and what he writes, though no doubt directly traceable to other sources, is yet stamped with his 
+                  own character and feeling." -- <emph rend="ital">Gaurdian</emph>.
+               </p><lb/>
+            </div>
+            <div type="ad" xml:id="forestRanger">
+               <p>
+                  <emph rend="bold medFont"><emph rend="ac">Old Forest Ranger;</emph> or, Wild Sports of India in the</emph><lb/>
+                  Neilgherry Hills, in the Jungles, and on the Plains. By <emph rend="sc">Major Walter Campell</emph>, of 
+                  Skipness. With Illustrations on Steel. New Edition, in post 8vo.         <emph rend="ital">[In preparation.</emph>
+               </p><lb/>
+            </div>
+            <div type="ad" xml:id="tupperPoems">
+               <p>
+                  <emph rend="bold medFont"><emph rend="ac">Ballads for the Times</emph>, and Other Poems. By</emph><lb/>
+                  <emph rend="sc">Martin Farquhar Tupper</emph>, Esq., D.C.L., F.R.S., &amp;c.,&amp;c. Second Complete 
+                  Edition, price 7s. 6d., with Vignette and Frontispiece, uniform with "Proverbial Philosophy."<lb/>      
+                  "With smoothness of measure, Mr. Tupper's design is always excellent, and his versification is 
+                  brought to bear upon things of no transient interest. It is one of the best characteristics of his 
+                  labours, that he does not write for praise, but for the benefit of his felow-men -- not merely for time, 
+                  but for eternity." -- <emph rend="ital">Bell's Messenger</emph>
+               </p><lb/>
+            </div>
+            <div type="ad" xml:id="canadianCrusoes">
+               <p>
+                  <emph rend="bold medFont"><emph rend="ac">The Canadian Crusoes:</emph> A Tale of the Rice Lake</emph><lb/>
+                  Hunting Grounds. By Mrs. <emph rend="sc">Traill</emph> (late Miss Strickland), Author of 
+                  "The Backwoods of Canada." In feap*, with numerous Illustrations.           <emph rend="ital">[In preparation.</emph>
+               </p><lb/>
+            </div>
+            <div type="ad" xml:id="loveandReality">
+               <p>
+                  <emph rend="bold medFont"><emph rend="ac">Love and Reality, not Romance.</emph> By Mrs. Thomas</emph><lb/>
+                  <emph rend="sc">Geldart</emph>, Author of "Truth is Everything," &amp;c. With Illustrations by Gilbert. 
+                  Price 3s. 6d, feap*, cloth, gilt edges.
+               </p><lb/>
+            </div>
+            <div type="ad" xml:id="woman">
+               <p>
+                  <emph rend="bold medFont"><emph rend="ac">Woman,</emph>--Her Mission and her Life. From the French of</emph><lb/>
+                  <emph rend="sc">Monod</emph>, by Rev. W.G. <emph rend="sc">Barrett</emph>. Second Edition, revised. Price 1s. 6d., 
+                  in a neat Pocket Volume.<lb/>
+                  "Never was the theme handled before with greater delicacy, or with more a thorough poetical result. 
+                  We should like to see this cheap <emph rend="ital">telling</emph> volume in the hands of every woman througout the land. It is 
+                  calculated to do immense good, and especially to awaken and strengthen in every woman's heart <emph rend="ital">the feeling 
+                  of responsibiliy." -- Evangelical Magazine.</emph><lb/>
+                  "More admirable dicourses were never written than these: they enter wisely and judiciously into the 
+                  subject they are intended to expound." -- <emph rend="ital">Bell's Messenger.</emph>
+               </p><lb/>
+            </div>
+            <div type="ad" xml:id="yeMaiden">
+               <p>
+                  <emph rend="bold medFont"><emph rend="ac">Ye Maiden</emph> and <emph rend="ac">Married Life</emph> of 
+                     <emph rend="ac">Mary Powell</emph>.</emph><lb/>
+                  Afterwards <emph rend="sc">Mistress Milton</emph>. New Edition, in post 8vo, with Portrait. Price 7s. 6d. antique.<lb/>
+                  "This is a charming little book; and whether we regard its subject, cleverness, or delicacy of sentiment and 
+                  expression--to say nothing of its type and orthography--it is likely to be a most acceptable present to young 
+                  or old, be their peculiar taste for religion, moral, poetry, history, or romance." -- <emph rend="ital">Christian Observer</emph>.
+               </p><lb/>
+            </div>
+            <div type="ad" xml:id="queenPhilippa">
+               <p>
+                  <emph rend="bold medFont"><emph rend="ac">Queene Philippa's Golden Booke</emph>. Handsomely</emph><lb/>
+                  bound and gilt, with Illuminations.
+               </p><lb/>
+            </div>
+            <div type="ad" xml:id="yeHousehold">
+               <p>
+                  <emph rend="bold medFont"><emph rend="ac">Ye Household of Sir Thomas More</emph>. Libellus a</emph><lb/>
+                  Margareta More, quindecim* annos nata, Chelseiae inceptus. Uniform with "<persName>Mary Powell</persName>."
+               </p>
+            </div>
+            <closer>
+               <emph rend="ac medFont">Arthur Hall, Virtue, and Co., 25, Paternoster Row.</emph><lb/>
+               Reed and Pardon, Printers Paternoster Row.
+            </closer>
+         </div>      
       </body>
       <back>
          <div type="endnotes">
