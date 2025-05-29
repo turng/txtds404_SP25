@@ -1,14 +1,11 @@
 TEI {
-	display: block;
-	background-color: white;}
+	background-color: white;
+}
 
 teiHeader{display: none;}
-teibpToolbox{display:none;}
+#teibpToolbox {display:none;}
 
-front{
-    display:block;
-    
-}
+front{display:block;}
 
 pb{
     
@@ -20,11 +17,7 @@ div[type="chapter"]{
     
 }
 
-p{
-    
-}
-
-ab{
+text{
     
 }
 

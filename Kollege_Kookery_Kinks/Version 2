@@ -78,12 +78,12 @@
          <!-- Chapter: Dainty Desserts-->
          <div type="chapter">
             <pb n="30"/>
-            <head>Dainty Desserts</head>
+            <head type="section">Dainty Desserts</head>
             <quote>A wilderness of sweets. — <persName>Millton</persName></quote>
             <!-- Flower icon-->
             <figure type="ornament" place="inline">
                <figDesc>A floral ornament</figDesc>
-               <graphic url="flower.jpg"/>
+               <graphic url="flower.png"/>
             </figure>
 
             <!-- Recipes-->
@@ -354,7 +354,7 @@
             <!-- Flower icon -->
             <figure type="ornament" place="inline">
                <figDesc>A floral ornament</figDesc>
-               <graphic url="flower.jpg"/>
+               <graphic url="flower.png"/>
             </figure>
 
             <!-- Recipes -->
@@ -637,7 +637,7 @@
                readers of this cookbook can easily follow the baking instructions using a modern
                electric oven. <ref type="bibl" target="#grove">See Grove</ref>. </note>
 
-            <note xml:id="n3">MRS. J. ALLEN SMITH: The wife of J. Allen Smith. J. Allen Smith
+            <note xml:id="n3"> J. Allen Smith
                (1860–1924) was an important figure in the early development of the University of
                Washington's political science and economics programs, Smith Hall was named in his
                honor. It was difficult to find information by searching the contributor’s name, but
@@ -645,13 +645,12 @@
                members contributed to this cookbook. <ref type="bibl" target="#aswt2014">See Arts
                   &amp; Sciences Web Team</ref>. </note>
 
-            <note xml:id="n4">Best Marshmallows= Marshmallow</note>
-            <note xml:id="n5">Milk Cracker = Cracker</note>
-            <note xml:id="n6">Nut Meat = Nut </note>
-            <note xml:id="n7">Soda = Baking Soda</note>
-            <note xml:id="n8">Sweet Milk = Milk</note>
-            <note xml:id="n9">Today, however, we would typically use a freezer to chill the
-               mousse.</note>
+            <note xml:id="n4">Best Marshmallows = Marshmallow. Any kind of plain, packaged marshmallow that can be store-bought will suffice.</note>
+            <note xml:id="n5">Milk Cracker = Cracker. Milk crackers are crackers that are lightly sweetened with milk and/or other dairy products. Known to pair well with milk, tea, coffee, and other beverages. </note>
+            <note xml:id="n6">Nut Meat = Nut. Nut meat refers to the part of the nut that is inside the shell that can be eaten. Any preference of de-shelled nuts will suffice. </note>
+            <note xml:id="n7">Soda = Baking Soda. Baking soda acts as a leavening agent for this recipe.</note>
+            <note xml:id="n8">Sweet Milk = Milk. Sweet milk refers to regular dairy milk, such as whole milk.</note>
+            <note xml:id="n9">In modern times, however, we would typically use a refridgerator or freezer to chill the mousse.</note>
             <note xml:id="n10">The receipts instruct stirring or beating eggs or cream by hand, but
                today we could use electric mixers to mix these ingredients. </note>
 
