@@ -1,11 +1,9 @@
-page{
-        
-}
+TEI {
+	display: block;
+	background-color: lightgray;}
 
 teiHeader{display: none;}
-#teibpToolbox h1 {
-    display:none;
-}
+teibpToolbox{display:none;}
 
 front{
     display:block;
@@ -15,6 +13,8 @@ front{
 pb{
     
 }
+
+cb{display:none;}
 
 div[type="chapter"]{
    display:flex;
