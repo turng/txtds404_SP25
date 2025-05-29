@@ -78,12 +78,12 @@
          <!-- Chapter: Dainty Desserts-->
          <div type="chapter">
             <pb n="30"/>
-            <head>Dainty Desserts</head>
+            <head type="section">Dainty Desserts</head>
             <quote>A wilderness of sweets. — <persName>Millton</persName></quote>
             <!-- Flower icon-->
             <figure type="ornament" place="inline">
                <figDesc>A floral ornament</figDesc>
-               <graphic url="flower.jpg"/>
+               <graphic url="flower.png"/>
             </figure>
 
             <!-- Recipes-->
@@ -354,7 +354,7 @@
             <!-- Flower icon -->
             <figure type="ornament" place="inline">
                <figDesc>A floral ornament</figDesc>
-               <graphic url="flower.jpg"/>
+               <graphic url="flower.png"/>
             </figure>
 
             <!-- Recipes -->
