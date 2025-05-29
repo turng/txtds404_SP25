@@ -2,8 +2,9 @@ page{
         
 }
 
-teiHeader{
-    display: none; 
+teiHeader{display: none;}
+#teibpToolbox h1 {
+    display:none;
 }
 
 front{
@@ -12,11 +13,12 @@ front{
 }
 
 pb{
-    display:flex;
-    flex-direction:row;
-}
-div{
     
+}
+
+div[type="chapter"]{
+   display:flex;
+    flex-direction:row; 
 }
 
 p{
