@@ -11,9 +11,12 @@ front{
     
 }
 
-div{
+pb{
     display:flex;
     flex-direction:row;
+}
+div{
+    
 }
 
 p{
