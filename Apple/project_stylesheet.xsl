@@ -5,11 +5,25 @@
     exclude-result-prefixes="xs math"
     version="3.0">
     
-    <xsl:output method="html"/>
+    <xsl:template match="body">
+        <html>
+            <head>
+                <body>
+                    <xsl:apply-templates/>
+                </body>
+            </head>
+        </html>
+    </xsl:template>
+    
+    
+    
+    
+    
     <xsl:template match="div [@type = 'recipe']">
         <h3>
             <xsl:apply-templates/>
         </h3>
     </xsl:template>
+    
         
 </xsl:stylesheet> 
