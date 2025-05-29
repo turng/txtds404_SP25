@@ -1,14 +1,10 @@
 TEI {
-	display: block;
 	background-color: white;}
 
 teiHeader{display: none;}
 teibpToolbox{display:none;}
 
-front{
-    display:block;
-    
-}
+front{display:block;}
 
 pb{
     
