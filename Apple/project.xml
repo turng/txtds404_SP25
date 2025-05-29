@@ -85,7 +85,7 @@
             <head rend="caps">Various Ways of Cooking Apples</head>
          </div>
          <div type="recipe" n="115">
-            <head rend="smallcaps">115. Pommes Au Naturel.</head>
+            <head type="rcp" rend="smallcaps">115. Pommes Au Naturel.</head>
             <p>The Evil One, who first offered apples to our universal mother, exemplified his
                serpent-like sapience by tempting her to try them off the tree: this, notwithstanding
                the enthusiasm we entertain for the culinary art, is unquestionably the <note
@@ -100,7 +100,7 @@
                juice almost appears to effervesce as it comes in contact with the surrounding air;
                when, in short, they have attained maturity, and are, properly speaking, "in season."
                There are different kinds of apples ripe and in their prime from August to November,
-               when in the estimation of gourmets, they are considered to be the most correct fruit
+               when, in the estimation of gourmets, they are considered to be the most correct fruit
                for taking with wine; their agreeable, but not strongly pronounced, acid augmenting
                the sensitiveness of the palate to the flavors which peculiarly characterize <choice>
                   <sic>tho</sic>
@@ -115,7 +115,7 @@
                leaves, or nestling in tufts of moss.</p>
          </div>
          <div type="recipe" n="116">
-            <head rend="smallcaps">116. Pudding À La Zouave.</head>
+            <head type="rcp" rend="smallcaps">116. Pudding À La Zouave.</head>
             <p>Blanch half a pound of sweet almonds, pound them in a mortar, adding gradually half a
                pound of butter, four eggs well-beaten, half a pint of cream, half a pound of sugar
                and a glasss of raisin or Madeira wine. When this forms is a smooth paste, stir in a
@@ -128,7 +128,7 @@
                delicious.</p>
          </div>
          <div type="recipe" n="117">
-            <head rend="smallcaps">117. Apple Ginger.</head>
+            <head type="rcp" rend="smallcaps">117. Apple Ginger.</head>
             <p>Take three pounds of <note place="foot" n="2">Spitzenbergen</note> apples, cut them
                into small pieces, put them into a dish, and pour boiling water upon them, then cover
                them up; clarify weight for weight of white sugar, and boil it to almost a candy
@@ -140,7 +140,7 @@
                is exceedingly beneficial as a restorative for weak nerves.</p>
          </div>
          <div type="recipe" n="118">
-            <head rend="smallcaps">118. Pommes À La Vésuve.</head>
+            <head type="rcp" rend="smallcaps">118. Pommes À La Vésuve.</head>
             <p>Pile some apple marmalade high in a dish; get ready some macaroni boiled in water,
                but well drained, and afterwards sweetened with white sugar, and flavored with
                brandy; cut it into short lengths, but do not mince it; lay it as a bordering round
@@ -150,7 +150,7 @@
                and introduce it at table flaming.</p>
          </div>
          <div type="recipe" n="119">
-            <head rend="smallcaps">119. Apple Bread.</head>
+            <head type="rcp" rend="smallcaps">119. Apple Bread.</head>
             <p>Weigh seven pounds of fresh juicy apples, peel, core, and boil them to a pulp, being
                careful to use an enamelled saucepan, or a stone jar placed inside an ordinary
                saucepan of boiling water, otherwise the fruit becomes discolored; mix the pulp with
@@ -161,7 +161,7 @@
                very much eaten in the south of Europe.</p>
          </div>
          <div type="recipe" n="120">
-            <head rend="smallcaps">120. Pommes Farcies.</head>
+            <head type="rcp" rend="smallcaps">120. Pommes Farcies.</head>
             <p>Take some large apples, pare them, and from the stalk end cut out a good deal of the
                insides without cutting the fruit through; fill the orifice of each apple with a
                mincemeat of cold roast goose, duck, or even pork, well seasoned with the best white
@@ -170,7 +170,7 @@
                require it. Grate a little toasted bread over them before serving.</p>
          </div>
          <div type="recipe" n="121">
-            <head rend="smallcaps">121. Pippin Tarts.</head>
+            <head type="rcp" rend="smallcaps">121. Pippin Tarts.</head>
             <p>Take three large oranges, peel them very thin, boil the peel until it becomes soft,
                then take it up and chop it small; pare and core four dozen <note place="foot" n="3"
                   >golden pippins</note>, boil them with only enough water to cover them; when
@@ -180,14 +180,14 @@
                eaten warm or cold.</p>
          </div>
          <div type="recipe" n="122">
-            <head rend="smallcaps">122. Gâteau De Pommes.</head>
+            <head type="rcp" rend="smallcaps">122. Gâteau De Pommes.</head>
             <p>Peel about two pounds of apples, bake or steam them until they are perfectly soft;
                add two pounds of white sugar in powder, with the juice and rinds of two lemons, and
                if requisite, a little water. Boil all this together for forty minutes, pour it into
                a mould; when cold, turn it out, cover it with a thick custard, and serve.</p>
          </div>
          <div type="recipe" n="123">
-            <head rend="smallcaps">123. Pommes Sautées.</head>
+            <head type="rcp" rend="smallcaps">123. Pommes Sautées.</head>
             <p>Peel some very small and prettily-shaped apples, but do not take off their stalks;
                put them into a stew-pan of boiling butter, and shake them over a brisk fire until
                they are of a nice brown color; drain them, and arrange them neatly, with their
@@ -195,7 +195,7 @@
                or cold.</p>
          </div>
          <div type="recipe" n="124">
-            <head rend="smallcaps">124. Simple Apple Pie.</head>
+            <head type="rcp" rend="smallcaps">124. Simple Apple Pie.</head>
             <p>Pare, core, and cut up the fruit into thin slices, lay it in your dish, and sprinkle
                some sugar amongst it; when full, put in the juice of two lemons, with a little of
                the rind finely shred, and some cloves or cinnamon in powder; line the dish and cover
@@ -203,7 +203,7 @@
                sugar over it.</p>
          </div>
          <div type="recipe" n="125">
-            <head rend="smallcaps">125. Beignets De Pommes.</head>
+            <head type="rcp" rend="smallcaps">125. Beignets De Pommes.</head>
             <p>Take some Greening apples, scoop out the cores with a vide-pomme, and cut the apples
                into thin slice; put them into some brandy, with the grated rind of a lemon, and
                place them over the fire for a few moments. Take out the slices of apple when they
@@ -212,7 +212,7 @@
                white sugar. Send them to table as warm as possible.</p>
          </div>
          <div type="recipe" n="126">
-            <head rend="smallcaps">126. Pommes En Compote.</head>
+            <head type="rcp" rend="smallcaps">126. Pommes En Compote.</head>
             <p>Parboil some apples, then peel, core, and cut them into quarters, put them into a
                preserving pan with an equal weight of white sugar, adding a litte water; let it
                simmer slowly, and keep skimming it until the apples are quite done, then allow them
@@ -221,7 +221,7 @@
                closely.</p>
          </div>
          <div type="recipe" n="127">
-            <head rend="smallcaps">127. Croutes De Pommes.</head>
+            <head type="rcp" rend="smallcaps">127. Croutes De Pommes.</head>
             <p>Cut some thin slices of bread into lozenge-shaped pieces, butter them on both sides,
                and lay them to fit in a well-buttered baking dish. Cut some middling-sized pippins
                into halves, hollow out the cores, and upon each piece of bread place half an apple,
@@ -234,7 +234,7 @@
                </choice> any juice that may remain unabsorbed by the crusts. Serve them warm.</p>
          </div>
          <div type="recipe" n="128">
-            <head rend="smallcaps">128. Apple Fritters.</head>
+            <head type="rcp" rend="smallcaps">128. Apple Fritters.</head>
             <p>Make a thick batter with six well-beaten eggs, a pint of milk, a little <choice>
                   <sic>powered</sic>
                   <corr>powdered</corr>
@@ -244,7 +244,7 @@
                smoke before the fritters are put in, otherwise they will not be of a good color.</p>
          </div>
          <div type="recipe" n="129">
-            <head rend="smallcaps">129. Gélatine De Pommes.</head>
+            <head type="rcp" rend="smallcaps">129. Gélatine De Pommes.</head>
             <p>In a pint of water boil one pound and a half of white sugar until it is reduced to a
                very thick syrup; then add two pounds of <note place="foot" n="4">Newtown
                   pippins</note>, pared, cored, and cut into slices; squeeze in the juice of three
@@ -253,12 +253,12 @@
                deep dish. </p>
          </div>
          <div type="recipe" n="130">
-            <head rend="smallcaps">130. Apples With Pork Chops.</head>
+            <head type="rcp" rend="smallcaps">130. Apples With Pork Chops.</head>
             <p>Sour apples sliced and fried in pork steak gravy are delicious. They should be served
                with the chops.</p>
          </div>
          <div type="recipe" n="131">
-            <head rend="smallcaps">131. Boiled Apple Pudding.</head>
+            <head type="rcp" rend="smallcaps">131. Boiled Apple Pudding.</head>
             <p>Line your pudding-basin with a good crust made in the proportion of eight ounces of
                beef suet to twelve ounces of flour; add a little salt; pare, core, and cut up your
                apples, and when filling your pudding, strew in some brown sugar and a little
@@ -266,7 +266,7 @@
                hours.</p>
          </div>
          <div type="recipe" n="132">
-            <head rend="smallcaps">132. Pommes Soufflées.</head>
+            <head type="rcp" rend="smallcaps">132. Pommes Soufflées.</head>
             <p>Take your apples, pare, core, and boil them until soft enough to pulp through a
                colander; then sweeten them to taste, and stir in a little powdered cinnamon; put the
                fruit into a deep dish, and when quite cold, pour rich custard over it. Whip up the
@@ -278,7 +278,7 @@
                or twenty minutes. This is equally good hot or cold.</p>
          </div>
          <div type="recipe" n="133">
-            <head rend="smallcaps">133. Stewed Golden Pippins.</head>
+            <head type="rcp" rend="smallcaps">133. Stewed Golden Pippins.</head>
             <p>Scoop out the cores, and, as you pare them, throw them into cold water to prevent
                their turning color. For every pound of apples weigh a pound and a-half of white
                sugar, boil it in a pint of cider until it becomes a strong syrup; skim it perfectly,
@@ -286,7 +286,7 @@
                they are done. Serve them in syrup.</p>
          </div>
          <div type="recipe" n="134">
-            <head rend="smallcaps">134. Preserved Apples.</head>
+            <head type="rcp" rend="smallcaps">134. Preserved Apples.</head>
             <p>Cut up a quantity of <note place="foot" n="5">lemon pippins</note>, take the parings
                and the cores and boil them, by themselves, for an hour; strain the water from them
                and add it to the sliced fruit, put it into an enamelled saucepan upon a slow fire,
@@ -297,7 +297,7 @@
                winter season.</p>
          </div>
          <div type="recipe" n="135">
-            <head rend="smallcaps">135. Scalded Codlins.</head>
+            <head type="rcp" rend="smallcaps">135. Scalded Codlins.</head>
             <p>Take some small <note place="foot" n="6">codlins</note>, wrap each in a vine leaf,
                and pack them closely in a stewpan; pour in as much cold water as will barely cover
                them, put them on the fire and let them simmer very slowly until sufficiently tender
@@ -308,7 +308,7 @@
                with custards in glasses.</p>
          </div>
          <div type="recipe" n="136">
-            <head rend="smallcaps">136. Boiled Apple Dumplings.</head>
+            <head type="rcp" rend="smallcaps">136. Boiled Apple Dumplings.</head>
             <p>Take some medium-sized apples, not too large, or they will not be nicely done; peel,
                but do not core them, as the pips enhance the flavor of the fruit; wrap each in a
                good beef-suet paste, made as for apple pudding (<emph rend="italic">see No.</emph>
@@ -316,7 +316,7 @@
                as hot as possible, and always with the following sauce.</p>
          </div>
          <div type="recipe" n="137">
-            <head rend="smallcaps">137. Ginger Sauce.</head>
+            <head type="rcp" rend="smallcaps">137. Ginger Sauce.</head>
             <p>Take half a pint of new milk, in which dissolve two ounces of fresh butter, and
                gradually dredge in enough flour to make it thick; then stir in two tablespoonfuls of
                white sugar, and two dessertspoonfuls of the best ginger in powder; stir it over the
@@ -324,14 +324,14 @@
                puddings, &amp;c., &amp;c.</p>
          </div>
          <div type="recipe" n="138">
-            <head rend="smallcaps">138. Apple Fool.</head>
+            <head type="rcp" rend="smallcaps">138. Apple Fool.</head>
             <p>Pare your fruit, and either scald or bake it until sufficiently soft to pulp it
                through a colander; sweeten it agreeably to taste, and fill your glasses three parts
                full with it; then plentifully sprinkle in some cinnamon and cloves in powder, put a
                good layer of rich scalded cream, and sift white sugar upon the top.</p>
          </div>
          <div type="recipe" n="139">
-            <head rend="smallcaps">139. Chartreuse De Pommes.</head>
+            <head type="rcp" rend="smallcaps">139. Chartreuse De Pommes.</head>
             <p>Well boil half a pound of the best Carolina rice in a quart of fresh milk, taking the
                greatest pains to prevent it from catching at the bottom of the saucepan. Pare seven
                large or nine middle-sized pippins; take out the cores, without cutting the fruit
@@ -343,7 +343,7 @@
                eaten hot.</p>
          </div>
          <div type="recipe" n="140">
-            <head rend="smallcaps">140. Apple Puffs.</head>
+            <head type="rcp" rend="smallcaps">140. Apple Puffs.</head>
             <p>Pare, and bake the fruit; when cold, mix the pulp, free from the cores, with a
                sufficiency of either white or brown sugar, and a little grated lemon peel, or a few
                spoonfuls of orange-flower water; lay the apples in thin paste, fold it over them,
@@ -351,7 +351,7 @@
                sending them to table.</p>
          </div>
          <div type="recipe" n="141">
-            <head rend="smallcaps">141. Apple Trifle.</head>
+            <head type="rcp" rend="smallcaps">141. Apple Trifle.</head>
             <p>Scald as much fruit as you require, pulp it smoothly, add sufficient sugar to sweeten
                it, and the grated rinds of two lemons; lay this thickly at the bottom of your dish.
                Mix a pint of cream, a pint of new milk, and the yolks of three eggs well beaten; put
@@ -360,7 +360,7 @@
                upon the whole a fine whip of cream made some hours previously.</p>
          </div>
          <div type="recipe" n="142">
-            <head rend="smallcaps">142. Apple Tart.</head>
+            <head type="rcp" rend="smallcaps">142. Apple Tart.</head>
             <p>Pare some good dressing apples, <note place="foot" n="7">winter russetings</note> are
                the best, cut them into long slices, scald them until quite soft, but use very little
                water; when tender enough, mash them smoothly with the liquor; add two ounces of
@@ -370,7 +370,7 @@
                do this tart.</p>
          </div>
          <div type="recipe" n="143">
-            <head rend="smallcaps">143. Confiture De Pommes.</head>
+            <head type="rcp" rend="smallcaps">143. Confiture De Pommes.</head>
             <p>To each pound of boiling clarified sugar throw in the same weight of <ref type="note"
                   target="#n4">Newtown pippins</ref> cut into very thin slices, and the juice and
                finely-shred, rind of three oranges. Let it boil for twenty minutes, skimming it
@@ -379,7 +379,7 @@
                brandied or oiled papers, and tie them down.</p>
          </div>
          <div type="recipe" n="144">
-            <head rend="smallcaps">144. Apple Sauce To Keep For Winter Use.</head>
+            <head type="rcp" rend="smallcaps">144. Apple Sauce To Keep For Winter Use.</head>
             <p>Two pails of apples pared, cored, and quartered, put them over the fire with two
                quarts of molasses and sufficient water to cover them. Let them stew gently four or
                five hours, or until reduced to one-half. When they have boiled two hours, add one
@@ -387,7 +387,7 @@
                a stone jar and keep closely covered.</p>
          </div>
          <div type="recipe" n="145">
-            <head rend="smallcaps">145. Pommes Au Riz.</head>
+            <head type="rcp" rend="smallcaps">145. Pommes Au Riz.</head>
             <p>Take some middle-sized or rather small apples; pare them, prick them well with a
                coarse needle, stew some sugar over, and bake them in a slack oven. While they are
                doing, boil half a pound of rice in a sufficiency of water, shaking it frequently.
@@ -401,7 +401,7 @@
                few moments. </p>
          </div>
          <div type="recipe" n="146">
-            <head rend="smallcaps">146. Apple Syrup.</head>
+            <head type="rcp" rend="smallcaps">146. Apple Syrup.</head>
             <p>Peel, but do not core, some <ref type="note" target="#n2">spitzenbergen apples</ref>;
                cut them into very thin slices, and to each pound of fruit add a pound of white sugar
                and a teacupful of boiling water; put this into an earthen jar, which stands inside a
@@ -411,7 +411,7 @@
                for keeping.</p>
          </div>
          <div type="recipe" n="147">
-            <head rend="smallcaps">147. Baked Apple Pudding.</head>
+            <head type="rcp" rend="smallcaps">147. Baked Apple Pudding.</head>
             <p>Into a well-buttered pudding basin put a layer of bread crumbs, then a layer of
                apples cut up small, a sprinkling of grocer's currants, and some brown sugar; repeat
                this process of bread crumbs and fruit until the basin is full, then carefully pour
@@ -419,7 +419,7 @@
                for an hour.</p>
          </div>
          <div type="recipe" n="148">
-            <head rend="smallcaps">148. Apple Omelette.</head>
+            <head type="rcp" rend="smallcaps">148. Apple Omelette.</head>
             <p>Peel the apples and take out their cores, cut them into very thin slices, which dip
                into brandy, and dust over with finely-grated lemon peel; throw them into a
                frying-pan of boiling lard, shake them for a few minutes over a lively fire, and take
@@ -428,13 +428,13 @@
                if possible, glaze it.</p>
          </div>
          <div type="recipe" n="149">
-            <head rend="smallcaps">149. Norfolk Biffins.</head>
+            <head type="rcp" rend="smallcaps">149. Norfolk Biffins.</head>
             <p>Take some apples, put them into a very slack oven, between clean straw; as they
                become soft, flatten them occasionally with the hand. When done and cold, rub them
                over with syrup.</p>
          </div>
          <div type="recipe" n="150">
-            <head rend="smallcaps">150. Pommes Au Beurre.</head>
+            <head type="rcp" rend="smallcaps">150. Pommes Au Beurre.</head>
             <p>Peel the apples, and carefully remove the cores with a vide-pomme; well butter a deep
                dish, and cover it with squares of bread cut tolerably thin. Lay an apple upon each,
                and fill their orifices with a mixture of sugar and butter. Put them into a gentle
@@ -442,7 +442,7 @@
                Serve hot upon a clean dish.</p>
          </div>
          <div type="recipe" n="151">
-            <head rend="smallcaps">151. Apple Tart.</head>
+            <head type="rcp" rend="smallcaps">151. Apple Tart.</head>
             <p>Scald the fruit in a very small quantity of water; take off the skins, and arrange
                them whole in a tart dish, with a little of the liquor in which they were boiled.
                Strew over them a sufficiency of pounded white sugar, and when they are quite cold,
@@ -450,14 +450,14 @@
                does not burn; with half an hour's brisk baking it will be done.</p>
          </div>
          <div type="recipe" n="152">
-            <head rend="smallcaps">152. Salade De Pommes.</head>
+            <head type="rcp" rend="smallcaps">152. Salade De Pommes.</head>
             <p>Cut some ripe rich-flavored apples into round slices, arrange them in a small dish,
                cover them thickly with sifted loaf sugar, and pour a little of the best French
                brandy into the dish. This is very acceptable upon the dessert-table in the
                winter.</p>
          </div>
          <div type="recipe" n="153">
-            <head rend="smallcaps">153. Miroton De Pommes</head>
+            <head type="rcp" rend="smallcaps">153. Miroton De Pommes</head>
             <p>Scald six large apples, and, when soft enough to do so, pulp them, and, after
                sweetening a little, plie them upon the dish you purpose serving them in. Take a
                teacupful of the liquor in which they were dressed, and boil the finely-shred rind of
