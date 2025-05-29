@@ -1,8 +1,9 @@
 TEI {
-	background-color: white;}
+	background-color: white;
+	margin:300px;}
 
 teiHeader{display: none;}
-teibpToolbox{display:none;}
+#teibpToolbox {display:none;}
 
 front{display:block;}
 
@@ -16,11 +17,7 @@ div[type="chapter"]{
     
 }
 
-p{
-    
-}
-
-ab{
+text{
     
 }
 
