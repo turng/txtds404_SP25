@@ -1,6 +1,6 @@
 TEI {
 	display: block;
-	background-color: lightgray;}
+	background-color: white;}
 
 teiHeader{display: none;}
 teibpToolbox{display:none;}
@@ -17,8 +17,7 @@ pb{
 cb{display:none;}
 
 div[type="chapter"]{
-   display:flex;
-   flex-direction:row; 
+    
 }
 
 p{
@@ -34,6 +33,4 @@ fw{
 }
 
 figure{
-   width:300px;
-   float:right;
 }
