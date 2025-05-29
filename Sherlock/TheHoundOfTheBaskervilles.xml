@@ -131,13 +131,13 @@
                engraved <lb break="yes"/>upon it, with the date "1884." It was just<lb break="yes"
                />such a stick as the old-fashioned family<lb break="yes"/>practitioner used to
                carry—dignified, solid,<lb break="yes"/>and reassuring.</p>
-            <p><said>"Well, <persName ref="Watson">Watson</persName>, what do you make of it?"</said></p>
+            <p><said>"Well, <persName ref="#Watson">Watson</persName>, what do you make of it?"</said></p>
             <p><persName ref="#Holmes">Holmes</persName> was sitting with his back to me,<lb break="yes"/>and I had given him no sign
                of my occupa-<lb break="no"/>tion.</p>
             <p><said>"How did you know what I was doing?<lb break="yes"/>I believe you have eyes in
                   the back of your<lb break="yes"/>head."</said></p>
             <p><said>"I have, at least, a well-polished silver-<lb break="yes"/>plated coffee-pot in
-                  front of me,"</said> said he.<lb break="yes"/><s>"But, tell me, <persName ref="Watson">Watson</persName>, what do you
+                  front of me,"</said> said he.<lb break="yes"/><s>"But, tell me, <persName ref="#Watson">Watson</persName>, what do you
                   make of<lb break="yes"/>our visitor's stick? Since we have been so<lb
                      break="yes"/>unfortunate as to miss him and have no<lb break="yes"/>notion of
                   his errand, this accidental souvenir<lb break="yes"/>becomes of importance. Let
@@ -168,7 +168,7 @@
                      break="yes"/>members he has possibly given some surgical<lb break="yes"
                   />assistance, and which has made him a small<lb break="yes"/>presentation in
                   return."</said></p>
-            <p><said>"Really, <persName ref="Watson">Watson</persName>, you excel yourself,"</said> said<lb break="yes"/><persName ref="#Holmes">Holmes</persName>, pushing
+            <p><said>"Really, <persName ref="#Watson">Watson</persName>, you excel yourself,"</said> said<lb break="yes"/><persName ref="#Holmes">Holmes</persName>, pushing
                back his chair and lighting <lb break="yes"/>a cigarette. <said>"I am bound to say that
                   in all <lb break="yes"/>the accounts which you have been so good <lb break="yes"
                   />as to give of my own small achievements you <lb break="no"/>have habitually
@@ -239,7 +239,7 @@
                it in this<lb break="yes"/>light. On what occasion would it be<lb break="yes"/>most
                probable that such a presentation<lb break="yes"/>would be made? When would his
                friends<lb break="yes"/>unite to give him a pledge of their good will?<lb
-                  break="yes"/>Obviously at the moment when <persName ref="Mortimer">Dr. Mortimer</persName><lb break="yes"/>withdrew
+                  break="yes"/>Obviously at the moment when <persName ref="#Mortimer">Dr. Mortimer</persName><lb break="yes"/>withdrew
                from the service of the hospital in<lb break="yes"/>order to start in practice<lb
                   break="yes"/>for himself. We know<lb break="yes"/>there has been a presenta-<lb
                   break="no"/>tion. We believe there has<lb break="yes"/>been a change from a town
@@ -259,7 +259,7 @@
                   break="yes"/>And he left five years ago<lb break="yes"/>—the date is on the stick.
                <lb break="yes"/>So on your grave, middle-aged<lb break="yes"/>family
                practitioner vanishes<lb break="yes"/>into thin air,<lb break="yes"/>my dear
-                  <persName ref="Watson">Wat-<lb break="no"/>son</persName>, and there emerges a<lb break="yes"/>young fellow under
+                  <persName ref="#Watson">Wat-<lb break="no"/>son</persName>, and there emerges a<lb break="yes"/>young fellow under
                thirty,<lb break="yes"/>amiable, unambitious,<lb break="yes"/>absent-minded, and
                the<lb break="yes"/>possessor of a favourite dog, which I should<lb break="yes"
                />describe roughly as being larger than a terrier<lb break="yes"/>and smaller than a
@@ -284,7 +284,7 @@
                   break="yes"/>member of the Swedish Pathological Society.<lb break="yes"/>Author
                of 'Some Freaks of Atavism'<lb break="yes"/><q rend="italics">(Lancet, 1882)</q>. 'Do We Progress?'
                <q rend="italics">(Journal<lb break="yes"/>of Psychology, March, 1883)</q>. <!-- unsure whether we will be creating some sort of citation format--> Medical<lb break="yes"
-               />Officer for the parishes of <placeName ref="Grimpen">Grimpen</placeName>,<lb break="yes"/><placeName ref="#Thorsley">Thorsley</placeName>, and <placeName ref="#HighBarrow">High
+               />Officer for the parishes of <placeName ref="#Grimpen">Grimpen</placeName>,<lb break="yes"/><placeName ref="#Thorsley">Thorsley</placeName>, and <placeName ref="#HighBarrow">High
                Barrow</placeName>."</said></p>
             <p><said>"No mention of that local hunt, <persName ref="#Watson">Watson</persName>,"</said><lb break="yes"/>said <persName ref="#Holmes">Holmes</persName>, with a
                mischievous smile, <said>"but<lb break="yes"/>a country doctor, as you very astutely

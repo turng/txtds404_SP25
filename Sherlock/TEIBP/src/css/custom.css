@@ -1,1 +1,37 @@
+page{
+        
+}
 
+teiHeader{
+    display: none; 
+}
+
+front{
+    display:block;
+    
+}
+
+pb{
+    display:flex;
+    flex-direction:row;
+}
+div{
+    
+}
+
+p{
+    
+}
+
+ab{
+    
+}
+
+fw{
+    text-transform:uppercase;
+}
+
+figure{
+   width:
+   float:
+}
