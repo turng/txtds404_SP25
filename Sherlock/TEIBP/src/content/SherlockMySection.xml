@@ -30,6 +30,18 @@
                   left it here or in the <placeName ref="ShippingOffice">Shipping<lb break="yes"
                      />Office</placeName>. I would not lose that stick for the<lb break="yes"
                   />world."</said></p>
+            
+            <figure place="center">
+               <graphic url="../image/BaskervillePage122.png"/>
+               <p rendition="bottom" rend="caps"
+                  ><!-- in places where we need to have two rendition attribtes, can we we do rendition and rend?-->
+                  The Hound of the Baskerville</p>
+               <p rend="italics">(See page 128.)</p>
+               <figDesc>
+                  <!-- we should discuss what we want to include in the figure descriptions-->
+               </figDesc>
+            </figure>
+            
             <p><said>"A presentation, I see,"</said> said <persName ref="#Holmes"
                >Holmes</persName>.</p>
             <p><said>"Yes, sir."</said></p>

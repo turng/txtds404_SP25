@@ -18,7 +18,7 @@ cb{display:none;}
 
 div[type="chapter"]{
    display:flex;
-    flex-direction:row; 
+   flex-direction:row; 
 }
 
 p{
@@ -34,6 +34,6 @@ fw{
 }
 
 figure{
-   width:
-   float:
+   width:300px;
+   float:right;
 }
