@@ -26,9 +26,9 @@
         <div><xsl:apply-templates/></div>
     </xsl:template>
     
-    <xsl:template match="head">
-        <h2><xsl:apply-templates/></h2>
+    <xsl:template match="tei:head">
+        <h5><xsl:apply-templates/></h5>
     </xsl:template>
     
-    <xsl:template match="sic"/>
+    <xsl:template match="tei:sic"/>
 </xsl:stylesheet> 
