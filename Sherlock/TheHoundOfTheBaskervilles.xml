@@ -464,7 +464,7 @@
 
             <pb n="127"/>
             <fw type="RunnningHead" rend="caps">THE HOUND OF THE BASKERVILLES 127</fw>
-            <p><persName ref="#Holmes">Holmes</persName> stretched out his hand for the<lb
+            <cb/><p><persName ref="#Holmes">Holmes</persName> stretched out his hand for the<lb
                   break="yes"/>manuscript and flattened it upon his knee.</p>
             <p><said>"You will observe, <persName ref="#Watson">Watson</persName>, the
                      alternative<lb break="yes"/>use of the long s and the short. It is one<lb
@@ -513,7 +513,7 @@
                   (the history of which by the learned<pb n="128"/>
                   <fw type="RunnningHead" rend="caps">128 THE STRAND MAGAZINE</fw>
                   <!-- what to do if these things are within saids and ps -->
-                  <ref>Lord Clarendon<!-- This is a real guy apparently --></ref> I most earnestly
+                  <cb/><ref>Lord Clarendon<!-- This is a real guy apparently --></ref> I most earnestly
                      commend<lb break="yes"/>to your attention) this <placeName
                      ref="#BaskervilleHall">Manor of Baskerville</placeName><lb break="yes"/>was
                   held by <persName ref="#HBaskerville">Hugo</persName> of that name, nor can it<lb
