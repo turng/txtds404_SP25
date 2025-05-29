@@ -9,24 +9,11 @@
             <title>Various Ways of Cooking Apples</title>
             <author>Georgiana Hill</author>
             <editor>Ainsley Lin, Isabelle Bowman</editor>
-         </titleStmt>
-         <publicationStmt>
-            <p>Our goal for our text edition is that it will be an edition incredibly similar to the
-               original visually and textually. By keeping almost all of the text the same as the
-               original, we are hoping to preserve recipes from this 1869 cookbook, in hopes that
-               readers will reflect on the way recipes can mirror the time they were written in and
-               the deviation of the cookbook from just British recipes paints Georgiana Hill as a
-               well-traveled and educated woman with the intention of reaching other women with her
-               cooking knowledge.</p>
-            <p><bibl>
-                  <title>How to Cook Potatoes, Apples, Eggs, Fish, Four Hundred Different
-                     Ways</title>
-                  <author>Georgiana Hill</author>
-                  <publisher>Dick &amp; Fitzgerald Publishers</publisher>
+            <publisher>Dick &amp; Fitzgerald Publishers</publisher>
                   <pubPlace>New York</pubPlace>
                   <date>1869</date>
                </bibl></p>
-         </publicationStmt>
+         </titleStmt>
          <sourceDesc>
             <p>"How To Cook Potatoes, Apples, Eggs, Fish, Four Hundred Different Ways" is a cookbook
                by Georgiana Hill, a 19th century cookery book writer and journalist. This cookbook
@@ -296,7 +283,20 @@
                damson or any other jams, which are generally too scarce to be employed freely in the
                winter season.</p>
          </div>
-         <div type="recipe" n="135">
+         <div type="recipe" n="135"     </titleStmt>
+         <publicationStmt>
+            <p>Our goal for our text edition is that it will be an edition incredibly similar to the
+               original visually and textually. By keeping almost all of the text the same as the
+               original, we are hoping to preserve recipes from this 1869 cookbook, in hopes that
+               readers will reflect on the way recipes can mirror the time they were written in and
+               the deviation of the cookbook from just British recipes paints Georgiana Hill as a
+               well-traveled and educated woman with the intention of reaching other women with her
+               cooking knowledge.</p>
+            <p><bibl>
+                  <title>How to Cook Potatoes, Apples, Eggs, Fish, Four Hundred Different
+                     Ways</title>
+                  <author>Georgiana Hill</author>
+          >
             <head rend="smallcaps">135. Scalded Codlins.</head>
             <p>Take some small <note place="foot" n="6">codlins</note>, wrap each in a vine leaf,
                and pack them closely in a stewpan; pour in as much cold water as will barely cover
