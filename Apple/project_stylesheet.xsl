@@ -21,4 +21,8 @@
     <xsl:template match="tei:div[@type='chaptertitle']">
         <h1><xsl:apply-templates/></h1>
     </xsl:template>
+    
+    <xsl:template match="tei:div[@type='recipe'][@n='115']">
+        <div><xsl:apply-templates/></div>
+    </xsl:template>
 </xsl:stylesheet> 
