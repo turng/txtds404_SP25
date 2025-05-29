@@ -18,7 +18,283 @@
   </teiHeader>
   <text>
       <body>
-         <p>Some text here.</p>
+         <div type="table">
+            <div rend="serif">
+            <p>12, CHEAPSIDE, CITY.</p>
+            <space type="sgline"/>
+             <p rend="bold">MOTT'S</p>
+               <p rend="bold">NEW SILVER ELECTRO-PLATE,</p>
+               
+               <p>Possessing in a pre-eminent degree the qualities of Sterling Silver,</p>
+               <p>from which is cannot be distinguished; at a fifth of the cost.</p>
+           </div>
+           <div rend="serif">
+              <table rows="9" cols="6">
+              <head rend="sans">SPOONS AND FORKS.</head>
+              <figure>
+                 <graphic url="https://www.gutenberg.org/files/42385/42385-h/images/p144.jpg"/>
+                    <figDesc>A ornate decorated spoon at the handle with a pointy spoon tip</figDesc>
+              </figure>
+                 <row>
+                    <cell role="label">Table Spoons</cell>
+                    <!-- four rows of '...' -->
+                    <cell cols="4" rend="placeholder">...</cell>
+                    <cell>per dozen</cell>
+                 </row>
+                 <row>
+                    <cell role="label">Table Forks</cell>
+                    <!-- four rows of '...' -->
+                    <cell cols="4" rend="placeholder">...</cell>
+                    <cell>"</cell>
+                 </row>
+                 <row>
+                    <cell role="label">Dessert Spoons</cell>
+                    <!-- four rows of '...' -->
+                    <cell cols="4" rend="placeholder">...</cell>
+                    <cell>"</cell>
+                 </row>
+                 <row>
+                    <cell role="label">Dessert Forks</cell>
+                    <!-- four rows of '...' -->
+                    <cell cols="4" rend="placeholder">...</cell>
+                    <cell>"</cell>
+                 </row>  
+                 <row>
+                    <cell role="label">Tea Spoons</cell>
+                    <!-- four rows of '...' -->
+                    <cell cols="4" rend="placeholder">...</cell>
+                    <cell>"</cell>
+                 </row>
+                 <row>
+                    <cell role="label">Gravy Spoons</cell>
+                    <!-- four rows of '...' -->
+                    <cell cols="4" rend="placeholder">...</cell>
+                    <cell>per pair</cell>
+                 </row>
+                 <row>
+                    <cell role="label">Sauce Ladles</cell>
+                    <!-- four rows of '...' -->
+                    <cell cols="4" rend="placeholder">...</cell>
+                    <cell>"</cell>
+                 </row>
+                 <row>
+                    <cell role="label">Soup Ladles</cell>
+                    <!-- four rows of '...' -->
+                    <cell cols="4" rend="placeholder">...</cell>
+                    <cell>each</cell>
+                 </row>
+                 <row>
+                    <cell role="label">Salt Spoons</cell>
+                    <!-- four rows of '...' -->
+                    <cell cols="4" rend="placeholder">...</cell>
+                    <cell>per pair</cell>
+                 </row>
+                 <!-- nested table prices -->
+                 <row>
+                    <!-- nested table for fiddle -->
+                    <cell>
+                       <table>
+                          <head>Fiddle</head>
+                          <row role="label">
+                             <cell>£</cell>
+                             <cell>s.</cell>
+                             <cell>d.</cell>
+                          </row>
+                          <row role="data">
+                             <cell>2</cell>
+                             <cell>8</cell>
+                             <cell>0</cell>
+                          </row>
+                          <row role="data">
+                             <cell>2</cell>
+                             <cell>8</cell>
+                             <cell>0</cell>
+                          </row>
+                          <row role="data">
+                             <cell>1</cell>
+                             <cell>16</cell>
+                             <cell>0</cell>
+                          </row>
+                          <row role="data">
+                             <cell>1</cell>
+                             <cell>16</cell>
+                             <cell>0</cell>
+                          </row>
+                          <row role="data">
+                             <cell>1</cell>
+                             <cell>5</cell>
+                             <cell>0</cell>
+                          </row>
+                          <row role="data">
+                             <cell>0</cell>
+                             <cell>15</cell>
+                             <cell>0</cell>
+                          </row>
+                          <row role="data">
+                             <cell>0</cell>
+                             <cell>8</cell>
+                             <cell>6</cell>
+                          </row>
+                          <row role="data">
+                             <cell>0</cell>
+                             <cell>17</cell>
+                             <cell>0</cell>
+                          </row>
+                          <row role="data">
+                             <cell>0</cell>
+                             <cell>3</cell>
+                             <cell>6</cell>
+                          </row>
+                       </table>
+                    </cell>
+                    <!-- ... -->
+                    <cell cols="9" rend="placeholder">...</cell>
+                    <!-- nested table for Threaded. -->
+                    <cell>
+                       <table>
+                          <head>Threaded.</head>
+                          <row role="label">
+                             <cell>£</cell>
+                             <cell>s.</cell>
+                             <cell>d.</cell>
+                          </row>
+                          <row role="data">
+                             <cell>3</cell>
+                             <cell>10</cell>
+                             <cell>0</cell>
+                          </row>
+                          <row role="data">
+                             <cell>3</cell>
+                             <cell>10</cell>
+                             <cell>0</cell>
+                          </row>
+                          <row role="data">
+                             <cell>2</cell>
+                             <cell>12</cell>
+                             <cell>0</cell>
+                          </row>
+                          <row role="data">
+                             <cell>2</cell>
+                             <cell>12</cell>
+                             <cell>0</cell>
+                          </row>
+                          <row role="data">
+                             <cell>1</cell>
+                             <cell>12</cell>
+                             <cell>0</cell>
+                          </row>
+                          <row role="data">
+                             <cell>1</cell>
+                             <cell>5</cell>
+                             <cell>0</cell>
+                          </row>
+                          <row role="data">
+                             <cell>0</cell>
+                             <cell>13</cell>
+                             <cell>0</cell>
+                          </row>
+                          <row role="data">
+                             <cell>1</cell>
+                             <cell>1</cell>
+                             <cell>0</cell>
+                          </row>
+                          <row role="data">
+                             <cell>0</cell>
+                             <cell>6</cell>
+                             <cell>0</cell>
+                          </row>
+                       </table>
+                    </cell>
+                    <!-- ... -->
+                    <cell cols="9" rend="placeholder">...</cell>
+                    <!-- nested table for King's -->
+                    <cell>
+                       <table>
+                          <head>King's.</head>
+                          <row role="label">
+                             <cell>£</cell>
+                             <cell>s.</cell>
+                             <cell>d.</cell>
+                          </row>
+                          <row role="data">
+                             <cell>3</cell>
+                             <cell>15</cell>
+                             <cell>0</cell>
+                          </row>
+                          <row role="data">
+                             <cell>3</cell>
+                             <cell>15</cell>
+                             <cell>0</cell>
+                          </row>
+                          <row role="data">
+                             <cell>3</cell>
+                             <cell>0</cell>
+                             <cell>0</cell>
+                          </row>
+                          <row role="data">
+                             <cell>3</cell>
+                             <cell>0</cell>
+                             <cell>0</cell>
+                          </row>
+                          <row role="data">
+                             <cell>1</cell>
+                             <cell>15</cell>
+                             <cell>0</cell>
+                          </row>
+                          <row role="data">
+                             <cell>1</cell>
+                             <cell>7</cell>
+                             <cell>0</cell>
+                          </row>
+                          <row role="data">
+                             <cell>0</cell>
+                             <cell>15</cell>
+                             <cell>0</cell>
+                          </row>
+                          <row role="data">
+                             <cell>1</cell>
+                             <cell>2</cell>
+                             <cell>0</cell>
+                          </row>
+                          <row role="data">
+                             <cell>0</cell>
+                             <cell>7</cell>
+                             <cell>6</cell>
+                          </row>
+                       </table>
+                    </cell>
+                 </row>
+              </table> 
+           </div>
+           
+           <div rend="bold">
+              <p>Superb Epergnes, Candelabra, Salad Stands, Wine Coolers, Waiters, Corner Dishes,</p>
+              <p>Meat and Venison Dishes, Dish Covers, Cruet Frames, Liqueur Stands, Spoons and Forks,</p>
+              <p>Tea and Coffee Services,Tea Kettles, Toast Racks, &amp;c., &amp;c.</p>
+           </div>
+           <div>
+              <figure>
+                 <graphic url="C:\Users\Kylie\Downloads\candle_holder.png"/>
+                    <figDesc>An ornate candle holder with two spots for two candles.</figDesc>
+              </figure>
+              <figure>
+                 <graphic url="C:\Users\Kylie\Downloads\deer_pastry_holder.png"/>
+                 <figDesc>A dome dish cover with a deer on the top.</figDesc>
+              </figure>
+              <figure>
+                 <graphic url="C:\Users\Kylie\Downloads\candle_wick_holder.png"/>
+                 <figDesc>An ornate candle holder for one candle stick.</figDesc>
+              </figure>
+              <figure>
+                 <graphic url="C:\Users\Kylie\Downloads\decorative_basket.png"/>
+                 <figDesc>A decorative basket with stands and a handle.</figDesc>
+              </figure>
+           </div>
+           <div>
+              <space type="sgline"/>
+              <p rend="bold">ILLUSTRATED PAMPHLETS OF PRICES GRATIS.</p>
+           </div>
+         </div>
       </body>
   </text>
 </TEI>
