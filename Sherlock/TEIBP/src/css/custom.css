@@ -17,8 +17,7 @@ pb{
 cb{display:none;}
 
 div[type="chapter"]{
-   display:flex;
-   flex-direction:row; 
+    
 }
 
 p{
