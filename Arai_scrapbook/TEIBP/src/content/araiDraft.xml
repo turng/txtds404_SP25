@@ -2,6 +2,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -51,8 +52,18 @@
         </fileDesc>
     </teiHeader>
   <text>
+      <front>
+          <div type="editorial_intro">
+              <p>The phrase "on paper" is an interesting one. On paper, Clarence Takeya Arai was an accomplished and influential member of the Seattle community. He was the first Japanese American to earn a law degree from the University of Washington and the first nisei commissioned officer in the US Army Reserve. He was a founder and the first president of the Japanese American Citizens League, the oldest Asian American civil rights organization, as well as a Republican precinct committee member and delegate to the Washington State Republican Convention. On paper, Arai and his family were sent to the Puyallup Fairgrounds, and then to a concentration camp in Minidoka, Idaho, when over a hundred thousand innocent Japanese Americans were incarcerated during World War II. His health deteriorated there, but he continued to advocate for Japanese Americans' legal rights within the camp. Three months after the war ended, his son Ken died of a brain tumor. Arai gave up practicing law full time and took up photography. He died less than twenty years later. </p>
+                  <p>When we discovered the Clarence T. Arai papers in the University of Washington Special Collections, we didn't just discover certificates and newspaper clippings taped to yellowing pages that crumbled as we turned them. This was a life, a collection of moments of pride and tragedy, lived in service to his community and yet persecuted by his country. This was an autobiography, a telling of Arai's story through the papers he decided to preserve. He had a Cocker Spaniel named Duke of Main Street. His son Ken liked "hot dog sandwiches" and bus rides to Portland. On paper, Arai was a lawyer, civil rights advocate, and photographer. But on paper, he was also a gardener, a father, a man with dreams and indignation with the injustice he knew he was living: a human.</p>
+                 <p> Regrettably, we could not include every insightful artifact in Arai’s scrapbook. We each chose a genre (personal correspondences, state issues, and newspaper articles) and selected a few pages from that genre, maintaining original spellings and punctuation to preserve authenticity. Our goal was to provide a glimpse into the first-hand experiences of Japanese Americans in Washington before and during World War II. Arai’s scrapbook offers a perspective unlike textbooks or documentaries, providing insight on lived experiences through his personal memorabilia and artifacts. By publishing this work, we hope that readers will gain a more well-rounded, holistic perspective on this time period, and an awareness of Arai’s life and enduring legacy. </p>
+          </div>
+          <div type="annotations">
+              
+          </div>
+      </front>
       <body>
-         <ab>In Appreciation
+            <div><ab>In Appreciation
 
 Presented to 
 
@@ -68,11 +79,10 @@ Mr. Clarence T. Arai
 
 Consul-General of Japan 
 _______(signature)______
-Yoshiharu Takeno
+Yoshiharu Takeno</ab>
+</div>
 
-
-
-SMITHSONIAN INSTITUTION 
+<div><ab>SMITHSONIAN INSTITUTION 
 WASHINGTON, D.C.
 
 THIS·IS·TO·CERTIFY·THAT 
@@ -88,13 +98,9 @@ ___________(signature)_________
 
 
 ____(signature)_______________
-                           ADMINISTRATIVE ASSISTANT 
-                           
-                           
-                           
-                           
-                           
-THE BUTTS’ PAROLE LEAGUE
+                           ADMINISTRATIVE ASSISTANT </ab></div>
+                                             
+<div><ab>THE BUTTS’ PAROLE LEAGUE
 Box 70, Nippon Station
 Seattle, Washington
 April 2, 1937
@@ -109,11 +115,9 @@ Permit us to offer our congratulations and best wishes toward your future as a t
 Mayor John F. Dore, in choosing you, thus for the first time in the history of Seattle according recognition to the people you so ably represent, we know made a selection which will undoubtedly redound to his and your credit.
 
 THE BUTTS’ PAROLE LEAGUE.
-by Frank O. Murphy
+by Frank O. Murphy</ab></div>
 
-
-
-REGISTRATION CERTIFICATE
+<div><ab>REGISTRATION CERTIFICATE
 AMERICAN KENNEL CLUB
 AKC
 INCORPORATED
@@ -138,11 +142,9 @@ August     ISSUE
 
 Perry B Rice
 SECRETARY
-gm
+gm</ab></div>
 
-
-
-Headquarters
+<div><ab>Headquarters
 Western Defense Command 
 And Fourth Army 
 Presidio of San Francisco, California 
@@ -162,10 +164,9 @@ TO: 	The people within the States of Washington, Oregon, California, Montana, Id
 Now, THEREFORE, I, J.L. DEWITT, Lieutenant General, U.S. Army, by virtue of the authority vested in me by the President of the United States and by the Secretary of War and my powers and prerogatives as Commanding General, Western Defense Command, do hereby declare and establish the following regulations covering the conduct to be observed by all alien Japanese, all alien Germans, all alien Italians, and all persons of Japanese ancestry residing or being within the Military Areas above described, or such portions thereof as are hereinafter mentioned :
 
 From and after 6:00 A.M., March 27, 1942, all alien Japanese, all alien Germans, all alien Italians, and all persons of Japanese ancestry residing or being within the geographical limits of Military Area No.1, or within any of the Zones 
-
-
-
-Headquarters 
+</ab></div>
+          
+<div><ab>Headquarters 
 Western Defense Command 
 And Fourth Army 
 Presidio of San Francisco, California
@@ -186,12 +187,9 @@ Any person subject to this order who fails to comply with any of its provisions 
 
 J. L. DEWITT 
 Lieutenant General, U.S. Army 
-Commanding 
+Commanding </ab></div>
 
-
-
-
-MAY 1, 1942
+<div><ab>MAY 1, 1942
 EMPTY STALLS—EVACUATIONS
 SEATTLE TMES
 
@@ -208,12 +206,9 @@ JAPS HAVE GONE
 The contingent of Japanese which left Seattle for Puyallup today swelled the population of Camp Harmony, the assembly on the Western Washington Fairgrounds, to more than 2,000. About 200 Japanese are there from Alaska. 
     No date has been set for removal of the Japanese from there
     
-Vacant stalls like these at Pike Place Public Markets, Inc. confronted shoppers at numerous Seattle markets today. These Japanese operators of many of the stalls have been evacuated. Japanese farmers who formerly took their produce to the markets to sell it also were absent. Even though they live outside the evacuation area, they are barred from the central business district by wartime restrictions on movements of Japanese. 
+Vacant stalls like these at Pike Place Public Markets, Inc. confronted shoppers at numerous Seattle markets today. These Japanese operators of many of the stalls have been evacuated. Japanese farmers who formerly took their produce to the markets to sell it also were absent. Even though they live outside the evacuation area, they are barred from the central business district by wartime restrictions on movements of Japanese. </ab></div>
 
-
-
-
-SEATTLE PUBLIC LIBRARY
+<div><ab>SEATTLE PUBLIC LIBRARY
 SEATTLE, WASHINGTON
 Judson T. Jennings, Librarian
 29 April 1942
@@ -232,10 +227,10 @@ Cordially yours
 
 J T Jennings
 JTJ/FRP   Librarian
+</ab></div>
 
-
-HEADQUARTERS
-NWS & 44TH INFANTRY DIVISION
+<div><ab>HEADQUARTERS
+NWS &amp; 44TH INFANTRY DIVISION
 OFFICE OF ACTING PROVOST MARSHAL
 STATE OF WASHINGTON
 SEATTLE, WASHINGTON
@@ -255,20 +250,16 @@ Captain, Infantry
 NWS. PCF
 
 MM
-TEMPORARY PERMIT #18
+TEMPORARY PERMIT #18</ab></div>
 
-
-
-
-
-SEATTLE POST-INTELLIGENCER, WEDNESDAY, MAY 18, 1942
+<div><ab>SEATTLE POST-INTELLIGENCER, WEDNESDAY, MAY 18, 1942
 NEW EXCLUSION AREAS
 P.1  5/13/42
 
 PROHIBITED ZONE—Map of the area covered by Exclusion Order No. 67, from which Japanese will be cleared by Monday. 
-UNDER BAN, TOO—The territory inside the heavy line is covered by Exclusion Order No. 68, effective on Saturday.
+UNDER BAN, TOO—The territory inside the heavy line is covered by Exclusion Order No. 68, effective on Saturday.</ab></div>
 
-More Japanese Get
+<div><ab>More Japanese Get
 Evacuation Orders
 ________________
 By R. B. Bermann 
@@ -279,9 +270,9 @@ OTHER AREAS
     The destination of the Japanese affected by these orders was not announced, but the fact that they were advised they would not be permitted to use private automobiles was constructed as an indication that they will not be sent to the assembly center in Puyallup. 
     It was considered probable that they would be sent to the assembly center at Pinedale, Calif., to join evacuees from the rural districts of King and Pierce counties who have already been moved there. 
     Prospective evacuees in the area covered by Order No. 67 will register between 8 a.m. and 5 p. m. today and tomorrow at a civil control station at 1715 S. Tacoma Ave., Tacoma. 
-    There will be two registration points, open during the same hours on the same days, for the other area—one in the Bowers Building on MainSt., Poulsbo, and the other
+    There will be two registration points, open during the same hours on the same days, for the other area—one in the Bowers Building on MainSt., Poulsbo, and the other</ab></div>
 
-TUESDAY
+<div><ab>TUESDAY
 P.1  5/12/42
 REGISTRATION
 OF REMAININ
@@ -295,13 +286,9 @@ _______________
 PUYALLUP, TOO
     At the same time, registration was proceeding in Puyallup of some 1,000 Japanese living in Eastern Pierce County. They are to be sent to an evacuation center at Pinedale, Calif., where Japanese from rural King County south of Seattle are also going.
     Among those who registered yesterday were a number of Japanese who are married to men or women of other races.
-    Orders are expected this week to evacuate all of the remaining Japanese in King County. They still remain in rural areas north and east of Seattle, and a smaller portion of Southern King County.
+    Orders are expected this week to evacuate all of the remaining Japanese in King County. They still remain in rural areas north and east of Seattle, and a smaller portion of Southern King County.</ab></div>
     
-    
-    
-    
-    
-Camp Harmony Japs
+<div><ab>Camp Harmony Japs
 Living Up to Name
 Seattle Evacuees Making Best of                      
 Site, Despite New Conditions
@@ -336,12 +323,9 @@ Busy on work details or administrative duties, there is always something to do a
     There are athletic facilities for all ages, and a number of soft ball and ping pong tournaments are already in progress. 
     There are recreational rooms in each area. 
     Jack Maki, the former University faculty member, summed up the attitude of the evacuees when he said: 
-    “We aren’t being mistreated, but, on the other hand, we aren’t being pampered — I think everybody’s doing a swell job.”
+    “We aren’t being mistreated, but, on the other hand, we aren’t being pampered — I think everybody’s doing a swell job.”</ab></div>
 
-
-
-
-June 2, 1942
+<div><ab>June 2, 1942
 
 Mr. Clarence T. Arai
 Puyallup
@@ -363,12 +347,9 @@ Josephine M. Quigley
 President
 Christine A. Neergaard
 (signature)
-(signature)
+(signature)</ab></div>
 
-
-
-
-SEATTLE PUBLIC LIBRARY STAFF ASSOCIATION
+<div><ab>SEATTLE PUBLIC LIBRARY STAFF ASSOCIATION
 4th AVE. and MADISON ST.
 SEATTLE, WASHINGTON
 
@@ -408,7 +389,20 @@ Alice A. Frost
 (E/A)AF/FRP                 President, Seattle Public Library
 Staff Association
 
-P.S. Miss Calkins, head of our Reference department, is coming with a friend to Puyallup tomorrow and will be at the gate of the Camp at 5:30 and will be very happy to see you if you can be there.</ab>
+P.S. Miss Calkins, head of our Reference department, is coming with a friend to Puyallup tomorrow and will be at the gate of the Camp at 5:30 and will be very happy to see you if you can be there.</ab></div>
       </body>
+      <back>
+          <div type="bibliography">
+              <listBibl>
+                  <bibl xml:id="TODO" type="webpage">
+                      "<title level="a">TODO</title>."
+                      <title level="m">TODO</title>
+                      <publisher>TODO</publisher>
+                      <date>TODO</date>
+                      <ref target="INSERT_LINK">INSERT_NAME_OF_LINK</ref>
+                  </bibl>
+              </listBibl>
+          </div>
+      </back>
   </text>
 </TEI>

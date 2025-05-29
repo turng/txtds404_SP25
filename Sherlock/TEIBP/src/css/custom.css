@@ -1,24 +1,19 @@
-page{
-        
-}
+TEI {
+	background-color: white;}
 
 teiHeader{display: none;}
-#teibpToolbox h1 {
-    display:none;
-}
+teibpToolbox{display:none;}
 
-front{
-    display:block;
-    
-}
+front{display:block;}
 
 pb{
     
 }
 
+cb{display:none;}
+
 div[type="chapter"]{
-   display:flex;
-    flex-direction:row; 
+    
 }
 
 p{
@@ -34,6 +29,4 @@ fw{
 }
 
 figure{
-   width:
-   float:
 }
