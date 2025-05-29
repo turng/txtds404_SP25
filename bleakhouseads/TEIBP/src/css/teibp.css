@@ -1887,6 +1887,7 @@ a:hover {
   margin-top: 0;
   margin-bottom: .5em;
   border-bottom: 1px solid #AAA;
+  display:none;
 }
 /* xml-serialization */
 .eg-element {
