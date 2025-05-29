@@ -68,6 +68,37 @@
    </teiHeader>
    <text>
       <front xml:lang="en"> 
+         <div type="editorial_intro">
+            <p>Sherlock Holmes is such a widely known character it’s difficult to find a way to
+               introduce him. He retains global popularity even after almost one hundred years since
+               his last published adventure by Sir Arthur Conan Doyle. There are fifty-six short
+               stories and four novels that comprise the sixty canon Sherlock stories, with The
+               Hound of the Baskervilles being the third serialized novel. This text is significant
+               not only because of its remarkable literary merit as a standout entry in the Sherlock
+               Holmes canon, but also because it was the first text published after The Final
+               Problem, where Sherlock had died. Sherlock’s death had sparked grief and outrage,
+               including people unsubscribing from The Strand magazine. His return was welcomed and
+               widely read and remains a must-read for people seeking the best of Sir Arthur Conan
+               Doyle’s work.</p>
+            <p>Our edition aims to produce a digital version of the original text and formatting of
+               “The Hound of Baskervilles” that will connect modern readers to the original
+               publication. Modern readers most often access the Sherlock Holmes stories through
+               adaptations and remediations that, for example, collect the different serialized
+               chapters into one unit. With our edition, readers can think about how the original
+               way the story was published in the Strand magazine might have affected readers’
+               experience, the significance of place to the story and to its publication, and
+               experience a digital recreation of the original formatting and feel of the story.</p>
+            <p>Our editorial decisions coalesce around the approach of attempting to create as close
+               of a type facsimile as possible, in line with the aim of our editorial work. In this
+               spirit we will maintain spelling and punctuation as they appear in the text. We will
+               also maintain the layout of the text, including columns, pages, where images are
+               placed, and where words are split between lines. One area where we might have to
+               diverge from a type facsimile’s recreation of our source is with the column
+               dimensions, depending on whether we can measure them in our source. This approach
+               aligns with our project goals by providing our readers with insight into the
+               serialized magazine publication format we are closely recreating. </p> </div>
+      </front>
+      <body xml:lang="en">
          <pb n="122"/>
          <figure place="center">
             <graphic url="BaskervillePage122.png"/>
@@ -75,12 +106,9 @@
                The Hound of the Baskerville</p>
             <p rend="italics">(See page 128.)</p>
             <figDesc>
-               <!-- need to add fig Descriptions later-->
+               <!-- we should discuss what we want to include in the figure descriptions-->
             </figDesc>
          </figure>
-      
-      </front>
-      <body xml:lang="en">
          <pb n="123"/>
          <head><title type="magazine"><lb/>The Strand Magazine. <lb/>Vol. xxii. <date when="1901-08"
                   >August, 1901.</date> No. 128.<lb/></title>
@@ -269,7 +297,7 @@
                      <graphic url="BaskervillePage125.png"/>
                      <p rend="caps">"His eyes fell upon the stick in Holme's hand."</p>
                      <figDesc>
-                        
+                        <!-- we should discuss what we want to include in the figure descriptions-->
                      </figDesc>
                   </figure>
                   <lb break="yes"/>an unambitious one who<lb break="yes"
