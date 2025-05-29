@@ -1,5 +1,7 @@
 TEI {
 	background-color: white;
+	font-family:roman, 'times new roman', times, serif;
+    text-align:justify;
 }
 
 teiHeader{display: none;}
@@ -13,6 +15,8 @@ pb{
 
 cb{display:none;}
 
+head
+
 div[type="chapter"]{
     
 }
@@ -23,6 +27,7 @@ text{
 
 fw{
     text-transform:uppercase;
+    
 }
 
 figure{
