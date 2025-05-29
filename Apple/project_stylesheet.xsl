@@ -22,7 +22,13 @@
         <h1><xsl:apply-templates/></h1>
     </xsl:template>
     
-    <xsl:template match="tei:div[@type='recipe'][@n='115']">
+    <xsl:template match="tei:div[@type='recipe']">
         <div><xsl:apply-templates/></div>
     </xsl:template>
+    
+    <xsl:template match="head">
+        <h2><xsl:apply-templates/></h2>
+    </xsl:template>
+    
+    <xsl:template match="sic"/>
 </xsl:stylesheet> 
