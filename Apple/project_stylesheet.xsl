@@ -27,7 +27,7 @@
     </xsl:template>
     
     <xsl:template match="tei:head">
-        <h5><xsl:apply-templates/></h5>
+        <h4><xsl:apply-templates/></h4>
     </xsl:template>
     
     <xsl:template match="tei:sic"/>
