@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Assorted Front Matter of Volume 1 of Dickens' Bleak House, as Serialized</title>
+            <editor>Paige Morris, Megan Piccirillo, and Kenneth Zacher </editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published for the course requirements of "Texts, Publics and Publication: Digital
+               Editing and Publishing" at the University of Washington. We present a selection of
+               the front matter of this text, as it is a major element of context of the original
+               reading that is absent in many modern editions. This edition considers how to create
+               a digital publication of the advertisements themselves as the lead into the first few
+               pages of the novel.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>First volume of the serialized first edition of Dickens' "Bleak House", published in
+               nineteen parts. This edition is a small booklet with a blue cover, illustrations, and
+               extensive advertisements for products, services, and other publications. Held by
+               University of Washington Special Collections under call number PR4556 .A1 1852. <bibl>
+                  <title>Bleak House Vol. 1</title>
+                  <author>Charles Dickens</author>
+                  <publisher>Bradbury and Evans</publisher>
+                  <date>March, 1852</date>
+                  <idno type="OCLC">38689984</idno>
+               </bibl>
+            </p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <normalization>
+               <p>Original text encoded without changes.</p>
+            </normalization>
+            <punctuation>
+               <p>Punctuation retained as is.</p>
+            </punctuation>
+            <quotation>
+               <p>Quotations have been encoded via the 'quotation' element, eliminating the
+                  punctuating marks as redundancy.</p>
+            </quotation>
+            <correction>
+               <p>[Did we notice errors?]</p>
+            </correction>
+            <interpretation>
+               <p>In service to depicting these ads as faithfully as possible, we have maintained
+                  their layouts where possible. However, we have taken only a sampling of the ads in
+                  this volume, and as such their order and other contextual elements of the page
+                  layout may have been lost.</p>
+            </interpretation>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <titlePage>
+            <titlePart>...</titlePart>
+         </titlePage>
+         <div type="editorial_intro">
+            <p>Bleak House is a novel written by Charles Dickens, originally published in serial
+               format over the course of 20 chapters–in 19 installments–between the years of 1852
+               and 1853. While the compiled novel itself is among Dickens’ many acclaimed writings,
+               the serialized installments offer material that is omitted from the published novel
+               format, namely in terms of the front matter used to display various advertisements
+               authentic to the date of publication.</p>
+            <p>This edition, in addressing the above, is focused not on Bleak House as a novel, and
+               instead dedicated to the preservation of the front matter and the formatting of the
+               advertisements contained within for the sake of offering an accurate glimpse into the
+               various goods and services being offered to the public in the early 1850s. In
+               addition, the preservation of the formatting of each advertisement, though altered
+               slightly to adhere to a more uniform font code, will preserve the changes in font
+               size, bold, and italicization to further provide as authentic of a digitization as
+               possible.</p>
+            <p>One editorial decision we will be strictly adhering to is the presentation of the
+               text itself as it was written. Being a relatively recent text, we see no reason to
+               alter the verbiage from how it was originally published, as adapting the speech for a
+               modern audience would detract from the contextualization we aim to present with this
+               document. Additionally, we will include the illustrations both as textual
+               descriptions and as image files archived online to fully present each advertisement
+               as it was originally published.</p>
+         </div>
+         <div type="preface">
+            <p>This could be an original preface...</p>
+         </div>
+      </front>
+      <body>
+         <div type="advertisement">
+            <head><hi rend="bold">TO SPORTSMEN, TOURISTS, &amp; TRAVELLERS.</hi></head>
+            <figure>
+               <figDesc>A dead fox and birds hung over a rifle and a net, tied in ropes and belts.
+                  The fox wears an alarmed expression.</figDesc>
+            </figure>
+            <div>
+               <head><orgName key="Edmiston &amp; Son">EDMISTON'S</orgName> POCKET SIPHONIA,</head>
+               <p><hi rend="sans">OR WATERPROOF OVERCOAT.</hi></p>
+               <p>WEIGHT 10 oz.</p>
+            </div>
+            <figure>
+               <figDesc>A man in a tailcoat and a top hat holds his umbrella, turned inside out by
+                  the wind, amidst a rainstorm.</figDesc>
+            </figure>
+            <div>
+               <p><orgName key="Edmiston &amp; Son">Sole Manufacturers</orgName> of the celebrated
+                  Pocket Siphonia, remarkable for its lightness and softness of texture, adapted for
+                  Sportsmen, Travellers, and Tourists, easily folded to carry in the Pocket or on
+                  Saddle ; the most <hi rend="italic">important</hi> feature in this <hi
+                     rend="italic">Waterproofing</hi> is being mineralised, which effectually
+                  resists the powerful heat of the sun and the most violent rains, also obviating
+                  the stickiness and unpleasant smell peculiar to all other Waterproofs.—Price
+                  according to size, 40s. to 55s.; all silk throughout, 50s. to 65s. Measurement,
+                  length of coat, and size round the chest over the coast.</p>
+            </div>
+            <figure>
+               <figDesc>A man standing upright in the rain in a buttoned topcoat and a top
+                  hat.</figDesc>
+               <caption><hi rend="sans">NO UMBRELLA REQUIRED</hi></caption>
+            </figure>
+            <div>
+               <p>NOTICE.—NAME &amp; ADDRESS STAMPED INSIDE. NONE OTHERS ARE GENUINE.</p>
+               <p><name key="Edmiston &amp; Son">EDMISTON &amp; SON</name>, <address>
+                     <addrLine>416 &amp; 69, STRAND</addrLine>
+                  </address>,</p>
+               <p>Near the <placeName>Adelphi Theatre</placeName>.</p>
+            </div>
+            <div>
+               <head>OPINIONS OF THE PRESS.</head>
+               <p><hi rend="dropcap">Waterproof</hi>—<q>"The lightest and most effectual is the <hi
+                        rend="dropcap">Siphonia</hi>, made by <hi rend="dropcap">Edmiston &amp;
+                        Son</hi>, of 69, Strand; they can be carried in the hat or pocket; and for
+                     the summer we hear they are about to have light coloured
+                        Siphonias."</q>—<title><hi rend="italic">Bell's Life</hi></title>, <date><hi
+                        rend="italic">April 29th</hi>, 1851</date>.</p>
+               <p><q>"<hi rend="dropcap">New Invention</hi>—A newly invented waterproof garment has
+                     been manufactured by <hi rend="dropcap">Edmiston &amp; Son</hi>, 69 Strand, and
+                     its lightness and softness of texture exceeds all other fabrics that have been
+                     brought before the notice of the public; on that account well adapted for
+                     riding or walking; can easily be carried in the pocket or hat, and the most
+                     important feature respecting it is the process of mineralisation, which
+                     effectually resists the powerful heat of the sun—a desideratum so much
+                     required, to prevent the unpleasant smell, and sticking observable in all
+                     hitherto waterproof garments"</q>—<title><hi rend="italic">British Army
+                        Despatch</hi></title>, <date><hi rend="italic">May 9th</hi>,
+                  1851</date>.</p>
+               <p><q>"A new waterproof garment adapted to the very changeable weather of the season,
+                     has been manufactured by <hi rend="dropcap">Edmiston &amp; Son</hi>. It is
+                     remarkably light and soft, and may be carried in the pocket. This is really an
+                     ingenious substitute for the cumbersome great coat or the troublesome
+                     umbrella."</q>—<title><hi rend="italic">Home News</hi></title>, <date><hi
+                        rend="italic">May 24th</hi>, 1851</date>.</p>
+            </div>
+            <figure>
+               <figDesc>A shaded leg, wearing one of a pair of goloshes.</figDesc>
+            </figure>
+            <div rend="left column">
+               <list>
+                  <item>Leggings or Overalls.</item>
+                  <item>Yacht Jackets.</item>
+                  <item>Fishing and Shooting Hats or Caps.</item>
+                  <item>Driving Gloves.</item>
+                  <item>Cricketing do.</item>
+                  <item>Gun covers.</item>
+                  <item>Gig Aprons.</item>
+                  <item>Sou-Westers.</item>
+                  <item>Goloshes.</item>
+               </list>
+            </div>
+            <cb/>
+            <div rend="right column">
+               <list>
+                  <item>Ladies' Capes, with Hoods.</item>
+                  <item>Do. Paletots.</item>
+                  <item>Air Cushions.</item>
+                  <item>Do. Pillows.</item>
+                  <item>Do. Beds.</item>
+                  <item>India Rubber Portable Folding Baths.</item>
+                  <item>Nursing Aprons.</item>
+                  <item>Crib Sheets.</item>
+               </list>
+            </div>
+            <div>
+               <p>The newly invented Swimming Gloves.</p>
+            </div>
+            <figure>
+               <figDesc>A hat.</figDesc>
+            </figure>
+            <figure>
+               <figDesc>A bust in profile, bundled up in a collared coat and a hat that covers the
+                  forehead andthe back of the neck.</figDesc>
+            </figure>
+            <cb/>
+            <div>
+               <p>FISHING AND SHOOTING BOOTS, soft and pliable, require no dressing, and every
+                  description of India Rubber and Gutta Percha Goods, Piping, Tubing for Watering
+                  Gardens, &amp;c.</p>
+               <p><hi rend="sans">AGENTS APPOINTED.</hi></p>
+               <p><placeName>LONDON</placeName>: <orgName key="Edmiston &amp; Son">EDMISTON &amp;
+                     SON</orgName>, <address>
+                     <addrLine>416 &amp; 69, STRAND</addrLine>
+                  </address>, near the <placeName>Adelphi</placeName>.</p>
+            </div>
+         </div>
+         <div type="advertisement">
+            <head><orgName key="A.R. and Sons">ROWLANDS'</orgName> MACASSAR OIL.</head>
+            <figure>
+               <figDesc>An illustration of a package of "Rowland's Macassar Oil".</figDesc>
+               <p>A COPY IN OUTLINE OF THE GENUINE LABEL.</p>
+            </figure>
+            <p><hi rend="dropcap">T</hi>HIS ELEGANT, FRAGRANT, and PELLUCID OIL, in its <hi rend="italic">preservative,
+                  restorative,</hi> and <hi rend="italic">beautifying</hi> qualities for the Human Hair, is unequalled over the whole world. It
+               <hi rend="italic">preserves</hi> and <hi rend="italic">reproduces</hi> the <hi rend="italic">hair</hi>, even at a late period of life: prevents it from <hi rend="italic">turning grey</hi>. or if so changed, 
+               <hi rend="italic">restores it to its original colour</hi>; frees it from <hi rend="italic">scurf</hi> and <hi rend="italic">impurity</hi>, and renders it
+               <hi rend="italic">soft, silky, curly, glossy.</hi></p>
+            <p>CAUTION.--<orgName key="A.R. and Sons">A.R. and Sons</orgName> have com
+               -plaints repeatedly from parties who have 
+               materially suffered from the use of spurious 
+               imitations; and to frustrate to some extent 
+               such impositions, they here add a small 
+               copy in outline of their genuine label from 
+               the burin of <orgName>MESSRS. PERKINS, BACON 
+                  &amp; PETCH</orgName>, the eminent engravers of 
+               London, on which will be seen the names 
+               and address of the Proprietors in full (these 
+               are in red ink on the label), any deviation 
+               from which will always prove a spurious 
+               article.</p>
+            <p>The Prices are 3s. 6d.; 7s.; family bottles (equal to four small) 10s.6d.; and double that size 21s. Sould by 
+               <orgName key="A.R. and Sons">the Proprietors</orgName>, and by Chemists and Perfumers.</p>
+         </div>
+      </body>
+      <back>
+         <div type="endnotes">
+            <note xml:id="n1">Charles Dickens was well-acquainted with the serialized form, as not
+               only a novelist himself but also an editor.<ref type="biblio" target="#source1">See
+                  source 1</ref>.</note>
+            <note xml:id="n2">In this advertisement, on the inside of the front cover itself, the
+               long s is used despite the character having already been out of use. As it was
+               archaic at the time, and therefore likely chosen for stylistic reasons, we have
+               retained it here.</note>
+            <note xml:id="n3">Dr. John Lindley, mentioned across multiple ads contained within
+               Dickens’ Bleak House front matter, was a botanist from the University of England.
+               During his time at the University of England, he was actually the first professor of
+               botany to work at the University; spending his time working on articles and
+               editorials on botany for other academics. Amidst this, as it appears through the
+               Bleak House front matter he would also spend time writing articles on more common
+               houseplants and widespread information that would cater to wider audiences; further
+               fueling his renown and commonplace within Bleak House ads. <ref type="biblio"
+                  target="#source3">See source 3</ref>.</note>
+         </div>
+         <div type="bibliography">
+            <listBibl>
+               <bibl xml:id="source1">
+                  <author>
+                     <name>
+                        <surname>Casey</surname>
+                        <forename>Ellen</forename>
+                     </name>
+                  </author>
+                  <title level="a">"That Specially Trying Mode of Publication": Dickens as Editor of
+                     the Weekly Serial</title>
+                  <title level="j">Victorian Periodicals Review</title>
+                  <date>1981</date>
+               </bibl>
+               <bibl xml:id="source2">
+                  <author>
+                     <name>
+                        <surname>Walk</surname>
+                        <forename>Kerry</forename>
+                     </name>
+                  </author>
+                  <title level="u">The part before the whole: The aesthetics of serial publication
+                     in Dickens, Thackeray, and Eliot</title>
+                  <publisher>University of California, Berkeley ProQuest Dissertations &amp;
+                     Theses</publisher>
+                  <date>1993</date>
+               </bibl>
+               <bibl xml:id="source3">
+                  <author>
+                     <name>
+                        <surname>Boulger</surname>
+                        <forename>George</forename>
+                     </name>
+                  </author>
+                  <title level="a">Lindley, John</title>
+                  <title level="m">Vol 33 Leighton - Lluelyn</title>
+                  <title level="s">Dictionary of National Biography, 1885-1900</title>
+                  <publisher>Smithy, Elder &amp; Co</publisher>
+                  <date>1993</date>
+               </bibl>
+               <bibl xml:id="source4">
+                  <author>
+                     <name>
+                        <surname>Gaskell</surname>
+                        <forename>Philip</forename>
+                     </name>
+                  </author>
+                  <title level="a">Introduction</title>
+                  <title level="m">From Writer to Reader: Studies in Editorial Method</title>
+                  <publisher>Oxford University Press</publisher>
+                  <date>1978</date>
+               </bibl>
+            </listBibl>
+         </div>
+      </back>
+   </text>
+</TEI>
