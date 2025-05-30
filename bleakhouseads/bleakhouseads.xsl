@@ -11,6 +11,9 @@
             <head>
                 <title><xsl:apply-templates select="//tei:titleStmt/tei:title"/></title>
                 <style>
+                    .contentblock{
+                    padding:1%;
+                    }
                     <xsl:apply-templates select="//tei:rendition"/>
                 </style>
             </head>
@@ -37,7 +40,11 @@
     </xsl:template>
     <xsl:template match="tei:titleStmt/tei:editor"/>
     <xsl:template match="tei:respStmt">
-        <p><xsl:apply-templates/></p>
+        <p><xsl:apply-templates select="//tei:resp"/> 
+           <xsl:apply-templates select="//tei:name[@ref='#AC']"/>, 
+           <xsl:apply-templates select="//tei:name[@ref='#JN']"/>, and
+           <xsl:apply-templates select="//tei:name[@ref='#LVH']"/>.
+        </p>
     </xsl:template>
     <xsl:template match="tei:editionStmt">
         <p>Edition of the project: <xsl:apply-templates/></p>
@@ -57,7 +64,9 @@
         <h4><xsl:apply-templates/></h4>
     </xsl:template>
     <xsl:template match="tei:sourceDesc//tei:publisher">
-        <p><xsl:apply-templates/></p>
+        <p><xsl:apply-templates select="tei:name"/><br/>
+        <xsl:apply-templates select="//tei:addrLine"/><br/>
+        <xsl:apply-templates select="//tei:settlement"/>, <xsl:apply-templates select="//tei:country"/></p>
     </xsl:template>
     <xsl:template match="tei:sourceDesc//tei:note">
         <p><xsl:apply-templates/></p>
@@ -67,10 +76,24 @@
             <xsl:apply-templates/>
         </div>
     </xsl:template>
-    <xsl:template match="tei:text//tei:head">
+    <xsl:template match="tei:head">
         <h4><xsl:apply-templates/></h4>
+    </xsl:template>
+    <xsl:template match="tei:div">
+        <div class="contentblock">
+            <xsl:apply-templates/>
+        </div>
     </xsl:template>
     <xsl:template match="tei:text//tei:p">
         <p><xsl:apply-templates/></p>
+    </xsl:template>
+    <xsl:template match="tei:quote">
+        <p><xsl:apply-templates/></p>
+    </xsl:template>
+    <xsl:template match="tei:l">
+        <p><xsl:apply-templates/></p>
+    </xsl:template>
+    <xsl:template match="tei:hi[@rend='allcaps']">
+        <hi style="text-transform:uppercase;"><xsl:apply-templates/></hi>
     </xsl:template>
 </xsl:stylesheet>
