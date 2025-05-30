@@ -546,7 +546,7 @@
                      hundred pound. Why, it's an unreasonable proposal! Two fifty would be bad
                      enough, but better than that. Hadn't you better say two fifty?</said></p>
 
-               <p><persName ref="smallwood">Mr. Smallweed</persName> is quite clear that he had
+               <p><persName ref="smallweed">Mr. Smallweed</persName> is quite clear that he had
                   better not.</p>
 
                <p><said aloud="true" who="bucket">Then,</said> says <persName ref="bucket">Mr.
@@ -599,98 +599,120 @@
                   looks implacably at <persName ref="bucket">Mr. Bucket</persName>.</p>
 
             </div>
-
-<!-- Character Index required characters:
-               
-               System ID: /Users/menga/Desktop/txtds504/txtds404_SP25/6_bleak_house_xvii/tei/novel.xml
-Description: bucket
-
-System ID: /Users/menga/Desktop/txtds504/txtds404_SP25/6_bleak_house_xvii/tei/novel.xml
-Description: captain-hawdon
-
-System ID: /Users/menga/Desktop/txtds504/txtds404_SP25/6_bleak_house_xvii/tei/novel.xml
-Description: george
-
-System ID: /Users/menga/Desktop/txtds504/txtds404_SP25/6_bleak_house_xvii/tei/novel.xml
-Description: honoria
-
-System ID: /Users/menga/Desktop/txtds504/txtds404_SP25/6_bleak_house_xvii/tei/novel.xml
-Description: krook
-
-System ID: /Users/menga/Desktop/txtds504/txtds404_SP25/6_bleak_house_xvii/tei/novel.xml
-Description: krook-cat
-
-System ID: /Users/menga/Desktop/txtds504/txtds404_SP25/6_bleak_house_xvii/tei/novel.xml
-Description: lady-dedlock
-
-System ID: /Users/menga/Desktop/txtds504/txtds404_SP25/6_bleak_house_xvii/tei/novel.xml
-Description: lady-dedlock-sister
-
-System ID: /Users/menga/Desktop/txtds504/txtds404_SP25/6_bleak_house_xvii/tei/novel.xml
-Description: mercuries
-
-System ID: /Users/menga/Desktop/txtds504/txtds404_SP25/6_bleak_house_xvii/tei/novel.xml
-Description: mercury
-
-System ID: /Users/menga/Desktop/txtds504/txtds404_SP25/6_bleak_house_xvii/tei/novel.xml
-Description: miss-dedlock
-
-System ID: /Users/menga/Desktop/txtds504/txtds404_SP25/6_bleak_house_xvii/tei/novel.xml
-Description: miss-hawdon
-
-System ID: /Users/menga/Desktop/txtds504/txtds404_SP25/6_bleak_house_xvii/tei/novel.xml
-Description: mr-chadband
-
-System ID: /Users/menga/Desktop/txtds504/txtds404_SP25/6_bleak_house_xvii/tei/novel.xml
-Description: mr-snagsby
-
-System ID: /Users/menga/Desktop/txtds504/txtds404_SP25/6_bleak_house_xvii/tei/novel.xml
-Description: mrs-chadband
-
-System ID: /Users/menga/Desktop/txtds504/txtds404_SP25/6_bleak_house_xvii/tei/novel.xml
-Description: mrs-smallweed
-
-System ID: /Users/menga/Desktop/txtds504/txtds404_SP25/6_bleak_house_xvii/tei/novel.xml
-Description: mrs-snagsby
-
-System ID: /Users/menga/Desktop/txtds504/txtds404_SP25/6_bleak_house_xvii/tei/novel.xml
-Description: sir-dedlock
-
-System ID: /Users/menga/Desktop/txtds504/txtds404_SP25/6_bleak_house_xvii/tei/novel.xml
-Description: smallweed
-
-System ID: /Users/menga/Desktop/txtds504/txtds404_SP25/6_bleak_house_xvii/tei/novel.xml
-Description: smallwood
-
-System ID: /Users/menga/Desktop/txtds504/txtds404_SP25/6_bleak_house_xvii/tei/novel.xml
-Description: tulkinghorn
-
--->
-            
-<!--Place name required places:
-System ID: /Users/menga/Desktop/txtds504/txtds404_SP25/6_bleak_house_xvii/tei/novel.xml
-Description: library
-
-System ID: /Users/menga/Desktop/txtds504/txtds404_SP25/6_bleak_house_xvii/tei/novel.xml
-Description: lincoln-inn-fields
-
-System ID: /Users/menga/Desktop/txtds504/txtds404_SP25/6_bleak_house_xvii/tei/novel.xml
-Description: precinct
-
--->
-            
-<!--  Legal terms:
-System ID: /Users/menga/Desktop/txtds504/txtds404_SP25/6_bleak_house_xvii/tei/novel.xml
-Description: reckon-up
-
-System ID: /Users/menga/Desktop/txtds504/txtds404_SP25/6_bleak_house_xvii/tei/novel.xml
-Description: serjeant
-
-System ID: /Users/menga/Desktop/txtds504/txtds404_SP25/6_bleak_house_xvii/tei/novel.xml
-Description: stationer
--->
-
          </div>
       </body>
    </text>
+   
+   <standOff>
+      <!-- characters index -->
+      <listPerson>
+         <person xml:id="bucket">
+            <persName>Inspector Bucket</persName>
+            <note>The police detective trying to solve the Tulkinghorn murder mystery.</note>
+         </person>
+         <person xml:id="mr-chadband">
+            <persName>Mr. Chadband</persName>
+            <note>The Reverend Mr. Chadband is Mrs. Chadband's husband and a clegyman.</note>
+         </person>
+         <person xml:id="mrs-chadband">
+            <persName>Mrs. Chadband</persName>
+            <note>Also known as Mrs. Rachael, Miss Barbary's servant.</note>
+         </person>
+         <person xml:id="sir-dedlock">
+            <persName>Sir Leicester Dedlock</persName>
+            <note>A baronet, proud of his rank, unaware of his wife's (Lady Dedlock's) secret.</note>
+         </person>
+         <person xml:id="lady-dedlock">
+            <persName>Lady Dedlock</persName>
+            <note>The wife of Sir Leicester Dedlock. Also referred to as Honoria.</note>
+         </person>
+         <person xml:id="miss-dedlock">
+            <persName>Miss Dedlock</persName>
+            <note>Lady Dedlock before her marriage.</note>
+         </person>
+         <person xml:id="honoria">
+            <persName>Honoria</persName>
+            <note>A women previously in a relationship with Captain Hawdon. She is revealed to be Lady Dedlock in Chapter 29.</note>
+         </person>
+         <person xml:id="lady-dedlock-sister">
+            <persName>Miss Barbary</persName>
+            <note>Lady Dedlock's sister.</note>
+         </person>
+         <person xml:id="george">
+            <persName>George Rouncewell</persName>
+            <note>The son of Mrs. Rouncewell who is falsely arrested for Tulkinghorn's murder.</note>
+         </person>
+         <person xml:id="captain-hawdon">
+            <persName>Captain Hawdon</persName>
+            <note>A law writer and Lady Dedlock's former lover.</note>
+         </person>
+         <person xml:id="miss-hawdon">
+            <persName>Miss Hawdon</persName>
+            <note>The daughter of Lady Dedlock.</note>
+         </person>
+         <person xml:id="krook-cat">
+            <persName>Lady Jane</persName>
+            <note>Krook's cat.</note>
+         </person>
+         <person xml:id="krook">
+            <persName>Krook</persName>
+            <note>A shop owner and the landlord of Captain Hawdon.</note>
+         </person>
+         <person xml:id="mercury">
+            <persName>Mercury</persName>
+            <note>A servant at Chesney Wold.</note>
+         </person>
+         <person xml:id="mercuries">
+            <persName>Mercuries</persName>
+            <note>In general, referring to servants at Chesney Wold.</note>
+         </person>
+         <person xml:id="smallweed">
+            <persName>Mr. Smallweed</persName>
+            <note>Mrs. Smallweed's husband.</note>
+         </person>
+         <person xml:id="mrs-smallweed">
+            <persName>Mrs. Smallweed</persName>
+            <note>Krook's sister.</note>
+         </person>
+         <person xml:id="mr-snagsby">
+            <persName>Mr. Snagsby</persName>
+            <note>A law-stationer and Mrs. Snagsby's husband.</note>
+         </person>
+         <person xml:id="mrs-snagsby">
+            <persName>Mrs. Snagsby</persName>
+            <note>One of Mr. Chadband's parishioners.</note>
+         </person>
+      </listPerson>
+      
+      <!-- places index -->
+      <listPlace>
+         <place xml:id="library">
+            <note>The library in Bleak House, the Dedlock estate.</note>
+         </place>
+         <place xml:id="lincoln-inn-fields">
+            <note>Historic public square and garden located in the Holborn area of London, connected to the Court of Chancery (legal institution).</note>
+         </place>
+         <place xml:id="precinct">
+            <note>A legal precinct, likely near Lincoln’s Inn Fields.
+            </note>
+         </place>
+         
+      </listPlace>
+      
+      <!-- legal annotations -->
+      <list>
+         <item xml:id="reckon-up">
+            <term>To reckon up</term>
+            <note>To calculate the total amount owed by a creditor.</note>
+         </item>
+         <item xml:id="serjeant">
+            <term>Serjeant</term>
+            <note>Short for serjeant-in-law, a member of an order of barristers at the English and Irish Bar.</note>
+         </item>
+         <item xml:id="stationer">
+            <term>Stationer</term>
+            <note>A merchant who sells paper, forms, and stationery items used by lawyers and other legal professionals.</note>
+         </item>
+      </list>
+   </standOff>
 </TEI>
