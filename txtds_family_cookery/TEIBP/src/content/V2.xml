@@ -101,6 +101,12 @@
 	<fw type="page_number" place="top left">10</fw>
             <figure>
                <graphic url="10 Diagram.JPEG"/>
+		    <style>
+			    html {
+                            width: 200px;
+                            margin: auto;                  
+                    }
+                </style>
                <figDesc>The figure shows a layout of where certain foods were to be placed ranging from
                   4 tables with Vegetables, 4 tables for Sauces, 1 big table for Ham, 2 tables for roast
                   Fowls on opposite ends of the ham table. There are bigger tables surrounding these tables
