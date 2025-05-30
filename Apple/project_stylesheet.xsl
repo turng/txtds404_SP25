@@ -11,6 +11,51 @@
             <head>
                 <Title>How to Cook Potatoes, Apples, Eggs, Fish, Four Hundred Different
                     Ways</Title>
+                <style>
+                    .chap {
+                    text-transform: uppercase;
+                    font-family: "Garamond", "Times New Roman", serif;
+                    font-size: 20pt;
+                    text-align: center;
+                    margin: auto;
+                    word-spacing: 12.5px;
+                    }
+                    
+                    .line2 {
+                    width: 10%;
+                    border: none;
+                    border-top: 1.25px solid #000000;
+                    margin-top: 31.25px;
+                    margin-bottom: 31.25px;
+                    }
+                    
+                    .rectitle {
+                    font-variant: small-caps;
+                    font-family: "Garamond", "Times New Roman", serif;
+                    font-size: 15pt;
+                    text-align: center;
+                    margin: auto;
+                    word-spacing: 8.75px;
+                    margin-bottom: 6.25px;
+                    }
+                    
+                    .innerrecint {
+                    font-family: "Garamond", "Times New Roman", serif;
+                    font-size: 12pt;
+                    width: 512.25px;
+                    text-align: left;
+                    margin: auto;
+                    text-indent: 31.25px;
+                    margin-bottom: 7px;
+                    }
+                    
+                    
+                    .recint {
+                    text-align: center;
+                    }
+                    
+                    
+                </style>
             </head>
             <body>
                 <xsl:apply-templates select="//tei:body"/>
@@ -19,16 +64,30 @@
     </xsl:template>  
     
     <xsl:template match="tei:div[@type='chaptertitle']">
-        <h1><xsl:apply-templates/></h1>
+        <div class="chapblock">
+            <h1 class="chap"><xsl:apply-templates/></h1>
+            <hr class = "line2"/>
+        </div>
     </xsl:template>
     
     <xsl:template match="tei:div[@type='recipe']">
-        <div><xsl:apply-templates/></div>
+        <div class="recint">
+            <xsl:apply-templates select="tei:head[@type='rcp']"/> <!-- render the head -->
+            <p class="innerrecint">
+                <xsl:apply-templates select="tei:p"/>               <!-- render paragraphs -->
+            </p>
+        </div>
     </xsl:template>
     
-    <xsl:template match="tei:head">
-        <h4><xsl:apply-templates/></h4>
+    <xsl:template match="tei:head[@type='rcp']">
+        <h4 class="rectitle"><xsl:apply-templates/></h4>
     </xsl:template>
+    
+    <xsl:template match="tei:figDesc"/>
     
     <xsl:template match="tei:sic"/>
+    
+    <xsl:template match="tei:graphic">
+        <img width="512" src="{@url}" />
+    </xsl:template>
 </xsl:stylesheet> 
