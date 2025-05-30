@@ -1864,6 +1864,7 @@ a:hover {
   text-decoration: underline;
 }
 #teibpToolbox {
+  display: none;
   left: 56em;
   top: 25px;
   position: fixed;

@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+	<div>
+	<!--pg 41 of ads-->
+            <div type="table">
+              <div rend="serif">
+                   <p>12, CHEAPSIDE, CITY.</p>
+                   <space type="sgline"/>
+                   <p rend="bold">MOTT'S</p>
+                   <p rend="bold">NEW SILVER ELECTRO-PLATE,</p>
+                       
+                   <p>Possessing in a pre-eminent degree the qualities of Sterling Silver,</p>
+                   <p>from which is cannot be distinguished; at a fifth of the cost.</p>
+               </div>
+               <!--table of spoon and fork prices-->
+               <div rend="serif">
+                  <table rows="9" cols="6">
+                  <head rend="sans">SPOONS AND FORKS.</head>
+                  <figure>
+                     <graphic url="https://www.gutenberg.org/files/42385/42385-h/images/p144.jpg"/>
+                        <figDesc>A ornate decorated spoon at the handle with a pointy spoon tip</figDesc>
+                  </figure>
+                     <row>
+                        <cell role="label">Table Spoons</cell>
+                        <!-- four rows of '...' -->
+                        <cell cols="4" rend="placeholder">...</cell>
+                        <cell>per dozen</cell>
+                     </row>
+                     <row>
+                        <cell role="label">Table Forks</cell>
+                        <!-- four rows of '...' -->
+                        <cell cols="4" rend="placeholder">...</cell>
+                        <cell>"</cell>
+                     </row>
+                     <row>
+                        <cell role="label">Dessert Spoons</cell>
+                        <!-- four rows of '...' -->
+                        <cell cols="4" rend="placeholder">...</cell>
+                        <cell>"</cell>
+                     </row>
+                     <row>
+                        <cell role="label">Dessert Forks</cell>
+                        <!-- four rows of '...' -->
+                        <cell cols="4" rend="placeholder">...</cell>
+                        <cell>"</cell>
+                     </row>  
+                     <row>
+                        <cell role="label">Tea Spoons</cell>
+                        <!-- four rows of '...' -->
+                        <cell cols="4" rend="placeholder">...</cell>
+                        <cell>"</cell>
+                     </row>
+                     <row>
+                        <cell role="label">Gravy Spoons</cell>
+                        <!-- four rows of '...' -->
+                        <cell cols="4" rend="placeholder">...</cell>
+                        <cell>per pair</cell>
+                     </row>
+                     <row>
+                        <cell role="label">Sauce Ladles</cell>
+                        <!-- four rows of '...' -->
+                        <cell cols="4" rend="placeholder">...</cell>
+                        <cell>"</cell>
+                     </row>
+                     <row>
+                        <cell role="label">Soup Ladles</cell>
+                        <!-- four rows of '...' -->
+                        <cell cols="4" rend="placeholder">...</cell>
+                        <cell>each</cell>
+                     </row>
+                     <row>
+                        <cell role="label">Salt Spoons</cell>
+                        <!-- four rows of '...' -->
+                        <cell cols="4" rend="placeholder">...</cell>
+                        <cell>per pair</cell>
+                     </row>
+                     <!-- nested table prices -->
+                     <row>
+                        <!-- nested table for fiddle -->
+                        <cell>
+                           <table>
+                              <head>Fiddle</head>
+                              <row role="label">
+                                 <cell>£</cell>
+                                 <cell>s.</cell>
+                                 <cell>d.</cell>
+                              </row>
+                              <row role="data">
+                                 <cell>2</cell>
+                                 <cell>8</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row role="data">
+                                 <cell>2</cell>
+                                 <cell>8</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row role="data">
+                                 <cell>1</cell>
+                                 <cell>16</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row role="data">
+                                 <cell>1</cell>
+                                 <cell>16</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row role="data">
+                                 <cell>1</cell>
+                                 <cell>5</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row role="data">
+                                 <cell>0</cell>
+                                 <cell>15</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row role="data">
+                                 <cell>0</cell>
+                                 <cell>8</cell>
+                                 <cell>6</cell>
+                              </row>
+                              <row role="data">
+                                 <cell>0</cell>
+                                 <cell>17</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row role="data">
+                                 <cell>0</cell>
+                                 <cell>3</cell>
+                                 <cell>6</cell>
+                              </row>
+                           </table>
+                        </cell>
+                        <!-- ... -->
+                        <cell cols="9" rend="placeholder">...</cell>
+                        <!-- nested table for Threaded. -->
+                        <cell>
+                           <table>
+                              <head>Threaded.</head>
+                              <row role="label">
+                                 <cell>£</cell>
+                                 <cell>s.</cell>
+                                 <cell>d.</cell>
+                              </row>
+                              <row role="data">
+                                 <cell>3</cell>
+                                 <cell>10</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row role="data">
+                                 <cell>3</cell>
+                                 <cell>10</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row role="data">
+                                 <cell>2</cell>
+                                 <cell>12</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row role="data">
+                                 <cell>2</cell>
+                                 <cell>12</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row role="data">
+                                 <cell>1</cell>
+                                 <cell>12</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row role="data">
+                                 <cell>1</cell>
+                                 <cell>5</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row role="data">
+                                 <cell>0</cell>
+                                 <cell>13</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row role="data">
+                                 <cell>1</cell>
+                                 <cell>1</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row role="data">
+                                 <cell>0</cell>
+                                 <cell>6</cell>
+                                 <cell>0</cell>
+                              </row>
+                           </table>
+                        </cell>
+                        <!-- ... -->
+                        <cell cols="9" rend="placeholder">...</cell>
+                        <!-- nested table for King's -->
+                        <cell>
+                           <table>
+                              <head>King's.</head>
+                              <row role="label">
+                                 <cell>£</cell>
+                                 <cell>s.</cell>
+                                 <cell>d.</cell>
+                              </row>
+                              <row role="data">
+                                 <cell>3</cell>
+                                 <cell>15</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row role="data">
+                                 <cell>3</cell>
+                                 <cell>15</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row role="data">
+                                 <cell>3</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row role="data">
+                                 <cell>3</cell>
+                                 <cell>0</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row role="data">
+                                 <cell>1</cell>
+                                 <cell>15</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row role="data">
+                                 <cell>1</cell>
+                                 <cell>7</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row role="data">
+                                 <cell>0</cell>
+                                 <cell>15</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row role="data">
+                                 <cell>1</cell>
+                                 <cell>2</cell>
+                                 <cell>0</cell>
+                              </row>
+                              <row role="data">
+                                 <cell>0</cell>
+                                 <cell>7</cell>
+                                 <cell>6</cell>
+                              </row>
+                           </table>
+                        </cell>
+                    </row>
+                 </table> 
+             </div>
+           
+            <div rend="bold">
+                 <p>Superb Epergnes, Candelabra, Salad Stands, Wine Coolers, Waiters, Corner Dishes,</p>
+                 <p>Meat and Venison Dishes, Dish Covers, Cruet Frames, Liqueur Stands, Spoons and Forks,</p>
+                 <p>Tea and Coffee Services,Tea Kettles, Toast Racks, &amp;c., &amp;c.</p>
+            </div>
+            <div>
+                <figure>
+                   <graphic url="C:\Users\Kylie\Downloads\candle_holder.png"/>
+                      <figDesc>An ornate candle holder with two spots for two candles.</figDesc>
+                </figure>
+                <figure>
+                   <graphic url="C:\Users\Kylie\Downloads\deer_pastry_holder.png"/>
+                   <figDesc>A dome dish cover with a deer on the top.</figDesc>
+                </figure>
+                <figure>
+                   <graphic url="C:\Users\Kylie\Downloads\candle_wick_holder.png"/>
+                   <figDesc>An ornate candle holder for one candle stick.</figDesc>
+                </figure>
+                <figure>
+                   <graphic url="C:\Users\Kylie\Downloads\decorative_basket.png"/>
+                   <figDesc>A decorative basket with stands and a handle.</figDesc>
+                </figure>
+            </div>
+            <div>
+               <space type="sgline"/>
+               <p rend="bold">ILLUSTRATED PAMPHLETS OF PRICES GRATIS.</p>
+            </div>
+		    </div>
+
+     	  <!--pg 0 ad-->
+     	  <div rend="serif">
+          <!--pg is blue-->
+               <p rend="bserif">WILLIAM S. BURTON'S</p>
+               <p rend="thserif">GENERAL FURNISHING IRONMONGERY WAREHOUSE,</p>
+               <p rend="bserif">39, OXFORD STREET,</p>
+               <p rend="sc">(corner of newman street);</p>
+               <p><hi rend="bold">Nos. 1 &amp; 2; Newman Street; and 4 &amp; 5, Perry's Place, London</hi>.</p>
+               <space type="dblinesh"/>
+               <p rend="sans"><hi rend="bold">BATHS AND TOILETTE WARE</hi>.</p>
+               <p rend="thserif">WILLIAM S. BURTON</p>
+               <p rend="bserif">HAS ONE LARGE SHOW ROOM</p>
+               <p>Devoted exclusively to the <hi rend="caps">DISPLAY</hi> of <hi rend="caps">BATHS</hi> and <hi rend="caps">TOILETTE WARE</hi>. The stock of each is at once the
+                  largest, newest, and most varied ever submitted to the Public, and marked at prices proportionate with those
+                  that have tended to make his establishment the most distinguished in this country. Portable Showers, 7s.,
+                  Pillar Showers, L2 15s. to £4 15s. ; Nursery, 11s. 6d. to 30s.; Sponging, 14s. to 30s.; Hip, 18s. 6d. to 29s.
+                  A large assortment of Hot and Cold Plunge, Vapour, and Camp Shower Baths. Toilette Ware in great
+                  variety, from 10s. 6d. to 45s. the Set of Three.</p>
+                  
+               <space type="dblinesh"/>
+                 
+               <p rend="bserif"><hi rend="caps">THE BEST SHOW OF IRON BEDSTEADS</hi> in the <hi rend="caps">KINGDOM</hi> is</p>
+               <p>WILLIAM S. BURTON'S.</p>
+                 
+               <p>He has added to his <hi rend="caps">SHOW-ROOMS</hi> Two very large ones, which are devoted to the exclusive show of
+               <hi rend="caps">IRON</hi> and <hi rend="caps">BRASS HEDSTEADS</hi> and <hi rend="caps">CHILDREN'S COTS</hi>, with appropriate Bedding and Mattresses. Many
+                  of these are quite new, and all are marked in plain figures. Common Iron Bedsteads, from 16s. 3d; Portable
+                  Folding Bedsteads from 13s. 6d; Patent Iron Beadsteads, fitted with dove-tail joints and patent sacking, from
+                  19s. 9d ; and Cots from 21s each. Handsome Ornamental Iron and Brass Bedsteads in great variety, from L3 15s. to L31.</p>
+                  
+               <space type="dblinesh"/>
+                
+               <p rend="bserif">NEW FOLDING CHAIR BEDSTEAD.</p>
+               <p>WILLIAM S. BURTON</p>
+                  
+               <p>Has pleasure in offering an entirely new and very ingenious <hi rend="caps">WROUGH IRON CHAIR BEDSTEAD</hi>, which, //w all caps is lowercase capitalized
+                  from its being extremely light, durable, and portable (measuring, when folded, 2 ft. 11in. by 2ft. by 8 in 
+                  deep), and easily and instantaneously convertible from a chair to a bedstead, or <hi rend="it">vise versâ</hi>, present to</p>
+                  
+               <p><hi rend="caps">MILITARY OFFICERS AND PARTIES TRAVELLING</hi></p>
+                  
+               <p>an amount of comfort and elegance long desiderated, but hitherto unattainable. Price L2 2s ; complete,
+                  with best hair mattress and stuffed arms, £3 12s.</p>
+                  
+               <space type="dblinesh"/>
+                  
+               <p rend="sans"><hi rend="caps">PAPIER MÂCHÉ AND IRON TEA TRAYS</hi>.</p>
+               <p>An assortment of <hi rend="caps">TEA TRAYS</hi> and <hi rend="caps">WAITERS</hi> wholly unprecedented, whether as to extent, variety, or</p>
+               <p>novelty.</p>
+               <!-- list -->
+               <p>Gothic shape Papier Mâché Trays, per set of three . . . . . . from 20s. 0d. to 10 guineas.</p>
+               <p>Ditto, Iron ditto . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . from 15s. 6d. to 4 guineas.</p>
+               <p>Convex shape, ditto . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . from 7s 6d.</p>
+                  
+               <p>A large quantity of small Papier Mâché and iron Trays, many of them executed in the highest style of art,
+                  at about a quarter of their original cost; being odd, or slightly out of condition. These are especially worthy
+                  the attention of Tavern and Coffee-house Keepers. Round and Gothic Waiters, Cake and Bread Baskets,
+                  equally low.</p>
+                  
+               <space type="dblinesh"/>
+                  
+               <p>WILLIAM S. BURTON</p>
+               <p rend="bserif">HAS TEN LARGE SHOW ROOMS</p>
+               <p>(all communicating), exclusive of the shop, devoted solely to the show of</p>
+               <p rend="sans">GENERAL FURNISHING IRONMONGERY,</p>
+               <p>including Cutlery, Nickel Silver, Plated, and Japanned Wares, Iron and Brass Bedsteads, so arranged and</p>
+               <p>classified that purchasers may easily and at once make their selections.</p>
+                     
+               <p rend="bserif">Catalogues, with Engravings, sent (per post) free. The Money returned for</p>
+               <p rend="bserif">every article not approved of.</p>
+            </div>
+      
+            <!--pg 3 of ads-->
+            <div>
+               <div type="header">
+                  <head rend="sc">advertisements.</head>
+                  
+                  <space type="dbline"/>
+                  
+                  <p><hi rend="it">Publishing in Monthly Parts, price 2s, and in Weekly Numbers, price 6d.,</hi></p>
+                  <p><hi rend="sc">the</hi></p>
+                  <p>ENGLISH CYCLOPÆDIA.</p>
+                  <p rend="gothic">A New Dictionary of Universal Knowledge.</p>
+                  <p rend="sc">based on the "penny cyclopædia."</p>
+                  <p rend="bserif">AND ILLUSTRATED WITH FIVE THOUSAND WOOD ENGRAVINGS.</p>
+                  <p><hi rend="sc">Conducted by</hi> <hi rend="caps">Mr. CHARLES KNIGHT</hi>.</p>
+               </div>
+               <space type="sglinesh"/> <!--has diamond in middle-->
+               
+               <div>
+                  <p><hi rend="caps"><hi rend="dropcap">T</hi>he</hi> <hi rend="sc">"English Cyclopædia"</hi>
+                  will be published in Four Divisions; each having
+                  its own alphabetical arrangement, and each forming, when complete, four disstinct
+                  volumes.</p>
+               </div>
+                           
+               <div type="col">
+                  <p><hi rend="sc">Geography</hi> . . . . . 4 Vols</p>
+                  <p><hi rend="sc">Natural History</hi> . . . . 4 Vols.</p>
+                  <!-- line between cols-->
+                  <!--right column-->
+                  <cb n="2"/><p><hi rend="sc">Sciences and Arts</hi> . . . 4 Vols.</p>
+                  <p><hi rend="sc">History, Biography, Literature</hi> &amp;c. 4 Vols.</p>
+               </div>
+               
+               <div>
+                  <p>The publication will commence with Geography and Natural History, and on their 
+                  completion the other Divisions will immediately follow. The work will be issued in
+                  Weekly Numbers at 6d., the Geography and Natural History Divisions alternately, and in
+                  Monthly Parts, at 2s., containing the two Divisions in equal proportions. Nos. 1 to 9, and
+                  Parts 1 and 2, are published.</p>
+                  
+                  <p>The plan of publishing <hi rend="sc">"The English Cyclopædia"</hi> in four Divisons has the obvious
+                  advantage of completeing large departments of knowledge, with the most recent information,
+                  in a very short time. Thus, in two years the great branches of <hi rend="sc">Geography</hi> and <hi rend="sc">Natural</hi>
+                  <hi rend="sc">History</hi> will be finished; when the two remaining portions will commence, with every
+                  additions made to <hi rend="sc">Science</hi>, <hi rend="sc">History</hi> &amp;c., in the intervening period.</p>
+               </div>
+               
+               <space type="dblinesh"/>
+               
+               <div type="col">
+                  <head rend="sans"><hi rend="bold">OPINIONS OF THE PRESS</hi></head>
+                  <!--// two columns-->
+                  
+                  <!--left column-->
+                  <p rend="sc">leader.</p>
+                  <p>"Amount serials, the most important in our eyes is
+                  the new edition of the <hi rend="it">Penny Cyclopædia</hi>, issued in
+                  seperate divisions, under the name of the <hi rend="it">English
+                  Cyclopædia</hi>. The first monthly part contains the com-
+                  mencement of the two divisions, <hi rend="it">Natural History and
+                  Geography</hi>, beautifully printed. It is a new work,
+                  although based upon the old, and those who desire to
+                  possess the Natural History, for example, without 
+                  encumbering themselves with a whole cyclopædia, may
+                  do so by the present admirable arrangement. The
+                  excellence of the articles, and the profusion of wood-
+                  cuts illustrating the Natural History, make us desire
+                  to call the particular attention of our readers to this
+                  re-issue."</p>
+                  
+                  <p rend="sc">weekly news and chronicle.</p>
+                  <p>"We do not feel that it is employing the language
+                  of exaggeration to say that the issue in a cheap and
+                  greatly improved form of the <hi rend="it">English Cyclopædia</hi>,
+                  under the ediorship of Mr. Charles Knight, and with
+                  the co-operation of Messrs. Brandbury &amp; Evans, par-
+                  takes of the character of a national undertaking. It is
+                  the product of the widest and deepest learning of our
+                  country, and must be ranked amonst the proudest
+                  achievements of the time."</p>
+                  
+                  <!--right column-->
+                  <cb n="2"/><p rend="sc">examiner.</p>
+                  <p>"One of the very first labourers in the great and
+                  fruitful field of cheap and instructive publication,
+                  bestowing time, and toil, and patience upon enterprises
+                  that were often not less hazardous to the pocket of
+                  the undertaker than they were useful for the education
+                  of the public, -- Mr. Charles Knight has never flagged
+                  in industry. The <hi rend="it">Penny Cylopædia</hi>, is now, under his
+                  care and editorship, rising from its ashes, revived and
+                  completely modernised. This also is to be henceforth,
+                  under its new title of the <hi rend="it">English Cylopædia</hi>, classi-
+                  fied. Of the First Part we have at present to speak,
+                  and from the specimen before us, we most conscien-
+                  tiously and emphatically recommend these ample dic-
+                  tionaries upon special subjects of almost universal
+                  interest, as by far the best that are likely to be pro-
+                  curable for many years, equally full--and published
+                  for a price which, at the present cost of production,
+                  after allowing for a most extensive sale, can be taken
+                  strictly as the <hi rend="it">minimum</hi> of cheapness possible in our
+                  day. If we did not hope that Mr. Charles Knight's ser-
+                  vices were to be yet for many years devoted to the profit
+                  of the public, we should be satisfied to take this <hi rend="it">English
+                  Cyclopædia</hi>, when completed, as the worthy close of a 
+                  long series of most noble endeavours and successes."</p>
+               </div>
+            
+               <space type="sglinesh"/>
+               
+               <div type="end">
+                  <p><hi rend="caps">BRADBURY &amp; EVANS, 11, BOUVERIE STREET.</hi></p>
+               </div>
+            </div>
+
+						<!--pg 5 of ads-->
+						<div rend="serif">
+	            <div type="top">
+	               <head rend="caps"><hi rend="sc">advertisements</hi>.</head>
+	               <!--dbline-->
+	               <space type="dbline"/>
+	               
+	               <p rend="bserif">New Works.</p>
+	               
+	               <!--sgline-->
+	               <space type="sglinesh"/>
+	            </div>            
+	            
+	            <div>
+	               <p><hi rend="it">Publishing in Monthly Parts, price One Shilling each,</hi></p> <!--it-->
+	               <p><hi rend="bserif">HANDLEY GROSS; or Mr. JORROCKS'S HUNT.</hi></p> <!--bserif-->
+	               <p><hi rend="caps">BY THE AUTHOR OF "MR. SPONGE'S TOUR."</hi></p>
+	               <p rend="sans"><hi rend="caps">ILLUSTRATED WITH LARGE COLOURED PLATES &amp; NUMEROUS WOODCUTS BY JOHN LEECH.</hi></p> <!--sans-->
+	               <p><hi rend="it">Five Parts are published, and may be had by order of all Booksellers and Newsvendors.</hi></p> <!--it-->
+	               
+	               <!--sgline-->
+	               <space type="sglinesh"/>
+	            </div>
+	            
+	            <div>
+	               <p>Price 7s. in cloth, the Sixth Edition of</p>
+	               <p rend="bserif">THE LADIES' COMPANION TO THE FLOWER.</p>
+	               <p rend="bserif">GARDEN.</p> <!--bserif-->
+	               
+	               <p>Being an Alphabetical Arrangement of all the Ornamental Plants grown in Gardens and Shrubberies;</p>
+	               <p>with full directions for their culture.</p>
+	               <p><hi rend="caps">BY MRS.LOUDON.</hi></p>
+	               <p><hi rend="sc">with considerable additions and corrected to the present time.</hi></p> <!--sc-->
+	               
+	               <!--sgline-->
+	               <space type="sglinesh"/>
+	            </div>
+	            
+	            <div>
+	               <p>Price 6s. in Cloth,</p>
+	               <p rend="bserif">A NEW EDITION OF VANITY FAIR.</p><!--bserif-->
+	               <p>By W. M. THACKERAY.</p>
+	               <p>"In forming our general estimate of this writer, we wish it to be understood as referring principally, if not
+	               exclusively, to 'Vanity Fair,' so immeasurably superior in our opinion is this to every other known production
+	               of his pen. The great charm of this work is its entire freedom from mannerism and affectation, both in style and 
+	               sentiment, - the confiding frankness with which the reader is addressed, -the thoroughbred carelessness with which
+	               the author permits the thoughts and feelings suggested by the situations to flow in their natural channel, as if
+	               conscious that nothing mean or unworthy could fall from him. In a word, the book is the work of a gentleman-
+	               one touch of nature makes the whole world kin, and here are touches of nature by the dozen." -<hi rend="it">Edinburgh Review</hi>.</p>
+	               
+	               <!--sgline-->
+	               <space type="sglinesh"/>
+	            </div>
+	            
+	            <div>
+	               <p>Complete in three volumes illustrated by 108 highly finished Coloured Plates, and 600 beautiful Wood</p>
+	               <p>Engravings. Price £4 19s. elegantly bound in cloth.</p>
+	               
+	               <p rend="bserif">PAXTON'S FLOWER-GARDEN.</p> <!--bserif-->
+	               <p><hi rend="caps">EDITED BY SIR JOSEPH PAXTON AND DR LINDLEY.</hi></p>
+	               
+	               <!--three stars--> <p>Each Volume may be had separately, price 33s. in cloth; or any of Parts, 1 to 36, price 2s. 6d. each, to</p>
+	               <p>complete sets.</p>
+	               
+	               <!--sgline-->
+	               <space type="sglinesh"/>
+	               
+	               <p><hi rend="caps">BRADBURY &amp; EVANS, 11, BOUVERIE STREET</hi></p>
+	            </div>
+	            
+	            <!--sgline-->
+	            <space type="sgline"/>
+	            
+	            <div>
+	               <head rend="sans"><hi rend="caps">OCEAN PARCELS DELIVERY COMPANY</hi>.</head> <!--sans-->
+	               <p rend="bserif"><hi>4, AGAR STREET, STRAND (Opposite Charing Cross Hospital.)</hi></p> <!--bserif-->
+	               <p><hi rend="caps"><hi rend="dropcaps">T</hi>HIS COMPANY</hi> has been formed with the view of supplying a cheap, rapid,
+	               and certain conveyance for small parcels, as well as large quantities of Goods by the best established
+	               Steamers and Sailing Vessels to all parts of the world. Every one having correspondents or relations abroad,
+	               must have felt the want of such a medium of communication; and it shall be the constant effort of the
+	               Company to supply this great desideratum, directing their attention to the three chief points - Rapidity,
+	               Certainty, and Cheapness. Despatches are regularly made up for Australia, India, North and South America,
+	               the West Indies, and the Continent of Europe, and all Parts of the World.</p>
+	               <p>Insurance effected free of Commission.</p>	
+	               <p>G. W. FIELD, Manager. </p><!--on the right-->
+	               
+	               <!--sgline-->
+	               <space type="sgline"/>
+	            </div>
+	            
+	            <div>
+	               <head rend="sans"><hi rend="bold">MOTHERS! MOTHERS!! MOTHERS!!!</hi></head><!--sans-->
+	               <figure>
+	                  <graphic url="https://www.gutenberg.org/files/49844/49844-h/images/crest.jpg"/>
+	                        <figDesc>A seal royal seal with two horses mirroring each other.</figDesc>
+	               </figure>
+	               <p><hi rend="caps"><hi rend="dropcaps">T</hi>HE BEST MEDICINE IN THE WORLD</hi> for <hi rend="caps">INFANTS</hi>
+	               <hi rend="caps">AND YOUNG CHILDREN IS ATKINSON AND BARKER'S ROYAL INFANTS'
+	               PRESERVATIVE</hi>-Under the Patronage of the Queen.-The high and universal
+	               celebrity which this medicine continues to maintain for the prevention and cure of those 
+	               disorders incident to infants; affording instant relief in convulsions, flatulency, affections of the bowels, 
+	               difficult teething, the thrush, rickets, measles, hooping-cough, cow-pox, or vaccine inoculation, and may be
+	               given with safety immediately after birth. It is no misnomer cordial!-no stupefactive, deadly narcotic!-
+	               but a veritable preserver of infants! Mothers would do well in always keeping it in the nursery. Many
+	               thousands of children are annually saved by this much-esteemed medicine, which is an immediate remedy,
+	               and the infants rather like it than otherwise.</p>
+	               <!--indent--><p>Prepared only by <hi rend="caps">ROBERT BARKER</hi>, Ollerenshaw Hall, Chapel-en-le-Frith, Derbyshire, late of Manchester,</p>
+	                  <p>(Chemist to Her most Gracious Majesty Queen Victoria), in bottles at 1s. 1?d., 2s.9d., 4s. 6d., and 11s. each.</p>
+	               <!--indent--><p>Sold by all druggists and medicine vendors throughout the United Kingdom.</p>
+	               <!--indent--><p><hi rend="caps">CAUTION</hi>.-Observe the name of <hi rend="sc">"atkinson &amp; barker,"</hi> on the Government Stamp. Established in</p>
+	               <p>the year 1793.</p>
+	            </div>
+	         </div>
+
+		
+         </div>
+      </body>
+  </text>
+</TEI>

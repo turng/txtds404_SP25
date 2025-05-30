@@ -1,1 +1,43 @@
+TEI{
+	background-color: white;
+	font-family:roman, 'times new roman', times, serif;
+	width:600px;
+	border:4px;
+}
 
+teiHeader{display: none;}
+#teibpToolbox {display:none;}
+
+front{display:block;}
+
+pb{
+    
+}
+
+cb{display:none;}
+
+head{
+    font-family:roman, 'times new roman', times, serif;
+}
+
+head title[@type="author"]{
+    font-family:arial, helvetica, sans-serif
+}
+
+div[type="chapter"]{
+    text-transform:uppercase;
+}
+
+p{
+   font-size:14px; 
+}
+
+fw{
+    text-transform:uppercase;
+    text-align: center;
+}
+
+figure p[@rend="caps"]{
+    
+    font-size:10px;
+}
