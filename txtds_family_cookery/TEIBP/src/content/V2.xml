@@ -1,0 +1,883 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The family cookery: combining elegance and economy with various receipts for
+               making gravies, soups, sauces, and made dishes, directions for roasting and boiling
+               game, poultry, meat, fish, and making of pastry and confectionary, directions for
+               trussing and carving, rules for brewing and making wines, the art of pickling and
+               preserving, the management of poultry and bees, and bills of fare for the year and
+               many other useful receipts, forming a complete system of domestic management</title>
+            <author>R. House</author>
+            <editor>Alena Sek</editor>
+            <editor>Kayrina Ben</editor>
+            <editor>Birdie Bell</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>This edition is a digitised copy, including a small handful of recipes, diagrams of
+               how to layout dishes for a dinner party, how to manage bees, and a list of bills of
+               fare for one year. It is not a digitisation of the full text. It is published online
+               through resources provided by the University of Washington, Seattle. It was made for
+               TXTDS 404, Texts, Publics, and Publication, as the final course project. This
+               specific text was chosen because it sounded interesting to have a mix of recipe
+               types; that is, this cookbook includes recipres for both eating and medicinal
+               purposes.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>This text can be accessed through the University of Washington, Seattle Special
+               Collections, at the Allen library. It is a small book, approximately 6 inches high by
+               4 inches across. The cover is brown canvas.</p>
+            <ab type="publication_information">
+               <bibl>
+                  <title>The family cookery: combining elegance and economy with various receipts
+                     for making gravies, soups, sauces, and made dishes, directions for roasting and
+                     boiling game, poultry, meat, fish, and making of pastry and confectionary,
+                     directions for trussing and carving, rules for brewing and making wines, the
+                     art of pickling and preserving, the management of poultry and bees, and bills
+                     of fare for the year and many other useful receipts, forming a complete system
+                     of domestic management</title>
+                  <author>R. House</author>
+                  <publisher>J. Bailey, Chancery Lane</publisher>
+                  <date>between 1808 and 1822?</date>
+                  <idno type="Call_Number">TX705 .H68 1800</idno>
+                  <idno type="OCLC_Number">261232426</idno>
+                  <idno type="Alma_IZ_Record_Number">99108862500001452</idno>
+                  <idno type="Alma_NZ_Record_Number">99165387910001451</idno>
+               </bibl>
+            </ab>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <normalization>
+               <p> As we are trying to avoid completely modernizing the text, we intentionally want
+                  to keep the same grammar and spelling to hold its older essence during the
+                  1800s.</p>
+            </normalization>
+            <punctuation>
+               <p> For punctuation, we are taking out hanging indents for convenience. </p>
+            </punctuation>
+            <interpretation>
+               <p> For interpretation of the text, annotations will be important for readers to
+                  properly interpret the meaning of unfamiliar words or language. This includes
+                  identifying specific towns based off recipe names or historical events that
+                  contribute to some recipes. Doing this can help readers understand the historical
+                  context of the recipes.</p>
+            </interpretation>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="editorial_intro">
+            <p><hi rend="italic">The Family Cookery: Combining Elegance and Economy</hi> authored by
+               R. House – a former head cook for the Duke of Portland – is a pocket-sized
+               19th-century English cookbook published in London by John Bailey. It is believed to
+               have been printed sometime between 1808-1822, with Worldcat entries suggesting a
+               publication date of 1810. The cookbook touches on a variety of recipes for different
+               purposes, including different types of dishes, how to cook various meats, pastry and
+               confectionery, brewing and winemaking, and pickling and preserving. What makes this
+               cookbook particularly interesting and unique is that it also offers advice for the
+               care of poultry and bees as well as diagrams for meal placement and menus or "bills
+               of fare" as reference material for readers. </p>
+            <p>The focus of the original edition is a cookbook that guides readers on how to make
+               specific recipes from the 19th century. The book primarily formats the recipes in a
+               list with headings – the title of the recipe – and recipes – short paragraphs. Our
+               edition will keep the original format, including spelling and grammar, to keep the
+               essence of the cookbook being from the 19th century. We are hoping to accomplish an
+               accurate, digitized publication of the cookbook that increases accessibility to meals
+               that may be perceived as obscure in modern day cooking, showcasing the uniqueness of
+               the type of foods during that era of time. </p>
+         </div>
+      </front>
+      <body>
+         <div type="soups">
+            <pb n="18"/>
+            <fw type="page_number" place="top left">18</fw>
+            <fw type="running_header" place="top center" rend="caps">The Family Cookery.</fw>
+            <lb/>
+            <div type="recipe">
+               <head rend="align(center) format(italic)">White Poitage, with a Chicken in the
+                  Middle.</head>
+               <p>Take an old fowl, a knuckle of veal, scrag of mutton, some spice, some sweet herbs
+                  and onions; boil all together till strong enough, have ready some barley boiled
+                  very white, and strain some of it through a cullender; have some bread ready
+                  toasted in a dish, with a fowl in the middle; some green herbs, minced chervil,
+                  spinach, and sorrel; pour some of the broth to your bread, herbs and chicken; add
+                  barley well strained, stew all together a little while, and serve it up. </p>
+            </div>
+            <div type="recipe">
+               <head rend="align(center) format(italic)">Cray Fish Soup.</head>
+               <p>Take three quarts of strong veal broth, made without herbs, the crumb of four
+                  French rolls, the meat of a lob-ster, and fifty cray-fish pounded, with some live
+                  lobster spawn; skim and rub it through a tamis cloth, season it with salt, and
+                  Cayenne pepper. Cut the crust of French bread into small round pieces when served
+                  up. </p>
+            </div>
+            <div type="recipe">
+               <head rend="align(center) format(italic)">Oyster Soup.</head>
+               <p>Take a pound of skate, four or five flounders, and two pounds of eels, clean them,
+                  cut them in pieces, and cover them with water, season them with mace, pepper,
+                  salt, an onion stuck with cloves, a head of celery, some parsley, and sweet herbs.
+                  Simmer it an hour and a half, and strain it off. Beat the yolks of ten hard eggs,
+                  with the hard part of a pint of oysters, in a mortar, and add them to the stew.
+                  Simmer it all for half an hour; then strain it off, and put it and the oysters
+                  (well washed and bearded) into the pan. Simmer it for five minutes. Have ready the
+                  yolks of six raw eggs well beaten, and add them to the soup. Stir it on the fire
+                  till it is thick and smooth, but do not let it boil. Serve all together. </p>
+            </div>
+            <div type="recipe">
+               <head rend="align(center) format(italic)">Eel Soup.</head>
+               <p>Take eels according to the quantity of soup you wish to make; to every pound of
+                  eels put a quart of water,then add a crust of bread, two or three blades of mace,
+                  some whole pepper, an onion, and a bundle of sweet herbs; cover them close, and
+                  let them boil till half the liquor is <pb n="19"/><fw type="page_number"
+                     place="top right">19</fw>
+                  <fw type="running_header" place="top center" rend="caps">The Family
+                  Cookery.</fw><lb/>wasted; then strain it, and toast soem bread, cut it small, lay
+                  it in the dish, and pour in your soup; set the dish over a stove for a minute, and
+                  send it to tabel hot. Should your soup not be rich enough, you must let it boil
+                  till the liquor is more reduced. Add a piece of carrot to brown it. </p>
+            </div>
+            <div type="recipe">
+               <head rend="align(center) format(italic)">Muscle Soup.</head>
+               <p>Clean your muscles well, let them boil till they open, then take them off, and put
+                  them into another stewpan, with a bit of butter rolled in four, some parsley, and
+                  sweet herbs, with some good gravy, and let them simmer till reduced to one half,
+                  add a liaison, and serve it up hot. </p>
+            </div>
+            <div type="recipe">
+               <head rend="align(center) format(italic)">Milk Soup.</head>
+               <p>Take a quart of milk, boil it with cinnamon, two bay leaves, and moist sugar; put
+                  some sippets in a dish, pour the milk over them, and set the whole over a charcoal
+                  fire to simmer till the bread is soft; take the yolks of two eggs, beat them up,
+                  and mix them with a little of the milk, and throw it in; mix it altogether, and
+                  serve it up. </p>
+            </div>
+            <div type="recipe">
+               <head rend="align(center) format(italic)">Green Pea Soup.</head>
+               <p>Pare and slice five or six cucumbers, add to these as many coss lettuces, a sprig
+                  or two of mint, two or three onions, some pepper and salt, a pint and a half of
+                  young peas, and a little parsley. Put together with a pound of fresh butter into a
+                  saucepan, stew them gently in their own liquor, half an how; then pour two quarts
+                  of boiling water on them, and stew them two hours; thicken with a bit of butter
+                  rolled in flour, and serve it. </p>
+            </div>
+            <div type="recipe">
+               <head rend="align(center) format(italic)">White Pea Soup.</head>
+               <p>Take a pint of white peas, either split or whole, but whole in preference, and
+                  after having steeped them in cold water one hour, put them into a pot with about a
+                  quart of water, and let them boil till they become sufficiently tender to be
+                  pulped through a sieve. Then put them into a stewpan, with some good gravy,
+                  together with white pepper, and salt. Boil for half an hour, and serve up with
+                  fried bread, and a little dried mint.</p>
+            </div>
+         </div>
+         <div type="poultry">
+            <pb n="36"/>
+            <fw type="page_number" place="top left">36</fw>
+            <fw type="running_header" place="top center" rend="caps">The Family Cookery.</fw>
+            <lb/>
+            <div type="recipe">
+               <head rend="align(center) format(italic)">Pigeons.</head>
+               <p>TAKE a little pepper and salt, a small piece of butter, and some parsley cut
+                  small, mix these together, put them into the bellies of your pigeons, tying the
+                  neck ends tight ;rumps, and the take another string, fasten one end of it to their
+                  legs and rumps, the other to the mantlepiece. Keep them constantly turning round
+                  and baste them with butter. When they are done, take them up, lay them in a
+                  dish,and they will swim with gravy. </p>
+            </div>
+            <div type="recipe">
+               <head rend="align(center) format(italic)">Woodcocks or Snipes</head>
+               <p>Spit them on a small bird spit; four them, and baste them with butter; have ready
+                  a slice of bread toasted brown, which lay in a dish, and set it under your birds,
+                  for the trail to drop on. When they are enough, take them up, and lay them on the
+                  toast, put some good gravy in the dish, and some melted butter in a cup. Garnish
+                  with orange or lemon. </p>
+            </div>
+            <div type="recipe">
+               <head rend="align(center) format(italic)">Quails.</head>
+               <p>Truss them, and stuff their bellies with beef suet, and sweet herbs shred very
+                  fine, and seasoned with a little spice; when they grow warm, baste them with salt
+                  and water, then dredge them and baste them with butter.For sauce, dissolve an
+                  anchovy in good gravy, with two or three shallots shred very fine, and the juice
+                  of a Seville orange; dish them up in this sauce, and garnish your dish with fried
+                  bread crumbs, and lemon; send them to table as hot as possible. </p>
+            </div>
+            <div type="recipe">
+               <head rend="align(center) format(italic)">Pheasants.</head>
+               <p>TAKE a brace of pheasants, lard them with small lards of bacon: butter a piece of
+                  white paper, and put over the breasts, and, about ten minutes before they are
+                  done, take off the paper; flour and baste them with nice butter, that they may go
+                  to table with a fine froth; put good gravy in the dish, and bread sauce, as for
+                  partridges, in a boat; garnish your dish with lemon. </p>
+            </div>
+            <div type="recipe">
+               <head rend="align(center) format(italic)">Partidges.</head>
+               <p>When they are a little under roasted, dredge them with four, and baste them with
+                  fresh butter; let them go to <pb n="37"/><fw type="page_number" place="top right"
+                     >37</fw>
+                  <fw type="running_header" place="top center" rend="caps">The Family
+                  Cookery.</fw><lb/>table with a fine froth, putting gravy sauce in the dish, and
+                  bread sauce in a hason. </p>
+            </div>
+            <div type="recipe">
+               <head rend="align(center) format(italic)">Plovers.</head>
+               <p>Green plovers are roasted as you do woodcocks; lay them upon a toast, and put good
+                  gravy sauce in the dish. Grey Plovers are roasted, or stewed thus: make a
+                  forcemeat of artichoke bottoms cut small. Seasoned with pepper, salt, and nutmeg;
+                  stuff the bellies, and put the birds into a saucepan, with a good gravy just to
+                  cover them, a glass of white wine, and a blade of mace; cover them close, and stew
+                  them softly till they are tender; then take up your plovers into the dish, put in
+                  a piece of butter rolled in flour to thicken your sauce, let it boil till smooth:
+                  squeeze in a little lemon; scum it clean, and pour it over the birds. Garnish with
+                  orange. </p>
+            </div>
+            <div type="recipe">
+               <head rend="align(center) format(italic)">Larks.</head>
+               <p>Truss your larks with the legs across, and put a sage leaf over the breast; put
+                  them upon a long fine skewer, and between every lark a little piece of thin bacon;
+                  then tie the skewer to a spit, and roast them at a quick, clear, fire; baste them
+                  with butter, and strew over them some crumbs of bread, mixed with flour; fry some
+                  bread, crumbs of a nice brown, in a bit of butter; lay your larks round in your
+                  dish; the bread crumbs in the middle, with sliced orange for garnish. Send good
+                  gravy in a boat.</p>
+            </div>
+            <div type="recipe">
+               <head rend="align(center) format(italic)">Ortolans.</head>
+               <p>You may lard them with bacon, or roast them without putting a vine lead between
+                  each ; spit them sideways, baste them with butter, and strew bread crumbs on them
+                  whilst roasting. Send them to a table with fried bread crumbs around them,
+                  garnished with lemon, and good gravy sauce in a boat.</p>
+            </div>
+            <div type="recipe">
+               <head rend="align(center) format(italic)">Ruffs and Reefs.</head>
+               <p>Draw them, and truss them cross-legged, as you do snipes, and spit them the same
+                  way; lay the, upon a buttered toast, pour good gravy into the dish, and serve them
+                  up hot. </p>
+            </div>
+         </div>
+         <div type="pastry">
+            <pb n="117"/>
+            <fw type="page_number" place="top right">117</fw>
+            <fw type="running_header" place="top center" rend="caps">The Family Cookery.</fw>
+            <lb/>
+            <div type="recipe">
+               <head rend="align(center) format(italic)">A Spanish Cake.</head>
+               <p>Take twelve eggs, three quarters of a pound of the best moist sugar, mill them in
+                  a chocolate mill till they are all of a lather; then mix into one pound of flour,
+                  half a pound of pounded almonds, two ounces of candied orange peel, two ounces of
+                  citron, four large spoonfuls of orange or rose water, half an ounce of cinnamon,
+                  and a glass of sack. It is best when baked in a slow oven. </p>
+            </div>
+            <div type="recipe">
+               <head rend="align(center) format(italic)">Portugal Cake.</head>
+               <p>Put a pound of fine sugar, a pound of fresh butter, five eggs, and a little mace
+                  beaten, into a board pan; beat it with your hands till it is very light, and looks
+                  curdling;... </p>
+            </div>
+            <pb n="118"/>
+            <fw type="page_number" place="top left">118</fw>
+            <fw type="running_header" place="top center" rend="caps">The Family Cookery.</fw>
+            <lb/>
+            <div type="recipe">
+               <head rend="align(center) format(italic)">Dutch Cakes.</head>
+               <p>TAKE five pounds of flour; two ounces of carraway seeds, half a pound of sugar,
+                  and something more than a pint of milk; put into it three quarters of a pound of
+                  but-ter; make a hole in the middle of the flour, and put in a full pint of good
+                  ale yeast pour in the butter and milk, and make these into a paste, letting it
+                  stand a quarter of an hour before the fire to rise; then mould it, and roll it
+                  into cakes pretty thin, prick them all over pretty much, or they will blister, and
+                  bake them a quarter of an hour.</p>
+            </div>
+            <div type="recipe">
+               <head rend="align(center) format(italic)">Shrewsbury Cakes.</head>
+               <p>TAKE one pound of sugar, three pounds of the finest flour, a nutmeg grated, and
+                  some cinnamon well beaten; the sugar and spice must be sifted into the flour, wet
+                  it with three eggs, and as much melted butter as will make it of a good thickness
+                  to roll into paste; mould it well and roll it; cut it into what shape you please;
+                  perfume the cakes, and prick them before they go into the oven.</p>
+            </div>
+            <div type="recipe">
+               <head rend="align(center) format(italic)">Marlborough Cakes.</head>
+               <p>TAKE eight eggs, yolks and whites, beat and strain them, and put to them a pound
+                  of sugar beaten and and sifted; beat these three quarters of an hour together,
+                  then put in three quarters of a pound of flour well dried, and two ounces of
+                  carraway seeds; beat all well together, and bake them in broad tin pans, in a
+                  brisk oven.</p>
+            </div>
+            <div type="recipe">
+               <head rend="align(center) format(italic)">Queen Cakes.</head>
+               <p>TAKE A pound of sugar beat fine, pour in the yolks and whites of two eggs, half a
+                  pound of butter, a little rose water, six spoonsful of warm cream, a pound of
+                  currants, and as much flour as will make it up; stir them well together, and put
+                  them into your patty pans, being well buttered; bake them in an oven, almost as
+                  hot as for bread, for half an hour, then take them out and glaze <pb n="119"/><fw
+                     type="page_number" place="top right">119</fw>
+                  <fw type="running_header" place="top center" rend="caps">The Family
+                  Cookery.</fw><lb/>them, and let them stand but a little after the glazing is on,
+                  to rise.</p>
+            </div>
+            <div type="recipe">
+               <head rend="align(center) format(italic)">Uxbridge Cakes.</head>
+               <p>TAKE a pound of wheat flour, seven pounds of currants, half a nutmeg, and four
+                  pounds of butter; rub your but- ter cold well among the meal. Dress the currants
+                  very well in the flour, butter, and seasoning, and knead it with so much good new
+                  yeast as will make it into a pretty high paste. After it is kneaded well together,
+                  let it stand an hour to rise. You may put half a pound of paste in each cake.</p>
+            </div>
+         </div>
+         <div type="recipes_for_the_sick">
+            <pb n="150"/>
+            <fw type="page_number" place="top left">150</fw>
+            <fw type="running_header" place="top center" rend="caps">The Family Cookery.</fw>
+            <lb/>
+            <div type="recipe">
+               <head rend="align(center) format(italic)">Calf's Feet Broth.</head>
+               <p>BOIL two calf's feet with two ounces of veal, two of beef, piece of undercrust,
+                  two or three blades of mace, half a nutmeg sliced, and salt, in three quarts of
+                  water, reduced to half; strain, and take off the fat, Sheep's trotters are
+                  excellent done the same way.</p>
+            </div>
+            <div type="recipe">
+               <head rend="align(center) format(italic)">Eel Broth</head>
+               <p>AFTER cleaning half a pound of small eels, set them on the fire, with a quart of
+                  water, a small onion, and a few pepper corns; simmer till the eels are broken, and
+                  the broth good; add salt.</p>
+            </div>
+            <div type="recipe">
+               <head rend="align(center) format(italic)">Tapioca Jelly.</head>
+               <p>WASH the tapioca in three or four waters. Soak it in fresh water five hours, and
+                  simmer in the same till quite clear. Add lemon juice, wine and sugar.</p>
+            </div>
+            <div type="recipe">
+               <head rend="align(center) format(italic)">Chicken Panada.</head>
+               <p>Boil a chicken till three parts done, in a quart of water, take off the skin, cut
+                  the white meat off when cold, and put it into a mortar; pound it to a paste with a
+                  little of the water it was boiled in, season with salt, grate in nut- meg, and a
+                  small bit of lemon peel. Boil gently for a few minutes; it should be such as you
+                  can drink, though tolerably thick. This is exceedingly nutritious, given in small
+                  quantities.</p>
+            </div>
+            <div type="recipe">
+               <head rend="align(center) format(italic)">Panada.</head>
+               <p>Put a little water in a saucepan with a glass of wine sugar, nutmeg, and lemon
+                  peel, crumbs of bread. The moment it boils, put the bread in, and let it boil
+                  fast. When of a proper thickness to drink, take it off. It is very good with a
+                  little rum, and a bit of butter instead of the wine. </p>
+            </div>
+            <div type="recipe">
+               <head rend="align(center) format(italic)">Eggs.</head>
+               <p>An egg broken into a cup of tea, or beaten up and <pb n="151"/><fw
+                     type="page_number" place="top right">151</fw>
+                  <fw type="running_header" place="top center" rend="caps">The Family
+                  Cookery.</fw><lb/>mixed with a basin of milk, makes a very nutritious breakfast. </p>
+               <p>An egg divided, and the yolk and the white beaten separately, then mixed with a
+                  glass of wine, will afford two very wholesome draughts, and be much better than
+                  when taken together.-Beat up a new laid egg, and mix it with a quarter of a pint
+                  of new milk warmed, a spoonful of capillaire, one of rose water, and a little
+                  nutmeg. It should not be warmed after the egg is put in. Take it the first, and
+                  last thing. </p>
+            </div>
+            <div type="recipe">
+               <head rend="align(center) format(italic)">Arrow Root.</head>
+               <p>THIS mixed with milk, and sweetened, is very nutri- ons; but it should be the best
+                  sort, to be certain of which it should be had from Apothecaries' Hall, as many
+                  things are substituted by retail dealers, which have been known to have had a bad
+                  effect. </p>
+            </div>
+            <div type="recipe">
+               <head rend="align(center) format(italic)">Isinglass.</head>
+               <p>BOIL an ounce of isinglass shavings with forty Jamaica peppercorns, and a crust of
+                  bread in a quart of water, simmer to a pint, and strain it off. </p>
+               <p>This makes a very pleasant jelly; it will keep well, and may be taken in wine and
+                  water, milk, tea, soup, or whatever may be preferred. </p>
+            </div>
+            <div type="recipe">
+               <head rend="align(center) format(italic)">White Pot.</head>
+               <p>BEAT up eight eggs, leaving out half the whites, with a little rose water, nutmeg,
+                  and a quarter of a pound of sugar. Cut a roll or small loaf into thin slices, and
+                  pour the milk and eggs over them. Put a piece of butter on the top, bake it for
+                  half an hour, and it will be fit for use. </p>
+            </div>
+            <div type="recipe">
+               <head rend="align(center) format(italic)">Bread Soup.</head>
+               <p>PUT a quart of water on the fire, with as much dry crust of bread cut to pieces as
+                  the top of a roll, (the drier the better) and a bit of butter. Boil, beat it with
+                  a spoon, and keep boiling till the bread and water are mixed; sea. son it with
+                  salt: it is very good for a weak stomach.</p>
+            </div>
+            <div type="recipe">
+               <head rend="align(center) format(italic)">Water Gruel.</head>
+               <p>PUT a pint of water on the fire. Mix in a basin a large <pb n="152"/><fw
+                     type="page_number" place="top left">152</fw>
+                  <fw type="running_header" place="top center" rend="caps">The Family
+                  Cookery.</fw><lb/>spoonful of oatmeal with a little water; when the water boils,
+                  stir in the oatmeal, let it boil up three or four times, but be careful it does
+                  not boil over. Strain it through a sieve, salt, and put in a piece of butter. Stir
+                  it about with a spoon till the butter is all melted, and it will be fine and
+                  smooth. Sugar, or a spoonful of wine, &amp;c. may occasionally be added. </p>
+            </div>
+            <div type="recipe">
+               <head rend="align(center) format(italic)">Barley Water. </head>
+               <p>PUT a quarter of a pound of pearl barley to two quarts of water. When it boils,
+                  strain it very clean, boil half away, and then strain it off. Add two spoonfuls of
+                  white wine, and sweeten to taste.</p>
+            </div>
+            <div type="recipe">
+               <head rend="align(center) format(italic)">Caudle.</head>
+               <p>MAKE A smooth gruel of half grits; when well boiled, strain, and stir it now and
+                  then till cold. When to be used, add sugar, wine, lemon peel, and nutmeg. Some
+                  like a spoonful of brandy besides the wine; others like le- mon juice, but this
+                  must depend on taste. </p>
+            </div>
+            <div type="recipe">
+               <head rend="align(center) format(italic)">Rich Caudle.</head>
+               <p>WHEN the water boils, pour into it some grated rice, mixed with a little cold
+                  water; when of a proper consistence, add sugar, lemon peel, and cinnamon, and a
+                  glass of brandy to a quart. Boil all smooth together. </p>
+            </div>
+            <div type="recipe">
+               <head rend="align(center) format(italic)">Brown Caudle.</head>
+               <p>MAKE A gruel with six spoonsful of oatmeal, and strain it. Then add a quart of
+                  malt liquor, not bitter; boil, sweeten, and add half a pint of white wine; either
+                  with spices or not, as may be preferred.</p>
+            </div>
+            <div type="recipe">
+               <head rend="align(center) format(italic)">Sago.</head>
+               <p>SOAK it in cold water one hour, pour it off, and wash it; add more water, and
+                  simmer gently till the sago is clear, with lemon peel and spice, if approved. Add
+                  wine and su- gar, and boil all up together. </p>
+            </div>
+            <div type="recipe">
+               <head rend="align(center) format(italic)">Ground Rice Milk.</head>
+               <p>RUB smooth a spoonful of ground rice, with three pints of milk, add cinnamon,
+                  lemon peel, and nutmeg. Sweeten to your taste. </p>
+            </div>
+            <pb n="153"/>
+            <fw type="page_number" place="top right">153</fw>
+            <fw type="running_header" place="top center" rend="caps">The Family Cookery.</fw>
+            <lb/>
+            <div type="recipe">
+               <head rend="align(center) format(italic)">Mustard Whey.</head>
+               <p>TURN half a pint of boiling milk with a table spoonful of made mustard. Strain the
+                  whey from the curd, and drink it in bed. This will give a glowing warmth; the whey
+                  thus conveying mustard into the constitution.</p>
+               <p>This has been known to be very efficacious in nervous affections, as well as the
+                  palsy. </p>
+            </div>
+            <div type="recipe">
+               <head rend="align(center) format(italic)">A very refreshing drink.</head>
+               <p>Pour a table spoonful of capillaire, and one of vinegar into a tumbler of cold
+                  spring water. </p>
+            </div>
+            <div type="recipe">
+               <head rend="align(center) format(italic)">Butter Milk. </head>
+               <p>MILK a cow into a small churn; when it has stood about ten minutes begin churning,
+                  and continue till the flakes of butter swim about pretty thick, and the milk,
+                  discharged of all the greasy particles, appears thin and blue. Strain it through a
+                  sieve, and drink of it very fre-quently. </p>
+               <p>It should form the whole of the patient's drink; the food should be biscuits and
+                  rusks, in every way and sort; ripe and dried fruits of various kinds, where a
+                  decline is apprehended. </p>
+            </div>
+            <div type="recipe">
+               <head rend="align(center) format(italic)">Ale Posset. </head>
+               <p>Put a small piece of bread into a pint of milk, and set it over the fire. Put
+                  nutmeg and sugar into a pint of ale, warm, and when your milk boils, pour it upon
+                  the ale. Let it stand a few minutes to clear, and it will be fit for use. </p>
+            </div>
+            <div type="recipe">
+               <head rend="align(center) format(italic)">White Wine Whey. </head>
+               <p>BOIL half a pint of new milk; as soon as it boils up pour in as much white wine as
+                  will turn, and make it look clear; boil it up, set the saucepan aside till the
+                  curd sub- sides, and do not stir it. Pour the whey off, and add to it half a pint
+                  of boiling water, and a bit of white sugar. The whey will thus be cleared of milky
+                  particles, and may be made as weak as you chuse. Cheese whey is a very whole- some
+                  drink, particularly if the cows have fresh herbage. </p>
+               <p>Whey may be made of vinegar or lemon; and, when clear, diluted with boiling water,
+                  and a little sugar. This is less heating than wine, and if required to excite
+                  perspiration, answers quite as well.</p>
+            </div>
+         </div>
+         <div type="bee_management">
+            <pb n="184"/>
+            <fw type="page_number" place="top center">184</fw>
+            <lb/>
+            <head rend="align(center) case(caps)">The Management of Bees.</head>
+            <p>Bees, whether we consider them as beneficial to the poor, from the very trivial
+               expence at which they are kept, and the sure returns they make, or as creatures which
+               produce us a luxurious treat, are equally worthy of our consideration.</p>
+            <p>The hives should be placed in such a manner as to face the south, and sufficiently
+               near the house, to watch them, but so situated as not to be exposed to unpleasant
+               smells, or too much noise. If near a running stream, so much the better, but if not,
+               place some shallow troughs of water near them, with some small stones in it for them
+               to pitch on–for water is absolutely necessary to their well being. Herbs, especially
+               thyme, should be plentifully sown in the garden where they are kept: furze, broom,
+               clover, and heath, are also excellent for bees.</p>
+            <p>Straw hives are the best, because they keep out the cold better than any others, and
+               are not liable to be over heated by the rays of the sun. Their cheapness also renders
+               their purchase easy.</p>
+            <p>Persons designing to keep bees, should make their purchase at the latter part of the
+               year, at which time they are cheapest. The hives should be full of combs, and well
+               stored with bees. The purchaser should inspect the combs, and select the whitest,
+               which are always the product of that season; and when the combs are very dark, that
+               hive should be rejected, because the bees are old.</p>
+            <p>Bees should never be bought during the Summer, or, if purchased, should on no account
+               be removed from their native place till the Autumn.</p>
+            <p>Bees generally swarm in April and May, but earlier or later according to the warmth
+               of the season. They rarely swarm before ten o'clock in the morning, or later than
+               three in the afternoon. If the swarm fly too high, throw some sand amongst them,
+               which will cause them to de-<pb n="185"/><fw type="page_number" place="top right"
+                  >185</fw>
+               <fw type="running_header" place="top center" rend="caps">The Family
+               Cookery.</fw><lb/>scend, and when they settle, they should be immediately hived, lest
+               they should again take wing.</p>
+            <p>The hive should not be immediately placed on the stool where it is to remain, but
+               should be suffered to stand near the place where the bees were swept into it, till
+               the evening, and shaded with some boughs.</p>
+            <p>Bees are torpid during a great part of the winter, but revive on sunny days, in
+               consequence of which, a little food supports them. Every hive should therefore be
+               weighed at the end of Autumn, and each ought then to weigh twenty pounds, but should
+               any weigh less, that hive must be occasionally fed with honey, or sugar and water put
+               in small troughs made with elder.</p>
+            <p>Bees are generally taken in September, for which purpose a hole is dug in the earth,
+               and a rag dipt in melted brimstone, fastened to the end of a stick, is stuck in the
+               hole so prepared. Then set it on fire, and instantly place the hive over it,
+               observing to throw the earth up all round, to prevent the smoke from escaping.</p>
+            <p>In fifteen or twenty minutes, the bees will be destroyed.</p>
+            <p>The valuable creatures thus destroyed may, however, be preserved, by using boxes
+               instead of hives; by which method two boxes of honey may be taken during the summer
+               from one colony, each weighing forty pounds, and yet a sufficient supply may be left
+               for the winter support of the bees in this manner preserved from destruction.</p>
+            <p>Consequently, it appears that this plan combines humanity with great profit, to which
+               motives we may add the pleasure of seeing them at work, and also the trouble which is
+               saved during the swarming time.</p>
+            <p>The bees thus secured, are also much more effectually screened from wet and cold,
+               from mice, and other vermin.</p>
+            <p>The boxes should be made of deal, which, from its spongy nature, sucks up the breath
+               of the bees sooner than a more solid wood would do. Yellow dram deal, well seasoned,
+               is the best; and an octagon form is preferable to a square. The boxes should be ten
+               inches in depth, and fourteen in breadth, with a small glass window behind, a thin
+               deal cover on brass hinges, and a button to shut it with.</p>
+            <p>It will be of material service, when you intend to keep bees, to plant a great number
+               of gooseberry and currant <pb n="186"/><fw type="page_number" place="top left"
+                  >186</fw>
+               <fw type="running_header" place="top center" rend="caps">The Family
+               Cookery.</fw><lb/>trees, on the blossoms of which they will find a large quantity of
+               food.</p>
+            <p>If bees are suffered to continue in one hive more than four years, they will
+               degenerate both in number and strength.</p>
+         </div>
+         <div>
+            <figure>
+               <graphic url="IMG_4512.jpg"/>
+               <figDesc>The figure depicts a historical diagram of a formal dinner table layout.
+                  Divided into a first and second course with labeled dishes arranged symmetrically
+                  around a central dish, the first course centers around Green Pea Soup and the
+                  second on Apricot Puffs, with a variety of meats, vegetables, and desserts
+                  structured around them. </figDesc>
+            </figure>
+         </div>
+         <div type="bills_of_fare">
+            <pb n="197"/>
+            <fw type="page_number" place="top right">197</fw>
+            <fw type="running_header" place="top center" rend="caps">The Family Cookery.</fw>
+            <lb/>
+            <head rend="caps">Bills of Fare</head>
+            <head rend="caps">For Every Month In The Year.</head>
+            <div type="bill">
+               <head rend="caps">In January.</head>
+               <head rend="caps">Dinner.</head>
+               <p>Beef soup, made of brisket of beef; and the beef served up in the dish. Turkey and
+                  chine roasted, with gravy and onion sauce; mince pies.</p>
+               <p>Or, achbone of beef boiled, and carrots and savoys <pb n="198"/><fw
+                     type="page_number" place="top left">198</fw>
+                  <fw type="running_header" place="top center" rend="caps">The Family
+                  Cookery.</fw><lb/>with melted butter; ham and fowls roasted, with rich gravy;
+                  tarts.</p>
+               <p>Or, vermicelli soup; fore quarter of lamb, and salad in season; fresh salmon, with
+                  smelts fried, and lobster sauces; mince pies.</p>
+            </div>
+            <div>
+               <head rend="caps">Supper.</head>
+               <p>Chicken fricaseed; wild ducks, with rich gravy sauce; piece of sturgeon or brawn,
+                  or minced pies.</p>
+               <p>Or, a hare with a pudding in its belly, and a strong gravy and claret sauce; hen
+                  turkey boiled with oyster sauce and onion sauce; brawn or mince pies.</p>
+            </div>
+            <div type="bill">
+               <head rend="caps">In February.</head>
+               <head rend="caps">Dinner.</head>
+               <p>Chine or saddle of mutton roasted, with pickles; calf's head boiled and grilled,
+                  garnished with broiled slices of bacon, and with brains mashed with parsley and
+                  butter, salt, pepper, and a little vinegar, the tongue slit and laid upon the
+                  brains; a boiled pudding.</p>
+               <p>Or, ham, and fowls roasted, with gravy sauce, leg of lamb boiled with spinach.</p>
+               <p>Or, a piece of fresh salmon, with gravy sauce, and garnish with fried smelts and
+                  flounders; chickens roasted with asparagus, with gravy and plain butter.</p>
+               <p>Or, Scotch collops, ducklings with rich gravy; mince pies.</p>
+               <p>Or, fried soals with shrimp sauce; fore quarter of lamb roasted, with mint sauce;
+                  dish of tarts and custards.</p>
+            </div>
+            <div type="bill">
+               <head rend="caps">In March.</head>
+               <head rend="caps">Dinner.</head>
+               <p>Roast beef, and horseradish to garnish the dish; salt fish, with egg sauce, and
+                  potatoes or parsnips, with melted butter; pease soup.</p>
+               <p>Or, ham, and fowls roasted; marrow pudding.</p>
+               <p>Or, leg of mutton boiled, with turnips and caper sauce; cod boiled, with oyster
+                  sauce, and garnished with horseradish; a bread pudding.</p>
+            </div>
+            <pb n="199"/>
+            <fw type="page_number" place="top right">199</fw>
+            <fw type="running_header" place="top center" rend="caps">The Family Cookery.</fw>
+            <lb/>
+            <div type="bill">
+               <head rend="caps">Supper.</head>
+               <p>Scolloped or fried oysters; leg of lamb, with spinach: tars and fruit.</p>
+               <p>Fricasee of cocks' combs, lambs' stones, and sweet breads; pigeon pie and marrow
+                  pudding.</p>
+            </div>
+            <div type="bill">
+               <head rend="caps">In April.</head>
+               <head rend="caps">Dinner.</head>
+               <p>Ham and chickens roasted, with gravy sauce; a piece of boiled beef, and carrots
+                  and greens.</p>
+               <p>Or, a roasted shoulder of veal stuffed, and melted butter: a leg of pork boiled,
+                  and pease pudding.</p>
+               <p>Or, a dish of fish, (as in season); roast beef garnished with horseradish, and
+                  plumb pudding.</p>
+            </div>
+            <div type="bill">
+               <head rend="caps">Supper.</head>
+               <p>Fricasee of lambs' stones and sweetbreads, or sucking rabbits; roasted pigeons and
+                  asparagus.</p>
+            </div>
+            <div type="bill">
+               <head rend="caps">In May.</head>
+               <head rend="caps">Dinner.</head>
+               <p>Beef soup, with herbs well boiled; fillet of veal well stuffed and roasted; a ham
+                  boiled.</p>
+               <p>Or, rump of beef salted and boiled, with a summer cabbage; fresh salmon boiled,
+                  and friend smelts to garnish the dish, with lobster or shrimp sauce.</p>
+            </div>
+            <div type="bill">
+               <head rend="caps">In June.</head>
+               <head rend="caps">Dinner.</head>
+               <p>Leg of grass lamb boiled with capers, carrots, and turnips; shoulder or neck of
+                  venison roasted, with rich gravy and claret sauce; marrow pudding.</p>
+               <p>Or, a haunch of venison roasted, with rich gravy and claret sauce; tarts.</p>
+            </div>
+            <div type="bill">
+               <head rend="caps">Supper.</head>
+               <p>Fricasee of young rabbits, roast fowls and gravy sauce; gooseberry tart.</p>
+            </div>
+            <pb n="200"/>
+            <fw type="page_number" place="top left">200</fw>
+            <fw type="running_header" place="top center" rend="caps">The Family Cookery.</fw>
+            <lb/>
+            <div type="bill">
+               <head rend="caps">In July.</head>
+               <head rend="caps">Dinner.</head>
+               <p>Green goose, with gravy sauce; neck of veal boiled, with bacon and greens.</p>
+               <p>Or, roasted pig, with proper sauce of gravy and brains pretty well seasoned;
+                  mackerel boiled, with melted butter and herbs; green peas.</p>
+               <p>Or, mackerel boiled, with melted butter and herbs; fore-quarter of lamb, with
+                  salad of coss lettuce, &amp;c.</p>
+            </div>
+            <div type="bill">
+               <head rend="caps">Supper.</head>
+               <p>Chickens roasted, with gravy or egg sauce; lobsters or prawns: green goose.</p>
+               <p>Or, stewed carp, ducklings, with gravy sauce, and peas.</p>
+            </div>
+            <div type="bill">
+               <head rend="caps">In August.</head>
+               <head rend="caps">Dinner.</head>
+               <p>Ham, and fowls roasted, with gravy sauce; beans.</p>
+               <p>Or, neck of venison, with gravy and claret sauce; fresh salmon, with lobster
+                  sauce; apple pie hot and buttered.</p>
+               <p>Or, beeg a-la-mode; green peas: haddock boiled, and fried soals or flounders to
+                  garnish the dish.</p>
+            </div>
+            <div type="bill">
+               <head rend="caps">Supper.</head>
+               <p>White fricasee of chickens; green peas; ducks roasted, with gravy sauce.</p>
+               <p>Or, chickens or pigeons roasted, with asparagus; artichokes, with melted
+                  butter.</p>
+            </div>
+            <div type="bill">
+               <head rend="caps">In September.</head>
+               <head rend="caps">Dinner</head>
+               <p>Green pea soup; breast of veal roasted; boiled plain pudding.</p>
+               <p>Or, leg of lamb boiled, with turnips, spinach, and caper sauce; goose roasted,
+                  with gravy, mustard, and apple sauce, and pigeon pie.</p>
+            </div>
+            <pb n="201"/>
+            <fw type="page_number" place="top right">201</fw>
+            <fw type="running_header" place="top center" rend="caps">The Family Cookery.</fw>
+            <lb/>
+            <div type="bill">
+               <head rend="caps">Supper.</head>
+               <p>Boiled pullets, with oyster sauce, greens, and bacon; dish of fried soals.</p>
+               <p>Or, a leveret, with gravy sauce; wild ducks, with gravy sauce, and onion sauce:
+                  apple pie.</p>
+            </div>
+            <div type="bill">
+               <head rend="caps">In October.</head>
+               <head rend="caps">Dinner.</head>
+               <p>Cod's head, with shrimp and oyster sauce; knuckle of veal and bacon, and
+                  greens.</p>
+               <p>Or, leg of mutton boiled, with turnips and caper sauce; Scotch collops; fresh
+                  salmon boiled, with shrimp and anchovy sauce.</p>
+            </div>
+            <div type="bill">
+               <head rend="caps">Supper.</head>
+               <p>Wild ducks, with gravy sauce; scolloped oysters; mince pies.</p>
+               <p>Or, fried smelts, with anchovy sauce; boiled fowl, with oyster sauce; mince pies
+                  or tarts.</p>
+            </div>
+            <div type="bill">
+               <head rend="caps">In November.</head>
+               <head rend="caps">Dinner.</head>
+               <p>A roasted goose, with gravy and apple sauce, and mustard; cod's head, with oyster
+                  sauce; mince pies.</p>
+               <p>Or, roast tongue and udder, roast fowls, and pigeon pie.</p>
+            </div>
+            <div type="bill">
+               <head rend="caps">Supper.</head>
+               <p>Stewed carp; calf's head hashed; mince pies.</p>
+            </div>
+            <div type="bill">
+               <head rend="caps">In December.</head>
+               <head rend="caps">Dinner.</head>
+               <p>Ham and fowls roasted, with greens and gravy sauce; gravy soup; fresh salmon,
+                  garnished with whiting or trout, fried, and anchovy sauce.</p>
+            </div>
+            <div type="bill">
+               <head rend="caps">Supper.</head>
+               <p>Brawn; pullets boiled, and oyster sauce; mince pies.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="endnotes">
+            <!-- n1/pigeons is on page 36 -->
+            <note xml:id="n1" type="editorial" target="#enviroliteracy-pigeons">Pigeons have been a
+               common food source in Western cultures for centuries, only changing with the rise of
+               urbanisation during the 19th and 20th centuries. The large populations in cities
+               became associated with poor sanitation and disease. At the same time, the rise in
+               agriculture, particularly chicken farming, made other meats cheaper and more readily
+               available. Pigeons required more specialised care and smaller-scale operations, and
+               thus became more expensive in comparison.</note>
+            <!-- n2/shrewsbury and n3/marlborough are on page 118 -->
+            <note xml:id="n2" type="editorial" target="#duff-cakes-regional-traditional">Shrewsbury
+               is a small town in the county of Shropshire, England, near the border between England
+               and Wales. Thomas Plimmer, who opened a bakery in Shrewsbury in 1760, claims his
+               recipe for Shrewsbury Cakes as the original; a recipe which was acquired from James
+               Palin, who also owned a bakery in Shrewsbury. That said, the first known references
+               to Shrewsbury Cakes date back to 1602 in several manuscripts and books.</note>
+            <!-- n3 and n4 still need research! I just haven't found any sources yet. I'm requesting a couple books from the library -Birdie (I'll also add @target to these) -->
+            <note xml:id="n3" type="editorial">Marlborough Cakes</note>
+            <!-- n4/uxbridge will be on page 119 -->
+            <note xml:id="n4" type="editorial">Uxbridge Cakes</note>
+            <!-- n5 is on page 150 and should be attached to the heading/Recipes for the Sick -->
+            <note xml:id="n5" type="editorial" target="#smith-medicinal-food">It was common for
+               cookbooks to include a section for the sick in and around the 19th century. There was
+               a cultural belief that eating the right foods was enough to cure someone of their
+               ailments, rather than medicinal practices. It ultimately stems back to humoralism, as
+               invented by Hippocrates and Galen. The idea was that the body has four humours;
+               choler, sanguine, phlegm, and melancholy. Foods also have these humours. Health is
+               achieved by balancing these four humours, which could be done by eating the right
+               proportions of certain foods.</note>
+            <!-- n6/isinglass is on page 151 -->
+            <note xml:id="n6" type="editorial" target="#mw-isinglass">Isinglass is a
+               semitransparent, whitish gelatin prepared from the swim bladders of fishes,
+               particularly sturgeons. It is typically used as a clarifying agent in jellies and
+               glue.</note>
+            <!-- n7/caudle is on page 152 -->
+            <note xml:id="n7" type="editorial" target="#mw-caudle">Caudle is a drink, usually made
+               from warm ale or wine mixed with bread or gruel, eggs, sugar, and spices.</note>
+         </div>
+         <div type="bibliography">
+            <head>Bibliography</head>
+            <listBibl>
+               <bibl xml:id="house-family-cookery" type="book"> ---> intro <author>
+                     <surname>House</surname>
+                     <forename>R.</forename>
+                  </author>
+                  <title level="m">The Family Cookery, Combining Elegance and Economy, with Various
+                     Receipts</title>
+                  <publisher>Rooke Books</publisher>
+                  <date>n.d.</date>
+                  <ptr
+                     target="https://www.rookebooks.com/the-family-cookery-combining-elegance-and-economy-with-various-receipts"
+                  />
+               </bibl>
+               <bibl xml:id="enviroliteracy-pigeons" type="webpage"> ---> n1 <author>
+                     <surname>Enviroliteracy Team</surname>
+                     <forename/>
+                  </author>
+                  <title level="a">Why Did We Stop Eating Pigeons?</title>
+                  <publisher>Environmental Literacy Council</publisher>
+                  <date>11 Apr. 2025</date>
+                  <ptr target="https://enviroliteracy.org/why-did-we-stop-eating-pigeons/"/>
+               </bibl>
+               <bibl xml:id="duff-cakes-regional-traditional" type="book"> ---> n2 <author>
+                     <surname>Duff</surname>
+                     <forename>Julie</forename>
+                  </author>
+                  <title level="m">Cakes: Regional &amp; Traditional</title>
+                  <publisher>Grub Street Cookery</publisher>
+                  <date>9 Oct. 2015</date>
+                  <biblScope unit="pages">50–52</biblScope>
+                  <ptr
+                     target="https://books.google.com/books?id=ylJ2DQAAQBAJ&amp;source=gbs_navlinks_s"
+                  />
+               </bibl>
+               <bibl xml:id="smith-medicinal-food" type="entry"> ---> n5 <title level="a">Medicinal
+                     Food</title>
+                  <editor>
+                     <surname>Smith</surname>
+                     <forename>Merril D.</forename>
+                  </editor>
+                  <title level="m">The World of the American Revolution: A Daily Life
+                     Encyclopedia</title>
+                  <biblScope unit="volume">1</biblScope>
+                  <publisher>Greenwood</publisher>
+                  <date>2015</date>
+                  <biblScope unit="pages">358–360</biblScope>
+                  <ptr
+                     target="https://link.gale.com/apps/doc/CX6345700141/GVRL?u=wash_main&amp;sid=bookmark-GVRL&amp;xid=4ab7b26e"
+                  />
+               </bibl>
+               <bibl xml:id="mw-isinglass" type="webpage"> ---> n6 <author>
+                     <surname>Merriam-Webster</surname>
+                     <forename/>
+                  </author>
+                  <title level="a">Isinglass</title>
+                  <title level="j">Merriam-Webster Dictionary</title>
+                  <publisher>Merriam-Webster, Inc.</publisher>
+                  <date>n.d.</date>
+                  <ptr target="https://www.merriam-webster.com/dictionary/isinglass"/>
+               </bibl>
+               <bibl xml:id="mw-caudle" type="webpage"> ---> n7 <author>
+                     <surname>Merriam-Webster</surname>
+                     <forename/>
+                  </author>
+                  <title level="a">Caudle</title>
+                  <title level="j">Merriam-Webster.com Dictionary</title>
+                  <publisher>Merriam-Webster, Inc.</publisher>
+                  <date>n.d.</date>
+                  <ptr target="https://www.merriam-webster.com/dictionary/caudle"/>
+               </bibl>
+            </listBibl>
+         </div>
+      </back>
+   </text>
+</TEI>
