@@ -103,7 +103,7 @@
                <graphic url="10 Diagram.JPEG"/>
 		    <style>
 			    html {
-                            width: 200px;
+                            width: 50px;
                             margin: auto;                  
                     }
                 </style>
