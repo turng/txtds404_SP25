@@ -1,2 +1,22 @@
-/* Place project-specific CSS here */
+#teibpToolbox {
+    visibility: hidden;
+}
+editorial {
+}
+head {
+    font-family: Arial;
+    font-size: 36px;
+}
+body {
+  background-color: beige;
+}
 
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: times_new_roman;
+  font-size: 20px;
+}

@@ -1,0 +1,713 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Kollege Kookery Kinks</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>This edition is intended for educational and scholarly use, allowing readers to
+               explore the cultural, linguistic, and culinary history of the early 20th-century
+               Pacific Northwest.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Young Women's Christian Association</author>
+               <title>Kollege Kookery Kinks</title>
+               <publisher>University of Washington</publisher>
+               <pubPlace>Seattle</pubPlace>
+               <date>1920</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This edition presents a digitized selection from <title>Kollege Kookery
+               Kinks</title>, a 1920s cookbook published by the Young Women’s Christian Association
+               in Seattle. Our goal is to make a portion of this text accessible to contemporary
+               readers through a faithful yet readable diplomatic transcription.</p>
+
+            <p>We preserved much of the original formatting and content but normalized some visual
+               aspects to improve clarity. Specifically, we regularized capitalization (e.g., names
+               and ingredients), merged short lines into full paragraphs or complete sentences, and
+               standardized inconsistencies in layout. Original spelling and punctuation were
+               retained unless doing so obscured meaning or readability.</p>
+
+            <p>This edition focuses on two sections of the original volume, “Dainty Desserts” and
+               “Cakes”, spanning pages 30 to 37.</p>
+         </editorialDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="editorial_intro">
+            <p>Kollege Kookery Kinks is a quirky, playful cookbook produced by <ref type="note"
+                  target="#n6">the Young Women’s Christian Association (YWCA) at the University of
+                  Washington (UW)</ref>, published in 1920. It provides an array of recipes with
+               practical tips and instructions for simple meals. This text was initially meant for
+               the audience of young, collegiate women wanting to learn simple, easy recipes that
+               require no prior cooking experience. This original audience reflects young women's
+               domestic and social lives while blending with the trend of the rise of women in
+               higher education. This cookbook provides simple recipes, but is also a cultural
+               artifact representing the social lives, diets, and collective community of UW women
+               in the early 1900s.</p>
+
+            <p>Our edition of Kollege Kookery Kinks aims to provide readers with a more accessible
+               format by digitizing the text for modern readers. We prioritized preserving the
+               original text’s historical value and authenticity. Therefore, the audience of our
+               edition should be able to glimpse what the early 20th-century cooking methods and
+               diets were like. Readers can analyze and compare these recipes compiled in the 1920s
+               to modern-day recipes and diets. The readers of our edition will primarily target
+               contemporary UW students and can extend, but not limit to, researchers and UW alumni.
+               We hope that making this text digitally accessible broadens the outreach to people
+               outside the limited few who have access to UW’s Special Collections Library.</p>
+
+            <p>Editorial choices that we’ve made were made with the intent of honoring the
+               cookbook’s historical authenticity. We’ve retained the original recipes' spelling,
+               grammar, format, graphics, and additional quotes. Annotations added to the footnotes
+               provide further explanations of outdated terms or references. <ref type="note"
+                  target="#n2">The sections we’ve selected to transcribe are “Dainty Desserts” and
+                  “Cakes”</ref>. This was chosen out of the appeal for the recipes themselves, and
+               to align with the playful tone of the cookbook. Our edition of Kollege Kookery Kinks
+               provides an authentic transcription, making this resource more accessible and
+               user-friendly.</p>
+         </div>
+      </front>
+      <body>
+         <!-- Chapter: Dainty Desserts-->
+         <div type="chapter">
+            <pb n="30"/>
+            <head>Dainty Desserts</head>
+            <quote>A wilderness of sweets. — <persName>Millton</persName></quote>
+            <!-- Flower icon-->
+            <figure type="ornament" place="inline">
+               <figDesc>A floral ornament</figDesc>
+               <graphic url="flower.png"/>
+            </figure>
+
+            <!-- Recipes-->
+            <div type="recipe">
+               <head xml:id="date_pudding"><hi rend="sc">DATE PUDDING</hi></head>
+               <list>
+                  <item n="1">1 cup dates</item>
+                  <item n="2">1 cup nuts</item>
+                  <item n="3">¾ cup sugar</item>
+                  <item n="4">6 level tablespoons flour</item>
+                  <item n="5">2 level teaspoons baking powder</item>
+                  <item n="6">½ cup milk</item>
+               </list>
+               <p>Bake in moderate oven. Serve with whipped cream.</p>
+               <byline><hi rend="sc"><persName>Gertrude Elliott</persName></hi></byline>
+            </div>
+
+            <div type="recipe">
+               <head xml:id="marshmallow_delight"><hi rend="sc">MARSHMALLOW DELIGHT</hi></head>
+               <list>
+                  <item n="1">1 lb. best <ref type="note" target="#n4">marshmallows</ref></item>
+                  <item n="2">60 maraschino cherries</item>
+                  <item n="3">2. cups chopped nuts</item>
+                  <item n="4">1 pint whipping cream</item>
+                  <item n="5">Enough sugar to sweeten</item>
+               </list>
+               <p>Beat cream until thick. Cut marshmallows into small pieces with scissors and add
+                  to cream. Add cherries and nuts and all juice of cherries. Sweeten to taste.</p>
+               <byline><hi rend="sc"><ref type="note" target="#n3"><persName>Mrs. J. Allen
+                           Smith</persName></ref>.</hi></byline>
+            </div>
+
+            <div type="recipe">
+               <head xml:id="stuffed_apples"><hi rend="sc">STUFFED APPLES</hi></head>
+               <p>Hollow out the cores of good baking apples and stuff with a mixture of chopped
+                  dates, nuts and figs, and then bake them. Serve with whipped cream and a big
+                  cherry on top of each. These make a most delicious dessert served with lady
+                  fingers.</p>
+               <byline><hi rend="sc"><persName>Helen Spaulding</persName>.</hi></byline>
+            </div>
+
+            <div type="recipe">
+               <head xml:id="maple_parfait"><hi rend="sc">MAPLE PARFAIT</hi></head>
+               <list>
+                  <item n="1">1 cup maple sugar</item>
+                  <item n="2">Yolk of 6 eggs</item>
+                  <item n="3">1 pint of cream</item>
+               </list>
+               <pb n="31"/>
+               <p>Heat syrup to boiling point; pour into beaten egg yolks and the whipped cream;
+                  turn into mould and freeze. Serve with chopped brown almonds.</p>
+               <byline><hi rend="sc"><persName>Mrs. Wingate</persName>.</hi></byline>
+            </div>
+
+            <div type="recipe">
+               <head xml:id="fresh_fruit_mousse"><hi rend="sc">FRESH FRUIT MOUSSE</hi></head>
+               <p>Crush a dozen and a half ripe peaches and sweeten. Whip one quart of cream and add
+                  to the fruit. Flavor with vanilla. <ref type="note" target="#n9">Put the mixture
+                     in a mould and pack with cracked ice and salt</ref>. Change the packing three
+                  times and at the end of four hours the mousse will be frozen. Any kind of fresh
+                  fruit may be substituted.</p>
+               <byline><hi rend="sc"><persName>Elizabeth Daulton</persName>.</hi></byline>
+            </div>
+
+            <div type="recipe">
+               <head xml:id="ambrosia"><hi rend="sc">AMBROSIA</hi></head>
+               <p>Slice oranges and bananas, sprinkle with cocoanut, squeeze lemon juice over it,
+                  serve with whipped cream.</p>
+               <byline><hi rend="sc"><persName>Alice Smith</persName>.</hi></byline>
+            </div>
+
+            <div type="recipe">
+               <head xml:id="branberry_tarts"><hi rend="sc">BRANBERRY TARTS</hi></head>
+               <list>
+                  <item n="1">1 cup raisins, ground fine</item>
+                  <item n="2">1 <ref type="note" target="#n5">milk cracker</ref>, ground fine</item>
+                  <item n="3">1 lemon, juice and peeling</item>
+                  <item n="4">1 cup sugar</item>
+                  <item n="5">Butter size of an egg</item>
+                  <item n="6">2 tablespoons water</item>
+                  <item n="7">Nutmeg and cinnamon to taste</item>
+               </list>
+               <p>Boil and put into crust.</p>
+               <byline><hi rend="sc"><persName>Ruth Pepper</persName>.</hi></byline>
+            </div>
+
+            <div type="recipe">
+               <head xml:id="chocolate_puffs"><hi rend="sc">CHOCOLATE PUFFS</hi></head>
+               <p><ref type="note" target="#n10">Beat white of egg</ref> until very light; add
+                  confectioner's sugar and cocoa until a good paste. Add pinch of salt and vanilla
+                  to taste. Mould into little balls, roll in granulated sugar and place in oven for
+                  three minutes.</p>
+            </div>
+
+            <pb n="32"/>
+            <div type="recipe">
+               <head xml:id="caramel_pudding"><hi rend="sc">CARAMEL PUDDING</hi></head>
+               <list>
+                  <item n="1">2 cups brown sugar</item>
+                  <item n="2">2 cups water</item>
+                  <item n="3">2 rounding tsp. cornstarch</item>
+                  <item n="4">2 tsp. vanilla</item>
+                  <item n="5">½ cup <ref type="note" target="#n6">nut meats</ref></item>
+               </list>
+               <p>Dissolve sugar in water and bring to a boil. Add cornstarch dissolved in a little
+                  water; boil three minutes (or until clear). Remove from fire, add vanilla and nuts
+                  and put in moulds until firm. Serve with whipped cream.</p>
+               <byline><hi rend="sc"><persName>Blanche Troutman</persName></hi></byline>
+            </div>
+
+            <div type="recipe">
+               <head xml:id="angels_delight"><hi rend="sc">ANGELS DELIGHT</hi></head>
+               <list>
+                  <item n="1">1 can pineapple</item>
+                  <item n="2">½ lb. marshmallows</item>
+                  <item n="3">1 cup chopped nuts</item>
+                  <item n="4">1 cup chopped dates</item>
+               </list>
+               <p>Cut marshmallows in small pieces and soak in pineapple juice for three or four
+                  hours. Cut pineapple in small pieces, mix marshmallows, pineapple, nuts and dates
+                  together. Serve with whipped cream.</p>
+               <byline><hi rend="sc"><persName>Lillian Everett</persName>.</hi></byline>
+            </div>
+
+            <div type="recipe">
+               <head xml:id="fudge_pudding"><hi rend="sc">FUDGE PUDDING</hi></head>
+               <list>
+                  <item n="1">1 cup sugar</item>
+                  <item n="2">½ cup molasses</item>
+                  <item n="3">¼ cup hot water</item>
+                  <item n="4">½ cup sour milk</item>
+                  <item n="5">3 sq. melted chocolate</item>
+                  <item n="6">2 egg yolks</item>
+                  <item n="7">½ cup butter</item>
+                  <item n="8">1 tsp. <ref type="note" target="#n7">Soda</ref></item>
+               </list>
+               <p>Make a batter of these ingredients and bake in hot buttered muffin pans. Serve hot
+                  with whipped cream. If cream is not available serve milk sauce with individual
+                  moulds. Makes 1½ dozens.</p>
+            </div>
+
+            <div type="recipe">
+               <head xml:id="black_pudding"><hi rend="sc">BLACK PUDDING</hi></head>
+               <list>
+                  <item n="1">1 tbsp. butter</item>
+                  <item n="2">Pinch salt</item>
+                  <item n="3">1 cup flour</item>
+                  <item n="4">1tbsp. butter</item>
+               </list>
+               <pb n="33"/>
+               <p>Mix ½ cup molasses and ½ cup <ref type="note" target="#n8">sweet milk</ref>. Steam
+                  1 or 2 hours. Serve with orange sauce.</p>
+               <list>
+                  <item n="1">1 tbsp. butter</item>
+                  <item n="2">2 tbsp. flour</item>
+                  <item n="3">1 cup sugar</item>
+                  <item n="4">1 cup boiling water</item>
+                  <item n="5">1 cup cream</item>
+                  <item n="6">Juice of 1 orange</item>
+               </list>
+            </div>
+
+            <div type="recipe">
+               <head xml:id="brownies"><hi rend="sc">BROWNIES</hi></head>
+               <p>Melt 2 squares chocolate and ½ cup butter. Add 2 beaten eggs, 1 cup sugar, little
+                  vanilla and ½ cup flour, 1 pound of nuts. Spread as you do ginger bread and bake
+                  for 30 minutes. When cool cut in squares.</p>
+               <byline><hi rend="sc">M. <persName>Southard</persName>.</hi></byline>
+            </div>
+
+            <div type="recipe">
+               <head xml:id="cream_puffs"><hi rend="sc">CREAM PUFFS</hi></head>
+               <list>
+                  <item n="1">1 cup flour</item>
+                  <item n="2">½ cup butter</item>
+                  <item n="3">1 cup boiling water</item>
+                  <item n="4">2 eggs</item>
+               </list>
+               <p>Put the cup of sifted flour in the boiling water and butter. Stir briskly and take
+                  off the stove. Mix in two eggs well beaten. Stir this until it is smooth. Put in
+                  buttered muffin pans; about two tablespoons batter to one puff. Bake in a moderate
+                  oven. Fill with whipped cream, sweetened or cream custard.</p>
+               <byline><hi rend="sc"><persName>Esther R. Palmer</persName>.</hi></byline>
+            </div>
+
+            <div type="recipe">
+               <head xml:id="pineapple_compote"><hi rend="sc">PINEAPPLE COMPOTE</hi></head>
+               <list>
+                  <item n="1">1 cup rice</item>
+                  <item n="2">1 teaspoon butter</item>
+                  <item n="3">Lemon juice</item>
+                  <item n="4">Sugar</item>
+                  <item n="5">Slice of pineapple</item>
+               </list>
+               <p>Boil the rice quickly in plenty of wa-ter, drain in a sieve and dry on back of
+                  stove. Form hot rice into moulds about size of pineapples and place pineapple on
+                     <pb n="34"/>top of each. Make a sauce by adding the butter; sugar to taste, and
+                  a little lemon juice to the pineapple juice. Pour over rice and pineapple. Serve
+                  hot. </p>
+            </div>
+
+            <div type="recipe">
+               <head xml:id="spanish_cream"><hi rend="sc">SPANISH CREAM</hi></head>
+               <list>
+                  <item n="1">1 quart scalded milk</item>
+                  <item n="2">½ package gelatine</item>
+                  <item n="3">6 eggs</item>
+                  <item n="4">1 cup sugar</item>
+                  <item n="5">1 teaspoon vanilla</item>
+               </list>
+               <p>Dissolve gelatine in cold water and add to scalded milk. Beat egg yolks, add
+                  sugar, stir into milk and cook like custard. When done stir in stiffly beaten
+                  whites and add vanilla. Pour into moulds.</p>
+            </div>
+
+            <div type="recipe">
+               <head xml:id="meringues"><hi rend="sc">MERINGUES</hi></head>
+               <list>
+                  <item n="1">Whites of 2 eggs</item>
+                  <item n="2">½ cup sugar</item>
+               </list>
+               <p>Beat whites until very stiff and dry. Beat in sugar. Drop on buttered tins and
+                  bake in oven which is only slightly warm for 1¼ hours. The baking is very
+                  important. They should rise and then brown. Cut tops and fill with whipped cream
+                  and sliced bananas or fruit in season.</p>
+               <byline><hi rend="sc"><persName>Roszelle Milburn</persName>.</hi></byline>
+            </div>
+
+            <div type="recipe">
+               <head xml:id="fruit_sherbet"><hi rend="sc">FRUIT SHERBET</hi></head>
+               <p>Three cups water; 2½ cups sugar.Boil water and sugar for 15 minutes and cool.</p>
+               <list>
+                  <item n="1">3 lemons</item>
+                  <item n="2">3 oranges</item>
+                  <item n="3">3 bananas</item>
+                  <item n="4">½ cup apricots</item>
+               </list>
+               <p>Rub fruits through sieve and freeze.</p>
+            </div>
+
+            <div type="recipe">
+               <head xml:id="custard_souffle_fruit_sauce"><hi rend="sc">CUSTARD SOUFFLE (Fruit
+                     Sauce)</hi></head>
+               <list>
+                  <item n="1">3 teaspoons butter</item>
+                  <item n="2">3 teaspoons flour</item>
+                  <item n="3">1 cup milk</item>
+                  <item n="4">¼ cup sugar</item>
+                  <item n="5">4 eggs</item>
+                  <item n="6">⅛ teaspoon salt</item>
+                  <item n="7">1 teaspoon vanilla</item>
+               </list>
+               <pb n="35"/>
+               <p>Melt butter and add flour and salt. Pour in milk and stir until it thickens. Cool,
+                  then add sugar and yolks well beaten. Add vanilla and lastly whites beaten stiff
+                  and dry. Butter pan and if oven is too hot put souffle in pan of warm water. Never
+                  let water boil in pan, but add a little cold water if necessary. Bake 30 minutes
+                  in moderate oven.</p>
+            </div>
+         </div>
+
+         <pb n="36"/>
+         <!-- Chapter: Cakes -->
+         <div type="chapter">
+            <head>Cakes</head>
+            <quote>"The last taste of sweets is sweetest last." —
+               <persName>Shakespeare</persName></quote>
+            <!-- Flower icon -->
+            <figure type="ornament" place="inline">
+               <figDesc>A floral ornament</figDesc>
+               <graphic url="flower.png"/>
+            </figure>
+
+            <!-- Recipes -->
+            <div type="recipe">
+               <head xml:id="jam_cake"><hi rend="sc">JAM CAKE</hi></head>
+               <list>
+                  <item n="1">3 eggs</item>
+                  <item n="2">1 cup sugar</item>
+                  <item n="3">¾ cup butter</item>
+                  <item n="4">1½ cups flour</item>
+                  <item n="5">1 cup jam</item>
+                  <item n="6">3 tablespoons sour cream</item>
+                  <item n="7">1 teaspoonful soda</item>
+                  <item n="8">Spices of all kinds</item>
+               </list>
+               <byline><hi rend="sc"><persName>Alice Smith</persName></hi></byline>
+            </div>
+
+            <div type="recipe">
+               <head xml:id="cocoanut_drops"><hi rend="sc">COCOANUT DROPS</hi></head>
+               <list>
+                  <item n="1">1 cup sugar</item>
+                  <item n="2">1–3 cup hot water</item>
+               </list>
+               <p>Boil sugar and water until it forms a fine hair.</p>
+               <!--should it be item or list?-->
+               <p>1 lb. shredded cocoanut, 3–4 whites beaten stiff. Add syrup to beaten whites and
+                  beat thoroughly, then stir in enough cocoanut to make the mixture very stiff. Mold
+                  into balls about an inch thick. Bake on a buttered pan in a hot oven until a light
+                  brown.</p>
+               <byline><hi rend="sc"><persName>Dorothy Wade</persName></hi></byline>
+            </div>
+
+            <div type="recipe">
+               <head xml:id="sponge_cake"><hi rend="sc">SPONGE CAKE</hi></head>
+               <p>To two well beaten eggs, add 1 cup of sugar, ½ cup sifted flour. Stir well, then
+                  add another ½ cup of flour with a teaspoonful of baking powder. Just before
+                  putting in pan, add ½ cup of boiling water and flavor.</p>
+               <byline><hi rend="sc"><persName>Ione Holmes</persName></hi></byline>
+            </div>
+
+            <div type="recipe">
+               <head xml:id="wasington_pie"><hi rend="sc">WASHINGTON PIE</hi></head>
+               <list>
+                  <item n="1">1–3 cup butter</item>
+                  <item n="2">1 cup sugar</item>
+                  <item n="3">2 eggs</item>
+                  <item n="4">½ cup milk</item>
+                  <item n="5">1¾ cups flour</item>
+                  <item n="6">2½ teaspoons baking powder</item>
+               </list>
+               <pb n="37"/>
+               <p>Mix as one egg cake. Bake in round layer cake pans. Put jam or jelly between
+                  layers and sprinkle top with powdered sugar.</p>
+            </div>
+
+            <div type="recipe">
+               <head xml:id="christmas_honey_cake"><hi rend="sc">CHRISTMAS HONEY CAKE</hi></head>
+               <list>
+                  <item n="1">1½ cups citron and almond nuts chopped fine</item>
+                  <item n="2">2 cups brown sugar</item>
+                  <item n="3">3 eggs</item>
+                  <item n="4">3 cups flour</item>
+                  <item n="5">2 tablespoons honey</item>
+                  <item n="6">1½ teaspoons soda</item>
+                  <item n="7">1 teaspoon cloves</item>
+                  <item n="8">½ teaspoon allspice</item>
+                  <item n="9">½ teaspoon cinnamon</item>
+                  <item n="10">½ teaspoon ginger</item>
+                  <item n="11">¼ teaspoon nutmeg</item>
+               </list>
+               <p>Beat yolks and whites of eggs separately. Add sugar to the yolks, then add honey,
+                  flour, and the soda dissolved in a little hot water. Fold in the whites of eggs
+                  and add spices and nuts. Bake in sheets and cut in triangles. Ice with thin
+                  frosting made of sugar and water.</p>
+               <byline><hi rend="sc"><persName>Mamie Cameron</persName></hi></byline>
+            </div>
+
+            <div type="recipe">
+               <head xml:id="one_egg_cake"><hi rend="sc">ONE-EGG CAKE</hi></head>
+               <list>
+                  <item n="1">1 cup sugar</item>
+                  <item n="2">1 large tablespoon butter</item>
+                  <item n="3">1 egg</item>
+                  <item n="4">1½ cups flour</item>
+                  <item n="5">½ cup sweet milk</item>
+                  <item n="6">2 teaspoonfuls baking powder</item>
+                  <item n="7">1 teaspoonful vanilla</item>
+               </list>
+               <p>Cream the butter and sugar. Add beaten egg, mix in milk and flour slowly.</p>
+               <byline><hi rend="sc"><persName>Catherine Baxter</persName></hi></byline>
+            </div>
+
+            <div type="recipe">
+               <head xml:id="nut_loaf"><hi rend="sc">NUT LOAF</hi></head>
+               <list>
+                  <item n="1">1½ cups white flour</item>
+                  <item n="2">1½ cups graham flour</item>
+                  <item n="3">½ cup molasses</item>
+                  <item n="4">Pinch of salt</item>
+                  <item n="5">¾ cup nut meats</item>
+                  <item n="6">2 teaspoonfuls baking powder</item>
+               </list>
+               <p>Sweet milk to make soft but not thin. Let stand for ½ hour. Bake slowly in bread
+                  pan from ½ to ¾ hour.</p>
+            </div>
+
+            <pb n="38"/>
+            <div type="recipe">
+               <head xml:id="sour_cream_cookies"><hi rend="sc">SOUR CREAM COOKIES</hi></head>
+               <p>Mix together 2 cups sugar, ½ cup butter, 2 eggs well beaten, ½ cup sour milk, ½
+                  teaspoonful cinnamon and ½ teaspoonful cloves and soda. Drop by spoonfuls on
+                  buttered tins.</p>
+            </div>
+
+            <div type="recipe">
+               <head xml:id="walnut_chocolates"><hi rend="sc">WALNUT CHOCOLATES</hi></head>
+               <list>
+                  <item n="1">Whites of 3 eggs</item>
+                  <item n="2">¾ cup granulated sugar</item>
+                  <item n="3">¾ cup Baker’s grated chocolate</item>
+                  <item n="4">1 cup chopped walnut</item>
+               </list>
+               <p>Beat eggs until very stiff. Add sugar gradually; then chocolate and nuts. Drop in
+                  small teaspoonfuls on buttered paper. Bake in a moderate oven.</p>
+               <byline><hi rend="sc"><persName>Martha Davis</persName></hi></byline>
+            </div>
+
+            <div type="recipe">
+               <head xml:id="rich_chocolate_cake"><hi rend="sc">RICH CHOCOLATE CAKE</hi></head>
+               <list>
+                  <item n="1">1 ¾ cups sugar</item>
+                  <item n="2">15 tablespoons butter</item>
+                  <item n="3">3 eggs</item>
+                  <item n="4">1 ½ cups flour</item>
+                  <item n="5">2 teaspoons baking powder</item>
+                  <item n="6">¼ lb. chocolate</item>
+                  <item n="7">1 tablespoons cocoa</item>
+                  <item n="8">1 teaspoon vanilla</item>
+               </list>
+               <p>Cream butter, add sugar gradually–yolks of eggs beaten light, melt chocolate and
+                  cocoa, milk and flour (sifted with baking powder alternately) —whites of eggs
+                  beaten stiff and vanilla. Bake one hour in moderate oven. </p>
+               <byline><hi rend="sc"><persName>Miss E. I. Raitt</persName></hi></byline>
+            </div>
+
+            <div type="recipe">
+               <head xml:id="rocks"><hi rend="sc">ROCKS</hi></head>
+               <list>
+                  <item n="1">½ c. brown sugar</item>
+                  <item n="2">1 c. butter</item>
+                  <item n="3">3 eggs beaten separately</item>
+                  <item n="4">1 ½ c. raisins chopped fine</item>
+                  <item n="5">2 ½ c. flour</item>
+                  <item n="6">1 tsp. soda, dissolved in hot water</item>
+                  <item n="7">1 tsp. cinnamon</item>
+                  <item n="8">1 tsp. Vanilla</item>
+               </list>
+               <p>Drop from spoon into buttered pans. This will make fifty cakes.</p>
+            </div>
+
+            <pb n="39"/>
+            <div type="recipe">
+               <head xml:id="wafers"><hi rend="sc">WAFERS</hi></head>
+               <list>
+                  <item n="1">½ cup butter</item>
+                  <item n="2">1 cup powdered sugar</item>
+                  <item n="3">½ cup milk</item>
+                  <item n="4">1 ¾ cups flour</item>
+                  <item n="5">1 teaspoonful vanilla</item>
+                  <item n="6">½ teaspoonful salt</item>
+               </list>
+               <p>Cream butter, sugar, add other ingredients, spread on an inverted buttered pan or
+                  baking sheet and cut while warm.</p>
+            </div>
+
+            <div type="recipe">
+               <head xml:id="spice_cakes_with_dates_and_nuts"><hi rend="sc">SPICE CAKES (With Dates
+                     and Nuts)</hi></head>
+               <list>
+                  <item n="1">1 ½ cups flour</item>
+                  <item n="2">1 cup dates, cut up</item>
+                  <item n="3">1 cup boiling water</item>
+                  <item n="4">Scant teaspoonful soda</item>
+                  <item n="5">1 cup sugar</item>
+                  <item n="6">1 egg</item>
+                  <item n="7">½ cup butter</item>
+                  <item n="8">1 teaspoonful cinnamon</item>
+                  <item n="9">½ teaspoonful cloves</item>
+                  <item n="10">1 cup chopped nuts</item>
+               </list>
+               <p>Mix dates, water and soda together.</p>
+            </div>
+
+            <div type="recipe">
+               <head xml:id="aid_society_cakes"><hi rend="sc">AID SOCIETY CAKES</hi></head>
+               <p>Put into a sauce pan the following:</p>
+               <list>
+                  <item n="1">1 cup brown sugar</item>
+                  <item n="2">1 cup water</item>
+                  <item n="3">1 or 2 cups seeded raisins</item>
+                  <item n="4">1-3 cup lard</item>
+                  <item n="5">¼ grated nutmeg</item>
+                  <item n="6">1 teaspoonful ground cloves</item>
+                  <item n="7">1 teaspoonful cinnamon</item>
+                  <item n="8">Pinch of salt</item>
+               </list>
+               <p>Boil together 3 minutes; then cool. When cold add:</p>
+               <list>
+                  <item n="1">1 teaspoonful soda dissolved in hot water</item>
+                  <item n="2">2 cups flour in which ½ teaspoon baking powder has been sifted.</item>
+               </list>
+               <p>A few chopped nuts may be added if desired. Bake in a moderate oven.</p>
+            </div>
+
+            <div type="recipe">
+               <head xml:id="gingerbread_drops"><hi rend="sc">GINGERBREAD DROPS</hi></head>
+               <p>Beat two cupfuls of brown sugar with four eggs for 10 minutes; add two-third <pb
+                     n="40"/>cup water, one pint flour two teaspoons baking powder, one tablespoon
+                  ginger, one teaspoon lemon; mix into smooth spong and bake in gem pans.</p>
+            </div>
+
+            <div type="recipe">
+               <head xml:id="lady_baltimore"><hi rend="sc">LADY BALTIMORE</hi></head>
+               <p>Rub a cupful butter to a cream with two cups powdered sugar, add a cupful milk,
+                  when well mixed stir in the juice of one lemon and whip very light, then stir in
+                  alternately the stiffened whites of six eggs and four even cupfuls flour, sifted
+                  twice, with a round tsp. baking powder.</p>
+               <byline><hi rend="sc"><persName>Mrs. H. Landes.</persName></hi></byline>
+            </div>
+
+            <div type="recipe">
+               <head xml:id="angel_food_cake"><hi rend="sc">ANGEL FOOD CAKE</hi></head>
+               <list>
+                  <item n="1">Whites of 11 eggs</item>
+                  <item n="2">1 glass flour</item>
+                  <item n="3">1 teaspoonful vanilla</item>
+                  <item n="4">1 ½ glasses sugar</item>
+                  <item n="5">1 teaspoonful cream of tartar</item>
+               </list>
+               <p>Beat whites of eggs with a little salt, until stiff and dry. Sift flour and sugar
+                  three times, then add cream of tartar and sift with flour and sugar four times.
+                  Add this to the beaten whites of eggs, stirring as little as possible. Put in
+                  ungreased cake pan, and cook 40 minutes in a slow oven. Turn the pan upside down
+                  when the cake is down, and let it remain until cold.</p>
+               <byline><persName>Cassie Lawrence</persName></byline>
+            </div>
+
+            <div type="recipe">
+               <head xml:id="burned_sugar_cake"><hi rend="sc">BURNED SUGAR CAKE</hi></head>
+               <p>½ c. sugar, ½ c. butter mashed to a cream, yolks of 2 eggs well beaten, 1 cup
+                  water, 2 ½ c. flour, 2 tsp. Baking pow-der, 1.2 cup burned sugar syrup, whites of
+                  2 eggs, beaten stiff. Bake in layers. For the sugar syrup, take 1-3 c. sugar<pb
+                     n="41"/> and scorch until brown, 1-3 c. boiling water, and use ½ in the cake
+                  dough while syrup is hot, beat well. Icing—1 c. sugar mixed with ½ of burned
+                  sugar, 5 tbsp. Water, boil until it threads, pour over well beaten white of 1 egg
+                  and whip well.</p>
+               <byline><hi rend="sc"><persName>Isabella Austin.</persName></hi></byline>
+            </div>
+         </div>
+      </body>
+
+      <back>
+         <div type="endnotes">
+            <head types="notes">Notes</head>
+            <note xml:id="n1">The University of Washington Young Women’s Christian Association
+               (1895-1996) was founded in 1895 by Ella Chamberlain, the head of the UW English
+               department. It was the first women's organization on campus, and initially served as
+               a religious organization that offered Bible study, devotional gatherings, and
+               missionary work, including teaching English to Japanese immigrants in the 1910s. Over
+               the years, the organization evolved from a religious group to a feminist organization
+               that is committed to women’s health, rights, employment, racial justice, LGBTQ+
+               support, and freedom of speech. <ref type="bibl" target="#ywca1930">See YWCA
+                  records</ref>. </note>
+
+            <note xml:id="n2">Our text focuses on the "Dainty Desserts and Cakes" section of Kollege
+               Kookery Kinks, which often features recipes that require baking. In the 1920s,
+               electric ovens became increasingly common and revolutionized home baking by making it
+               more accessible and efficient. Unlike traditional wood or coal-fired ovens, electric
+               ovens offered precise temperature control and consistent heat distribution. Today’s
+               readers of this cookbook can easily follow the baking instructions using a modern
+               electric oven. <ref type="bibl" target="#grove">See Grove</ref>. </note>
+
+            <note xml:id="n3">MRS. J. ALLEN SMITH: The wife of J. Allen Smith. J. Allen Smith
+               (1860–1924) was an important figure in the early development of the University of
+               Washington's political science and economics programs, Smith Hall was named in his
+               honor. It was difficult to find information by searching the contributor’s name, but
+               the example of Mrs. J. Allen Smith shows that both students and wives of faculty
+               members contributed to this cookbook. <ref type="bibl" target="#aswt2014">See Arts
+                  &amp; Sciences Web Team</ref>. </note>
+
+            <note xml:id="n4">Best Marshmallows= Marshmallow</note>
+            <note xml:id="n5">Milk Cracker = Cracker</note>
+            <note xml:id="n6">Nut Meat = Nut </note>
+            <note xml:id="n7">Soda = Baking Soda</note>
+            <note xml:id="n8">Sweet Milk = Milk</note>
+            <note xml:id="n9">Today, however, we would typically use a freezer to chill the
+               mousse.</note>
+            <note xml:id="n10">The receipts instruct stirring or beating eggs or cream by hand, but
+               today we could use electric mixers to mix these ingredients. </note>
+
+         </div>
+
+         <div type="bibliography">
+            <listBibl>
+               <bibl xml:id="aswt2014">
+                  <author>Arts &amp; Sciences Web Team</author>
+                  <date when="2014-05-14">2014, May 14</date>
+                  <title level="a">Political science: An inauspicious beginning</title>
+                  <publisher>University of Washington Department of Political Science</publisher>
+                  <ptr
+                     target="https://www.polisci.washington.edu/news/2014/05/14/political-science-inauspicious-beginning"
+                  />
+               </bibl>
+
+               <bibl xml:id="ferguson2012">
+                  <author>
+                     <surname>Ferguson</surname>, <forename>K.</forename>
+                  </author>
+                  <date when="2012">2012</date>
+                  <title level="a">Intensifying Taste, Intensifying Identity: Collectivity through
+                     Community Cookbooks</title>
+                  <title level="j">Signs: Journal of Women in Culture and Society</title>
+                  <biblScope unit="volume">37</biblScope>
+                  <biblScope unit="issue">3</biblScope>
+                  <biblScope unit="page">695–717</biblScope>
+                  <idno type="DOI">10.1086/662697</idno>
+                  <ptr target="https://doi.org/10.1086/662697"/>
+               </bibl>
+
+               <bibl xml:id="grove">
+                  <author>
+                     <surname>Grove</surname>, <forename>S.</forename>
+                  </author>
+                  <date n="n.d.">n.d.</date>
+                  <title level="a">Baking through time: Exploring the fascinating 19th century
+                     ovens</title>
+                  <publisher>19th Century</publisher>
+                  <ptr target="https://19thcentury.us/19th-century-oven/"/>
+               </bibl>
+
+               <bibl xml:id="ywca1930">
+                  <author>Young Women&apos;s Christian Association (University of
+                     Washington)</author>
+                  <date from="1903" to="1982">1903–1982</date>
+                  <title level="m">Young Women&apos;s Christian Association (University of
+                     Washington) records</title>
+                  <idno type="collection">Collection No. 1930</idno>
+                  <publisher>University of Washington Libraries, Special Collections</publisher>
+                  <ptr target="https://archiveswest.orbiscascade.org/ark:/80444/xv26006"/>
+               </bibl>
+            </listBibl>
+         </div>
+      </back>
+   </text>
+</TEI>

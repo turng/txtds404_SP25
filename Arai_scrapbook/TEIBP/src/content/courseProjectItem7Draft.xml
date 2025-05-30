@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Selections from the Clarence T. Arai Papers</title>
+            <author>Clarence T. Arai</author>
+            <editor xml:id="MO">Marisa Oishi</editor>
+            <editor xml:id="CL">Christine Leak</editor>
+            <editor xml:id="HS">Hannah Swoffer</editor>
+            <sponsor>University of Washington Libraries, Special Collections</sponsor>
+         </titleStmt>
+         <editionStmt>
+            <p>This edition focuses on a selection of pages from Clarence T. Arai’s scrapbook held
+               in the University of Washington Special Collections.</p>
+            <p>We chose to work with a scrapbook because of the vulnerability conveyed through its
+               visual and textual features. This edition, only a small selection of pieces from the
+               full work, explores the choices Arai made in assembling his scrapbook, considering
+               how these preserved materials capture a personal experience during World War II and
+               contribute to a more holistic, human understanding of the period.</p>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Washington Student Project for TXTDS 404: Texts, Publics, and
+               Publication</publisher>
+            <pubPlace>Seattle, WA</pubPlace>
+            <date when="2025-06-06">June 6th, 2025</date>
+            <availability>
+               <p>Freely available for use.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Clarence T. Arai Papers</title>
+               <author>Clarence T. Arai</author>
+               <pubPlace>University of Washington, Special Collections Manuscripts and
+                  Archives</pubPlace>
+               <date from="1919" to="1993">1919-1993</date>
+               <idno type="oclcNo">945773039</idno>
+               <idno type="accessionNo">acc5542-001</idno>
+               <note>Box 2</note>
+               <note>This scrapbook, assembled by Clarence T. Arai, provides a perspective on his
+                  life as a Japanese American in Seattle before and during World War II. It includes
+                  correspondences, newspaper clippings, certificates, and other artifacts Arai
+                  selected to preserve.</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <tagsDecl>
+            <rendition xml:id="rend-date" scheme="css">font-family: Papyrus, fantasy; text-align:
+               right; font-style: italic;</rendition>
+            <rendition xml:id="center" scheme="css">text-align: center;</rendition>
+            <rendition xml:id="paragraphIndent" scheme="css">text-align: 2em;</rendition>
+            <rendition xml:id="titleIndent" scheme="css">padding-left: 1em; font-weight:
+               bold</rendition>
+            <rendition xml:id="clippingBox" scheme="css">border: 2px solid black; width: 260px;
+               padding: 10px; font-family: Geogria, "Times New Roman", serif; font-size: 12px;
+               line-height: 12px; line-height: 1.2; margin: auto</rendition>
+         </tagsDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="editorial_intro">
+            <p>The phrase "on paper" is an interesting one. On paper, Clarence Takeya Arai was an
+               accomplished and influential member of the Seattle community. He was the first
+               Japanese American to earn a law degree from the University of Washington and the
+               first nisei commissioned officer in the US Army Reserve. He was a founder and the
+               first president of the Japanese American Citizens League, the oldest Asian American
+               civil rights organization, as well as a Republican precinct committee member and
+               delegate to the Washington State Republican Convention. On paper, Arai and his family
+               were sent to the Puyallup Fairgrounds, and then to a concentration camp in Minidoka,
+               Idaho, when over a hundred thousand innocent Japanese Americans were incarcerated
+               during World War II. His health deteriorated there, but he continued to advocate for
+               Japanese Americans' legal rights within the camp. Three months after the war ended,
+               his son Ken died of a brain tumor. Arai gave up practicing law full time and took up
+               photography. He died less than twenty years later. </p>
+            <p>When we discovered the Clarence T. Arai papers in the University of Washington
+               Special Collections, we didn't just discover certificates and newspaper clippings
+               taped to yellowing pages that crumbled as we turned them. This was a life, a
+               collection of moments of pride and tragedy, lived in service to his community and yet
+               persecuted by his country. This was an autobiography, a telling of Arai's story
+               through the papers he decided to preserve. He had a Cocker Spaniel named Duke of Main
+               Street. His son Ken liked "hot dog sandwiches" and bus rides to Portland. On paper,
+               Arai was a lawyer, civil rights advocate, and photographer. But on paper, he was also
+               a gardener, a father, a man with dreams and indignation with the injustice he knew he
+               was living: a human.</p>
+            <p> Regrettably, we could not include every insightful artifact in Arai’s scrapbook. We
+               each chose a genre (personal correspondences, state issues, and newspaper articles)
+               and selected a few pages from that genre, maintaining original spellings and
+               punctuation to preserve authenticity. Our goal was to provide a glimpse into the
+               first-hand experiences of Japanese Americans in Washington before and during World
+               War II. Arai’s scrapbook offers a perspective unlike textbooks or documentaries,
+               providing insight on lived experiences through his personal memorabilia and
+               artifacts. By publishing this work, we hope that readers will gain a more
+               well-rounded, holistic perspective on this time period, and an awareness of Arai’s
+               life and enduring legacy. </p>
+         </div>
+         <div type="annotations"> </div>
+      </front>
+      <body>
+         <div xml:id="halfOfCityClipping" type="clippingPage" rendition="#halfOfCityClipping">
+            <div type="clippingArticle">
+               <head rendition="halfCityTitle #lineSpacing">HALF OF CITY'S</head>
+               <head rendition="#halfCityTitle #lineSpacing #titleIndent">JAPS HAVE GONE</head>
+               <head rendition="#center #lineSpacing">____________</head>
+               <p rendition="#description">Seattle's central business district gave the appearance
+                  of a city without Japanese today as the last of them from Zones No. 1 and 2, or
+                  population, departed for the assembly center in Puyallup.</p>
+               <p rendition="#description"> And the Pike Place Markets for the first time in their
+                  years of operation, did business without their myriad of Japanese-operated stalls. </p>
+               <p rendition="#description"> It is estimated that only about half the Japanese of the
+                  city have been removed but those who have gone were from areas in which many were
+                  engaged in business and where they most often met public. </p>
+               <p rendition="#description"> Those Japanese remaining in the city are restricted to
+                  movement within the area in which they live. Beginning at noon, they and all
+                  others of the Japanese race were banned from going to the central business
+                  district, the waterfront or any place in the area to the north of the city that
+                  lies west of Eastlake Avenue and Roosevelt Way, any place west of Fifth Avenue in
+                  the central area, or any place south of Jackson Street in the southern area,
+                  except for one small locality between Jackson and Dearborn Streets. </p>
+               <p rendition="#description">This ban prevents any Japanese in the farming community
+                  sur- rounding the city from delivering produce to Seattle firms personally, as
+                  Produce Row and the markets cannot be reached without passing through a restricted
+                  area.</p>
+               <p rendition="#description"> The market master of the municipal market said that not
+                  a single Japanese merchant appeared this morning, although the ban did not go into
+                  effect until noon. </p>
+               <p rendition="#description"> Operators of private markets said several Japanese
+                  renters of stalls came early this morning with produce but brought Filipinos with
+                  them to tend the stalls and left before noon. </p>
+               <p rendition="#description">No date has been set for removal of the Japanese from
+                  there</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

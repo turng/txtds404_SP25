@@ -1,6 +1,8 @@
-TEI {
+TEI{
 	background-color: white;
 	font-family:roman, 'times new roman', times, serif;
+	width:600px;
+	border:4px;
 }
 
 teiHeader{display: none;}
@@ -14,20 +16,28 @@ pb{
 
 cb{display:none;}
 
-head
-
-div[type="chapter"]{
-    
+head{
+    font-family:roman, 'times new roman', times, serif;
 }
 
-text{
-    
+head title[@type="author"]{
+    font-family:arial, helvetica, sans-serif
+}
+
+div[type="chapter"]{
+    text-transform:uppercase;
+}
+
+p{
+   font-size:14px; 
 }
 
 fw{
     text-transform:uppercase;
-    
+    text-align: center;
 }
 
-figure{
+figure p[@rend="caps"]{
+    
+    font-size:10px;
 }

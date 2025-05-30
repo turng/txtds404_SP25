@@ -1,2 +1,30 @@
-/* Place project-specific CSS here */
+.halfOfCityClipping {
+    border: 3px solid black;
+    width: 260px;
+    height: 610px;
+    padding: 5px;
+}
+
+.lineSpacing {
+    line-height: 0.1cm;
+}
+
+.halfCityTitle {
+    font-family: "Monaco", monospace;
+}
+
+.titleIndent {
+    text-indent: 10px;
+}
+
+.center {
+    text-align: center;
+}
+
+
+.description {
+    font-family: "Lucida Console", monospace;
+    font-size: 10px;
+    text-indent: 25px;
+}
 

@@ -14,17 +14,28 @@
             <editor>Paul Jason Perez</editor>
          </titleStmt>
          <publicationStmt>
-            <p>Bleak House itself is a fiction about the lives of the rich and poor in London society during the Victorian era. However, our main focus is on the advertisements appearing before and after the serialized novel. These advertisements are appealing to a certain group of consumers during the mid-Victorian era of London. From our edition, readers would be able to peek into the world of 1852 when Bleak House was
-being published as a serial. The advertisements present in Bleak House are an artifact of that time; though they were likely ignored during it, they now provide a unique window into that time period. The audience for this edition would likely be people researching this time period rather than people who want to read Bleak House as a text; this means that it would lend itself moreso to scholars rather than laypeople.</p>
+            <p>Bleak House itself is a fiction about the lives of the rich and poor in London
+               society during the Victorian era. However, our main focus is on the advertisements
+               appearing before and after the serialized novel. These advertisements are appealing
+               to a certain group of consumers during the mid-Victorian era of London. From our
+               edition, readers would be able to peek into the world of 1852 when Bleak House was
+               being published as a serial. The advertisements present in Bleak House are an
+               artifact of that time; though they were likely ignored during it, they now provide a
+               unique window into that time period. The audience for this edition would likely be
+               people researching this time period rather than people who want to read Bleak House
+               as a text; this means that it would lend itself moreso to scholars rather than
+               laypeople.</p>
          </publicationStmt>
          <sourceDesc>
             <p>
                <bibl>
                   <title>Bleak House</title>
-                  <author><ref target="#Dick">Dickens, Charles</ref>, <date type="birth">1812</date>-<date type="death">1870</date></author>
+                  <author><ref target="#Dick">Dickens, Charles</ref>, <date type="birth"
+                        >1812</date>-<date type="death">1870</date></author>
                   <respStmt>
                      <resp>illustrated by</resp>
-                     <persName xml:id="HKB">Browne, Hablot Knight, <date type="born">1815</date>-<date type="death">1882</date></persName>
+                     <persName xml:id="HKB">Browne, Hablot Knight, <date type="born"
+                           >1815</date>-<date type="death">1882</date></persName>
                   </respStmt>
                   <edition>[First edition]</edition>
                   <extent>70 pp</extent>
@@ -41,16 +52,33 @@ being published as a serial. The advertisements present in Bleak House are an ar
    <text>
       <front>
          <div type="introduction">
-            <p>
-               This edition focuses on the advertisements that appeared alongside the original <ref type="note" target="#n1">serialized publication</ref> of Bleak House written by Charles Dickens and illustrated by Hablot Knight Browne. This first edition was published in monthly parts between 1852 and 1853 and a well preserved complete set is available at the Special Collections of the University of Washington Libraries. While the novel itself has been widely studied for its plot, characters, and social commentary, the ads printed in each issue are often overlooked. These advertisements offer a lot of information about what people were buying, what they cared about, and how products and services were marketed to them. From cures for illnesses to new inventions and fashion trends, the ads show what everyday life might have looked like for mid-Victorian era of London.
-            </p>
-            <p>
-               Our approach treats each advertisement as a single unit of analysis, carefully examining its components such as images, product descriptions, catalogs, testimonials, and more. What remedies for ailments were marketed to the public 150 years ago? Do they resemble the products sold to us today? How about their fashion, do some of those trends still exists today? What can these advertisements reveal about Victorian-era society, and how might those insights still resonate with our present-day culture? These are the questions we found compelling, and we hope you, as the reader, will find them just as intriguing.
-            </p>
-            <p>
-               In creating this edition, our team chose to present a diplomatic transcription to preserve the original appearance and appeal of these advertisements as they were seen by the public. We maintained the original language and the layout of images alongside the text. In cases where words were hyphenated due to space constraints in the original print, we have standardized them into single words for clarity. We've also
-highlighted distinctive elements within the advertisements that we believe offer valuable opportunities for further analysis of print media from that era. We hope you enjoy this unique edition of Bleak House.
-            </p>
+            <p> This edition focuses on the advertisements that appeared alongside the original <ref
+                  type="note" target="#n1">serialized publication</ref> of Bleak House written by
+               Charles Dickens and illustrated by Hablot Knight Browne. This first edition was
+               published in monthly parts between 1852 and 1853 and a well preserved complete set is
+               available at the Special Collections of the University of Washington Libraries. While
+               the novel itself has been widely studied for its plot, characters, and social
+               commentary, the ads printed in each issue are often overlooked. These advertisements
+               offer a lot of information about what people were buying, what they cared about, and
+               how products and services were marketed to them. From cures for illnesses to new
+               inventions and fashion trends, the ads show what everyday life might have looked like
+               for mid-Victorian era of London. </p>
+            <p> Our approach treats each advertisement as a single unit of analysis, carefully
+               examining its components such as images, product descriptions, catalogs,
+               testimonials, and more. What remedies for ailments were marketed to the public 150
+               years ago? Do they resemble the products sold to us today? How about their fashion,
+               do some of those trends still exists today? What can these advertisements reveal
+               about Victorian-era society, and how might those insights still resonate with our
+               present-day culture? These are the questions we found compelling, and we hope you, as
+               the reader, will find them just as intriguing. </p>
+            <p> In creating this edition, our team chose to present a diplomatic transcription to
+               preserve the original appearance and appeal of these advertisements as they were seen
+               by the public. We maintained the original language and the layout of images alongside
+               the text. In cases where words were hyphenated due to space constraints in the
+               original print, we have standardized them into single words for clarity. We've also
+               highlighted distinctive elements within the advertisements that we believe offer
+               valuable opportunities for further analysis of print media from that era. We hope you
+               enjoy this unique edition of Bleak House. </p>
          </div>
       </front>
       <body>
@@ -66,7 +94,8 @@ highlighted distinctive elements within the advertisements that we believe offer
                effectually resists the powerful heat of the sun and the most violent rains, also
                obviating the stickiness and unpleasant smell peculiar to all other Waterproofs.--
                Price according to size, 40s. to 55s. ; all silk throughout, 50s. to 65s.
-               Measurement, length of coat, and size round the chest over the coat <graphic url="img/p0_3.png"/>Notice--Name &amp; address stamped inside. None others are
+               Measurement, length of coat, and size round the chest over the coat <graphic
+                  url="img/p0_3.png"/>Notice--Name &amp; address stamped inside. None others are
                genuine. Edmiston &amp; Son, 416 &amp; 69, Strand Near the Adelphi Theatre.</p>
             <p><emph rend="ac">Opinions of the press.</emph>Waterproof--<q type="testimony">The
                   lightest and most effectual, is the Siphonia, made by Edmiston &amp; Son, of 69,
@@ -81,7 +110,8 @@ highlighted distinctive elements within the advertisements that we believe offer
                   Goloshes.<graphic url="img/p0_5.png"/>Ladies' Capes, with Hoods. Do. Paletots. Air
                Cushions. Do. Pillows. Do. Beds. India Rubber Portable Folding Baths. Nursing Aprons.
                Crib Sheets.<graphic url="img/p0_6.png"/></p>
-            <p>The newly invented Swimming Gloves, Of great propelling power. <emph rend="ac">Edmiston's life-belts none should be without.</emph>Fishing and shooting boots,
+            <p>The newly invented Swimming Gloves, Of great propelling power. <emph rend="ac"
+                  >Edmiston's life-belts none should be without.</emph>Fishing and shooting boots,
                soft and pliable, require no dressing, and every description of India Rubber and
                Gutta Percha Goods, Piping, Tubing for Watering Gardens, &amp;c. Belfast--Albion
                Cloth Company. Edinbrugh--Grieve &amp; Oliver, Princes-street. Liverpool--Radcliffe
@@ -105,7 +135,8 @@ highlighted distinctive elements within the advertisements that we believe offer
                thank you for <q rend="ac">Bleak House</q> in a business point of view, because it
                affords us an opportunity of conveying to all its readers the advantages or our
                Establishment, and the principles upon which it continues to be conducted.</p>
-            <p>Many thousands of readers have, we doubt not, entered upon their tasks since even <q rend="ac"><name type="person">David Copperfield</name></q> monthly appeared,
+            <p>Many thousands of readers have, we doubt not, entered upon their tasks since even <q
+                  rend="ac"><name type="person">David Copperfield</name></q> monthly appeared,
                between his <q>green leaves,</q> and some of these readers may note with favour the
                statement we here subjoin.</p>
             <p><q>We keep for the selection of purchaser all kinds or Tea and Coffee fit for use
@@ -116,7 +147,8 @@ highlighted distinctive elements within the advertisements that we believe offer
             <p><q>We have a Patented Invention for Roasting Coffee, Cocoa, &amp;c. in Silver. By
                   this plan the ordinary evils of roasting such produce in a cylinder made of base
                   metal are avoided, whilst the cost of the produce is not increased.</q></p>
-            <p><q>We deliver by our Vans all Orders from any part of the <name type="place">Metropolitan Districts</name>, within eight miles of <name type="place">St.
+            <p><q>We deliver by our Vans all Orders from any part of the <name type="place"
+                     >Metropolitan Districts</name>, within eight miles of <name type="place">St.
                      Paul's</name>, on tho day after such orders are given.</q></p>
             <p><q>We also send into the Country, free of carriage, all Orders, if they be
                   accompanied by a remittance for payment, whether by half-notes, Post Office Order,
@@ -131,8 +163,10 @@ highlighted distinctive elements within the advertisements that we believe offer
                   One</q>, will never regret having glanced over the first page of its white paper,
                on this 1st day of May.</p>
             <p>Wishing that you may long live to give birth to heaps of <q rend="ac">Household
-                  Words</q>, and to numerous Brothers and Sisters of <q rend="ac"><name type="person">David Copperfield</name>,</q></p>
-            <closer><salute>We remain, Sir, Very respectfully, Your obedient Servants</salute><name type="organization">Dakin &amp; Company</name><location>
+                  Words</q>, and to numerous Brothers and Sisters of <q rend="ac"><name
+                     type="person">David Copperfield</name>,</q></p>
+            <closer><salute>We remain, Sir, Very respectfully, Your obedient Servants</salute><name
+                  type="organization">Dakin &amp; Company</name><location>
                   <address>
                      <street>No. 1, St. Paul's Church-yard</street>
                      <settlement>London</settlement>
@@ -144,7 +178,8 @@ highlighted distinctive elements within the advertisements that we believe offer
             <head>Works on Gardening and Botany.</head>
             <div type="ad" xml:id="paxtonFlowerGarden">
                <head rend="ac">Paxton's Flower-Garden.</head>
-               <p rend="ac">Edited by <name type="person">Dr. Lindley</name> and <name type="person">Sir Joseph Paxton</name></p>
+               <p rend="ac">Edited by <name type="person">Dr. Lindley</name> and <name type="person"
+                     >Sir Joseph Paxton</name></p>
                <p rend="ac">Each volume is illustrated by thirty-six highly finished plates and more
                   than two hundred beautiful engravings on wood.</p>
                <p>Volumes I, and II, are published. Price 33s. each, elegantly bound in cloth.</p>
@@ -153,14 +188,16 @@ highlighted distinctive elements within the advertisements that we believe offer
             </div>
             <div type="ad" xml:id="paxtonBotanicalDictionary">
                <head rend="ac">Paxton’s botanical dictionary.</head>
-               <p>Comprising the names, history, and culture of all plants known in <name type="place">Britain</name>; with a full explanation of technical terms. Crown
+               <p>Comprising the names, history, and culture of all plants known in <name
+                     type="place">Britain</name>; with a full explanation of technical terms. Crown
                   8vo, 16s.</p>
                <p>&#8757;The supplement, containing all the new plants since the first edition, may
                   be had separately, price 5s.</p>
             </div>
             <div type="ad" xml:id="theElementsOfBotany">
                <head rend="ac">The elements of botany; Structural and physiological.</head>
-               <p>With a glossary of technical terms, and numerous illustrations. By <name rend="ac" type="person">Dr. Lindley</name>. 12s. cloth.</p>
+               <p>With a glossary of technical terms, and numerous illustrations. By <name rend="ac"
+                     type="person">Dr. Lindley</name>. 12s. cloth.</p>
                <p>&#8757;The glossary may be had separately, price 5s. cloth.</p>
             </div>
             <div type="ad" xml:id="elementsOfMedAndEconBotany">
@@ -208,119 +245,498 @@ highlighted distinctive elements within the advertisements that we believe offer
                      </address>
                   </location></p>
             </div>
-         </div>  
+         </div>
+         <div type="ad" xml:id="waverleyNovels">
+            <pb n="3"/>
+            <head><hi rend="ac">Vol. I of a new library edition, uniform with the standard English
+                  authors of, The Waverly Novels,</hi></head>
+            <p><hi rend="ac">By Sir Walter Scott, Bart.</hi></p>
+            <p>Just published, in Demy 8vo., price nine shillings,</p>
+            <p>With frontispiece, by John Faed, R.S.A., Engraved by L. Stocke, and Vignette, by
+               Birket Foster, Engraved by W. Forest</p>
+            <p><hi rend="ac">To be completed in twenty-five monthly volumes.</hi></p>
+            <p>No works of imagination of the same extent have ever been received with so great
+               favour as the <hi rend="ac">Waverley novels</hi>.</p>
+            <p>Since their first publication that fewer than a <hi rend="ac">hundred and twenty
+                  thousand copies</hi> have been sold in this country, and at least as many in the
+               United states. These have been published in a great variety of modes to suit the
+               tastes of the public; but there has been long wanted an Edition in the octavo form,
+               to range with the Standard English Authors, combining the advantages of a large type
+               and portable size. This desiteratum it is proposed to supply by means of this series,
+               denominated the <hi rend="ac bold">library edition</hi>, which will consist of <hi
+                  rend="ac">twenty-five volumes</hi>, demy 8vo., to be published Monthly. The
+               printing, however, will proceed more rapidly, so that those who desire to complete
+               their Sets before the termination of the periodical issue, will have an opportunity
+               of doing so a considerable time before the <hi rend="italics">regular</hi>
+               publication of the last volume.</p>
+            <p>Each volume will contain a complete novel or novels, illustrated with the
+               Frontispiece and Vignette, painted and engraved by the most eminent artists of the
+               day. The <hi rend="ac">library edition</hi> will contain all the latest corrections
+               of the Author. </p>
+         </div>
+         <div type="ad" xml:id="childsHistoryEngland">
+            <pb n="9"/>
+            <head><hi rend="ac hugeFont">A Child's History of England</hi></head>
+            <p rend="ac"><hi rend="ac"><hi rend="bigFont">The first volume of</hi><lb/>
+                  <hi rend="hugeFont">A Child's History of England</hi><lb/><hi rend="bigFont">By
+                           <persName><forename>Charles</forename>
+                        <surname>Dickens</surname></persName>.</hi>With a frontispiece from a
+                  drawing by <persName>F. W. <surname>Topham</surname></persName>Corrected and
+                  revised from "Household Words," with a table of dates</hi></p>
+            <p>Price 3s, neatly bound in cloth</p>
+            <p><emph rend="italics">The History will be competed in Three Volumes of the same size
+                  and price.</emph></p>
+            <p><hi rend="ac">Bradbury and Evans, 11, Bouverie Street</hi></p>
+         </div>
+         <div type="ad" xml:id="magnallQuestions">
+            <head><hi rend="ac"><persName><surname>Mangnall</surname></persName>'s questions, by
+                        <persName><surname>Guy</surname></persName> and
+                        <persName><surname>Wright</surname></persName></hi></head>
+            <p>With an Historical Frontispiece and Envgravings. New Edition corrected to the Present
+               Time, by <persName>Joseph Guy</persName>, Jun., of
+                     <persName><surname>Magdalen</surname></persName> Hall, Oxford, Author of the
+               "Juvenile Letter Writer," &amp;c. 12mo, roan. Price 4s. 6s.</p>
+            <p><hi rend="ac"><hi rend="bigFont"><hi rend="dropcap">H</hi>istorical and
+                  Miscel</hi><lb/>aneous Questions</hi> for the Use of Young People, with a
+               Selection of British and General Biography, &amp;c., by <persName>R.
+                     <surname>Mangnall</surname></persName>. Adapted for the USe of Schools, by
+                     <persName><roleName>Rev</roleName>. G. N.
+                     <surname><surname>Wright</surname></surname></persName>. A New Edition,
+               corrected to the Present Time, by <persName><forename>Joseph</forename>
+                  <surname>Guy</surname></persName>, Jun. Illustrated with a New Historical
+               Frontispiece, and many <emph rend="italics">New Engravings</emph>.</p>
+            <p>London: <hi rend="sc"><persName><forename>William</forename>
+                     <surname>Tegg</surname></persName></hi> &amp; Co, <address>
+                  <street>85, Queen-street, Cheapside.</street>
+               </address></p>
+         </div>
+         <div type="ad" xml:id="educationalTrusts">
+            <head rend="bigFont">Educational Trusts.</head>
+            <p><hi rend="ac">Free Boys</hi>
+               <emph rend="italics">versus</emph>
+               <hi rend="ac">Boarders;<lb/>or,<lb/>Free school revelations.</hi></p>
+            <p>On the 1st. of May will be published, price One Shilling, the First Number of the
+               Free Schools of Worcestershire. By <hi rend="sc"
+                        ><persName><forename>George</forename>
+                     <surname>Griffith</surname></persName></hi>, of Kidderminster. To be completed
+               in about Eight Numbers.</p>
+            <p>London: <hi rend="sc"><persName><forename>Charles</forename>
+                     <surname>Gilfin</surname></persName></hi>. Dublin: <hi rend="sc">J.B.
+                     <surname>Gilfin</surname></hi>. Edinburgh: A. &amp; C. <hi rend="sc"
+                     ><surname>Black</surname></hi>.</p>
+         </div>
+         <div type="ad" xml:id="instructionsForConcertina">
+            <head><hi rend="ac bigFont">Instructions for the Concertina</hi></head>
+            <p>Just Published,<lb/><hi rend="ac"><hi rend="bigFont"><hi rend="dropcap"
+                     >I</hi>nstructions for the Con<lb/></hi>certina</hi> by <hi rend="ac"
+                        ><persName><forename>Carlo</forename>
+                     <surname>Minasi</surname></persName></hi>, 42 pp. folio, 5s. The Third Edition
+               (enlarged) of <hi rend="ac">Warren's Complete Instructions for the concertina</hi>,
+               10s. 6d.</p>
+            <p><hi rend="ac">Instructions for the harmonium</hi>, by <hi rend="ac"
+                        ><persName><forename>Joseph</forename>
+                     <surname>Warren</surname></persName></hi>, 4s. Also, suitable for the same <hi
+                  rend="ac"><persName><surname>Lindley</surname></persName>'s practical introduction
+                  to the organ</hi>, a New Eidtion, revised and enlarged by <persName>J. <hi
+                     rend="ac"><surname>Warren</surname></hi>; containing 41 Preludes, Introductary,
+                  Middle, and Full Voluntaries, and 37 Psalm Tunes with Interludes, 128pp., oblong
+                  8vo, 5s.</persName></p>
+            <p>Messrs. <hi rend="ac">Wheatstone &amp; Co.</hi>, Investors, and Patentees of the
+               Concertina, <address>
+                  <street>29, Conduit-street, Regent-street</street>
+               </address>, where may be had a Descriptive Prospectus of the Ten Guinea
+               Harmonium.</p>
+         </div>
+         <div type="ad" xml:id="memorialsFromBen">
+            <head><hi rend="ac bigFont">Memorials From
+                        <persName><forename>Ben</forename><surname>Rhydding</surname></persName></hi></head>
+            <p>Just published, crown 5vo, price 5s., with 6 Engravings and numerous Woodcuts,
+               elegantly bound.</p>
+            <p><hi rend="ac"><hi rend="bigFont"><hi rend="dropcap">M</hi>emorials From
+                           <persName><forename>Ben</forename></persName></hi><lb/><persName><surname>Rhydding</surname></persName>,
+                  concerning the place, its people, </hi>and <hi rend="ac">its cures.</hi></p>
+            <p>"This is the most handsome and well-embellished volume ever laid upon our table. * *
+               * Besides much that is entertaining, it gives the only real scientific view of the
+               water cure that we have met with, and presents it in a light that cannot fail to
+               commend it to every unprejudiced mind. The work is published from a sense of benefits
+               recieved and a desire to enlighted the community." -<emph rend="italics">British
+                  Friend</emph>.</p>
+            <p>London: <persName><forename>Charles</forename>
+                  <surname>Gilpin</surname></persName>, 5, Bishopsgate Without.</p>
+         </div>
+         <div type="ad" xml:id="schewppesSoda">
+            <head><hi rend="ac bigFont"><hi rend="dropcap">S</hi>cheweppe's Soda, Potas,</hi></head>
+            <p>and <hi rend="ac">Magnesia Waters</hi> and <hi rend="ac">Aerated Lemonade</hi>
+               continue to be manufactured upon the largest scale at their several Establishments in
+               London, Liverpool, Bristol, and Derby. The celebrity of these well-known waters and
+               the preference they universally command, are evidence that their original superior
+               quality over all others is well sustained. Every bottle is protected by a label with
+               the name of their firm, without which none is genuine, and it may be had of nearly
+               all respectable chemists throughout the kingdon. Importers of the German Selters
+               Water direct from the springs, as for the last twenty years.</p>
+            <p><hi rend="medFont"><address>
+                     <street>51, Berners Street, London</street>
+                  </address></hi></p>
+         </div>
+         <div type="ad" xml:id="toiletOfBeauty">
+            <head><hi rend="ac bigFont"><hi rend="dropcap">T</hi>he Toilet of Beauty</hi></head>
+            <p>furnishes innumerable proofs of the high estimation in which <hi rend="ac">Gowland's
+                  Lotion</hi> is held by the most distinguished possessors of brilliant complexions.
+               This elegant preperation comprehends the preservation of the complexion both from the
+               effects of cutaneous malady and the operation of variable temperature, by refreshing
+               its delicacy and sustaining the brightest tints with which beauty is adorned.
+                     "<persName><forename>Robert</forename>
+                  <surname>Shaw</surname></persName>, London" is in white letters on the Government
+               stamp of the genuine. Prices, 2s. 9d. and 5s. 6d. ; quarts, 8s. 6d.</p>
+         </div>
+         <div type="ad" xml:id="gerardsCelebratedPomade">
+            <head><hi rend="ac bigFont"><persName><surname><hi rend="dropcap"
+                        >H</hi>olloway</surname></persName>'s Pills,</hi></head>
+            <p><hi rend="ac"><hi rend="medFont">A Most</hi><lb/>efficient</hi>
+               <hi rend="sc">remedy for bile, indigestion, and debilitated cocnstitutions.-</hi>The
+               extraordinary powers of this medicine in curing disorders of the stomach, bile,
+               indigestion, and liver complaints are wonderful. Thousands whose lives were a burden
+               to them whilst suffering from these complaints are now enjoying the best of health by
+               taking these invaluable pills, and now strongly recommend their use to others
+               similarly afflicted. A few doses give relief, and a continuance of them for a short
+               time effects a perfect cure. Persons whose constitutions have been weakened by long
+               residence in hot climates cannot have a more certain remedy to restore them to robust
+               health than <persName><surname>Holloway</surname></persName>'s Pills.- Sold by all
+               Druggists, and at <persName><roleName>Professor</roleName>
+                  <surname>Holloway</surname></persName>'s Establishment, <address>
+                  <street>244, Strand</street>
+               </address>, London</p>
+         </div>
          <div type="ad" xml:id="nortonPills">
             <pb n="58"/>
-            <head><emph rend="ac hugeFont">Important Family Medicine</emph></head><lb/>
+            <head><emph rend="ac hugeFont">Important Family Medicine</emph></head>
+            <lb/>
             <p>
                <emph rend="ac bold hugeFont">Norton's Camomile Pills,</emph><lb/>
-               <emph rend="ac medFont">The<lb/>
-               most certain preserver of health; </emph><emph rend="sc">A<lb/>
-               mild, yet speedy, safe, and<lb/></emph><emph rend="ac bold medFont">Effectual Aid in cases of indigestion,<lb/>
-               And all stomach complaints,<lb/>
+               <emph rend="ac medFont">The<lb/> most certain preserver of health; </emph><emph
+                  rend="sc">A<lb/> mild, yet speedy, safe, and<lb/></emph><emph
+                  rend="ac bold medFont">Effectual Aid in cases of indigestion,<lb/> And all stomach
+                  complaints,<lb/>
                </emph><emph rend="sc">And, as a natural consequence,</emph><lb/>
-               <emph rend="sc medFont">A purifier of the blood, and a sweetener of the whole system.</emph><lb/>
-               Indigestion is a weakness or want of power of the digestive juices in the stomach to convert what we eat and drink into healthy matter, for the proper nourishment of the whole system. It is caused by every thing which weakens the system in general, or the stomach in particular. From it proceed nearly all diseases to which we are liable; for it is very certain, that if we could always keep the stomach right we should only die by old age or accident. Indigestion produces a great variety of unpleasant sensations: amongst the prominent of its miserable effects are a want of, or an inordinate, appetite, sometimes attended with a constant craving for drink, a distension or feeling enlargement of the stomach, flatulency, heartburn, pains in the stomach, acidity, unpleasant taste in the mouth, perhaps sickness, rumbling noise in the bowels: in some cases of depraved digestions there is nearly a complete disrelish for food, but still the appetite is not greatly impaired, as at the stated period of meals persons so afflicted can eat heartily, although without much gratification; a long train of nervous symptoms are also frequent attendants, general debility, great languidess, and incapacity for exertion. The minds of persons so afflicted frequently become irraitable and desponding, and great anxiety is observable in the countenance; they appear thoughtful, melancholy, and dejected, under great apprehension of some imaginary danger, will start at any unexpected noise or occurrence, and become so agitated that they require some time to calm and collect themselves; yet for all this the mind is exhilarated without much difficulty; pleasing events, society, will for a time dissipate all appearance of disease; but the excitement produced by an agreeable change vanishes soon after the cause has gone by. Other symptoms are, voilent palpitations, restlessness, the sleep disturbed by frightful dreams and startings, and affording little or no refreshment: occasionally there is much moaning, with a sense of weight and oppression upon the chest, nightmare, &amp;c.<lb/>  
-               It is almost impossible to enumerate all the symptoms of this first invader upon the constitution, as in a hundred cases of <emph rend="ital">Indigestion</emph> there will probably be something peculiar to each; but, be they what they may, they are all occassioned by the food becoming a burden rather than a support to the stomach; and in all its stages the medicine most wanted is that which will afford speedy and effectual assistance to the digestive organs, and give energy to the nervous and muscular systems,-nothing can more speedily or with more certainty effect so desirable an object than <emph rend="ital">Norton's Extract of Camomile Flowers</emph>. The herb has from time immemorial been highly esteemed in England as a grateful anodyne, imparting an aromatic bitter to the taste, and a pleasing degree of warmth and strength to the stomach; and in all cases of indigestion, gout in the stomach, windy colic, and general weakness, it has for ages been strongly recommended by the most eminent practitioners as very useful and beneficial. The great, indeed only, objection to its use has been the large quantity of water which it takes to dissolve a small part of the flowers and which must be taken with it into the<pb n="59"/><fw type="page_number" place="top_right">2</fw> stomach. It requires a quarter of a pint of boiling water to dissolve the soluble portion of one drachm of camomile flowers; and, when one or even two ounces may be taken with advantage, it must at once be seen how impossible it is to take a proper dose of this wholesome herb in the form of tea; and the only reason why it has not long since been placed the very first in rank of all restorative medicines is that in taking it the stomach has always been loaded with water which tends in a great measure to counteract, and very frequently wholly to destroy the effect. It must be evident that loading a weak stomach with a large purpose of conveying into it a small
-quantity of medicine must be injurious; and that the medicines must possess powerful renovating properties only to counteract the bad effects likely to be produced by the water. Generally speaking, this has been the case with camomile flowers, a herb possessing the highest restorative qualities, and when properly taken, decidedly the most speedy restorer, and the most certain preserver of health.<lb/>
-               These <emph rend="sc"> pills</emph> are wholly <emph rend="sc">camomile</emph>, prepared by a peculiar process, accidentally discovered, and known only to the proprietor, and which he firmly believes to be one of the most valuable modern discoveries in medicine, by which all the essential and extractice matter of more than an ounce of the flowers is concentrated in four moderate-sized pills. Experience has afforded the most ample proof that they possess all the fine aromatic and stomachic properties for which the herb has been esteemed; and, as they are taken into the stomach unencumbered by any diluting or indigestible substance, in the same degree has their enefit been more immediate and decided. Mild in their operation and pleasant in their effect, they may be taken at any age, and under any circumstance, without danger or inconvenience. A person exposed to cold and wet a whole day or night could not possibly receive any injury from taking them, but, on the contrary, they would effectually prevent a cold being taken. After a long acquaintance with and strict observance of the medicinal properties of <emph rend="ital">Norton's Camomile Pills</emph>, it is only doing them justice to say, that they are really the most valuable of all <emph rend="sc">tonic medicines</emph>. By the word tonic is meant a medicine which gives strength to the stomach sufficient to digest in proper quantities all wholesome food, which increases the power of every nerve and muscle of the human body, or, in other words, invigorates the nervous and muscular systems. The solidity or firmness of the whole tissue of the body which so quickly follows the use of <emph rend="ital">Norton's Camomile Pills</emph>, their certain and speedy effects in repairing the partial dilapidations from time or intemperance, and their lasting salutary in fluence on the whole frame, is most con vincing, that in the smallest compass is contained the largest quantity of the tonic principle, of so peculiar a nature as to pervade the whole system, through which it diffuses health and strength sufficient to resist the formation of disease, and also to fortify the consitution against contagion; as such, their general use is strongly recommended as a
-preventative during the prevalence of malignant fever or other infectious diseases, and to persons attending sick rooms they are invaluable as in no one instance have they ever failed in preventing the taking of illness, even under the most trying circumstances.<lb/>
-               As <emph rend="ital"> Norton's Camomile Pills</emph> are particularly recommended for all stomach complaints or indigestion, it will probably be expected that some advice should be given respecting diet, though after all that has been written upon the subject, after the publication of volume upon volume, after the country has, as it were, been inundated with practical essays on diet, as a means of prolonging life, it would be unnecessary to say more, did we not feel it our duty to make the humble endeavor of inducing the public to regard them not, but to adopt that course which is dictated by nature, by reason, and common sense. Those persons who study the wholesomes, and are governed by the opinions of writers on diet, are uniformly both unhealthy in body and weak in mind. There can be no doubt that the palate is designed to inform us what is proper for the stomach, and of course that must best instruct us what food to take and what to avoid: we want no other adviser. Nothing can be more clear than that those articles which are agreeable to the taste were by nature intended for our food and sustenance, whether liquid or solid, foreign or of native production: if they are pure and unadulterated, no harm need be dreaded by their<pb n="60"/><fw type="page_number" place="top_right">3</fw> use; they will only injure by abuse. Consequently, whatever the palate approves, eat and drink always in moderation, but never in excess; keeping in mind that the first process of digestion is performed in the mouth, the second in the stomach; and that, in order that the stomach may be able to do its work properly, it is requisite the first should be well performed; this consists in masticating or chewing the solid food, so as to break down and separate the fibres and small substances of meat and vegetables,
-mixing them well, and blending the whole together before they are swallowed; and it is particularly urged upon all to take plenty of time to their meals and never eat in haste. If you conform to this short and simple, but comprehensive advice, and find that there are various things which others eat and drink with pleasure and without inconvenience, and which would be pleasant to yourself only that they disagree, you may at once conclude that the fault is in the stomach, that it does not possess the power which it ought to do, that it wants assistance, and the sooner that assistance is afforded the better. A very short trial of this medicine will best prove how soon it will put the stomach in a condition to perform with ease all the work which nature intended for it. By its use you will soon be able to enjoy, in moderation, whatever
-is agreeable to the taste, and unable to name one individual article of food which disagrees with or sits unpleasantly on the stomach. Never forget that a small meal well digested affords more nourishment to the system than a large one, even of the same food, when digested imperfectly. Let the dish be ever so delicious, ever so enticing a variety offered, the bottle ever so enchanting, never forget that temperance tends to preserve health, and that health is the soul of enjoyment. But should an impropriety be at any time, or ever so often, committed, by which the stomach becomes overloaded or disordered, render it immediate aid by taking a dose of <emph rend="ital">Norton's Camomile Pills</emph>, which will so promtly assist in carrying off the burden thus imposed upon it that all will soon be right again.<lb/>
-               It is most certainly true that every person in his lifetime consumes a quantity of noxious matter, which if taken at one meal would be fatal; it is these small quantities of noxious matter, which are introduced into our food, either by accident or wilful adulteration, which we find so often upset the stomach, and not unfrequently lay the foundation of illness, and perhaps final ruination to health. To preserve the constitution, it should be our constant care, if possible, to counteract the effect of these small quantities of unwholesome matter; and whenever, in that way, an enemy to the consitution finds its way into the stomach, a friend should be immediately sent after it, which would prevent its mischievous effects, and expel it altogether; no better friend can be found, nor one which will perform the task with
-greater certainty, than <emph rend="sc">norton's camomile pills</emph>. And let it be observed that the longer this medicine is taken the less it will be wanted; it can in no case become habitual, as its entire action is to give energy and force to the stomach, which is the spring of life, the source from which the whole frame draws its succour and support. After an excess of eating or drinking, and upon every occasion
-of the general health being at all disturbed, these <emph rend="sc">pills</emph> should be immediately taken, as they will stop and eradicate disease at its commencement. Indeed it is most confidently asserted, that by the timely use of this medicine only, and a common degree of caution, any person may enjoy all the comforts within his reach, may pass through life without an illness, and with the certainty of attaining a healthy <emph rend="sc">old age</emph>.<lb/>
-               On account of their volatile properties, they must be kept in bottles; and if closely corked their qualities are neither impaired by time nor injured by any change of climate whatever. Price 13 1/2d. and 2s.9d.each, with full directions. The large bottle contains the quantity of three small ones, or <emph rend="sc">pills</emph> equal to fourteen ounce of <emph rend="sc">camomile flowers</emph>.<lb/>
+               <emph rend="sc medFont">A purifier of the blood, and a sweetener of the whole
+                  system.</emph><lb/> Indigestion is a weakness or want of power of the digestive
+               juices in the stomach to convert what we eat and drink into healthy matter, for the
+               proper nourishment of the whole system. It is caused by every thing which weakens the
+               system in general, or the stomach in particular. From it proceed nearly all diseases
+               to which we are liable; for it is very certain, that if we could always keep the
+               stomach right we should only die by old age or accident. Indigestion produces a great
+               variety of unpleasant sensations: amongst the prominent of its miserable effects are
+               a want of, or an inordinate, appetite, sometimes attended with a constant craving for
+               drink, a distension or feeling enlargement of the stomach, flatulency, heartburn,
+               pains in the stomach, acidity, unpleasant taste in the mouth, perhaps sickness,
+               rumbling noise in the bowels: in some cases of depraved digestions there is nearly a
+               complete disrelish for food, but still the appetite is not greatly impaired, as at
+               the stated period of meals persons so afflicted can eat heartily, although without
+               much gratification; a long train of nervous symptoms are also frequent attendants,
+               general debility, great languidess, and incapacity for exertion. The minds of persons
+               so afflicted frequently become irraitable and desponding, and great anxiety is
+               observable in the countenance; they appear thoughtful, melancholy, and dejected,
+               under great apprehension of some imaginary danger, will start at any unexpected noise
+               or occurrence, and become so agitated that they require some time to calm and collect
+               themselves; yet for all this the mind is exhilarated without much difficulty;
+               pleasing events, society, will for a time dissipate all appearance of disease; but
+               the excitement produced by an agreeable change vanishes soon after the cause has gone
+               by. Other symptoms are, voilent palpitations, restlessness, the sleep disturbed by
+               frightful dreams and startings, and affording little or no refreshment: occasionally
+               there is much moaning, with a sense of weight and oppression upon the chest,
+               nightmare, &amp;c.<lb/> It is almost impossible to enumerate all the symptoms of this
+               first invader upon the constitution, as in a hundred cases of <emph rend="ital"
+                  >Indigestion</emph> there will probably be something peculiar to each; but, be
+               they what they may, they are all occassioned by the food becoming a burden rather
+               than a support to the stomach; and in all its stages the medicine most wanted is that
+               which will afford speedy and effectual assistance to the digestive organs, and give
+               energy to the nervous and muscular systems,-nothing can more speedily or with more
+               certainty effect so desirable an object than <emph rend="ital">Norton's Extract of
+                  Camomile Flowers</emph>. The herb has from time immemorial been highly esteemed in
+               England as a grateful anodyne, imparting an aromatic bitter to the taste, and a
+               pleasing degree of warmth and strength to the stomach; and in all cases of
+               indigestion, gout in the stomach, windy colic, and general weakness, it has for ages
+               been strongly recommended by the most eminent practitioners as very useful and
+               beneficial. The great, indeed only, objection to its use has been the large quantity
+               of water which it takes to dissolve a small part of the flowers and which must be
+               taken with it into the<pb n="59"/><fw type="page_number" place="top_right">2</fw>
+               stomach. It requires a quarter of a pint of boiling water to dissolve the soluble
+               portion of one drachm of camomile flowers; and, when one or even two ounces may be
+               taken with advantage, it must at once be seen how impossible it is to take a proper
+               dose of this wholesome herb in the form of tea; and the only reason why it has not
+               long since been placed the very first in rank of all restorative medicines is that in
+               taking it the stomach has always been loaded with water which tends in a great
+               measure to counteract, and very frequently wholly to destroy the effect. It must be
+               evident that loading a weak stomach with a large purpose of conveying into it a small
+               quantity of medicine must be injurious; and that the medicines must possess powerful
+               renovating properties only to counteract the bad effects likely to be produced by the
+               water. Generally speaking, this has been the case with camomile flowers, a herb
+               possessing the highest restorative qualities, and when properly taken, decidedly the
+               most speedy restorer, and the most certain preserver of health.<lb/> These <emph
+                  rend="sc"> pills</emph> are wholly <emph rend="sc">camomile</emph>, prepared by a
+               peculiar process, accidentally discovered, and known only to the proprietor, and
+               which he firmly believes to be one of the most valuable modern discoveries in
+               medicine, by which all the essential and extractice matter of more than an ounce of
+               the flowers is concentrated in four moderate-sized pills. Experience has afforded the
+               most ample proof that they possess all the fine aromatic and stomachic properties for
+               which the herb has been esteemed; and, as they are taken into the stomach
+               unencumbered by any diluting or indigestible substance, in the same degree has their
+               enefit been more immediate and decided. Mild in their operation and pleasant in their
+               effect, they may be taken at any age, and under any circumstance, without danger or
+               inconvenience. A person exposed to cold and wet a whole day or night could not
+               possibly receive any injury from taking them, but, on the contrary, they would
+               effectually prevent a cold being taken. After a long acquaintance with and strict
+               observance of the medicinal properties of <emph rend="ital">Norton's Camomile
+                  Pills</emph>, it is only doing them justice to say, that they are really the most
+               valuable of all <emph rend="sc">tonic medicines</emph>. By the word tonic is meant a
+               medicine which gives strength to the stomach sufficient to digest in proper
+               quantities all wholesome food, which increases the power of every nerve and muscle of
+               the human body, or, in other words, invigorates the nervous and muscular systems. The
+               solidity or firmness of the whole tissue of the body which so quickly follows the use
+               of <emph rend="ital">Norton's Camomile Pills</emph>, their certain and speedy effects
+               in repairing the partial dilapidations from time or intemperance, and their lasting
+               salutary in fluence on the whole frame, is most con vincing, that in the smallest
+               compass is contained the largest quantity of the tonic principle, of so peculiar a
+               nature as to pervade the whole system, through which it diffuses health and strength
+               sufficient to resist the formation of disease, and also to fortify the consitution
+               against contagion; as such, their general use is strongly recommended as a
+               preventative during the prevalence of malignant fever or other infectious diseases,
+               and to persons attending sick rooms they are invaluable as in no one instance have
+               they ever failed in preventing the taking of illness, even under the most trying
+               circumstances.<lb/> As <emph rend="ital"> Norton's Camomile Pills</emph> are
+               particularly recommended for all stomach complaints or indigestion, it will probably
+               be expected that some advice should be given respecting diet, though after all that
+               has been written upon the subject, after the publication of volume upon volume, after
+               the country has, as it were, been inundated with practical essays on diet, as a means
+               of prolonging life, it would be unnecessary to say more, did we not feel it our duty
+               to make the humble endeavor of inducing the public to regard them not, but to adopt
+               that course which is dictated by nature, by reason, and common sense. Those persons
+               who study the wholesomes, and are governed by the opinions of writers on diet, are
+               uniformly both unhealthy in body and weak in mind. There can be no doubt that the
+               palate is designed to inform us what is proper for the stomach, and of course that
+               must best instruct us what food to take and what to avoid: we want no other adviser.
+               Nothing can be more clear than that those articles which are agreeable to the taste
+               were by nature intended for our food and sustenance, whether liquid or solid, foreign
+               or of native production: if they are pure and unadulterated, no harm need be dreaded
+               by their<pb n="60"/><fw type="page_number" place="top_right">3</fw> use; they will
+               only injure by abuse. Consequently, whatever the palate approves, eat and drink
+               always in moderation, but never in excess; keeping in mind that the first process of
+               digestion is performed in the mouth, the second in the stomach; and that, in order
+               that the stomach may be able to do its work properly, it is requisite the first
+               should be well performed; this consists in masticating or chewing the solid food, so
+               as to break down and separate the fibres and small substances of meat and vegetables,
+               mixing them well, and blending the whole together before they are swallowed; and it
+               is particularly urged upon all to take plenty of time to their meals and never eat in
+               haste. If you conform to this short and simple, but comprehensive advice, and find
+               that there are various things which others eat and drink with pleasure and without
+               inconvenience, and which would be pleasant to yourself only that they disagree, you
+               may at once conclude that the fault is in the stomach, that it does not possess the
+               power which it ought to do, that it wants assistance, and the sooner that assistance
+               is afforded the better. A very short trial of this medicine will best prove how soon
+               it will put the stomach in a condition to perform with ease all the work which nature
+               intended for it. By its use you will soon be able to enjoy, in moderation, whatever
+               is agreeable to the taste, and unable to name one individual article of food which
+               disagrees with or sits unpleasantly on the stomach. Never forget that a small meal
+               well digested affords more nourishment to the system than a large one, even of the
+               same food, when digested imperfectly. Let the dish be ever so delicious, ever so
+               enticing a variety offered, the bottle ever so enchanting, never forget that
+               temperance tends to preserve health, and that health is the soul of enjoyment. But
+               should an impropriety be at any time, or ever so often, committed, by which the
+               stomach becomes overloaded or disordered, render it immediate aid by taking a dose of
+                  <emph rend="ital">Norton's Camomile Pills</emph>, which will so promtly assist in
+               carrying off the burden thus imposed upon it that all will soon be right again.<lb/>
+               It is most certainly true that every person in his lifetime consumes a quantity of
+               noxious matter, which if taken at one meal would be fatal; it is these small
+               quantities of noxious matter, which are introduced into our food, either by accident
+               or wilful adulteration, which we find so often upset the stomach, and not
+               unfrequently lay the foundation of illness, and perhaps final ruination to health. To
+               preserve the constitution, it should be our constant care, if possible, to counteract
+               the effect of these small quantities of unwholesome matter; and whenever, in that
+               way, an enemy to the consitution finds its way into the stomach, a friend should be
+               immediately sent after it, which would prevent its mischievous effects, and expel it
+               altogether; no better friend can be found, nor one which will perform the task with
+               greater certainty, than <emph rend="sc">norton's camomile pills</emph>. And let it be
+               observed that the longer this medicine is taken the less it will be wanted; it can in
+               no case become habitual, as its entire action is to give energy and force to the
+               stomach, which is the spring of life, the source from which the whole frame draws its
+               succour and support. After an excess of eating or drinking, and upon every occasion
+               of the general health being at all disturbed, these <emph rend="sc">pills</emph>
+               should be immediately taken, as they will stop and eradicate disease at its
+               commencement. Indeed it is most confidently asserted, that by the timely use of this
+               medicine only, and a common degree of caution, any person may enjoy all the comforts
+               within his reach, may pass through life without an illness, and with the certainty of
+               attaining a healthy <emph rend="sc">old age</emph>.<lb/> On account of their volatile
+               properties, they must be kept in bottles; and if closely corked their qualities are
+               neither impaired by time nor injured by any change of climate whatever. Price 13
+               1/2d. and 2s.9d.each, with full directions. The large bottle contains the quantity of
+               three small ones, or <emph rend="sc">pills</emph> equal to fourteen ounce of <emph
+                  rend="sc">camomile flowers</emph>.<lb/>
                <emph rend="medFont">Sold by nearly all respectable Medicine Vendors.</emph><lb/>
-               <emph rend="bold medFont">Be particular to ask for "<emph rend="ac">norton's pills</emph>," and do not be persuaded to purchase an imitation.</emph>
-            </p><lb/>
+               <emph rend="bold medFont">Be particular to ask for "<emph rend="ac">norton's
+                     pills</emph>," and do not be persuaded to purchase an imitation.</emph>
+            </p>
+            <lb/>
          </div>
          <div type="ad" xml:id="godfreyFlowers">
             <pb n="61"/>
-            <head><emph rend="bold sc MedFont">A Clear Complexion.</emph></head><lb/>
+            <head><emph rend="bold sc MedFont">A Clear Complexion.</emph></head>
+            <lb/>
             <p>
-               <emph rend="ac fancyFont medFont">Godfrey's Extract of Elder Flowers</emph><lb/>
-               is strongly recommended for Softening, Improving, Beautifying, and Preserving the SKIN, and giving it a blooming and charming appearance; being at once a most fragrant perfume and delightful cosmetic. It will completely remove Tan, Sunburn, Redness, &amp;c.; and, by its Balsamic and Healing qualities, render the skin soft, pliable, and free from dryness, scurf, &amp;c.; clear it from every humour, pimple, or eruption; and, by continuing its use only a short time, the skin will become and continue soft and smooth, and the complexion perfectly clear and beautiful. In the process of shaving it is invaluable, as it allays the irritation and smarting pain, annihilates every pimple and all roughness, and renders the skin smooth and firm. It protects the skin from the effects of the cold winds and damp atmosphere which prevail during the winter months, and will be found beyond all praise to use as a Family Lotion on all occasions.<lb/>
-               Sold in Bottles, price 2s.9d., with Directions for using it, by all Medicine Vendors and Perfumers. </p><lb/>
+               <emph rend="ac fancyFont medFont">Godfrey's Extract of Elder Flowers</emph><lb/> is
+               strongly recommended for Softening, Improving, Beautifying, and Preserving the SKIN,
+               and giving it a blooming and charming appearance; being at once a most fragrant
+               perfume and delightful cosmetic. It will completely remove Tan, Sunburn, Redness,
+               &amp;c.; and, by its Balsamic and Healing qualities, render the skin soft, pliable,
+               and free from dryness, scurf, &amp;c.; clear it from every humour, pimple, or
+               eruption; and, by continuing its use only a short time, the skin will become and
+               continue soft and smooth, and the complexion perfectly clear and beautiful. In the
+               process of shaving it is invaluable, as it allays the irritation and smarting pain,
+               annihilates every pimple and all roughness, and renders the skin smooth and firm. It
+               protects the skin from the effects of the cold winds and damp atmosphere which
+               prevail during the winter months, and will be found beyond all praise to use as a
+               Family Lotion on all occasions.<lb/> Sold in Bottles, price 2s.9d., with Directions
+               for using it, by all Medicine Vendors and Perfumers. </p>
+            <lb/>
          </div>
          <div type="ad" xml:id="simcoGout">
-            <head><emph rend="bold sc medFont">A Cure for Gout and Rheumatism.</emph></head><lb/>
+            <head><emph rend="bold sc medFont">A Cure for Gout and Rheumatism.</emph></head>
+            <lb/>
             <p>
-               <emph rend="normFont"><emph rend="ital">"The Eighth Plague,"</emph> said the learned Dr. Johnson, <emph rend="ital">"is the Gout, and that man who discovers a Medicine to alleviate its torments deserves well of his country; but he who can effect a cure should have a Monument raised to his memory as high as St. Paul's, as wide as the Thames, and as lasting as time."</emph></emph><lb/>
-               <emph rend="ac fancyFont medFont">Simco's Gout and Rheumatic Pills</emph><lb/>
-               are sold by nearly all Medicine Venders at <emph rend="ital">1s. 1 1/2d., and 2s.9d. per Box; the former containing does for</emph> five <emph rend="ital">and the latter for</emph> fifteen <emph rend="ital">days</emph>; and so many individuals, who considered themselves martyrs to Gout or Rheumatism, are now ready and willing to bear testimony of the wonderful effects of Simco's Pills, that the Proprietor fearlessly challenges the whole world to produce Medicine which at all deserves to be compared to them. There are <emph rend="ital">many</emph> instances in which person have been completely restored to health and activity by taking <emph rend="sc">Simco's Gout Pills</emph>, who have suffered from Rheumatic Gout for several years, and had drawn on a miserable existence, having lost the use of their limbs, believing that death alone could terminate their sufferings.<lb/>
-               Whilst taking the Pills, no particular rules or restrictions are necessary, as they are warranted not to contain any preparation of Mercury whatever; they seldom produce perspiration, purging, or sickness, but invariably improve the general health, sharpen the appetite, and facilitate digestion. Those periodically subject to Gout, Rheumatic Gout, Rheumatic Fever, &amp;c., should keep these Pills by them, as by their timely use an approaching attack may always be averted, and the tendency of these complaints to attack a vital part be effectually counteracted.</p><lb/>
+               <emph rend="normFont"><emph rend="ital">"The Eighth Plague,"</emph> said the learned
+                  Dr. Johnson, <emph rend="ital">"is the Gout, and that man who discovers a Medicine
+                     to alleviate its torments deserves well of his country; but he who can effect a
+                     cure should have a Monument raised to his memory as high as St. Paul's, as wide
+                     as the Thames, and as lasting as time."</emph></emph><lb/>
+               <emph rend="ac fancyFont medFont">Simco's Gout and Rheumatic Pills</emph><lb/> are
+               sold by nearly all Medicine Venders at <emph rend="ital">1s. 1 1/2d., and 2s.9d. per
+                  Box; the former containing does for</emph> five <emph rend="ital">and the latter
+                  for</emph> fifteen <emph rend="ital">days</emph>; and so many individuals, who
+               considered themselves martyrs to Gout or Rheumatism, are now ready and willing to
+               bear testimony of the wonderful effects of Simco's Pills, that the Proprietor
+               fearlessly challenges the whole world to produce Medicine which at all deserves to be
+               compared to them. There are <emph rend="ital">many</emph> instances in which person
+               have been completely restored to health and activity by taking <emph rend="sc"
+                  >Simco's Gout Pills</emph>, who have suffered from Rheumatic Gout for several
+               years, and had drawn on a miserable existence, having lost the use of their limbs,
+               believing that death alone could terminate their sufferings.<lb/> Whilst taking the
+               Pills, no particular rules or restrictions are necessary, as they are warranted not
+               to contain any preparation of Mercury whatever; they seldom produce perspiration,
+               purging, or sickness, but invariably improve the general health, sharpen the
+               appetite, and facilitate digestion. Those periodically subject to Gout, Rheumatic
+               Gout, Rheumatic Fever, &amp;c., should keep these Pills by them, as by their timely
+               use an approaching attack may always be averted, and the tendency of these complaints
+               to attack a vital part be effectually counteracted.</p>
+            <lb/>
          </div>
          <div type="ad" xml:id="simcoLinseed">
-            <head><emph rend="bold sc medFont">Influenza, Coughs, and Colds.</emph></head><lb/>
+            <head><emph rend="bold sc medFont">Influenza, Coughs, and Colds.</emph></head>
+            <lb/>
             <p>
-               <emph rend="ac fancyFont medFont">Simco's Essence of Linseed</emph><lb/>
-               is the most efficacious remedy ever discovered for the relief of persons suffering from Influenza; the first two doses generally arrest the progress of this distressing complaint, and a little perseverance completely removes it. Children's Coughs, as well as recent ones in Adults, will be removed by a few doses (frequently by the first); and Asthmatic persons, who previously had not been able to lie down in bed, have received the utmost benefit from the use of<lb/>
-               <emph rend="ac medFont">Simco's Essence of Linseed.</emph><lb/>
-               Sold in Bottles at <emph rend="ital">1s 1/2d.</emph>, and <emph rend="ital">2s. 9d.</emph> each.
-            </p><lb/>
+               <emph rend="ac fancyFont medFont">Simco's Essence of Linseed</emph><lb/> is the most
+               efficacious remedy ever discovered for the relief of persons suffering from
+               Influenza; the first two doses generally arrest the progress of this distressing
+               complaint, and a little perseverance completely removes it. Children's Coughs, as
+               well as recent ones in Adults, will be removed by a few doses (frequently by the
+               first); and Asthmatic persons, who previously had not been able to lie down in bed,
+               have received the utmost benefit from the use of<lb/>
+               <emph rend="ac medFont">Simco's Essence of Linseed.</emph><lb/> Sold in Bottles at
+                  <emph rend="ital">1s 1/2d.</emph>, and <emph rend="ital">2s. 9d.</emph> each. </p>
+            <lb/>
          </div>
          <div type="ad" xml:id="williamAuto">
             <pb n="62"/>
-            <head><emph rend="fancyFont hugeFont">The Autobiograph of William Jerdan;</emph></head><lb/>
+            <head><emph rend="fancyFont hugeFont">The Autobiograph of William Jerdan;</emph></head>
+            <lb/>
             <p>
                <emph rend="sc">with his</emph><lb/>
                <emph rend="bold medFont">Literary, Political, and Social Reminiscences</emph><lb/>
                <emph rend="fancyFont medFont">And Correspondence,</emph><lb/>
                <emph rend="sc medFont">During the last forty years</emph><lb/>
-               <emph rend="bold medFont">As Editor of the "Sun" Newspaper, 1812-17, &amp; of the "Literary Gazette," 1817-50,</emph><lb/>
-               <emph rend="sc">IN CONNECTION WITH MOST OF THE EMINENT PERSON WHO HAVE BEEN DISTINGUISED IN THE PAST HALF CENTURY AS STATESMEN, POETS, AUTHORS, MEN OF SCIENCE, ARTISTS, ETC.</emph><lb/>
-               The First Volume, price 5s., with a Portrait of the Author, Engraved by <emph rend="sc">Robinson</emph>, from a Painting by <emph rend="sc">Harlowe</emph>, will appear on the <date when="1852-05-01">1st of May</date>, and it is proposed to complete the Work in Four or Six Volumes, to be published Quarterly.<lb/>
+               <emph rend="bold medFont">As Editor of the "Sun" Newspaper, 1812-17, &amp; of the
+                  "Literary Gazette," 1817-50,</emph><lb/>
+               <emph rend="sc">IN CONNECTION WITH MOST OF THE EMINENT PERSON WHO HAVE BEEN
+                  DISTINGUISED IN THE PAST HALF CENTURY AS STATESMEN, POETS, AUTHORS, MEN OF
+                  SCIENCE, ARTISTS, ETC.</emph><lb/> The First Volume, price 5s., with a Portrait of
+               the Author, Engraved by <emph rend="sc">Robinson</emph>, from a Painting by <emph
+                  rend="sc">Harlowe</emph>, will appear on the <date when="1852-05-01">1st of
+                  May</date>, and it is proposed to complete the Work in Four or Six Volumes, to be
+               published Quarterly.<lb/>
                <emph rend="ital bold">Among many Distinguished Names introduced in the Narrative and
                   Correspondence will be found,</emph><lb/>
                <list>
-                  <item><surname>Ainsworth</surname>, <forename>W. Harrison</forename>, and <forename>W. Francis</forename></item>
-                  <item><persName><surname>Arbuthnot</surname>, <forename>Charles</forename></persName></item>
-                  <item><persName>Bangor, <roleName>Bishop</roleName> of (Magendle)*</persName></item>
+                  <item><surname>Ainsworth</surname>, <forename>W. Harrison</forename>, and
+                        <forename>W. Francis</forename></item>
+                  <item><persName><surname>Arbuthnot</surname>,
+                        <forename>Charles</forename></persName></item>
+                  <item><persName>Bangor, <roleName>Bishop</roleName> of
+                     (Magendle)*</persName></item>
                   <item><persName><surname>Bannister</surname></persName></item>
                   <item><persName><surname>Barham</surname> (Ingoldsby)*</persName></item>
-                  <item><persName><surname>Barrow</surname>, <roleName>Sir</roleName> John</persName></item>
-                  <item><persName><surname>Barry</surname>, <roleName>Sir</roleName> C.*</persName></item>
+                  <item><persName><surname>Barrow</surname>, <roleName>Sir</roleName>
+                        John</persName></item>
+                  <item><persName><surname>Barry</surname>, <roleName>Sir</roleName>
+                     C.*</persName></item>
                   <item><persName><surname>Blackwood</surname></persName></item>
-                  <item><persName><surname>Blessington</surname>, <roleName>Lady</roleName></persName></item>
+                  <item><persName><surname>Blessington</surname>,
+                        <roleName>Lady</roleName></persName></item>
                   <item><persName><surname>Bowles</surname>, Lislo*</persName></item>
                   <item><persName><surname>Braham</surname></persName></item>
-                  <item><persName><surname>Bray</surname>, <roleName>Mrs</roleName>.</persName></item>
-                  <item><persName><surname>Bristol</surname>, <roleName>Bishop</roleName> of (Gray)</persName></item>
-                  <item><persName><surname>Brougham</surname>, <roleName>Lord</roleName></persName></item>
-                  <item><persName><surname>Bulwer</surname>, Lytton <roleName>Sir</roleName> E.</persName></item>
-                  <item><persName><surname>Burgess</surname>, <roleName>Bishop</roleName> of Sallisbury</persName></item>
-                  <item><ref target="#byron"/><persName><surname>Byron</surname>, <roleName>Lord</roleName></persName></item>
+                  <item><persName><surname>Bray</surname>,
+                     <roleName>Mrs</roleName>.</persName></item>
+                  <item><persName><surname>Bristol</surname>, <roleName>Bishop</roleName> of
+                        (Gray)</persName></item>
+                  <item><persName><surname>Brougham</surname>,
+                     <roleName>Lord</roleName></persName></item>
+                  <item><persName><surname>Bulwer</surname>, Lytton <roleName>Sir</roleName>
+                        E.</persName></item>
+                  <item><persName><surname>Burgess</surname>, <roleName>Bishop</roleName> of
+                        Sallisbury</persName></item>
+                  <item><ref target="#byron"/><persName><surname>Byron</surname>,
+                           <roleName>Lord</roleName></persName></item>
                   <item><persName><surname>Campbell</surname>, Thomas</persName></item>
                   <item><persName><surname>Canning</surname>, George</persName></item>
-                  <item><surname>Chambers</surname>, <forename>W.</forename> &amp; <forename>R.</forename></item>
-                  <item><persName><surname>Chantrey</surname>, <roleName>Sir</roleName> F.</persName></item>
-                  <item><persName><surname>Clarendon</surname>, <roleName>Lord</roleName></persName></item>
+                  <item><surname>Chambers</surname>, <forename>W.</forename> &amp;
+                        <forename>R.</forename></item>
+                  <item><persName><surname>Chantrey</surname>, <roleName>Sir</roleName>
+                        F.</persName></item>
+                  <item><persName><surname>Clarendon</surname>,
+                     <roleName>Lord</roleName></persName></item>
                   <item><persName><surname>Coleridge</surname>, S.T.</persName></item>
                   <item><persName><surname>Colman</surname>, G.</persName></item>
                   <item><persName><surname>Colton</surname></persName></item>
                   <item><persName><surname>Cooke</surname> (tragodian), Tom*</persName></item>
                   <item><persName><surname>Cooke</surname>, T.P.</persName></item>
-                  <item><persName><surname>Croly</surname>, <roleName>Dr.</roleName></persName></item>
+                  <item><persName><surname>Croly</surname>,
+                     <roleName>Dr.</roleName></persName></item>
                   <item><persName><surname>Cunningham</surname>, Allan</persName></item>
-                  <item><persName><surname>De Tabley</surname>, <roleName>Lord</roleName></persName></item>
-                  <item><ref target="#Dick"><persName><surname>Dickens</surname>, Charles</persName></ref></item>
-                  <item><persName><surname>Disraeli</surname>, Isaac and <ref target="#disraeliB">Benjamin</ref></persName></item>
-                  <item><persName><surname>Eldon</surname>, <roleName>Lord</roleName></persName></item>
-                  <item><persName><surname>Erskine</surname>, <roleName>Lord</roleName></persName></item>
-                  <item><persName><surname>Essex</surname>, <roleName>Lady</roleName></persName></item>
-                  <item><persName><surname>Faraday</surname>, <roleName>Professor</roleName></persName></item>
-                  <item><persName><surname>Farnborough</surname>, <roleName>Lord</roleName></persName></item>
-                  <item><persName><surname>Freeling</surname>, <roleName>Sir</roleName> Francis</persName></item>
+                  <item><persName><surname>De Tabley</surname>,
+                     <roleName>Lord</roleName></persName></item>
+                  <item><ref target="#Dick"><persName><surname>Dickens</surname>,
+                        Charles</persName></ref></item>
+                  <item><persName><surname>Disraeli</surname>, Isaac and <ref target="#disraeliB"
+                           >Benjamin</ref></persName></item>
+                  <item><persName><surname>Eldon</surname>,
+                     <roleName>Lord</roleName></persName></item>
+                  <item><persName><surname>Erskine</surname>,
+                     <roleName>Lord</roleName></persName></item>
+                  <item><persName><surname>Essex</surname>,
+                     <roleName>Lady</roleName></persName></item>
+                  <item><persName><surname>Faraday</surname>,
+                        <roleName>Professor</roleName></persName></item>
+                  <item><persName><surname>Farnborough</surname>,
+                        <roleName>Lord</roleName></persName></item>
+                  <item><persName><surname>Freeling</surname>, <roleName>Sir</roleName>
+                        Francis</persName></item>
                   <item><persName><surname>Galt</surname></persName></item>
                   <item><persName><surname>Godwin</surname>, William</persName></item>
                   <item><persName><surname>Grenville</surname>, T.</persName></item>
                   <item><persName><surname>Griffin</surname>, G.</persName></item>
                   <item><persName><surname>Guizot</surname>, M.</persName></item>
-                  <item><persName><surname>Hall</surname>, <roleName>Mr.</roleName> and <roleName>Mrs.</roleName> S.C.</persName></item>
+                  <item><persName><surname>Hall</surname>, <roleName>Mr.</roleName> and
+                           <roleName>Mrs.</roleName> S.C.</persName></item>
                   <item><persName><surname>Hallam</surname>,</persName></item>
-                  <item><persName><surname>Hemans</surname>, <roleName>Mrs</roleName>.</persName></item>
+                  <item><persName><surname>Hemans</surname>,
+                     <roleName>Mrs</roleName>.</persName></item>
                   <item><persName><surname>Hogg</surname></persName></item>
                   <item><persName><surname>Hood</surname>, Thomas</persName></item>
                   <item><persName><surname>Hook</surname>, Theodore</persName></item>
@@ -333,45 +749,64 @@ of the general health being at all disturbed, these <emph rend="sc">pills</emph>
                   <item><persName><surname>Lamb</surname>, Charles</persName></item>
                   <item><persName><surname>Landon</surname> (L.E.L.)</persName></item>
                   <item><persName><surname>Landseers</surname></persName></item>
-                  <item><persName><surname>Lansdowne</surname>, <roleName>Lord</roleName></persName></item>
-                  <item><persName><surname>Laurence</surname>, <roleName>Sir</roleName> T.</persName></item>
+                  <item><persName><surname>Lansdowne</surname>,
+                     <roleName>Lord</roleName></persName></item>
+                  <item><persName><surname>Laurence</surname>, <roleName>Sir</roleName>
+                        T.</persName></item>
                   <item><persName><surname>Lockhart</surname></persName></item>
-                  <item><persName><surname>Londesborough</surname>, <roleName>Lord</roleName></persName></item>
+                  <item><persName><surname>Londesborough</surname>,
+                        <roleName>Lord</roleName></persName></item>
                   <item><persName><surname>Longman</surname>, Thomas Norton</persName></item>
                   <item><persName><surname>Lover</surname></persName></item>
                   <item><persName><surname>M'Clise</surname></persName></item>
-                  <item><persName><surname>Macintosh</surname>, <roleName>Sir</roleName> J.</persName></item>
+                  <item><persName><surname>Macintosh</surname>, <roleName>Sir</roleName>
+                        J.</persName></item>
                   <item><persName><surname>Macready</surname></persName></item>
                   <item><persName><surname>Maginn</surname></persName></item>
-                  <item><persName><surname>Marryat</surname>, <roleName>Captain</roleName></persName></item>
+                  <item><persName><surname>Marryat</surname>,
+                        <roleName>Captain</roleName></persName></item>
                   <item><persName><surname>Mathews</surname></persName></item>
                   <item><persName><surname>Milman</surname>, Ian*</persName></item>
                   <item><persName><surname>Milnes</surname>, Monckton*</persName></item>
-                  <item><persName><surname>Mitford</surname>, <roleName>Miss</roleName></persName></item>
+                  <item><persName><surname>Mitford</surname>,
+                     <roleName>Miss</roleName></persName></item>
                   <item><persName><surname>Montomgery</surname>, James</persName></item>
                   <item><persName><surname>Moore</surname></persName></item>
                   <item><persName><surname>Munden</surname></persName></item>
-                  <item><persName><surname>Munster</surname>, <roleName>Lord</roleName></persName></item>
-                  <item><persName><surname>Murchison</surname>, <roleName>Sir</roleName> R.</persName></item>
+                  <item><persName><surname>Munster</surname>,
+                     <roleName>Lord</roleName></persName></item>
+                  <item><persName><surname>Murchison</surname>, <roleName>Sir</roleName>
+                        R.</persName></item>
                   <item><persName><surname>Murray</surname>, John</persName></item>
                   <item><persName><surname>Nares</surname>, Archdescon</persName></item>
-                  <item><persName><surname>Normanby</surname>, <roleName>Lord</roleName></persName></item>
-                  <item><persName><surname>Northampton</surname>, <roleName>Lord</roleName></persName></item>
+                  <item><persName><surname>Normanby</surname>,
+                     <roleName>Lord</roleName></persName></item>
+                  <item><persName><surname>Northampton</surname>,
+                        <roleName>Lord</roleName></persName></item>
                   <item><persName><surname>Orme</surname>, Cosmo</persName></item>
-                  <item><persName><surname>Ousely</surname>, <roleName>Sir</roleName> Wm. and <roleName>Sir</roleName> Gore</persName></item>
-                  <item><persName><surname>Owen</surname>, <roleName>Professor</roleName></persName></item>
+                  <item><persName><surname>Ousely</surname>, <roleName>Sir</roleName> Wm. and
+                           <roleName>Sir</roleName> Gore</persName></item>
+                  <item><persName><surname>Owen</surname>,
+                     <roleName>Professor</roleName></persName></item>
                   <item><persName><surname>Perceval</surname>, Spencer</persName></item>
                   <item><persName><surname>Ferry</surname>, James</persName></item>
-                  <item><persName><surname>Pollock</surname>, <roleName>Lord Chief</roleName> Baron</persName></item>
-                  <item><persName><surname>Proctor</surname>, B.W. (Barry <surname>Cornwall</surname>)</persName></item>
-                  <item><persName><surname>Ripon</surname>, <roleName>Lord</roleName></persName></item>
+                  <item><persName><surname>Pollock</surname>, <roleName>Lord Chief</roleName>
+                        Baron</persName></item>
+                  <item><persName><surname>Proctor</surname>, B.W. (Barry
+                           <surname>Cornwall</surname>)</persName></item>
+                  <item><persName><surname>Ripon</surname>,
+                     <roleName>Lord</roleName></persName></item>
                   <item><persName><surname>Roberts</surname>, D.</persName></item>
-                  <item><persName><surname>Ross</surname>, <roleName>Sir</roleName> James Clark</persName></item>
-                  <item><persName><surname>Russell</surname>, <roleName>Lord</roleName> John</persName></item>
-                  <item><persName><surname>Scott</surname>, <roleName>Sir</roleName>Walter</persName></item>
+                  <item><persName><surname>Ross</surname>, <roleName>Sir</roleName> James
+                        Clark</persName></item>
+                  <item><persName><surname>Russell</surname>, <roleName>Lord</roleName>
+                        John</persName></item>
+                  <item><persName><surname>Scott</surname>,
+                        <roleName>Sir</roleName>Walter</persName></item>
                   <item><persName><surname>Sedgwick</surname></persName></item>
                   <item><persName><surname>Shelley</surname></persName></item>
-                  <item><persName><surname>Sheridan</surname>, R. Brinsley, Tom &amp; Frank</persName></item>
+                  <item><persName><surname>Sheridan</surname>, R. Brinsley, Tom &amp;
+                        Frank</persName></item>
                   <item><persName><surname>Smith</surname>, James</persName></item>
                   <item><persName><surname>Smith</surname>, Sydney</persName></item>
                   <item><persName><surname>Southey</surname></persName></item>
@@ -379,17 +814,22 @@ of the general health being at all disturbed, these <emph rend="sc">pills</emph>
                   <item><persName><surname>Swain</surname>, Charles</persName></item>
                   <item><persName><surname>Talfourd</surname>, Justice</persName></item>
                   <item><persName><surname>Thackeray</surname></persName></item>
-                  <item><persName><surname>Truro</surname>, <roleName>Lord</roleName></persName></item>
+                  <item><persName><surname>Truro</surname>,
+                     <roleName>Lord</roleName></persName></item>
                   <item><persName><surname>Turaer</surname>, Sharon</persName></item>
                   <item><persName><surname>Tytler</surname>, P.P.</persName></item>
                   <item><persName><surname>Ward</surname>, R. Plumer</persName></item>
                   <item><persName><roleName>Wellington, Duke of</roleName></persName></item>
                   <item><persName><surname>West</surname>, B.</persName></item>
-                  <item><persName><surname>Westmacott</surname>, <roleName>Sir</roleName> R.</persName></item>
+                  <item><persName><surname>Westmacott</surname>, <roleName>Sir</roleName>
+                        R.</persName></item>
                   <item><persName><surname>Whewell</surname></persName></item>
-                  <item><persName><surname>Wilkie</surname>, <roleName>Sir</roleName> David</persName></item>
-                  <item><persName><surname>Willoughby de Eresb</surname>y, <roleName>Lord</roleName></persName></item>
-                  <item><persName><roleName>Winchester, Biship of (Summer)</roleName></persName></item>
+                  <item><persName><surname>Wilkie</surname>, <roleName>Sir</roleName>
+                        David</persName></item>
+                  <item><persName><surname>Willoughby de Eresb</surname>y,
+                        <roleName>Lord</roleName></persName></item>
+                  <item><persName><roleName>Winchester, Biship of
+                     (Summer)</roleName></persName></item>
                   <item><persName><surname>Wordsworth</surname></persName></item>
                   <item><persName><surname>Wright</surname>, T.</persName></item>
                   <item><persName><surname>Young</surname>, (tragedian)</persName></item>
@@ -400,64 +840,84 @@ of the general health being at all disturbed, these <emph rend="sc">pills</emph>
          </div>
          <div type="ad-group" xml:id="bartlettGiftBook">
             <pb n="63"/>
-            <head><emph rend="fancyFont medFont">Mr. Bartlett's New Gift Book.</emph></head><lb/>
+            <head><emph rend="fancyFont medFont">Mr. Bartlett's New Gift Book.</emph></head>
+            <lb/>
             <div type="ad" xml:id="footSteps">
-               <p>
-                  Third Edition, in super-royal 7vo, Twenty-three Envgravings on Steel and several Woodcuts, price 14s. cloth, gilt edges, or 26s Morocco elegant, <lb/>
-                  <emph rend="ac medFont">Footsteps of our lord and his apostles</emph><lb/>
-                  In Syria, Greece, and Italy, a Succession of Vists to the Scenes of New Testament Narrative.<lb/>
-                  "If beauty of design and execution, combined with elegance of narrative and trustworthy description, can be any recommendation to a book, it is sufficient to say that this excellent volume posseses every one of these features, and establishes its own character without the need of any further praise." -Bell's Messenger.<lb/>
-                  "Mr. Bartlett has with success brought together in an effective and attractive volume, a series of written and engraved memorials of the early days of our faith, which cannot but find a welcome in many a domestic circle, and cheer with its reccolections every Christian heart, whilst it pleases with its artistic beauty the most careless inspectors. We close the book with regret, and recommend it without fear." -Britanica<lb/>
-                  "This is one of the happiest of the many happy Christmas ventures that their publishers have put forth. It is got up in excellent taste, and written in a pleasing and attractive style." -Church and State Gazette.<lb/>
+               <p> Third Edition, in super-royal 7vo, Twenty-three Envgravings on Steel and several
+                  Woodcuts, price 14s. cloth, gilt edges, or 26s Morocco elegant, <lb/>
+                  <emph rend="ac medFont">Footsteps of our lord and his apostles</emph><lb/> In
+                  Syria, Greece, and Italy, a Succession of Vists to the Scenes of New Testament
+                  Narrative.<lb/> "If beauty of design and execution, combined with elegance of
+                  narrative and trustworthy description, can be any recommendation to a book, it is
+                  sufficient to say that this excellent volume posseses every one of these features,
+                  and establishes its own character without the need of any further praise." -Bell's
+                  Messenger.<lb/> "Mr. Bartlett has with success brought together in an effective
+                  and attractive volume, a series of written and engraved memorials of the early
+                  days of our faith, which cannot but find a welcome in many a domestic circle, and
+                  cheer with its reccolections every Christian heart, whilst it pleases with its
+                  artistic beauty the most careless inspectors. We close the book with regret, and
+                  recommend it without fear." -Britanica<lb/> "This is one of the happiest of the
+                  many happy Christmas ventures that their publishers have put forth. It is got up
+                  in excellent taste, and written in a pleasing and attractive style." -Church and
+                  State Gazette.<lb/>
                </p>
             </div>
             <div type="ad" xml:id="gleanings">
-               <p>
-                  2.<lb/>
-                  Second Edition, in super-royal 8vo, price 16s. handsomely bound in cloth gilt, or 28s. Morocco elegant, <lb/>
-                  <emph rend="ac medFont">Gleanings, Antiquarian and Pictorial,</emph> <emph rend="medFont">on</emph><lb/>
-                  the <emph rend="sc">Overland Route</emph>, illustrated with 28 Steel Plates and Maps, and 23 Woodcuts.<lb/>
-                  "The present work is as excellent as his former productions, for its lively and picturesque narrative, and for the exquisite engravings by which it is illustrated."-Athenaeum <lb/>
-                  "It is unquestionably one of the most elegant volumes ever published. The letterpress gives an excellent historical account of Malta, with graphic sketches of travelling adventures, both at that place and at Gibraltar." -Atlas<lb/>
-                  "Should be in the hands of every person travelling by the Overland Route, as well as in every library in the kingdom with at least pretensions to completeness." -Observer.<lb/>
+               <p> 2.<lb/> Second Edition, in super-royal 8vo, price 16s. handsomely bound in cloth
+                  gilt, or 28s. Morocco elegant, <lb/>
+                  <emph rend="ac medFont">Gleanings, Antiquarian and Pictorial,</emph>
+                  <emph rend="medFont">on</emph><lb/> the <emph rend="sc">Overland Route</emph>,
+                  illustrated with 28 Steel Plates and Maps, and 23 Woodcuts.<lb/> "The present work
+                  is as excellent as his former productions, for its lively and picturesque
+                  narrative, and for the exquisite engravings by which it is illustrated."-Athenaeum
+                  <lb/> "It is unquestionably one of the most elegant volumes ever published. The
+                  letterpress gives an excellent historical account of Malta, with graphic sketches
+                  of travelling adventures, both at that place and at Gibraltar." -Atlas<lb/>
+                  "Should be in the hands of every person travelling by the Overland Route, as well
+                  as in every library in the kingdom with at least pretensions to completeness."
+                  -Observer.<lb/>
                </p>
             </div>
             <div type="ad" xml:id="nileBoat">
-               <p>
-                  3.<lb/>
-                  Third Edition, in super-royal 8vo, price 16s. cloth gilt; 28s. morocco gilt, <lb/>
-                  <emph rend="ac medFont">The Nile Boat;</emph> <emph rend="medFont">or, Glimpses of the Land of Egypt.</emph><lb/>
-                  Illustrated by 35 Steel Engravings and Maps, with numerous Cuts.<lb/>
-                  "Of Mr.Bartlett's merit as a pictorial traveler we have frequently had occasion to speak in terms of high commendation. In the present work he has been eminently successful."-Athenaeum.<lb/>
+               <p> 3.<lb/> Third Edition, in super-royal 8vo, price 16s. cloth gilt; 28s. morocco
+                  gilt, <lb/>
+                  <emph rend="ac medFont">The Nile Boat;</emph>
+                  <emph rend="medFont">or, Glimpses of the Land of Egypt.</emph><lb/> Illustrated by
+                  35 Steel Engravings and Maps, with numerous Cuts.<lb/> "Of Mr.Bartlett's merit as
+                  a pictorial traveler we have frequently had occasion to speak in terms of high
+                  commendation. In the present work he has been eminently
+                  successful."-Athenaeum.<lb/>
                </p>
             </div>
             <div type="ad" xml:id="fortyDays">
-               <p>
-                  4.<lb/>
-                  Forth Edition, in super-royal 8vo, price 12s. cloth gilt; Morocco gilt, 21s.,<lb/>
-                  <emph rend="ac medFont">Forty Days in the Desert</emph> <emph rend="medFont">on the Track of the</emph><lb/>
-                  Israelites; or A Journey from Cairo by Wady Feiran to Mount Sinai and Petra. With 27 Engravings on Steel, a Map and numerous Woodcuts.<lb/>
-                  "The author presents, in this volume, one of the most picturesque accounts of the route across the wilderness of sand we have ever read." -Morning Herald.<lb/>
+               <p> 4.<lb/> Forth Edition, in super-royal 8vo, price 12s. cloth gilt; Morocco gilt, 21s.,<lb/>
+                  <emph rend="ac medFont">Forty Days in the Desert</emph>
+                  <emph rend="medFont">on the Track of the</emph><lb/> Israelites; or A Journey from
+                  Cairo by Wady Feiran to Mount Sinai and Petra. With 27 Engravings on Steel, a Map
+                  and numerous Woodcuts.<lb/> "The author presents, in this volume, one of the most
+                  picturesque accounts of the route across the wilderness of sand we have ever
+                  read." -Morning Herald.<lb/>
                </p>
             </div>
             <div type="ad" xml:id="walksJerusalem">
-               <p>
-                  5.<lb/>
-                  New Edition, in super-royal 8vo, cloth gilt, 12s.; Morocco gilt, 21s.,<lb/>
+               <p> 5.<lb/> New Edition, in super-royal 8vo, cloth gilt, 12s.; Morocco gilt, 21s.,<lb/>
                   <emph rend="ac medFont">Walks about Jerusalem and its Environs.</emph><lb/>
-                  Illustrated by 24 Steel Engravings, 2 Maps, and many superior Woodcuts.<lb/>
-                  "The volume is well got up in point of embellishments, and contains much valuable matter, with illustrations beautifully executed." -Church of England Magazine.<lb/>
-                  "It is very elegantly got up, and will be richly ornamental to the table of any drawing-room, library, or boudoir." -Wesleyan Association Magazine.<lb/>
-                  "We have at length, in this attractive volume, the desideratum of a complete picturesque guide to the topography of Jerusalem." -Patriot.<lb/>
-                  "Our impression is, that Jerusalem was never before so successfully delineated." -Evangelical Magazine.<lb/>
+                  Illustrated by 24 Steel Engravings, 2 Maps, and many superior Woodcuts.<lb/> "The
+                  volume is well got up in point of embellishments, and contains much valuable
+                  matter, with illustrations beautifully executed." -Church of England
+                  Magazine.<lb/> "It is very elegantly got up, and will be richly ornamental to the
+                  table of any drawing-room, library, or boudoir." -Wesleyan Association
+                  Magazine.<lb/> "We have at length, in this attractive volume, the desideratum of a
+                  complete picturesque guide to the topography of Jerusalem." -Patriot.<lb/> "Our
+                  impression is, that Jerusalem was never before so successfully delineated."
+                  -Evangelical Magazine.<lb/>
                </p>
             </div>
             <div type="ad" xml:id="scriptureSites">
-               <p>
-                  6.<lb/>
-                  Now ready, price 4s. cloth gilt, post 8vo,<lb/>
-                  <emph rend="ac medFont">Scripture Sites and Scenes</emph> <emph rend="medFont">from actual Survey,</emph><lb/>
-                  in Egypt, Arabia, and Palestine. Illustrated by 17 Steel Engravings, 3 Maps, and 37 Woodcuts.<lb/>
+               <p> 6.<lb/> Now ready, price 4s. cloth gilt, post 8vo,<lb/>
+                  <emph rend="ac medFont">Scripture Sites and Scenes</emph>
+                  <emph rend="medFont">from actual Survey,</emph><lb/> in Egypt, Arabia, and
+                  Palestine. Illustrated by 17 Steel Engravings, 3 Maps, and 37 Woodcuts.<lb/>
                </p>
             </div>
             <closer>
@@ -466,103 +926,118 @@ of the general health being at all disturbed, these <emph rend="sc">pills</emph>
          </div>
          <div type="ad-group" xml:id="johnCumming">
             <pb n="64"/>
-            <head><emph rend="fancyFont medFont">Works by the <ref type="note" target="#n3"><persName><roleName>Rev</roleName>. <forename>John</forename> <surname>Cumming</surname> <roleName>D. D.</roleName></persName></ref></emph></head><lb/>
+            <head><emph rend="fancyFont medFont">Works by the <ref type="note" target="#n3"
+                           ><persName><roleName>Rev</roleName>. <forename>John</forename>
+                        <surname>Cumming</surname>
+                        <roleName>D. D.</roleName></persName></ref></emph></head>
+            <lb/>
             <div type="ad" xml:id="foreshadows">
-               <p>
-                  Fifth Thousand, in 2 vols. fcap 8vo, price 9s, cloth, full gilt,<lb/>
-                  <emph rend="sc medFont">Forshadows;</emph> <emph rend="medFont">or, Lecutres on our Lord's Miracles</emph><lb/>
-                  and <emph rend="sc">parables</emph> as Earnests of the Age to Come.<lb/>
+               <p> Fifth Thousand, in 2 vols. fcap 8vo, price 9s, cloth, full gilt,<lb/>
+                  <emph rend="sc medFont">Forshadows;</emph>
+                  <emph rend="medFont">or, Lecutres on our Lord's Miracles</emph><lb/> and <emph
+                     rend="sc">parables</emph> as Earnests of the Age to Come.<lb/>
                </p>
             </div>
             <div type="ad" xml:id="propheticStudies">
-               <p>
-                  2.<lb/>
-                  <emph rend="sc medFont">Prophetic Studies;</emph> <emph rend="medFont">or, Lectures on the Book of</emph><lb/>
-                  Daniel. Sixth Thousand, in fcap 8vo, 9s. cloth, elegantly gilt; or 13s. Morocco.<lb/>
+               <p> 2.<lb/>
+                  <emph rend="sc medFont">Prophetic Studies;</emph>
+                  <emph rend="medFont">or, Lectures on the Book of</emph><lb/> Daniel. Sixth
+                  Thousand, in fcap 8vo, 9s. cloth, elegantly gilt; or 13s. Morocco.<lb/>
                </p>
             </div>
             <div type="ad" xml:id="apocalyptic">
-               <p>
-                  3.<lb/>
-                  <emph rend="sc medFont">Apocalyptic Sketches;</emph> <emph rend="medFont">or, Lecutres on the Book</emph><lb/>
-                  of Revelation. Delivered at Exter Hall, and Crown Court Church. New Editions, revised and corrected, with Two Indiees. Eleventh Thousand, in two vols. price 9s. each, cloth gilt, or 26s. Morocco.<lb/>
+               <p> 3.<lb/>
+                  <emph rend="sc medFont">Apocalyptic Sketches;</emph>
+                  <emph rend="medFont">or, Lecutres on the Book</emph><lb/> of Revelation. Delivered
+                  at Exter Hall, and Crown Court Church. New Editions, revised and corrected, with
+                  Two Indiees. Eleventh Thousand, in two vols. price 9s. each, cloth gilt, or 26s.
+                  Morocco.<lb/>
                </p>
             </div>
             <div type="ad" xml:id="apocalypticThird">
-               <p>
-                  4.<lb/>
-                  <emph rend="sc medFont">Apocalyptic Sketches-</emph><emph rend="medFont">Third Series. Or, Lectures</emph><lb/>
-                  on the Seven Churches of Asian Minor. Illustrated by Wood Engravings, representing the present state of the Apostolic Churches. Eight Thousand, uniform with the above.<lb/> 
+               <p> 4.<lb/>
+                  <emph rend="sc medFont">Apocalyptic Sketches-</emph><emph rend="medFont">Third
+                     Series. Or, Lectures</emph><lb/> on the Seven Churches of Asian Minor.
+                  Illustrated by Wood Engravings, representing the present state of the Apostolic
+                  Churches. Eight Thousand, uniform with the above.<lb/>
                </p>
             </div>
             <div type="ad" xml:id="isChristianity">
-               <p>
-                  5.<lb/>
-                  <emph rend="sc medFont">"Is Christianity from God?"</emph> <emph rend="medFont">a Manual of</emph><lb/>
-                  Christian Evidences for Scripture Readers, Sunday School Teachers, City Missionaries, and Young Persons. Eighth Edition, fcap 8vo, cloth, price 3s.<lb/>
+               <p> 5.<lb/>
+                  <emph rend="sc medFont">"Is Christianity from God?"</emph>
+                  <emph rend="medFont">a Manual of</emph><lb/> Christian Evidences for Scripture
+                  Readers, Sunday School Teachers, City Missionaries, and Young Persons. Eighth
+                  Edition, fcap 8vo, cloth, price 3s.<lb/>
                </p>
             </div>
             <div type="ad" xml:id="ourFather">
-               <p>
-                  6.<lb/>
-                  <emph rend="sc medFont">Our Father;</emph> <emph rend="medFont">a Manual of Family Prayers for General</emph><lb/>
-                  and Special Occasions, with Short Prayers for Spare Minutes, and Passages for Reflection. Fifth Edition, fcap 8vo, price 3s. cloth, gilt edges.<lb/>
+               <p> 6.<lb/>
+                  <emph rend="sc medFont">Our Father;</emph>
+                  <emph rend="medFont">a Manual of Family Prayers for General</emph><lb/> and
+                  Special Occasions, with Short Prayers for Spare Minutes, and Passages for
+                  Reflection. Fifth Edition, fcap 8vo, price 3s. cloth, gilt edges.<lb/>
                </p>
             </div>
             <div type="ad" xml:id="communionTable">
-               <p>
-                  7.<lb/>
-                  <emph rend="sc medFont">The Communion Table;</emph> <emph rend="medFont">or, Communicant's Manual:</emph><lb/>
-                  a Plain and Practical Exposition of the Lord's Supper. New Eidtion, fcap 8vo, price 3s. cloth,<lb/>
+               <p> 7.<lb/>
+                  <emph rend="sc medFont">The Communion Table;</emph>
+                  <emph rend="medFont">or, Communicant's Manual:</emph><lb/> a Plain and Practical
+                  Exposition of the Lord's Supper. New Eidtion, fcap 8vo, price 3s. cloth,<lb/>
                </p>
             </div>
             <div type="ad" xml:id="romish">
-               <p>
-                  8.<lb/>
-                  <emph rend="sc medFont">Romish Miracles:</emph> <emph rend="medFont">a Lecture delivered in the Town</emph><lb/>
-                  Hall, Birmingham, Third Thousand, price 1s.<lb/>
+               <p> 8.<lb/>
+                  <emph rend="sc medFont">Romish Miracles:</emph>
+                  <emph rend="medFont">a Lecture delivered in the Town</emph><lb/> Hall, Birmingham,
+                  Third Thousand, price 1s.<lb/>
                </p>
             </div>
             <div type="ad" xml:id="celebratedProtestant">
-               <p>
-                  9.<lb/>
-                  <emph rend="sc medFont">The Celebrated Protestant Discussion</emph> <emph rend="medFont">be-</emph><lb/>
-                  tween the Rev. John Cumming, D.D. and Daniel French, Esq., held at Hammersmith, in 1839, Cheap Edition, Price 6s. cloth lettered.<lb/>
+               <p> 9.<lb/>
+                  <emph rend="sc medFont">The Celebrated Protestant Discussion</emph>
+                  <emph rend="medFont">be-</emph><lb/> tween the Rev. John Cumming, D.D. and Daniel
+                  French, Esq., held at Hammersmith, in 1839, Cheap Edition, Price 6s. cloth
+                  lettered.<lb/>
                </p>
             </div>
             <div type="ad" xml:id="lectures">
-               <p>
-                  10.<lb/>
-                  <emph rend="sc medFont">Lecutres for the times;</emph> <emph rend="medFont">or Iluustrations and</emph><lb/>
-                  Refutations of the Errors of Romanism and Tractarianism. New Edition, Revised, with Additions, price 6s. in cloth.<lb/>
+               <p> 10.<lb/>
+                  <emph rend="sc medFont">Lecutres for the times;</emph>
+                  <emph rend="medFont">or Iluustrations and</emph><lb/> Refutations of the Errors of
+                  Romanism and Tractarianism. New Edition, Revised, with Additions, price 6s. in
+                  cloth.<lb/>
                </p>
             </div>
             <div type="ad" xml:id="infantSalv">
-               <p>
-                  11.<lb/>
-                  <emph rend="sc medFont">Infant Salvation;</emph> <emph rend="medFont">or, All Saved who Die in Infancy.</emph><lb/>
-                  Specially addressed to Mothers mourning the loss of Infants and Children. Fourth Edition, fcap 8vo, cloth, gilt edges, price 2s.<lb/>
+               <p> 11.<lb/>
+                  <emph rend="sc medFont">Infant Salvation;</emph>
+                  <emph rend="medFont">or, All Saved who Die in Infancy.</emph><lb/> Specially
+                  addressed to Mothers mourning the loss of Infants and Children. Fourth Edition,
+                  fcap 8vo, cloth, gilt edges, price 2s.<lb/>
                </p>
             </div>
             <div type="ad" xml:id="bapFront">
-               <p>
-                  12.<lb/>
-                  <emph rend="sc medFont">The Baptismal Font;</emph> <emph rend="medFont">an Exposition of the Nature</emph><lb/>
-                  and Obligations of Christian Baptism. With an Appendix. Third Eddition, fcap 8vo, gilt edges, price 2s.<lb/>
+               <p> 12.<lb/>
+                  <emph rend="sc medFont">The Baptismal Font;</emph>
+                  <emph rend="medFont">an Exposition of the Nature</emph><lb/> and Obligations of
+                  Christian Baptism. With an Appendix. Third Eddition, fcap 8vo, gilt edges, price
+                  2s.<lb/>
                </p>
             </div>
             <div type="ad" xml:id="messageGod">
-               <p>
-                  13.<lb/>
-                  <emph rend="sc medFont">A Message from God;</emph> <emph rend="medFont">or, Thoughts on Religion for</emph><lb/>
-                  Thinking Men. Fourth Edition, fcap 8vo, cloth, gilt edges, 2s.<lb/>
+               <p> 13.<lb/>
+                  <emph rend="sc medFont">A Message from God;</emph>
+                  <emph rend="medFont">or, Thoughts on Religion for</emph><lb/> Thinking Men. Fourth
+                  Edition, fcap 8vo, cloth, gilt edges, 2s.<lb/>
                </p>
             </div>
             <div type="ad" xml:id="discourses">
-               <p>
-                  14.<lb/>
-                  <emph rend="sc medFont">Occasional Discourses.</emph> <emph rend="medFont">Two vols., price 4s. each,</emph><lb/>
-                  cloth. Contents:-1, Liberty. 2. Equality. 3. Fraternity. 4. The Revolutionists. 5. The True Charter. 6. The True Succession. 7. Psalm for the Day. 8. Thanksgiving. 9. Salvation. 10. Autumn Thoughts, &amp;c.<lb/>
+               <p> 14.<lb/>
+                  <emph rend="sc medFont">Occasional Discourses.</emph>
+                  <emph rend="medFont">Two vols., price 4s. each,</emph><lb/> cloth. Contents:-1,
+                  Liberty. 2. Equality. 3. Fraternity. 4. The Revolutionists. 5. The True Charter.
+                  6. The True Succession. 7. Psalm for the Day. 8. Thanksgiving. 9. Salvation. 10.
+                  Autumn Thoughts, &amp;c.<lb/>
                </p>
             </div>
             <closer>
@@ -571,135 +1046,249 @@ of the general health being at all disturbed, these <emph rend="sc">pills</emph>
          </div>
          <div type="ad-group" xml:id="newWorks">
             <pb n="65"/>
-            <head><emph rend="fancyFont medfont">New Works and New Editions.</emph></head><lb/>
+            <head><emph rend="fancyFont medfont">New Works and New Editions.</emph></head>
+            <lb/>
             <div type="ad" xml:id="CeltRomanSaxon">
                <p>
-                  <emph rend="bold medFont"><emph rend="ac">The Celt, the Roman, and the Saxon.</emph> A His-</emph><lb/>
-                  tory of the Early Inhabitants of Britain down to the Conversion of the Anglo-Saxons to Christianity Illustrated by the Ancient Remains brought to light by recent Research. By <emph rend="sc">Thomas Wright</emph>, Esq., M.A., F.S.A. With numerous Illustrations.<emph rend="ital">[Shortly.</emph>
-               </p><lb/>
+                  <emph rend="bold medFont"><emph rend="ac">The Celt, the Roman, and the
+                        Saxon.</emph> A His-</emph><lb/> tory of the Early Inhabitants of Britain
+                  down to the Conversion of the Anglo-Saxons to Christianity Illustrated by the
+                  Ancient Remains brought to light by recent Research. By <emph rend="sc">Thomas
+                     Wright</emph>, Esq., M.A., F.S.A. With numerous Illustrations.<emph rend="ital"
+                     >[Shortly.</emph>
+               </p>
+               <lb/>
             </div>
             <div type="ad" xml:id="Persepolis">
                <p>
-                  <emph rend="bold medFont"><emph rend="ac">Nineveh and Persepolis:</emph> An Historical Sketch</emph><lb/>
-                  of Ancient Assyria and Persia, with an Account of the recent Researches in those Countries. By W.S.W. Vaux, M.A., of the British Museum. Third Edition, revised and enlarged, in post 8vo, with numerous Illustrations. Price 8s. bound in cloth; or 17s morocco antique
-               </p><lb/>
+                  <emph rend="bold medFont"><emph rend="ac">Nineveh and Persepolis:</emph> An
+                     Historical Sketch</emph><lb/> of Ancient Assyria and Persia, with an Account of
+                  the recent Researches in those Countries. By W.S.W. Vaux, M.A., of the British
+                  Museum. Third Edition, revised and enlarged, in post 8vo, with numerous
+                  Illustrations. Price 8s. bound in cloth; or 17s morocco antique </p>
+               <lb/>
             </div>
             <div type="ad" xml:id="indianPoetry">
                <p>
-                  <emph rend="bold medFont"><emph rend="ac">Speciments of Old Indian Poetry.</emph> Translated from</emph><lb/>
-                  the Original Sanskrit into English Verse, by Ralph T.H. Griffith, M.A., Member of the Royal Asiatic Society, and Boden Sanskrit Scholar in the University of Oxford.       <emph rend="ital">[In preparation.</emph>
-               </p><lb/>
+                  <emph rend="bold medFont"><emph rend="ac">Speciments of Old Indian Poetry.</emph>
+                     Translated from</emph><lb/> the Original Sanskrit into English Verse, by Ralph
+                  T.H. Griffith, M.A., Member of the Royal Asiatic Society, and Boden Sanskrit
+                  Scholar in the University of Oxford. <emph rend="ital">[In preparation.</emph>
+               </p>
+               <lb/>
             </div>
             <div type="ad" xml:id="anatomyPhysiology">
                <p>
                   <emph rend="ac bold medFont">A Manual of the Anatomy and Physiology</emph><lb/>
-                  <emph rend="sc">of the human mind.</emph> By <emph rend="sc"><persName><roleName>Rev.</roleName> <forename>James</forename> <surname>Carlile</surname>,</persName> D.D.</emph>, of Personstown and Dublin, Ireland. Feap, price 5s. cloth.<lb/>
-                  "Dr. Carlile has aimed at doing for metaphysics what Sir John Herschel accomplished for astronomy in his popular <emph rend="ital">Manual</emph>, and Paley for his subject in his celebrated <emph rend="ital">Evidences of Christianity</emph>. He has not merely compiled or analyzed, but has read and thought for himself, and what he writes, though no doubt directly traceable to other sources, is yet stamped with his own character and feeling." -- <emph rend="ital">Gaurdian</emph>.
-               </p><lb/>
+                  <emph rend="sc">of the human mind.</emph> By <emph rend="sc"
+                           ><persName><roleName>Rev.</roleName>
+                        <forename>James</forename>
+                        <surname>Carlile</surname>,</persName> D.D.</emph>, of Personstown and
+                  Dublin, Ireland. Feap, price 5s. cloth.<lb/> "Dr. Carlile has aimed at doing for
+                  metaphysics what Sir John Herschel accomplished for astronomy in his popular <emph
+                     rend="ital">Manual</emph>, and Paley for his subject in his celebrated <emph
+                     rend="ital">Evidences of Christianity</emph>. He has not merely compiled or
+                  analyzed, but has read and thought for himself, and what he writes, though no
+                  doubt directly traceable to other sources, is yet stamped with his own character
+                  and feeling." -- <emph rend="ital">Gaurdian</emph>. </p>
+               <lb/>
             </div>
             <div type="ad" xml:id="forestRanger">
                <p>
-                  <emph rend="bold medFont"><emph rend="ac">Old Forest Ranger;</emph> or, Wild Sports of India in the</emph><lb/>
-                  Neilgherry Hills, in the Jungles, and on the Plains. By <emph rend="sc">Major Walter Campell</emph>, of Skipness. With Illustrations on Steel. New Edition, in post 8vo.         <emph rend="ital">[In preparation.</emph>
-               </p><lb/>
+                  <emph rend="bold medFont"><emph rend="ac">Old Forest Ranger;</emph> or, Wild
+                     Sports of India in the</emph><lb/> Neilgherry Hills, in the Jungles, and on the
+                  Plains. By <emph rend="sc">Major Walter Campell</emph>, of Skipness. With
+                  Illustrations on Steel. New Edition, in post 8vo. <emph rend="ital">[In
+                     preparation.</emph>
+               </p>
+               <lb/>
             </div>
             <div type="ad" xml:id="tupperPoems">
                <p>
-                  <emph rend="bold medFont"><emph rend="ac">Ballads for the Times</emph>, and Other Poems. By</emph><lb/>
-                  <emph rend="sc">Martin Farquhar Tupper</emph>, Esq., D.C.L., F.R.S., &amp;c.,&amp;c. Second Complete Edition, price 7s. 6d., with Vignette and Frontispiece, uniform with "Proverbial Philosophy."<lb/>     
-                  "With smoothness of measure, Mr. Tupper's design is always excellent, and his versification is brought to bear upon things of no transient interest. It is one of the best characteristics of his labours, that he does not write for praise, but for the benefit of his felow-men -- not merely for time, but for eternity." -- <emph rend="ital">Bell's Messenger</emph>
-               </p><lb/>
+                  <emph rend="bold medFont"><emph rend="ac">Ballads for the Times</emph>, and Other
+                     Poems. By</emph><lb/>
+                  <emph rend="sc">Martin Farquhar Tupper</emph>, Esq., D.C.L., F.R.S.,
+                  &amp;c.,&amp;c. Second Complete Edition, price 7s. 6d., with Vignette and
+                  Frontispiece, uniform with "Proverbial Philosophy."<lb/> "With smoothness of
+                  measure, Mr. Tupper's design is always excellent, and his versification is brought
+                  to bear upon things of no transient interest. It is one of the best
+                  characteristics of his labours, that he does not write for praise, but for the
+                  benefit of his felow-men -- not merely for time, but for eternity." -- <emph
+                     rend="ital">Bell's Messenger</emph>
+               </p>
+               <lb/>
             </div>
             <div type="ad" xml:id="canadianCrusoes">
                <p>
-                  <emph rend="bold medFont"><emph rend="ac">The Canadian Crusoes:</emph> A Tale of the Rice Lake</emph><lb/>
-                  Hunting Grounds. By Mrs. <emph rend="sc">Traill</emph> (late Miss Strickland), Author of "The Backwoods of Canada." In feap*, with numerous Illustrations.           <emph rend="ital">[In preparation.</emph>
-               </p><lb/>
+                  <emph rend="bold medFont"><emph rend="ac">The Canadian Crusoes:</emph> A Tale of
+                     the Rice Lake</emph><lb/> Hunting Grounds. By Mrs. <emph rend="sc"
+                     >Traill</emph> (late Miss Strickland), Author of "The Backwoods of Canada." In
+                  feap*, with numerous Illustrations. <emph rend="ital">[In preparation.</emph>
+               </p>
+               <lb/>
             </div>
             <div type="ad" xml:id="loveandReality">
                <p>
-                  <emph rend="bold medFont"><emph rend="ac">Love and Reality, not Romance.</emph> By Mrs. Thomas</emph><lb/>
-                  <emph rend="sc">Geldart</emph>, Author of "Truth is Everything," &amp;c. With Illustrations by Gilbert. Price 3s. 6d, feap*, cloth, gilt edges.
-               </p><lb/>
+                  <emph rend="bold medFont"><emph rend="ac">Love and Reality, not Romance.</emph> By
+                     Mrs. Thomas</emph><lb/>
+                  <emph rend="sc">Geldart</emph>, Author of "Truth is Everything," &amp;c. With
+                  Illustrations by Gilbert. Price 3s. 6d, feap*, cloth, gilt edges. </p>
+               <lb/>
             </div>
             <div type="ad" xml:id="woman">
                <p>
-                  <emph rend="bold medFont"><emph rend="ac">Woman,</emph>--Her Mission and her Life. From the French of</emph><lb/>
-                  <emph rend="sc">Monod</emph>, by Rev. W.G. <emph rend="sc">Barrett</emph>. Second Edition, revised. Price 1s. 6d., in a neat Pocket Volume.<lb/>
-                  "Never was the theme handled before with greater delicacy, or with more a thorough poetical result. We should like to see this cheap <emph rend="ital">telling</emph> volume in the hands of every woman througout the land. It is calculated to do immense good, and especially to awaken and strengthen in every woman's heart <emph rend="ital">the feeling of responsibiliy." -- Evangelical Magazine.</emph><lb/>
-                  "More admirable dicourses were never written than these: they enter wisely and judiciously into the subject they are intended to expound." -- <emph rend="ital">Bell's Messenger.</emph>
-               </p><lb/>
+                  <emph rend="bold medFont"><emph rend="ac">Woman,</emph>--Her Mission and her Life.
+                     From the French of</emph><lb/>
+                  <emph rend="sc">Monod</emph>, by Rev. W.G. <emph rend="sc">Barrett</emph>. Second
+                  Edition, revised. Price 1s. 6d., in a neat Pocket Volume.<lb/> "Never was the
+                  theme handled before with greater delicacy, or with more a thorough poetical
+                  result. We should like to see this cheap <emph rend="ital">telling</emph> volume
+                  in the hands of every woman througout the land. It is calculated to do immense
+                  good, and especially to awaken and strengthen in every woman's heart <emph
+                     rend="ital">the feeling of responsibiliy." -- Evangelical Magazine.</emph><lb/>
+                  "More admirable dicourses were never written than these: they enter wisely and
+                  judiciously into the subject they are intended to expound." -- <emph rend="ital"
+                     >Bell's Messenger.</emph>
+               </p>
+               <lb/>
             </div>
             <div type="ad" xml:id="yeMaiden">
                <p>
-                  <emph rend="bold medFont"><emph rend="ac">Ye Maiden</emph> and <emph rend="ac">Married Life</emph> of <emph rend="ac">Mary Powell</emph>.</emph><lb/>
-                  Afterwards <emph rend="sc">Mistress Milton</emph>. New Edition, in post 8vo, with Portrait. Price 7s. 6d. antique.<lb/>
-                  "This is a charming little book; and whether we regard its subject, cleverness, or delicacy of sentiment and expression--to say nothing of its type and orthography--it is likely to be a most acceptable present to young or old, be their peculiar taste for religion, moral, poetry, history, or romance." -- <emph rend="ital">Christian Observer</emph>.
-               </p><lb/>
+                  <emph rend="bold medFont"><emph rend="ac">Ye Maiden</emph> and <emph rend="ac"
+                        >Married Life</emph> of <emph rend="ac">Mary Powell</emph>.</emph><lb/>
+                  Afterwards <emph rend="sc">Mistress Milton</emph>. New Edition, in post 8vo, with
+                  Portrait. Price 7s. 6d. antique.<lb/> "This is a charming little book; and whether
+                  we regard its subject, cleverness, or delicacy of sentiment and expression--to say
+                  nothing of its type and orthography--it is likely to be a most acceptable present
+                  to young or old, be their peculiar taste for religion, moral, poetry, history, or
+                  romance." -- <emph rend="ital">Christian Observer</emph>. </p>
+               <lb/>
             </div>
             <div type="ad" xml:id="queenPhilippa">
                <p>
-                  <emph rend="bold medFont"><emph rend="ac">Queene Philippa's Golden Booke</emph>. Handsomely</emph><lb/>
-                  bound and gilt, with Illuminations.
-               </p><lb/>
+                  <emph rend="bold medFont"><emph rend="ac">Queene Philippa's Golden Booke</emph>.
+                     Handsomely</emph><lb/> bound and gilt, with Illuminations. </p>
+               <lb/>
             </div>
             <div type="ad" xml:id="yeHousehold">
                <p>
-                  <emph rend="bold medFont"><emph rend="ac">Ye Household of Sir Thomas More</emph>. Libellus a</emph><lb/>
-                  Margareta More, quindecim* annos nata, Chelseiae inceptus. Uniform with "<persName>Mary Powell</persName>."
-               </p>
+                  <emph rend="bold medFont"><emph rend="ac">Ye Household of Sir Thomas More</emph>.
+                     Libellus a</emph><lb/> Margareta More, quindecim* annos nata, Chelseiae
+                  inceptus. Uniform with "<persName>Mary Powell</persName>." </p>
             </div>
             <closer>
-               <emph rend="ac medFont">Arthur Hall, Virtue, and Co., 25, Paternoster Row.</emph><lb/>
-               Reed and Pardon, Printers Paternoster Row.
-            </closer>
-         </div>      
+               <emph rend="ac medFont">Arthur Hall, Virtue, and Co., 25, Paternoster
+               Row.</emph><lb/> Reed and Pardon, Printers Paternoster Row. </closer>
+         </div>
          <div type="ad" xml:id="newLondon">
             <pb n="66"/>
-            <head><emph rend="bold ac medFont">New London Weekly Newspaper, Price Fourpence,</emph></head><lb/>
+            <head><emph rend="bold ac medFont">New London Weekly Newspaper, Price
+               Fourpence,</emph></head>
+            <lb/>
             <p>
                <emph rend="ital">Will be Published on Saturday, the 15th of May.</emph><lb/>
-               <emph rend="bold medFont">A Presentation Plate <emph rend="ac">Gratis</emph>! Cost Engraving,<lb/>
-                  Four Hundred Guineas.</emph><lb/>
-               <emph rend="ital">A Beautiful Print, the</emph><emph rend="sc">Origin of the Stocking-Loom</emph><emph rend="ital">, painted by</emph><emph rend="ac">Alfred Elmore</emph>, A.R.A., and <emph rend="ital">Engraved on <emph rend="ac">Steel</emph> by</emph><emph rend="ac">Francis Hol</emph><emph rend="ital">, (published at £1 1s.) will be presented,</emph> <emph rend="ac">Gratis</emph><emph rend="ital">, to Subscribers, with the Thirteenth Number.</emph><lb/>
+               <emph rend="bold medFont">A Presentation Plate <emph rend="ac">Gratis</emph>! Cost
+                  Engraving,<lb/> Four Hundred Guineas.</emph><lb/>
+               <emph rend="ital">A Beautiful Print, the</emph><emph rend="sc">Origin of the
+                  Stocking-Loom</emph><emph rend="ital">, painted by</emph><emph rend="ac">Alfred
+                  Elmore</emph>, A.R.A., and <emph rend="ital">Engraved on <emph rend="ac"
+                     >Steel</emph> by</emph><emph rend="ac">Francis Hol</emph><emph rend="ital">,
+                  (published at £1 1s.) will be presented,</emph>
+               <emph rend="ac">Gratis</emph><emph rend="ital">, to Subscribers, with the Thirteenth
+                  Number.</emph><lb/>
                <emph rend="sc">This Sketch Represents the</emph>
-<emph rend="ac">Steel Engraving</emph>
-<emph rend="sc">of the</emph>
-<emph rend="ac">Origin of the Stocking-Loom</emph>, <emph rend="sc">the size of which
-is 22in, by 16 1/2in</emph>.<lb/>
+               <emph rend="ac">Steel Engraving</emph>
+               <emph rend="sc">of the</emph>
+               <emph rend="ac">Origin of the Stocking-Loom</emph>, <emph rend="sc">the size of which
+                  is 22in, by 16 1/2in</emph>.<lb/>
                <figure type="image" place="center">
-<graphic url="https://github.com/turng/txtds404_SP25/blob/main/group04/TEIBP/src/content/66graphic.png"/>
-</figure><lb/>
+                  <graphic
+                     url="https://github.com/turng/txtds404_SP25/blob/main/group04/TEIBP/src/content/66graphic.png"
+                  />
+               </figure><lb/>
                <emph rend="smallFont">[William Lee, of St. Johns College, Cambridge, was about the
-1589 expelled from the University for marrying contrary to the statutes. Having no
-fortune, the wife was obliged to contribute to their joint support by knitting;
-and Lee, while watching the motion of her fingers, conceived the idea of imitating
-those movements by a machine.</emph><lb/>
+                  1589 expelled from the University for marrying contrary to the statutes. Having no
+                  fortune, the wife was obliged to contribute to their joint support by knitting;
+                  and Lee, while watching the motion of her fingers, conceived the idea of imitating
+                  those movements by a machine.</emph><lb/>
                <emph rend="ac">The</emph><lb/>
                <emph rend="ac bold hugeFont">London Weekly Paper,</emph><lb/>
                <emph rend="ac">And</emph><lb/>
                <emph rend="hugeFont fancyFont">Organ of the Middle Classes.</emph><lb/>
                <emph rend="ac">A Record of Political, Domestic, and Foreign News, Literature, Arts,
-Science, etc.</emph><lb/>
+                  Science, etc.</emph><lb/>
                <emph rend="sc">Under the Direction of</emph><lb/>
                <emph rend="medFont ac">William Jerdan, Esq</emph>.,<lb/>
                <emph rend="ital">(Late Editor of the Literary Gazette.)</emph><lb/>
-               <emph rend="medFont ac">To the Middle Classes.</emph><lb/>
-               In offering the <emph
-rend="sc">London Weekly Paper</emph> to represent you in that great and still growing power, the Parliament of the British Press, we are aware that, previous to giving us your sufferages, you will demand--and justly--a full, clear, and candid statement of the part we propose to act on this great stage of Social and Political Life. With candour then we say, if we are returned, (and as those Members of Parliament who represent the larger constituencies are those whose opinions are attached the greater weight, so the greater number of votes you register in <pb
-n="67"/>our favor the greater will be our influence, and consequently our sphere of usefulness,) that it is our purpose to enforce two high principles: I. Social Improvement; II. Political Reform.<lb/>
-               With our Social Duties then we will commence. We desire to supply a want long felt by a large portion of the Public: -- <emph rend="ital">viz</emph>, a <emph rend="sc">Weekly Paper</emph> that shall at once embrace all the <emph rend="ital">news and topics of the week</emph>, and, at the same time, maintain a <emph rend="ital">higher literary character</emph> than has generally been assumed by the weekly press. It will be of the full size, consisting of sixty-four columns, printed on superior paper, from bold, clear type.<lb/>
-               As our <emph rend="sc">London Weekly Paper</emph> is especially intended for the Family Circle, the utmost care will be taken to preserve, throughout, a strictly Moral Tone, and with this view, <emph rend="ital">all advertisements of an objectionable
-character will be carefully excluded</emph>. The proceedings of the Law and Police Courts will be fully reported, and no pains will be spared to obtain the best and latest Foreign, Town, and Country News, with Accurate Accounts of Public Meetings, Lectures, Exhibitions, &amp;c. Carefully digested Reports of the Parliamentary Proceedings and Debates will also be given. Due attention will be paid to the Markets, Funds, Railways, Sporting Intelligence, &amp;c.<lb/>
-               We intend making the Reviews of New Books, Science, Archaeology, the Fine Arts, Music, the Theatres, &amp;c., especial features: this portion will be confided to gentlemen distinguised by their attainments in the Arts, Science, and Literature.<lb/>
-<emph rend="ac">A Principal Novelty</emph> in this Paper, distinguishing it from all others, will be the devotion, from week to week, of a portion of its Columns <emph rend="ital">to the <emph rend="ac">History of the Origin</emph> of contemporary events, with Biographical notices of persons lately sprung into notoriety</emph>. Thus, we shall not think it enough to record a passing occurrence, but when it possesses anny importance, make it a portion of our duty to give the particular of such event, and the <emph rend="ital">cause</emph> which led to it. It has been a matter of complaint, that, in the newspapers generally, great political incidents as they occur are brought <emph rend="ital">abruptly</emph> before the public, without that sort of information relating to their <emph rend="ital">antecedents</emph> which would make them intelligible to the general reader; this defect we hope to remedy.<lb/>
-               But, while we devote a portion of our space to all these subjects, the Political Department of our Paper will be earnestly conducted, nor shall we shrink, in the slightest degree, from the responsibility attached to it. We will honestly advocate the great cause of National Progress, and we need scarcely add the continuance of the free and enlightened Commercial Policy which has so largely contributed to the present material comforts of the humbler classes, and thus to the general prosperity of the country: while we no less firmly support, on the other hand, the interests of Social Order against Mob Despotism, and the great principles of Constitutional Liberty against Individual or Combined Oppression.<lb/>
-               With regard to the Church, we profess ourselves Staunch Protestants, but we shall advocate the cause of Religious Liberty, and do all in our power to promote Reform of Abuses which have crept into Ecclesiastical Establishments. In short, we shall suport deliberate and well-conducted Reform wherever it is required, in Church or in State, in Law, or other Learned Professions, in Corporate Bodies and Institutions, in the Commerical and Colonial Relations of the Kingdom, in Education, and in everyhthing which regards the Social Condition and Social Comforts of our Countrymen. It is for them that our <emph rend="sc">Paper</emph> is designed; we shall espouse the cause of no sect or party; but, whatever set of men may be in power, we shall judge every Measure of Government only by its intrinsic merits and the benefits it is likely to secure for the country.<lb/>
-               An Edition will be published on Friday, in time for the Evening Mails for the country, and the last Edition on Saturday evening at Six o'clock, which will contain the latest general news, the market and commercial intelligence, with quotations of prices corrected to the hour of going to press.<lb/>
-               Orders will be attended to by all News-vendors throughout the United Kingdom; or the Publisher will send it directly from the office upon the receipt of a Quarter's Subscription, <emph rend="ital">viz</emph>., 4s. 4d.<lb/>
-               Money orders to be made payable to <persName>Frederick Tallis</persName>, 1, Crane-court, Fleet-street.<lb/>
-               <emph rend="medFont ac">London:<lb/>
-               Published by <persName>Frederick Tallis</persName>, 1, Crane Court, Fleet Street.</emph>
+               <emph rend="medFont ac">To the Middle Classes.</emph><lb/> In offering the <emph
+                  rend="sc">London Weekly Paper</emph> to represent you in that great and still
+               growing power, the Parliament of the British Press, we are aware that, previous to
+               giving us your sufferages, you will demand--and justly--a full, clear, and candid
+               statement of the part we propose to act on this great stage of Social and Political
+               Life. With candour then we say, if we are returned, (and as those Members of
+               Parliament who represent the larger constituencies are those whose opinions are
+               attached the greater weight, so the greater number of votes you register in <pb
+                  n="67"/>our favor the greater will be our influence, and consequently our sphere
+               of usefulness,) that it is our purpose to enforce two high principles: I. Social
+               Improvement; II. Political Reform.<lb/> With our Social Duties then we will commence.
+               We desire to supply a want long felt by a large portion of the Public: -- <emph
+                  rend="ital">viz</emph>, a <emph rend="sc">Weekly Paper</emph> that shall at once
+               embrace all the <emph rend="ital">news and topics of the week</emph>, and, at the
+               same time, maintain a <emph rend="ital">higher literary character</emph> than has
+               generally been assumed by the weekly press. It will be of the full size, consisting
+               of sixty-four columns, printed on superior paper, from bold, clear type.<lb/> As our
+                  <emph rend="sc">London Weekly Paper</emph> is especially intended for the Family
+               Circle, the utmost care will be taken to preserve, throughout, a strictly Moral Tone,
+               and with this view, <emph rend="ital">all advertisements of an objectionable
+                  character will be carefully excluded</emph>. The proceedings of the Law and Police
+               Courts will be fully reported, and no pains will be spared to obtain the best and
+               latest Foreign, Town, and Country News, with Accurate Accounts of Public Meetings,
+               Lectures, Exhibitions, &amp;c. Carefully digested Reports of the Parliamentary
+               Proceedings and Debates will also be given. Due attention will be paid to the
+               Markets, Funds, Railways, Sporting Intelligence, &amp;c.<lb/> We intend making the
+               Reviews of New Books, Science, Archaeology, the Fine Arts, Music, the Theatres,
+               &amp;c., especial features: this portion will be confided to gentlemen distinguised
+               by their attainments in the Arts, Science, and Literature.<lb/>
+               <emph rend="ac">A Principal Novelty</emph> in this Paper, distinguishing it from all
+               others, will be the devotion, from week to week, of a portion of its Columns <emph
+                  rend="ital">to the <emph rend="ac">History of the Origin</emph> of contemporary
+                  events, with Biographical notices of persons lately sprung into notoriety</emph>.
+               Thus, we shall not think it enough to record a passing occurrence, but when it
+               possesses anny importance, make it a portion of our duty to give the particular of
+               such event, and the <emph rend="ital">cause</emph> which led to it. It has been a
+               matter of complaint, that, in the newspapers generally, great political incidents as
+               they occur are brought <emph rend="ital">abruptly</emph> before the public, without
+               that sort of information relating to their <emph rend="ital">antecedents</emph> which
+               would make them intelligible to the general reader; this defect we hope to
+               remedy.<lb/> But, while we devote a portion of our space to all these subjects, the
+               Political Department of our Paper will be earnestly conducted, nor shall we shrink,
+               in the slightest degree, from the responsibility attached to it. We will honestly
+               advocate the great cause of National Progress, and we need scarcely add the
+               continuance of the free and enlightened Commercial Policy which has so largely
+               contributed to the present material comforts of the humbler classes, and thus to the
+               general prosperity of the country: while we no less firmly support, on the other
+               hand, the interests of Social Order against Mob Despotism, and the great principles
+               of Constitutional Liberty against Individual or Combined Oppression.<lb/> With regard
+               to the Church, we profess ourselves Staunch Protestants, but we shall advocate the
+               cause of Religious Liberty, and do all in our power to promote Reform of Abuses which
+               have crept into Ecclesiastical Establishments. In short, we shall suport deliberate
+               and well-conducted Reform wherever it is required, in Church or in State, in Law, or
+               other Learned Professions, in Corporate Bodies and Institutions, in the Commerical
+               and Colonial Relations of the Kingdom, in Education, and in everyhthing which regards
+               the Social Condition and Social Comforts of our Countrymen. It is for them that our
+                  <emph rend="sc">Paper</emph> is designed; we shall espouse the cause of no sect or
+               party; but, whatever set of men may be in power, we shall judge every Measure of
+               Government only by its intrinsic merits and the benefits it is likely to secure for
+               the country.<lb/> An Edition will be published on Friday, in time for the Evening
+               Mails for the country, and the last Edition on Saturday evening at Six o'clock, which
+               will contain the latest general news, the market and commercial intelligence, with
+               quotations of prices corrected to the hour of going to press.<lb/> Orders will be
+               attended to by all News-vendors throughout the United Kingdom; or the Publisher will
+               send it directly from the office upon the receipt of a Quarter's Subscription, <emph
+                  rend="ital">viz</emph>., 4s. 4d.<lb/> Money orders to be made payable to
+                  <persName>Frederick Tallis</persName>, 1, Crane-court, Fleet-street.<lb/>
+               <emph rend="medFont ac">London:<lb/> Published by <persName>Frederick
+                     Tallis</persName>, 1, Crane Court, Fleet Street.</emph>
             </p>
          </div>
       </body>
@@ -710,25 +1299,33 @@ character will be carefully excluded</emph>. The proceedings of the Law and Poli
                through the publishing company Chapman and Hall. Boz's work, popularly known back
                then as the <hi rend="italics">Pickwick Papers</hi>, were selling as much as 40,000
                copies per month in 1836. Nevertheless, Dickens is considered as the first already
-               commercially successful author, as he already finished his 8th novel -- <hi rend="italics">David Copperfield</hi>, who then published in serialized form. See
+               commercially successful author, as he already finished his 8th novel -- <hi
+                  rend="italics">David Copperfield</hi>, who then published in serialized form. See
                   <ref type="biblio" target="steinlight2006">Steinlight, 2006</ref>.</note>
             <note xml:id="n2">Although this appears to be a letter to Charles Dickens, it is an
                adevertisement, nonetheless. In this sort of letter, the company thanked Dickens for
-               his work on Bleak House and also mentioned his other popular work such as <hi rend="italics">David Copperfield</hi>, to perhaps show sincerity, and then went on
+               his work on Bleak House and also mentioned his other popular work such as <hi
+                  rend="italics">David Copperfield</hi>, to perhaps show sincerity, and then went on
                to promote and rave about their products. This strategy of connecting the
                advertisement to the source material, either to Bleak House or to Charles Dickens
-               himself, is seen in other ads of those days. See for example <ref type="biblio" target="li2018">Li, 2018</ref>.</note>
+               himself, is seen in other ads of those days. See for example <ref type="biblio"
+                  target="li2018">Li, 2018</ref>.</note>
             <note xml:id="byron"><persName><roleName>Lord</roleName><forename>George</forename>
-                  Gordon <surname>Byron</surname></persName>, <date type="birth" when="1788-01-01">January 22, 1788</date>-<date type="death" when="1824-04-19">April 19,
+                  Gordon <surname>Byron</surname></persName>, <date type="birth" when="1788-01-01"
+                  >January 22, 1788</date>-<date type="death" when="1824-04-19">April 19,
                   1824</date></note>
-            <note xml:id="disraeliB"><persName><forename>Benjamin</forename><surname>Disraeli</surname></persName>,
-                  <date type="birth" when="1804-12-21">December 21, 1804</date>-<date type="death" when="1881-04-19">April 19, 1881</date></note>
+            <note xml:id="disraeliB"
+                     ><persName><forename>Benjamin</forename><surname>Disraeli</surname></persName>,
+                  <date type="birth" when="1804-12-21">December 21, 1804</date>-<date type="death"
+                  when="1881-04-19">April 19, 1881</date></note>
             <note xml:id="Dick"><persName><surname>Dickens</surname>,
-                  <forename>Charles</forename></persName>, <date type="birth" when="1812-02-17">February 17, 1812</date>-<date type="death" when="1870-06-09">June 9,
+                  <forename>Charles</forename></persName>, <date type="birth" when="1812-02-17"
+                  >February 17, 1812</date>-<date type="death" when="1870-06-09">June 9,
                1870</date></note>
             <note xml:id="n3"><persName><roleName>Rev</roleName>. <forename>John</forename>
                   <surname>Cumming</surname>
-                  <roleName>D. D.</roleName></persName>, (<date type="birth" when="1807">1807</date>-<date type="death" when="1881">1881</date>) was a prolific writer and
+                  <roleName>D. D.</roleName></persName>, (<date type="birth" when="1807"
+                  >1807</date>-<date type="death" when="1881">1881</date>) was a prolific writer and
                a notable minister of the National Scottish Church. He was most known for his
                interest in the prophesied apocalypse, his anti-Catholic views, and his dislike
                towards Rome</note>
@@ -738,21 +1335,26 @@ character will be carefully excluded</emph>. The proceedings of the Law and Poli
                <bibl xml:id="steinlight2006" type="article"><author><surname>Steinlight</surname>,
                         <forename>Emily</forename></author>.<title level="a">'Anti-Bleak House':
                      Advertising and the Victorian Novel</title>.<title level="j">Narrative</title>,
-                  vol. <biblScope unit="volume">14</biblScope> no. <biblScope unit="issue">2</biblScope>, <date>2006</date>, p.<biblScope unit="page">132-162</biblScope>. <publisher>Project MUSE</publisher>, <ptr target="https://dx.doi.org/10.1353/nar.2006.0007"/>.</bibl>
+                  vol. <biblScope unit="volume">14</biblScope> no. <biblScope unit="issue"
+                     >2</biblScope>, <date>2006</date>, p.<biblScope unit="page"
+                  >132-162</biblScope>. <publisher>Project MUSE</publisher>, <ptr
+                     target="https://dx.doi.org/10.1353/nar.2006.0007"/>.</bibl>
                <bibl xml:id="li2018"><author><surname>Li</surname>,
                      <forename>Sumiao</forename></author>.<title level="a">FASHION, FASHIONABLE
                      INTELLIGENCE, AND THE VICTORIAN NOVEL: THE VERSATILE CASE OF BLEAK
                      HOUSE</title>.<title level="j">Victorian Literature and Culture</title>, vol.
-                     <biblScope unit="volume">46</biblScope>, no. <biblScope unit="issue">1</biblScope>, <date>2018</date>, pp.<biblScope unit="page">23-55</biblScope>.
+                     <biblScope unit="volume">46</biblScope>, no. <biblScope unit="issue"
+                     >1</biblScope>, <date>2018</date>, pp.<biblScope unit="page">23-55</biblScope>.
                      <ptr target="https://doi.org/10.1017/S1060150317000316"/>.</bibl>
                <bibl xml:id="cummingJohn"><author><persName><surname>Ellison</surname>,
                            <forename>Robert</forename></persName></author> and
                            <author><persName><surname>Carol</surname>
-                        <forename>Engelhardt</forename></persName></author>.
-                  “<title level="a"><persName><forename>John</forename>
-                        <surname>Cumming</surname></persName> -- An Introduction.</title>” <publisher>The
-                  Victorian Web</publisher>, <date when="2002-08-27">27 Aug. 2002</date>, <ptr target="https://victorianweb.org/religion/sermons/rhe12.html"/>.
-               </bibl>
+                        <forename>Engelhardt</forename></persName></author>. “<title level="a"
+                           ><persName><forename>John</forename>
+                        <surname>Cumming</surname></persName> -- An Introduction.</title>”
+                     <publisher>The Victorian Web</publisher>, <date when="2002-08-27">27 Aug.
+                     2002</date>, <ptr target="https://victorianweb.org/religion/sermons/rhe12.html"
+                  />. </bibl>
             </listBibl>
          </div>
       </back>

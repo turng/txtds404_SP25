@@ -2,6 +2,9 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -69,6 +72,7 @@
    <text>
       <front xml:lang="en">
          <div type="editorial_intro">
+            <head>Editorial Intro</head>
             <p>Sherlock Holmes is such a widely known character it’s difficult to find a way to
                introduce him. He retains global popularity even after almost one hundred years since
                his last published adventure by Sir Arthur Conan Doyle. There are fifty-six short
@@ -116,8 +120,8 @@
                   >August, 1901.</date> No. 128.<lb/></title>
             <title type="novel">The Hound of the Baskervilles.* <lb/>ANOTHER ADVENTURE
                OF<lb/>SHERLOCK HOLMES.</title>
-            <abbr rend="caps">By Conan
-            Doyle.</abbr><!-- cannot add a rend font in this author section--></head>
+            <title type="author">By Conan
+            Doyle.</title><!-- cannot add a rend font in this author section--></head>
          <cb/>
          <div type="chapter" n="1" rend="title">
             <ab rend="caps">Chapter I.</ab>
