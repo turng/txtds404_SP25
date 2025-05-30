@@ -14,7 +14,6 @@
                     .contentblock{
                     padding:1%;
                     }
-                    <xsl:apply-templates select="//tei:rendition"/>
                 </style>
             </head>
             <body>
@@ -26,11 +25,6 @@
                 </div>
             </body>
         </html>
-    </xsl:template>
-    <xsl:template match="tei:rendition">
-        {
-        <xsl:apply-templates/>
-        }
     </xsl:template>
     <xsl:template match="tei:titleStmt/tei:title">
         <h1><xsl:apply-templates/></h1>
@@ -54,19 +48,20 @@
     </xsl:template>
     <xsl:template match="tei:sourceDesc">
         <div>
+            Print editions used in the creation of this digital edition:
             <xsl:apply-templates/>
         </div>
     </xsl:template>
     <xsl:template match="tei:sourceDesc//tei:title">
-        <h3><xsl:apply-templates/></h3>
+        <h4><xsl:apply-templates/></h4>
     </xsl:template>
     <xsl:template match="tei:sourceDesc//tei:author">
-        <h4><xsl:apply-templates/></h4>
+        <p><xsl:apply-templates/></p>
     </xsl:template>
     <xsl:template match="tei:sourceDesc//tei:publisher">
         <p><xsl:apply-templates select="tei:name"/><br/>
-        <xsl:apply-templates select="//tei:addrLine"/><br/>
-        <xsl:apply-templates select="//tei:settlement"/>, <xsl:apply-templates select="//tei:country"/></p>
+        <xsl:apply-templates select="tei:address/tei:addrLine"/><br/>
+        <xsl:apply-templates select="tei:address/tei:settlement"/>, <xsl:apply-templates select="tei:address/tei:country"/></p>
     </xsl:template>
     <xsl:template match="tei:sourceDesc//tei:note">
         <p><xsl:apply-templates/></p>
@@ -77,15 +72,28 @@
         </div>
     </xsl:template>
     <xsl:template match="tei:head">
-        <h4><xsl:apply-templates/></h4>
+        <h4 style="font-weight:normal;"><xsl:apply-templates/></h4>
     </xsl:template>
     <xsl:template match="tei:div">
+        <hr></hr>
         <div class="contentblock">
             <xsl:apply-templates/>
         </div>
     </xsl:template>
-    <xsl:template match="tei:text//tei:p">
+    <xsl:template match="tei:div[@xml:id='Bleak_House_Ad']//tei:p">
         <p><xsl:apply-templates/></p>
+    </xsl:template>
+    <xsl:template match="tei:div[@xml:id='Encyclopedia_Ad']//tei:p">
+        <p><xsl:apply-templates/></p>
+    </xsl:template>
+    <xsl:template match="tei:div[@xml:id='Cheap_Edition']//tei:p">
+        <p><xsl:apply-templates/></p>
+    </xsl:template>
+    <xsl:template match="tei:div[@xml:id='Dedication']//tei:p">
+        <p style="text-align:center"><xsl:apply-templates/></p>
+    </xsl:template>
+    <xsl:template match="tei:div[@xml:id='Chapters_1']//tei:p">
+        <p style="margin:none"><xsl:apply-templates/></p>
     </xsl:template>
     <xsl:template match="tei:quote">
         <p><xsl:apply-templates/></p>
