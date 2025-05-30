@@ -39,8 +39,32 @@
         <p><xsl:apply-templates/></p>
     </xsl:template>
     
+    <xsl:template match="tei:pb">
+        <hr><xsl:apply-templates/></hr>
+    </xsl:template>
+    
     <xsl:template match="tei:head">
         <h1><xsl:apply-templates/></h1>
+    </xsl:template>
+    
+    <xsl:template match="tei:back">
+        <div class="back"><xsl:apply-templates/></div>
+    </xsl:template>
+    
+    <xsl:template match="tei:div[@type='endnotes']">
+        <div class="endnotes"><xsl:apply-templates/></div>
+    </xsl:template>
+    
+    <xsl:template match="tei:note">
+        <div class="note"><xsl:apply-templates/></div>
+    </xsl:template>
+    
+    <xsl:template match="tei:div[@type='bibliography']">
+        <div class="bibliography"><xsl:apply-templates/></div>
+    </xsl:template>
+    
+    <xsl:template match="tei:bibl">
+        <div class="bibl"><xsl:apply-templates/></div>
     </xsl:template>
     
 </xsl:stylesheet>
