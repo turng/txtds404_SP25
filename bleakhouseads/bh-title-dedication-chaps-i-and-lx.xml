@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bleak House</title>
+                <author>Charles Dickens</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Bradbury and Evans</publisher>
+                <pubPlace>London</pubPlace>
+                <date>1853</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Original text of Bleak House</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+    <text>
+        <body>
+            <div>
+                <head>BLEAK HOUSE.</head>
+                <div rend="spacing">
+                    <p>BY</p>
+                </div>
+                <div rend="smallspacing">
+                    <p><seg source="boldtext">CHARLES DICKENS.</seg></p>
+                </div>
+
+                <div rend="spacing smalltext">
+                    <div type="rule"/>
+                    <div>
+                        <p>WITH ILLUSTRATIONS BY H. K. BROWNE.</p>
+                    </div>
+                    <div type="rule"/>
+                </div>
+
+                <div rend="spacing">
+                    <p> LONDON : <lb/> BRADBURY AND EVANS, 11, BOUVERIE STREET. <lb/> 1853. </p>
+                </div>
+            </div>
+
+            <div>
+                <div rend="spacing">
+                    <p>DEDICATED,</p>
+                </div>
+                <div rend="smallspacing smallertext">
+                    <p>AS A REMEMBRANCE OF OUR FRIENDLY UNION,</p>
+                </div>
+                <div rend="smallspacing smalltext">
+                    <p>TO MY COMPANIONS</p>
+                </div>
+                <div rend="smallspacing smallertext">
+                    <p>IN THE</p>
+                </div>
+                <div rend="smallspacing">
+                    <p>GUILD OF LITERATURE AND ART.</p>
+                </div>
+            </div>
+
+            <div>
+                <div rend="spacing">
+                    <head>BLEAK HOUSE.</head>
+                </div>
+                <div rend="smallspacing">
+                    <div type="rule"/>
+                    <div type="rule"/>
+                    <div rend="smallspacing">
+                        <p>CHAPTER I.</p>
+                    </div>
+                </div>
+                <div rend="smallspacing smalltext">
+                    <p>IN CHANCERY.</p>
+                </div>
+
+                <div rend="booktext smallspacing smalltext">
+                    <p> LONDON. Michaelmas term lately over, and the Lord Chancellor sitting in
+                        Lincoln's Inn Hall. Implacable November weather. As much mud in the streets,
+                        as if the waters had but newly retired from the face of the earth, and it
+                        would not be wonderful to meet a Megalosaurus, forty feet long or so,
+                        waddling like an elephantine lizard up Holborn-hill. Smoke lowering down
+                        from chimney-pots, making a soft black drizzle, with flakes of soot in it as
+                        big as full-grown snow-flakes—gone into mourning, one might imagine, for the
+                        death of the sun. Dogs, undistinguishable in mire. Horses, scarcely better;
+                        splashed to their very blinkers. Foot passengers, jostling one another's
+                        umbrellas, in a general infection of ill-temper, and losing their foot-hold
+                        at street-corners, where tens of thousands of other foot passengers have
+                        been slipping and sliding since the day broke (if the day ever broke),
+                        adding new deposits to the crust upon crust of mud, sticking at those points
+                        tenaciously to the pavement, and accumulating at compound interest. </p>
+                </div>
+                <div rend="spacing">
+                    <div type="rule"/>
+                    <div type="rule"/>
+                    <div rend="smallspacing">
+                        <p>CHAPTER LX.</p>
+                    </div>
+                </div>
+                <div rend="smallspacing smalltext">
+                    <p>PERSPECTIVE.</p>
+                </div>
+
+                <div rend="booktext smallspacing smalltext">
+                    <p> I PROCEED to other passages of my narrative.  From the goodness of all about
+                        me, I derived such consolation as I can never think of unmoved. I have
+                        already said so much of myself, and so much still remains, that I will not
+                        dwell upon my sorrow.  I had an illness, but it was not a long one; and I
+                        would avoid even this mention of it, if I could quite keep down the
+                        recollection of their sympathy. </p>
+                </div>
+                <div rend="spacing">
+                    <div type="rule"/>
+                    <div type="rule"/>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>
