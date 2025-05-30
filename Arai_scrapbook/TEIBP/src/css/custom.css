@@ -1,12 +1,7 @@
-body {
-  background-color: green !important; /*testing lol*/
-}
-
 .halfOfCityClipping {
     border: 3px solid black;
     width: 260px;
     padding: 5px;
-    color: red; /* testing lol */
 }
 
 .lineSpacing {
