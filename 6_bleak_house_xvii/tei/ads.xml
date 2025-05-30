@@ -18,8 +18,8 @@
   </teiHeader>
   <text>
       <body>
-		    <div>
-		       <!--pg 41 of ads-->
+	<div>
+	<!--pg 41 of ads-->
             <div type="table">
               <div rend="serif">
                    <p>12, CHEAPSIDE, CITY.</p>
@@ -486,6 +486,122 @@
                   <p><hi rend="caps">BRADBURY &amp; EVANS, 11, BOUVERIE STREET.</hi></p>
                </div>
             </div>
+
+						<!--pg 5 of ads-->
+						<div rend="serif">
+	            <div type="top">
+	               <head rend="caps"><hi rend="sc">advertisements</hi>.</head>
+	               <!--dbline-->
+	               <space type="dbline"/>
+	               
+	               <p rend="bserif">New Works.</p>
+	               
+	               <!--sgline-->
+	               <space type="sglinesh"/>
+	            </div>            
+	            
+	            <div>
+	               <p><hi rend="it">Publishing in Monthly Parts, price One Shilling each,</hi></p> <!--it-->
+	               <p><hi rend="bserif">HANDLEY GROSS; or Mr. JORROCKS'S HUNT.</hi></p> <!--bserif-->
+	               <p><hi rend="caps">BY THE AUTHOR OF "MR. SPONGE'S TOUR."</hi></p>
+	               <p rend="sans"><hi rend="caps">ILLUSTRATED WITH LARGE COLOURED PLATES &amp; NUMEROUS WOODCUTS BY JOHN LEECH.</hi></p> <!--sans-->
+	               <p><hi rend="it">Five Parts are published, and may be had by order of all Booksellers and Newsvendors.</hi></p> <!--it-->
+	               
+	               <!--sgline-->
+	               <space type="sglinesh"/>
+	            </div>
+	            
+	            <div>
+	               <p>Price 7s. in cloth, the Sixth Edition of</p>
+	               <p rend="bserif">THE LADIES' COMPANION TO THE FLOWER.</p>
+	               <p rend="bserif">GARDEN.</p> <!--bserif-->
+	               
+	               <p>Being an Alphabetical Arrangement of all the Ornamental Plants grown in Gardens and Shrubberies;</p>
+	               <p>with full directions for their culture.</p>
+	               <p><hi rend="caps">BY MRS.LOUDON.</hi></p>
+	               <p><hi rend="sc">with considerable additions and corrected to the present time.</hi></p> <!--sc-->
+	               
+	               <!--sgline-->
+	               <space type="sglinesh"/>
+	            </div>
+	            
+	            <div>
+	               <p>Price 6s. in Cloth,</p>
+	               <p rend="bserif">A NEW EDITION OF VANITY FAIR.</p><!--bserif-->
+	               <p>By W. M. THACKERAY.</p>
+	               <p>"In forming our general estimate of this writer, we wish it to be understood as referring principally, if not
+	               exclusively, to 'Vanity Fair,' so immeasurably superior in our opinion is this to every other known production
+	               of his pen. The great charm of this work is its entire freedom from mannerism and affectation, both in style and 
+	               sentiment, - the confiding frankness with which the reader is addressed, -the thoroughbred carelessness with which
+	               the author permits the thoughts and feelings suggested by the situations to flow in their natural channel, as if
+	               conscious that nothing mean or unworthy could fall from him. In a word, the book is the work of a gentleman-
+	               one touch of nature makes the whole world kin, and here are touches of nature by the dozen." -<hi rend="it">Edinburgh Review</hi>.</p>
+	               
+	               <!--sgline-->
+	               <space type="sglinesh"/>
+	            </div>
+	            
+	            <div>
+	               <p>Complete in three volumes illustrated by 108 highly finished Coloured Plates, and 600 beautiful Wood</p>
+	               <p>Engravings. Price £4 19s. elegantly bound in cloth.</p>
+	               
+	               <p rend="bserif">PAXTON'S FLOWER-GARDEN.</p> <!--bserif-->
+	               <p><hi rend="caps">EDITED BY SIR JOSEPH PAXTON AND DR LINDLEY.</hi></p>
+	               
+	               <!--three stars--> <p>Each Volume may be had separately, price 33s. in cloth; or any of Parts, 1 to 36, price 2s. 6d. each, to</p>
+	               <p>complete sets.</p>
+	               
+	               <!--sgline-->
+	               <space type="sglinesh"/>
+	               
+	               <p><hi rend="caps">BRADBURY &amp; EVANS, 11, BOUVERIE STREET</hi></p>
+	            </div>
+	            
+	            <!--sgline-->
+	            <space type="sgline"/>
+	            
+	            <div>
+	               <head rend="sans"><hi rend="caps">OCEAN PARCELS DELIVERY COMPANY</hi>.</head> <!--sans-->
+	               <p rend="bserif"><hi>4, AGAR STREET, STRAND (Opposite Charing Cross Hospital.)</hi></p> <!--bserif-->
+	               <p><hi rend="caps"><hi rend="dropcaps">T</hi>HIS COMPANY</hi> has been formed with the view of supplying a cheap, rapid,
+	               and certain conveyance for small parcels, as well as large quantities of Goods by the best established
+	               Steamers and Sailing Vessels to all parts of the world. Every one having correspondents or relations abroad,
+	               must have felt the want of such a medium of communication; and it shall be the constant effort of the
+	               Company to supply this great desideratum, directing their attention to the three chief points - Rapidity,
+	               Certainty, and Cheapness. Despatches are regularly made up for Australia, India, North and South America,
+	               the West Indies, and the Continent of Europe, and all Parts of the World.</p>
+	               <p>Insurance effected free of Commission.</p>	
+	               <p>G. W. FIELD, Manager. </p><!--on the right-->
+	               
+	               <!--sgline-->
+	               <space type="sgline"/>
+	            </div>
+	            
+	            <div>
+	               <head rend="sans"><hi rend="bold">MOTHERS! MOTHERS!! MOTHERS!!!</hi></head><!--sans-->
+	               <figure>
+	                  <graphic url="https://www.gutenberg.org/files/49844/49844-h/images/crest.jpg"/>
+	                        <figDesc>A seal royal seal with two horses mirroring each other.</figDesc>
+	               </figure>
+	               <p><hi rend="caps"><hi rend="dropcaps">T</hi>HE BEST MEDICINE IN THE WORLD</hi> for <hi rend="caps">INFANTS</hi>
+	               <hi rend="caps">AND YOUNG CHILDREN IS ATKINSON AND BARKER'S ROYAL INFANTS'
+	               PRESERVATIVE</hi>-Under the Patronage of the Queen.-The high and universal
+	               celebrity which this medicine continues to maintain for the prevention and cure of those 
+	               disorders incident to infants; affording instant relief in convulsions, flatulency, affections of the bowels, 
+	               difficult teething, the thrush, rickets, measles, hooping-cough, cow-pox, or vaccine inoculation, and may be
+	               given with safety immediately after birth. It is no misnomer cordial!-no stupefactive, deadly narcotic!-
+	               but a veritable preserver of infants! Mothers would do well in always keeping it in the nursery. Many
+	               thousands of children are annually saved by this much-esteemed medicine, which is an immediate remedy,
+	               and the infants rather like it than otherwise.</p>
+	               <!--indent--><p>Prepared only by <hi rend="caps">ROBERT BARKER</hi>, Ollerenshaw Hall, Chapel-en-le-Frith, Derbyshire, late of Manchester,</p>
+	                  <p>(Chemist to Her most Gracious Majesty Queen Victoria), in bottles at 1s. 1?d., 2s.9d., 4s. 6d., and 11s. each.</p>
+	               <!--indent--><p>Sold by all druggists and medicine vendors throughout the United Kingdom.</p>
+	               <!--indent--><p><hi rend="caps">CAUTION</hi>.-Observe the name of <hi rend="sc">"atkinson &amp; barker,"</hi> on the Government Stamp. Established in</p>
+	               <p>the year 1793.</p>
+	            </div>
+	         </div>
+
+		
          </div>
       </body>
   </text>
