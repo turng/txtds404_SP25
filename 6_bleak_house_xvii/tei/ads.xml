@@ -307,7 +307,7 @@
                <p rend="bserif">39, OXFORD STREET,</p>
                <p rend="sc">(corner of newman street);</p>
                <p><hi rend="bold">Nos. 1 &amp; 2; Newman Street; and 4 &amp; 5, Perry's Place, London</hi>.</p>
-               <space type="dbline"/>
+               <space type="dblinesh"/>
                <p rend="sans"><hi rend="bold">BATHS AND TOILETTE WARE</hi>.</p>
                <p rend="thserif">WILLIAM S. BURTON</p>
                <p rend="bserif">HAS ONE LARGE SHOW ROOM</p>
@@ -318,7 +318,7 @@
                   A large assortment of Hot and Cold Plunge, Vapour, and Camp Shower Baths. Toilette Ware in great
                   variety, from 10s. 6d. to 45s. the Set of Three.</p>
                   
-               <space type="dbline"/>
+               <space type="dblinesh"/>
                  
                <p rend="bserif"><hi rend="caps">THE BEST SHOW OF IRON BEDSTEADS</hi> in the <hi rend="caps">KINGDOM</hi> is</p>
                <p>WILLIAM S. BURTON'S.</p>
@@ -329,7 +329,7 @@
                   Folding Bedsteads from 13s. 6d; Patent Iron Beadsteads, fitted with dove-tail joints and patent sacking, from
                   19s. 9d ; and Cots from 21s each. Handsome Ornamental Iron and Brass Bedsteads in great variety, from L3 15s. to L31.</p>
                   
-               <space type="dbline"/>
+               <space type="dblinesh"/>
                 
                <p rend="bserif">NEW FOLDING CHAIR BEDSTEAD.</p>
                <p>WILLIAM S. BURTON</p>
@@ -343,7 +343,7 @@
                <p>an amount of comfort and elegance long desiderated, but hitherto unattainable. Price L2 2s ; complete,
                   with best hair mattress and stuffed arms, £3 12s.</p>
                   
-               <space type="dbline"/>
+               <space type="dblinesh"/>
                   
                <p rend="sans"><hi rend="caps">PAPIER MÂCHÉ AND IRON TEA TRAYS</hi>.</p>
                <p>An assortment of <hi rend="caps">TEA TRAYS</hi> and <hi rend="caps">WAITERS</hi> wholly unprecedented, whether as to extent, variety, or</p>
@@ -358,7 +358,7 @@
                   the attention of Tavern and Coffee-house Keepers. Round and Gothic Waiters, Cake and Bread Baskets,
                   equally low.</p>
                   
-               <space type="dbline"/>
+               <space type="dblinesh"/>
                   
                <p>WILLIAM S. BURTON</p>
                <p rend="bserif">HAS TEN LARGE SHOW ROOMS</p>
@@ -375,7 +375,9 @@
             <div>
                <div type="header">
                   <head rend="sc">advertisements.</head>
+                  
                   <space type="dbline"/>
+                  
                   <p><hi rend="it">Publishing in Monthly Parts, price 2s, and in Weekly Numbers, price 6d.,</hi></p>
                   <p><hi rend="sc">the</hi></p>
                   <p>ENGLISH CYCLOPÆDIA.</p>
@@ -384,7 +386,7 @@
                   <p rend="bserif">AND ILLUSTRATED WITH FIVE THOUSAND WOOD ENGRAVINGS.</p>
                   <p><hi rend="sc">Conducted by</hi> <hi rend="caps">Mr. CHARLES KNIGHT</hi>.</p>
                </div>
-               <space type="sgline"/> <!--has diamond in middle-->
+               <space type="sglinesh"/> <!--has diamond in middle-->
                
                <div>
                   <p><hi rend="caps"><hi rend="dropcap">T</hi>he</hi> <hi rend="sc">"English Cyclopædia"</hi>
@@ -416,7 +418,7 @@
                   additions made to <hi rend="sc">Science</hi>, <hi rend="sc">History</hi> &amp;c., in the intervening period.</p>
                </div>
                
-               <space type="dbline"/>
+               <space type="dblinesh"/>
                
                <div type="col">
                   <head rend="sans"><hi rend="bold">OPINIONS OF THE PRESS</hi></head>
@@ -478,7 +480,7 @@
                   long series of most noble endeavours and successes."</p>
                </div>
             
-               <space type="sgline"/>
+               <space type="sglinesh"/>
                
                <div type="end">
                   <p><hi rend="caps">BRADBURY &amp; EVANS, 11, BOUVERIE STREET.</hi></p>
