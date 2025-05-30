@@ -34,7 +34,7 @@
                   <publisher>Dick &amp; Fitzgerald Publishers</publisher>
                   <pubPlace>New York</pubPlace>
                   <date>1869</date>
-            </bibl></p>
+               </bibl></p>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
@@ -53,10 +53,10 @@
             <titlePart>...</titlePart>
          </titlePage>
          <div type="editorial_intro">
-            <p>We chose to transcribe “How to Cook Potatoes, Apples, Eggs, Fish, Four Hundred Different Ways”
-               by Georgiana Hill, because we were interested in the history and how women used to
-               use cookbooks as a form of expression. <ref type="bibliography" target="rich1"
-                  >Georgiana Hill was a Victorian-era cookery writer, historian, and
+            <p>We chose to transcribe “How to Cook Potatoes, Apples, Eggs, Fish, Four Hundred
+               Different Ways” by Georgiana Hill, because we were interested in the history and how
+               women used to use cookbooks as a form of expression. <ref type="bibliography"
+                  target="rich1">Georgiana Hill was a Victorian-era cookery writer, historian, and
                   suffragist.</ref> While Georgiana Hill’s life story is not known extensively, her
                impact is illustrated in at least 21 known works, often about cooking, historical
                dress, and the life of women in Victorian England. Not only was Hill known for
@@ -81,6 +81,14 @@
          </div>
       </front>
       <body>
+         <div>
+            <figure type="coverimage">
+               <graphic url="CoverImage.jpg"/>
+               <figDesc>Image of the cover of the book. Includes the title, has images of the four
+                  key ingredients within a design with a red background. There is also a light blue
+                  design. The publishers name is shown, but not Georgiana Hill's. </figDesc>
+            </figure>
+         </div>
          <div type="chaptertitle">
             <head rend="caps">Various Ways of Cooking Apples</head>
          </div>
