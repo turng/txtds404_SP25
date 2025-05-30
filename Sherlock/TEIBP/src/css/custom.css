@@ -37,6 +37,6 @@ fw{
 }
 
 figure p[@rend="caps"]{
-    text-transform:uppercase
+    
     font-size:10px;
 }
