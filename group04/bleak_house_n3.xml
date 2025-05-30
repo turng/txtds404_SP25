@@ -208,7 +208,19 @@ highlighted distinctive elements within the advertisements that we believe offer
                      </address>
                   </location></p>
             </div>
-         </div>  
+         </div>
+         <div type="ad" xml:id="waverlyBrothers">
+            <pb n="3"/>
+            <head><hi rend="ac">Vol. I of a new library edition, uniform with the standard English authors of, The Waverly Novels,</hi></head>
+            <p><hi rend="ac">By Sir Walter Scott, Bart.</hi></p>
+            <p>Just published, in Demy 8vo., price nine shillings,</p>
+            <p>With frontispiece, by John Faed, R.S.A., Engraved by L. Stocke, and Vignette, by Birket Foster, Engraved by W. Forest</p>
+            <p><hi rend="ac">To be completed in twenty-five monthly volumes.</hi></p>
+            <p>No works of imagination of the same extent have ever been received with so great favour as the <hi rend="ac">Waverley novels</hi>.</p>
+            <p>Since their first publication that fewer than a <hi rend="ac">hundred and twenty thousand copies</hi> have been sold in this country, and at least as many in the United states. These have been published in a great variety of modes to suit the tastes of the public; but there has been long wanted an Edition in the octavo form, to range with the Standard English Authors, combining the advantages of a large type and portable size. This desiteratum it is proposed to supply by means of this series, denominated the <hi rend="ac bold">library edition</hi>, which will consist of <hi rend="ac">twenty-five volumes</hi>, demy 8vo., to be published Monthly. The printing, however, will proceed more rapidly, so that those who desire to complete their Sets before the termination of the periodical issue, will have an opportunity of doing so a considerable time before the <hi rend="italics">regular</hi> publication of the last volume.</p>
+               <p>Each volume will contain a complete novel or novels, illustrated with the Frontispiece and Vignette, painted and engraved by the most eminent artists of the day. The <hi rend="ac">library edition</hi> will contain all the latest corrections of the Author.
+            </p>
+         </div>
 	<div type="ad" xml:id="childsHistoryEngland">
             <pb n="9"/>
             <head><hi rend="ac hugeFont">A Child's History of England</hi></head>
