@@ -678,14 +678,15 @@ TEI head {
   display: block;
   font-family: Arvo, sans-serif;
   font-weight: normal;
+  text-align: center;
 }
 body > head {
   font-size: 140%;
-  text-indent: 50%;
+  text-align: center;
 }
 div > head {
   font-size: 140%;
-  text-indent: 50%;
+  text-align: center;
 }
 div > div > head {
   font-size: 140%;
