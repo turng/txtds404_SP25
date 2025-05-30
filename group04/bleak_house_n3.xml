@@ -211,6 +211,7 @@ highlighted distinctive elements within the advertisements that we believe offer
          </div>  
 	<div type="ad" xml:id="childsHistoryEngland">
             <pb n="9"/>
+            <head><hi rend="ac hugeFont">A Child's History of England</hi></head>
             <p rend="ac"><hi rend="ac"><hi rend="bigFont">The first volume of</hi><lb/>
                   <hi rend="hugeFont">A Child's History of England</hi><lb/><hi rend="bigFont">By
                            <persName><forename>Charles</forename>
@@ -223,9 +224,9 @@ highlighted distinctive elements within the advertisements that we believe offer
             <p><hi rend="ac">Bradbury and Evans, 11, Bouverie Street</hi></p>
          </div>
          <div type="ad" xml:id="magnallQuestions">
-            <p><hi rend="ac"><persName><surname>Mangnall</surname></persName>'s questions, by
+            <head><hi rend="ac"><persName><surname>Mangnall</surname></persName>'s questions, by
                         <persName><surname>Guy</surname></persName> and
-                        <persName><surname>Wright</surname></persName></hi>With an Historical
+                  <persName><surname>Wright</surname></persName></hi></head><p>With an Historical
                Frontispiece and Envgravings. New Edition corrected to the Present Time, by
                   <persName>Joseph Guy</persName>, Jun., of
                   <persName><surname>Magdalen</surname></persName> Hall, Oxford, Author of the
@@ -245,23 +246,59 @@ highlighted distinctive elements within the advertisements that we believe offer
                </address></p>
          </div>
          <div type="ad" xml:id="educationalTrusts">
-            <p><hi rend="bigFont">Educational Trusts.</hi></p>
-            <p><hi rend="ac">Free Boys</hi> <emph rend="italics">versus</emph> <hi rend="ac">Boarders;<lb/>or,<lb/>Free school revelations.</hi></p>
-            <p>On the 1st. of May will be published, price One Shilling, the First Number of the Free Schools of Worcestershire. By <hi rend="sc"><persName><forename>George</forename> <surname>Griffith</surname></persName></hi>, of Kidderminster. To be completed in about Eight Numbers.</p>
-            <p>London: <hi rend="sc"><persName><forename>Charles</forename> <surname>Gilfin</surname></persName></hi>. Dublin: <hi rend="sc">J.B. <surname>Gilfin</surname></hi>. Edinburgh: A. &amp; C. <hi rend="sc"><surname>Black</surname></hi>.</p>
+            <head rend="bigFont">Educational Trusts.</head>
+            <p><hi rend="ac">Free Boys</hi>
+               <emph rend="italics">versus</emph>
+               <hi rend="ac">Boarders;<lb/>or,<lb/>Free school revelations.</hi></p>
+            <p>On the 1st. of May will be published, price One Shilling, the First Number of the
+               Free Schools of Worcestershire. By <hi rend="sc"
+                        ><persName><forename>George</forename>
+                     <surname>Griffith</surname></persName></hi>, of Kidderminster. To be completed
+               in about Eight Numbers.</p>
+            <p>London: <hi rend="sc"><persName><forename>Charles</forename>
+                     <surname>Gilfin</surname></persName></hi>. Dublin: <hi rend="sc">J.B.
+                     <surname>Gilfin</surname></hi>. Edinburgh: A. &amp; C. <hi rend="sc"
+                     ><surname>Black</surname></hi>.</p>
          </div>
          <div type="ad" xml:id="instructionsForConcertina">
-            <p>Just Published,<lb/><hi rend="ac"><hi rend="bigFont"><hi rend="dropcap">I</hi>nstructions for the Con<lb/></hi>certina</hi> by <hi rend="ac"><persName><forename>Carlo</forename> <surname>Minasi</surname></persName></hi>, 42 pp. folio, 5s. The Third Edition (enlarged) of <hi rend="ac">Warren's Complete Instructions for the concertina</hi>, 10s. 6d.</p>
-            <p><hi rend="ac">Instructions for the harmonium</hi>, by <hi rend="ac"><persName><forename>Joseph</forename> <surname>Warren</surname></persName></hi>, 4s. Also, suitable for the same <hi rend="ac"><persName><surname>Lindley</surname></persName>'s practical introduction to the organ</hi>, a New Eidtion, revised and enlarged by <persName>J. <hi rend="ac"><surname>Warren</surname></hi>; containing 41 Preludes, Introductary, Middle, and Full Voluntaries, and 37 Psalm Tunes with Interludes, 128pp., oblong 8vo, 5s.</persName></p>
-            <p>Messrs. <hi rend="ac">Wheatstone &amp; Co.</hi>, Investors, and Patentees of the Concertina, <address><street>29, Conduit-street, Regent-street</street></address>, where may be had a Descriptive Prospectus of the Ten Guinea Harmonium.</p>
+            <head><hi rend="ac bigFont">Instructions for the Concertina</hi></head>
+            <p>Just Published,<lb/><hi rend="ac"><hi rend="bigFont"><hi rend="dropcap"
+                     >I</hi>nstructions for the Con<lb/></hi>certina</hi> by <hi rend="ac"
+                        ><persName><forename>Carlo</forename>
+                     <surname>Minasi</surname></persName></hi>, 42 pp. folio, 5s. The Third Edition
+               (enlarged) of <hi rend="ac">Warren's Complete Instructions for the concertina</hi>,
+               10s. 6d.</p>
+            <p><hi rend="ac">Instructions for the harmonium</hi>, by <hi rend="ac"
+                        ><persName><forename>Joseph</forename>
+                     <surname>Warren</surname></persName></hi>, 4s. Also, suitable for the same <hi
+                  rend="ac"><persName><surname>Lindley</surname></persName>'s practical introduction
+                  to the organ</hi>, a New Eidtion, revised and enlarged by <persName>J. <hi
+                     rend="ac"><surname>Warren</surname></hi>; containing 41 Preludes, Introductary,
+                  Middle, and Full Voluntaries, and 37 Psalm Tunes with Interludes, 128pp., oblong
+                  8vo, 5s.</persName></p>
+            <p>Messrs. <hi rend="ac">Wheatstone &amp; Co.</hi>, Investors, and Patentees of the
+               Concertina, <address>
+                  <street>29, Conduit-street, Regent-street</street>
+               </address>, where may be had a Descriptive Prospectus of the Ten Guinea
+               Harmonium.</p>
          </div>
-<div type="ad" xml:id="memorialsFromBen">
-            <p>Just published, crown 5vo, price 5s., with 6 Engravings and numerous Woodcuts, elegantly bound.</p>
-            <p><hi rend="ac"><hi rend="bigFont"><hi rend="dropcap">M</hi>emorials From <persName><forename>Ben</forename></persName></hi><lb/><persName><surname>Rhydding</surname></persName>, concerning the place, its people, </hi>and <hi rend="ac">its cures.</hi></p>
-            <p>"This is the most handsome and well-embellished volume ever laid upon our table. * * * Besides much that is entertaining, it gives the only real scientific view of the water cure that we have met with, and presents it in a light that cannot fail to commend it to every unprejudiced mind. The work is published from a sense of benefits recieved and a desire to enlighted the community." -<emph rend="italics">British Friend</emph>.</p>
-            <p>London: <persName><forename>Charles</forename> <surname>Gilpin</surname></persName>, 5, Bishopsgate Without.</p>
+         <div type="ad" xml:id="memorialsFromBen">
+            <head><hi rend="ac bigFont">Memorials From <persName><forename>Ben</forename><surname>Rhydding</surname></persName></hi></head>
+            <p>Just published, crown 5vo, price 5s., with 6 Engravings and numerous Woodcuts,
+               elegantly bound.</p>
+            <p><hi rend="ac"><hi rend="bigFont"><hi rend="dropcap">M</hi>emorials From
+                           <persName><forename>Ben</forename></persName></hi><lb/><persName><surname>Rhydding</surname></persName>,
+                  concerning the place, its people, </hi>and <hi rend="ac">its cures.</hi></p>
+            <p>"This is the most handsome and well-embellished volume ever laid upon our table. * *
+               * Besides much that is entertaining, it gives the only real scientific view of the
+               water cure that we have met with, and presents it in a light that cannot fail to
+               commend it to every unprejudiced mind. The work is published from a sense of benefits
+               recieved and a desire to enlighted the community." -<emph rend="italics">British
+                  Friend</emph>.</p>
+            <p>London: <persName><forename>Charles</forename>
+                  <surname>Gilpin</surname></persName>, 5, Bishopsgate Without.</p>
          </div>
-	<div type="ad" xml:id="schewppesSoda">
+         <div type="ad" xml:id="schewppesSoda">
             <head><hi rend="ac bigFont"><hi rend="dropcap">S</hi>cheweppe's Soda, Potas,</hi></head>
             <p>and <hi rend="ac">Magnesia Waters</hi> and <hi rend="ac">Aerated Lemonade</hi> continue to be manufactured upon the largest scale at their several Establishments in London, Liverpool, Bristol, and Derby. The celebrity of these well-known waters and the preference they universally command, are evidence that their original superior quality over all others is well sustained. Every bottle is protected by a label with the name of their firm, without which none is genuine, and it may be had of nearly all respectable chemists throughout the kingdon. Importers of the German Selters Water direct from the springs, as for the last twenty years.</p>
             <p><hi rend="medFont"><address><street>51, Berners Street, London</street></address></hi></p>
