@@ -103,37 +103,37 @@
          <div type="annotations"> </div>
       </front>
       <body>
-         <div xml:id="page1" type="clippingPage">
-            <div type="clipping" rend="chippingBox">
-               <head rend="center">HALF OF CITY'S</head>
-               <head rend="titleIndent">JAP'S HAVE GONE</head>
-               <head rend="center">____________</head>
-               <p rend="paragraphIndent">Seattle's central business district gave the appearance of
-                  a city without Japanese today as the last of them from Zones No. 1 and 2, or
+         <div xml:id="halfOfCityClipping" type="clippingPage" rendition="#halfOfCityClipping">
+            <div type="clippingArticle">
+               <head rendition="halfCityTitle #lineSpacing">HALF OF CITY'S</head>
+               <head rendition="#halfCityTitle #lineSpacing #titleIndent">JAPS HAVE GONE</head>
+               <head rendition="#center #lineSpacing">____________</head>
+               <p rendition="#description">Seattle's central business district gave the appearance
+                  of a city without Japanese today as the last of them from Zones No. 1 and 2, or
                   population, departed for the assembly center in Puyallup.</p>
-               <p rend="paragraphIndent"> And the Pike Place Markets for the first time in their
+               <p rendition="#description"> And the Pike Place Markets for the first time in their
                   years of operation, did business without their myriad of Japanese-operated stalls. </p>
-               <p rend="paragraphIndent"> It is estimated that only about half the Japanese of the
+               <p rendition="#description"> It is estimated that only about half the Japanese of the
                   city have been removed but those who have gone were from areas in which many were
                   engaged in business and where they most often met public. </p>
-               <p rend="paragraphIndent"> Those Japanese remaining in the city are restricted to
+               <p rendition="#description"> Those Japanese remaining in the city are restricted to
                   movement within the area in which they live. Beginning at noon, they and all
                   others of the Japanese race were banned from going to the central business
                   district, the waterfront or any place in the area to the north of the city that
                   lies west of Eastlake Avenue and Roosevelt Way, any place west of Fifth Avenue in
                   the central area, or any place south of Jackson Street in the southern area,
                   except for one small locality between Jackson and Dearborn Streets. </p>
-               <p rend="paragraphIndent">This ban prevents any Japanese in the farming community
+               <p rendition="#description">This ban prevents any Japanese in the farming community
                   sur- rounding the city from delivering produce to Seattle firms personally, as
                   Produce Row and the markets cannot be reached without passing through a restricted
                   area.</p>
-               <p rend="paragraphIndent"> The market master of the municipal market said that not a
-                  single Japanese merchant appeared this morning, although the ban did not go into
+               <p rendition="#description"> The market master of the municipal market said that not
+                  a single Japanese merchant appeared this morning, although the ban did not go into
                   effect until noon. </p>
-               <p rend="paragraphIndent"> Operators of private markets said several Japanese renters
-                  of stalls came early this morning with produce but brought Filipinos with them to
-                  tend the stalls and left before noon. </p>
-               <p rend="paragraphIndent">No date has been set for removal of the Japanese from
+               <p rendition="#description"> Operators of private markets said several Japanese
+                  renters of stalls came early this morning with produce but brought Filipinos with
+                  them to tend the stalls and left before noon. </p>
+               <p rendition="#description">No date has been set for removal of the Japanese from
                   there</p>
             </div>
          </div>
