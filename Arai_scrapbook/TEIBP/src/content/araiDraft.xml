@@ -50,6 +50,11 @@
                 </bibl>
             </sourceDesc>
         </fileDesc>
+        <encodingDesc>
+            <tagsDecl>
+                <rendition xml:id="rend-date" scheme="css">font-family: Papyrus, fantasy; text-align: right; font-style: italic;</rendition>
+            </tagsDecl>
+        </encodingDesc>
     </teiHeader>
   <text>
       <front>
@@ -189,7 +194,10 @@ J. L. DEWITT
 Lieutenant General, U.S. Army 
 Commanding </ab></div>
 
-<div><ab>MAY 1, 1942
+<div><ab>
+        
+        
+MAY 1, 1942
 EMPTY STALLS—EVACUATIONS
 SEATTLE TMES
 
