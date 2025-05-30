@@ -680,12 +680,12 @@ TEI head {
   font-weight: normal;
 }
 body > head {
-  font-size: 180%;
-  text-indent: -0.5em;
+  font-size: 140%;
+  text-indent: 50%;
 }
 div > head {
-  font-size: 170%;
-  text-indent: -0.5em;
+  font-size: 140%;
+  text-indent: 50%;
 }
 div > div > head {
   font-size: 155%;
