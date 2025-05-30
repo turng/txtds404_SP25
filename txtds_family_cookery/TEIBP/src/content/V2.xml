@@ -99,6 +99,10 @@
 	<div>
 	<pb n="10"/>
 	<fw type="page_number" place="top left">10</fw>
+	<fw type="running_header" place="top center" rend="caps">The Family Cookery.</fw>
+        <lb/>
+        <div type="recipe">
+        <head rend="align(center) format(italic)">Dinner Single Course</head>
             <figure>
                <graphic url="10 Diagram.JPEG"/>
                <figDesc>The figure shows a layout of where certain foods were to be placed ranging from
