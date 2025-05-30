@@ -14,14 +14,14 @@ pb{
 
 cb{display:none;}
 
-head
+
 
 div[type="chapter"]{
-    
+    text-transform:uppercase;
 }
 
-text{
-    
+p{
+   font-size:14px; 
 }
 
 fw{
@@ -29,5 +29,7 @@ fw{
     
 }
 
-figure{
+figure > p[@rend="caps"]{
+    text-transform:uppercase;
+    font-size:10px;
 }
