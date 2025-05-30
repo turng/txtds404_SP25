@@ -1,7 +1,8 @@
-TEI {
+TEI{
 	background-color: white;
 	font-family:roman, 'times new roman', times, serif;
-	margin:4px;
+	width:600px;
+	border:4px;
 }
 
 teiHeader{display: none;}
