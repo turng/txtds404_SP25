@@ -14,7 +14,13 @@ pb{
 
 cb{display:none;}
 
+head{
+    font-family:roman, 'times new roman', times, serif;
+}
 
+head title[@type="author"]{
+    font-family:arial, helvetica, sans-serif
+}
 
 div[type="chapter"]{
     text-transform:uppercase;
@@ -29,7 +35,7 @@ fw{
     text-align: center;
 }
 
-figure > p[@rend="caps"]{
-    text-transform:uppercase;
+figure p[@rend="caps"]{
+    text-transform:uppercase
     font-size:10px;
 }
