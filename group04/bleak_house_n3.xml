@@ -261,6 +261,19 @@ highlighted distinctive elements within the advertisements that we believe offer
             <p>"This is the most handsome and well-embellished volume ever laid upon our table. * * * Besides much that is entertaining, it gives the only real scientific view of the water cure that we have met with, and presents it in a light that cannot fail to commend it to every unprejudiced mind. The work is published from a sense of benefits recieved and a desire to enlighted the community." -<emph rend="italics">British Friend</emph>.</p>
             <p>London: <persName><forename>Charles</forename> <surname>Gilpin</surname></persName>, 5, Bishopsgate Without.</p>
          </div>
+	<div type="ad" xml:id="schewppesSoda">
+            <head><hi rend="ac bigFont"><hi rend="dropcap">S</hi>cheweppe's Soda, Potas,</hi></head>
+            <p>and <hi rend="ac">Magnesia Waters</hi> and <hi rend="ac">Aerated Lemonade</hi> continue to be manufactured upon the largest scale at their several Establishments in London, Liverpool, Bristol, and Derby. The celebrity of these well-known waters and the preference they universally command, are evidence that their original superior quality over all others is well sustained. Every bottle is protected by a label with the name of their firm, without which none is genuine, and it may be had of nearly all respectable chemists throughout the kingdon. Importers of the German Selters Water direct from the springs, as for the last twenty years.</p>
+            <p><hi rend="medFont"><address><street>51, Berners Street, London</street></address></hi></p>
+         </div>
+         <div type="ad" xml:id="toiletOfBeauty">
+            <head><hi rend="ac bigFont"><hi rend="dropcap">T</hi>he Toilet of Beauty</hi></head>
+            <p>furnishes innumerable proofs of the high estimation in which <hi rend="ac">Gowland's Lotion</hi> is held by the most distinguished possessors of brilliant complexions. This elegant preperation comprehends the preservation of the complexion both from the effects of cutaneous malady and the operation of variable temperature, by refreshing its delicacy and sustaining the brightest tints with which beauty is adorned. "<persName><forename>Robert</forename> <surname>Shaw</surname></persName>, London" is in white letters on the Government stamp of the genuine. Prices, 2s. 9d. and 5s. 6d. ; quarts, 8s. 6d.</p>
+         </div>
+         <div type="ad" xml:id="gerardsCelebratedPomade">
+            <head><hi rend="ac bigFont"><persName><surname><hi rend="dropcap">H</hi>olloway</surname></persName>'s Pills,</hi></head>
+            <p><hi rend="ac"><hi rend="medFont">A Most</hi><lb/>efficient</hi> <hi rend="sc">remedy for bile, indigestion, and debilitated cocnstitutions.-</hi>The extraordinary powers of this medicine in curing disorders of the stomach, bile, indigestion, and liver complaints are wonderful. Thousands whose lives were a burden to them whilst suffering from these complaints are now enjoying the best of health by taking these invaluable pills, and now strongly recommend their use to others similarly afflicted. A few doses give relief, and a continuance of them for a short time effects a perfect cure. Persons whose constitutions have been weakened by long residence in hot climates cannot have a more certain remedy to restore them to robust health than <persName><surname>Holloway</surname></persName>'s Pills.- Sold by all Druggists, and at <persName><roleName>Professor</roleName> <surname>Holloway</surname></persName>'s Establishment, <address><street>244, Strand</street></address>, London</p>
+         </div>
          <div type="ad" xml:id="nortonPills">
             <pb n="58"/>
             <head><emph rend="ac hugeFont">Important Family Medicine</emph></head><lb/>
