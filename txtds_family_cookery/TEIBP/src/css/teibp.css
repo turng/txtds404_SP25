@@ -678,30 +678,30 @@ TEI head {
   display: block;
   font-family: Arvo, sans-serif;
   font-weight: normal;
+  font-style: italic;
+  text-align: center;
 }
 body > head {
-  font-size: 180%;
-  text-indent: -0.5em;
+  font-size: 140%;
 }
 div > head {
-  font-size: 170%;
-  text-indent: -0.5em;
+  font-size: 140%;
 }
 div > div > head {
-  font-size: 155%;
+  font-size: 140%;
 }
 div > div > div > head {
   font-size: 140%;
 }
 div > div > div > div > head,
 list > head {
-  font-size: 130%;
+  font-size: 140%;
 }
 div > div > div > div > div > head {
-  font-size: 120%;
+  font-size: 140%;
 }
 div > div > div > div > div > div head {
-  font-size: 110%;
+  font-size: 140%;
 }
 figure > head {
   display: block;
@@ -709,14 +709,14 @@ figure > head {
   padding: .5em 1.5em 1.5em 1.5em;
   border: 1px solid black;
   border-radius: 15px;
-  width: 325px;
+  width: 200px;
   position: relative;
   border: 1px solid #AAA;
   background: #FAFAFA;
   /* reset text-indent for note with <l> ancestors. */
   text-indent: 0;
   font-size: 85%;
-  text-align: justify;
+  text-align: center;
   -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
   -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
   box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
