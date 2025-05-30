@@ -290,6 +290,17 @@
             <p><hi rend="ac">Edinburgh: Adam &amp; Charles Black. London: Longman &amp; Co.; Simpkin
                   &amp; Co.; Hamilton &amp; Co.; and Houlston &amp; Stoneman.</hi></p>
          </div>
+         <div type="ad-group" xml:id="colburn">
+            <pb no="4"/>
+            <head><hi rend="ac">Colburn and Co.'s new publications.</hi></head>
+            <div type="ad" xml:id="theLifeOfMarieDeMedicis">
+               <head><hi rend="ac">The Life of Marie de Medicis,</hi></head>
+               <p>Queen of France, Consort of Henry IV., and Regent of the Kingdom under Louis XIII.
+                     <hi rend="ac">By Miss Pardok</hi>, Author of "Louis XIV. and the Court of
+                  France," &amp;c. 3 vols., with Portraits, &amp;c. (<hi rend="italics"
+                     >Immediately</hi>).</p>
+            </div>
+         </div>
          <div type="ad" xml:id="childsHistoryEngland">
             <pb n="9"/>
             <head><hi rend="ac hugeFont">A Child's History of England</hi></head>
