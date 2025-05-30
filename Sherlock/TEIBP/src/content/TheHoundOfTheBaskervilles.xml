@@ -120,8 +120,8 @@
                   >August, 1901.</date> No. 128.<lb/></title>
             <title type="novel">The Hound of the Baskervilles.* <lb/>ANOTHER ADVENTURE
                OF<lb/>SHERLOCK HOLMES.</title>
-            <abbr rend="caps">By Conan
-            Doyle.</abbr><!-- cannot add a rend font in this author section--></head>
+            <title type="author">By Conan
+            Doyle.</title><!-- cannot add a rend font in this author section--></head>
          <cb/>
          <div type="chapter" n="1" rend="title">
             <ab rend="caps">Chapter I.</ab>
