@@ -49,9 +49,6 @@
                     </publisher>
                     <date notBefore="1853-09-01" notAfter="1853-09-11">September 1853</date>
                     <note>The nineteenth serial</note>
-		    <note>Copy held in the University of Washington Libraries Special Collections. Call number: scbar PR4556 A1 1852 v. 19</note>
-		    <note>Contains various advertisements, including, notably, an advertisement for the complete novel edition of Bleak House, then-forthcoming. Other notable advertisements include works by the same author published by a different publisher.</note>
-		    <note>Prefatory materials are included in this nineteenth serial, placed after the main text of the story ends. They include a table of contents, which is valid, as the main text is paginated in one sequence through all serials. They also include a list of illustrations, which is not valid, as illutrations are included in each serial before the main text begins, rather than being on the specific page that the list of illustrations says they are on.</note>
                 </bibl>
                 <bibl>
                     <title>Bleak House</title>
@@ -66,25 +63,21 @@
                     </publisher>
                     <date when="1853-09-12">12 September 1853</date>
                     <note>The full novel</note>
-		    <note>Copy held in the University of Washington Libraries Special Collections. Call number: scbar PR4556 A1 1853</note>
-		    <note>Bound with the covers and some advertising materials from the fourth serial.</note>
-		    <note>Prefatory materials are included before the main text of the story starts. The pagination of the list of illustrations is valid against the locations of the illustrations in this edition.</note>
                 </bibl>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
             <tagsDecl>
-                <rendition scheme="css" xml:id="covertitle1">font-size: large; font-family: sans-serif; text-transform: uppercase; text-align: center</rendition>
-                <rendition scheme="css" xml:id="covertitle2">font-size: large; font-family: sans-serif; text-transform: uppercase; text-align: center</rendition>
-                <rendition scheme="css" xml:id="titlepage1">font-size: large; text-transform: uppercase; text-align: center</rendition>
-                <rendition scheme="css" xml:id="titlepage2">font-size: large; font-family: sans-serif; text-transform: uppercase; text-align: center</rendition>
-		<rendition scheme="css" xml:id="smalltext">font-size: small; font-family: serif; text-transform: uppercase</rendition>
-                <rendition scheme="css" xml:id="sectiontitle">font-family: serif; text-transform: uppercase; text-align: center</rendition>
-                <rendition scheme="css" xml:id="prefacetext">font-family: serif; text-indent: 20px</rendition>
-                <rendition scheme="css" xml:id="tableofcontents">font-family: serif; text-align: justify</rendition>
-                <rendition scheme="css" xml:id="listofplates">font-family: serif; text-transform: uppercase; text-align: justify</rendition>
-                <rendition scheme="css" xml:id="maintext">font-family: serif; text-indent: 20px</rendition>
-                <rendition scheme="css" xml:id="runningheader">font-family: serif; text-transform: uppercase</rendition>
+                <rendition scheme="css" xml:id="covertitle1">font-family: sans-serif</rendition>
+                <rendition scheme="css" xml:id="covertitle2">font-family: sans-serif</rendition>
+                <rendition scheme="css" xml:id="titlepage1"/>
+                <rendition scheme="css" xml:id="titlepage2">font-family: sans-serif</rendition>
+                <rendition scheme="css" xml:id="sectiontitle">font-family: serif</rendition>
+                <rendition scheme="css" xml:id="prefacetext">font-family: serif</rendition>
+                <rendition scheme="css" xml:id="tableofcontents">font-family: serif</rendition>
+                <rendition scheme="css" xml:id="listofplates">font-family: serif</rendition>
+                <rendition scheme="css" xml:id="maintext">font-family: serif</rendition>
+                <rendition scheme="css" xml:id="runningheader">font-family: serif</rendition>
             </tagsDecl>
         </encodingDesc>
         <profileDesc>
@@ -94,26 +87,94 @@
         </profileDesc>
         <revisionDesc>
             <listChange>
-                <change notAfter="2025-05-12" who="#AC, #JC, #LVH">
-                    Metadata entered
-                </change>
+                <change> Metadata entered </change>
             </listChange>
         </revisionDesc>
     </teiHeader>
     <text>
         <body>
-            <div>
-                <head rend="bold caps">Bleak House Advertisers.</head>
+            <div xml:id="Bleak_House_Ad">
+                <head rend="bold allcaps">Bleak House Advertisers.</head>
                 <lb/>
                 <p rend="bold" style="font-size:20px">Completion of Bleak House.</p>
                 <lb/>
                 <p>On Monday, 12th September will be published,</p>
                 <p><hi rend="italics">Complete in One thick Volume, 8vo, with Forty Illustrations by</hi> H.K. Browne,</p>
-                <p style="font-size:30px"><hi rend="caps">Bleak House.</hi></p>
-                <p style="font-size:12px"><hi rend="caps">By</hi></p>
-                <p style="font-size:16px"><hi rend="caps">Charles Dickens.</hi></p>
+                <p style="font-size:30px"><hi rend="allcaps">Bleak House.</hi></p>
+                <p style="font-size:12px"><hi rend="allcaps">By</hi></p>
+                <p style="font-size:16px"><hi rend="allcaps">Charles Dickens.</hi></p>
                 <p>The Publishers beg to inform the Public and the Trade that <hi rend="caps">Bleak House,</hi> complete in One Volume, will be ready for delivery on the 12th September.</p>
-                <p>Price, neatly bound in cloth</p>
+                <p>Price, neatly bound in cloth .   .   .   .   .   .   .   .   . &#163;1   1   0 </p>
+                <p> &quot;  &quot;  &quot;  Half morocco, marble edges .    .   .   .   1   4   6</p>
+                <p>(<hi rend="italics">Cloth Cases for binding the above may be had at the Publishers.</hi>)</p>
+                <p><hi rend="allcaps">Subscribers</hi> desirious of having their copies bound in a similar style can have them at their Booksellers, at the following prices:——</p>
+                <p>Whole bound, morocco gilt edges  .   .   .   .   .   .   .   . 6s. 6d.</p>
+                <p>Half bound,      &quot;      .   .   .   .   .   .   .   .   4   6</p>
+                <p>In cloth, lettered      .   .   .   .   .   .   .   .   .   .   1   6</p>
+                <p style="font-size:16px"><hi rend="allcaps">By the same author.</hi></p>
+                <p style="font-size:12px">Price <hi rend="italics">3s. 6d.</hi> eacg, neatly bound in cloth,</p>
+                <p style="font-size:20px"><hi rend="allcaps">The first and second volumes</hi></p>
+                <p style="font-size:12px"><hi rend="allcaps">Of</hi></p>
+                <p style="font-size:25px"><hi rend="allcaps bold">A Child's History of England.</hi></p>
+                <p style="font-size:12px"><hi rend="allcaps">With frontispieces from drawings by F.W. Topham.</hi></p>
+                <p style="font-size:12px"><hi rend="allcaps">Corrected and revised from &quot;Household Words,&quot; with a table of dates.</hi></p>
+                <p style="font-size:12px"><hi rend="italics">The History will be completed in Three Volumes.</hi></p>
+            </div>
+            <div xml:id="Encyclopedia_Ad"> 
+                <head rend="caps">English Cyclopædia.</head>
+                <l style="font-type:gothic">A New Dictionary of Universal Knowlege.</l>
+                <l style="font-size:12px"><hi rend="bold allcaps">And Illustrated with Five Thousand Wood Engravings.</hi></l>
+                <l><hi rend="allcaps">Conducted by Mr. Charles Knight.</hi></l>
+                <lb/>
+                <l><hi rend="allcaps">Opinions of the Press</hi></l>
+                <quote>“Among serials, the most important in our eyes is the new edition of the Penny Cyclopædia issued in separate divisions under the name of the English Cyclopædia.” — Leader</quote>
+                <quote>“We do not feel that it is employing the language of exaggeration to say that the issue in a cheap and greatly improved form of the English Cyclopædia, under the editorship of Mr. CHARLES KNIGHT, and with the co-operation of Messrs. BRADBURY &amp; EVANS, dedicated by permission to Her Majesty, partakes of the character of a national undertaking.” — Weekly News and Chronicle. </quote>
+                <quote>“The mass of information here presented in a beautiful type and a readable form, the cleverness and value of the illustrations, and the extraordinary cheapness of the whole, combine, with the publication advantages we have explained, to render the English Cyclopædia the best thing of its class, and one which we can conscientiously recommend to our readers.” — The Field.</quote>
+                <quote>“This invaluable work has now reached the twelfth number ; and the public have been afforded ample opportunity of testing its merits as one of the most copious and complete Cyclopædias, and certainly the cheapest that has ever been issued.” — Dublin Evening Post.</quote>
+                <quote>“The English Cyclopædia, Part II., is occupied with Natural History and Geography. The effect of skilful [sic] printing is here more than ever apparent. DR. LANKESTER has undertaken to bring the botanical articles up to the present state of knowledge.” -Gardener’s Chronicle.</quote>
+                <quote>“Three parts are now before us; and, while they show perfection in typography, they evince the utmost fulness [sic] of knowledge in the writers- discoveries and details being brought down to the present day. The Penny Cyclopædia was undoubtedly the best general dictionary ever published; but we can say that this one promises to be still better.”-Liverpool Journal.</quote>
+                <quote>“Of the First Part we have at present to speak, and from the specimen before us, we most conscientiously and emphatically recommend these ample dictionaries upon special subjects of almost universal interest, as by far the best that are likely to be procurable for many years, equally full-and published for a price which, at the present cost of production, after allowing for a most extensive sale, can be taken strictly as the minimum of cheapness possible in our day.”-Examiner.</quote>
+                <quote>“The first six numbers of this publication are now before us, and if they are to be taken as a sample of the remaining numbers, it may truly be described as a wonderful production in a variety of ways; accuracy, the beauty and correctness of the wood engravings, in the Natural History portion; and though last not least its amazing cheapness.”-Dumfries Courier.</quote>
+                <p><hi rend="allcaps">Bradbury &amp; Evans, 11, Bouverie Street.</hi></p>
+            </div>
+            <div xml:id="Cheap_Edition">
+                <head><hi rend="allcaps">Cheap Edition</hi></head>
+                <p style="font-size=12px"><hi rend="allcaps">Of The</hi></p>
+                <p style="font-size=16px"><hi rend="allcaps">Works of Mr. Charles Dickens.</hi></p>
+                <p>In compliance with the general wish of the purchasers of this Edition of the Works of <hi rend="allcaps">MR. CHARLES DICKENS</hi>, terminating with <hi rend="allcaps">“MARTIN CHUZZLEWIT,”</hi> it is intended to include within it the five Christmas Books :—</p>
+                <p style="font-size=16px"><hi rend="allcaps">A Christmas Carol.</hi></p>
+                <p style="font-size=16px"><hi rend="allcaps">The Chimes.</hi></p>
+                <p style="font-size=16px"><hi rend="allcaps">The Cricket on the Hearth</hi></p>
+                <p style="font-size=16px"><hi rend="allcaps">The Battle of Life.</hi></p>
+                <p style="font-size=16px"><hi rend="allcaps">The Haunted Man.</hi></p>
+                <p>These will form, together, when their publication in Numbers shall be completed, <hi rend="allcaps">ONE ADDITIONAL VOLUME OF THE CHEAP EDITION.</hi></p>
+                <p>This additional Volume, like its predecessors (and printed to range with them), will be issued in Weekly Numbers, price 1 ½ d. each, and in Monthly Parts. The first Weekly Number will be published on the 1st of June.</p>
+                <p style="font-size=16px"><hi rend="allcaps">Chapman and Hall, 193, Piccadilly</hi></p>
+            </div>
+            <div xml:id="Dedication">
+                <p><hi rend="allcaps">Dedicated,</hi></p>
+                <p style="font-size=12px"><hi rend="allcaps">As a remembrance of our friendly union.</hi></p>
+                <p style="font-size=16px"><hi rend="allcaps">To My Companions</hi></p>
+                <p style="font-size=12px"><hi rend="allcaps">In the</hi></p>
+                <p><hi rend="allcaps">Guild of Literature and Art</hi></p>
+            </div>
+            <div xml:id="Chapters_1">
+                <head><hi rend="allcaps">Contents.</hi></head>
+                <p style="font-size=10px"><hi rend="allcaps">Chap.                                         Page</hi></p>
+                <p>I.—IN CHANCERY.  .   .   .   .   .   .   .   .   1</p>
+                <p>II.—In Fashion.  .   .   .   .   .   .   .   .   5</p>
+                <p>III.—A Progress. .   .   .   .   .   .   .   .   10</p>
+                <p>IV.—Telescopic Philanthropy. .   .   .   .   .   .   24</p>
+                <p>V.—A Morning Adventure.  .   .   .   .   .   .   .   33</p>
+                <p>VI.—Quite at Home.   .   .   .   .   .   .   .   42</p>
+                <p>VII.—The Ghost’s Walk.   .   .   .   .  .   .   57</p>
+                <p>VIII.—Covering a Multitude of Sins.  .   .   .   .   .   65</p>
+                <p>IX.—Signs and Tokens.    .   .   .   .   .   .   79</p>
+                <p>X.—The Law-writer.   .   .   .   .   .   .   .   89</p>
+                <p>XI.—Our dear Brother.    .   .   .   .   .   .   97</p>
+                <p>XII.—On the Watch.   .   .   .   .   .   .   .   107</p>
+                <p>XIII.—Esther’s Narrative.    .   .   .   .   .   117</p>
+                <p>XIV.—Deportment. .   .   .   .   .   .   .   .   129</p>
             </div>
         </body>
     </text>
