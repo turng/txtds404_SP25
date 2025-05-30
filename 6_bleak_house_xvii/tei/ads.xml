@@ -18,7 +18,8 @@
   </teiHeader>
   <text>
       <body>
-	<div>
+		    <div>
+		       <!--pg 41 of ads-->
             <div type="table">
               <div rend="serif">
                    <p>12, CHEAPSIDE, CITY.</p>
@@ -29,7 +30,7 @@
                    <p>Possessing in a pre-eminent degree the qualities of Sterling Silver,</p>
                    <p>from which is cannot be distinguished; at a fifth of the cost.</p>
                </div>
-               
+               <!--table of spoon and fork prices-->
                <div rend="serif">
                   <table rows="9" cols="6">
                   <head rend="sans">SPOONS AND FORKS.</head>
@@ -369,7 +370,8 @@
                <p rend="bserif">Catalogues, with Engravings, sent (per post) free. The Money returned for</p>
                <p rend="bserif">every article not approved of.</p>
             </div>
-
+      
+            <!--pg 3 of ads-->
             <div>
                <div type="header">
                   <head rend="sc">advertisements.</head>
