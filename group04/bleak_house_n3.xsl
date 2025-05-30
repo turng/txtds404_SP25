@@ -22,6 +22,19 @@
         <div class="intro"><xsl:apply-templates/></div>
     </xsl:template>
     
+    <xsl:template match="tei:body">
+        <div class="body"><xsl:apply-templates/></div>
+    </xsl:template>
+    
+    
+    <xsl:template match="tei:div[@type='ad']">
+        <div class="ad"><xsl:apply-templates/></div>
+    </xsl:template>
+    
+    <xsl:template match="tei:div[@type='ad-group']">
+        <div class="ad-group"><xsl:apply-templates/></div>
+    </xsl:template>
+    
     <xsl:template match="tei:p">
         <p><xsl:apply-templates/></p>
     </xsl:template>
