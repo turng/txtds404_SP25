@@ -12,6 +12,10 @@
                 <Title>How to Cook Potatoes, Apples, Eggs, Fish, Four Hundred Different
                     Ways</Title>
                 <style>
+                    body {
+                    background-color: #f5f1e6;
+                    }
+                    
                     .chap {
                     text-transform: uppercase;
                     font-family: "Garamond", "Times New Roman", serif;
@@ -41,7 +45,7 @@
                     
                     .innerrecint {
                     font-family: "Garamond", "Times New Roman", serif;
-                    font-size: 12pt;
+                    font-size: 16pt;
                     width: 512.25px;
                     text-align: left;
                     margin: auto;
@@ -54,7 +58,18 @@
                     text-align: center;
                     }
                     
+                    .image{
+                    display: block;
+                    margin: auto;
+                    width: 512.25px;
+                    }
                     
+                    .line1{
+                    width: 550px;
+                    border-top: 1.25px solid #000000;
+                    margin-top: 31.25px;
+                    margin-bottom: 31.25px;
+                    }
                 </style>
             </head>
             <body>
@@ -88,6 +103,7 @@
     <xsl:template match="tei:sic"/>
     
     <xsl:template match="tei:graphic">
-        <img width="512" src="{@url}" />
+        <img src="{@url}" class="image"/>
+        <hr class="line1"/>
     </xsl:template>
 </xsl:stylesheet> 
