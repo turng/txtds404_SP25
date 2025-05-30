@@ -57,6 +57,9 @@
             <rendition xml:id="paragraphIndent" scheme="css">text-align: 2em;</rendition>
             <rendition xml:id="titleIndent" scheme="css">padding-left: 1em; font-weight:
                bold</rendition>
+            <rendition xml:id="clippingBox" scheme="css">border: 2px solid black; width: 260px;
+               padding: 10px; font-family: Geogria, "Times New Roman", serif; font-size: 12px;
+               line-height: 12px; line-height: 1.2; margin: auto</rendition>
          </tagsDecl>
       </encodingDesc>
    </teiHeader>
@@ -101,23 +104,7 @@
       </front>
       <body>
          <div xml:id="page1" type="clippingPage">
-            <div type="clipping">
-               <dateline rend="rend-date">MAY 1, 1942</dateline>
-               <head rend="center">EMPTY STALLS--EVACUATIONS</head>
-               <head rend="center">SEATTLE TIMES</head>
-
-               <figure>
-                  <graphic url="pikeplacenew.jpg"/>
-                  <figDesc>Vacant stalls like these at Pike Place Public</figDesc>
-               </figure>
-               <p rend="paragraphIndent">Vacant stalls like these at Pike Place Public Markets,
-                  Inc., confronted shoppers at numerous Seattle markets today. The Japanese
-                  operators of many of the stalls have been evacuated. Japanese farmers who formerly
-                  took their produce to the markets to sell it also were absent. Even though they
-                  live outside the evacuation area, they are barred from the central business
-                  district by wartime restrictions on movements of Japanese.</p>
-            </div>
-            <div type="clipping">
+            <div type="clipping" rend="chippingBox">
                <head rend="center">HALF OF CITY'S</head>
                <head rend="titleIndent">JAP'S HAVE GONE</head>
                <head rend="center">____________</head>
