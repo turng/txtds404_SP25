@@ -19,7 +19,7 @@
                 </respStmt>
             </titleStmt>
             <editionStmt>
-                <edition n="0.5">First draft of the project's metadata.</edition>
+                <edition n="0.7">First draft of XML for XSLT XML-to-HTML transformation.</edition>
             </editionStmt>
             <publicationStmt>
                 <p>Encoded in Oxygen, distributed via Github. For educational, non-commercial use
