@@ -1,2 +1,36 @@
-/* Place project-specific CSS here */
+.sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: auto;
+    width: 150px;
+    background-color: white;
+    padding-top: 20px;
+}
 
+.sidebar ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.sidebar li {
+    margin: 20px 0;
+}
+
+.sidebar a {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 10px;
+    display: block;
+    transition: background 0.3s;
+}
+
+.sidebar a:hover {
+    background-color: black;
+    color: white;
+}
+
+.novelcontent {
+    margin-left: 150px; /* offset the nav */
+}
