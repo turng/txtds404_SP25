@@ -3,7 +3,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
-<?xml-stylesheet type="css" href="https://github.com/turng/txtds404_SP25/blob/main/Sherlock/TEIBP/src/css/custom.css"?>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
