@@ -1328,7 +1328,7 @@
                copies per month in 1836. Nevertheless, Dickens is considered as the first already
                commercially successful author, as he already finished his 8th novel -- <hi
                   rend="italics">David Copperfield</hi>, who then published in serialized form. See
-                  <ref type="biblio" target="steinlight2006">Steinlight, 2006</ref>.</note>
+                  <ref type="biblio" target="#steinlight2006">Steinlight, 2006</ref>.</note>
             <note xml:id="n2">Although this appears to be a letter to Charles Dickens, it is an
                adevertisement, nonetheless. In this sort of letter, the company thanked Dickens for
                his work on Bleak House and also mentioned his other popular work such as <hi
@@ -1336,7 +1336,7 @@
                to promote and rave about their products. This strategy of connecting the
                advertisement to the source material, either to Bleak House or to Charles Dickens
                himself, is seen in other ads of those days. See for example <ref type="biblio"
-                  target="li2018">Li, 2018</ref>.</note>
+                  target="#li2018">Li, 2018</ref>.</note>
             <note xml:id="byron"><persName><roleName>Lord</roleName><forename>George</forename>
                   Gordon <surname>Byron</surname></persName>, <date type="birth" when="1788-01-01"
                   >January 22, 1788</date>-<date type="death" when="1824-04-19">April 19,
@@ -1355,7 +1355,7 @@
                   >1807</date>-<date type="death" when="1881">1881</date>) was a prolific writer and
                a notable minister of the National Scottish Church. He was most known for his
                interest in the prophesied apocalypse, his anti-Catholic views, and his dislike
-               towards Rome</note>
+               towards Rome. See <ref type="biblio" target="#ellisonCarol2002">Ellison &amp; Carol, 2002</ref></note>
          </div>
          <div type="bibliography">
             <listBibl>
@@ -1373,9 +1373,9 @@
                      <biblScope unit="volume">46</biblScope>, no. <biblScope unit="issue"
                      >1</biblScope>, <date>2018</date>, pp.<biblScope unit="page">23-55</biblScope>.
                      <ptr target="https://doi.org/10.1017/S1060150317000316"/>.</bibl>
-               <bibl xml:id="cummingJohn"><author><persName><surname>Ellison</surname>,
+               <bibl xml:id="ellisonCarol2002"><author><persName><surname>Ellison</surname>,
                            <forename>Robert</forename></persName></author> and
-                           <author><persName><surname>Carol</surname>
+                           <author><persName><surname>Carol</surname>,
                         <forename>Engelhardt</forename></persName></author>. “<title level="a"
                            ><persName><forename>John</forename>
                         <surname>Cumming</surname></persName> -- An Introduction.</title>”

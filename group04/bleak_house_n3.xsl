@@ -68,7 +68,12 @@
     </xsl:template>
     
     <xsl:template match="tei:note">
-        <div class="note"><xsl:apply-templates/></div>
+        <div class="note">
+            <xsl:attribute name="id">
+                <xsl:value-of select="@xml:id"/>
+            </xsl:attribute>
+            <xsl:apply-templates/>
+        </div>
     </xsl:template>
     
     <xsl:template match="tei:div[@type='bibliography']">
@@ -76,7 +81,30 @@
     </xsl:template>
     
     <xsl:template match="tei:bibl">
-        <div class="bibl"><xsl:apply-templates/></div>
+        <div class="bibl">
+            <xsl:attribute name="id">
+                <xsl:value-of select="@xml:id"/>
+            </xsl:attribute>
+            <xsl:apply-templates/>
+        </div>
+    </xsl:template>
+    
+    <xsl:template match="tei:ref">
+        <a>
+            <xsl:attribute name="href">
+                <xsl:value-of select="@target"/>
+            </xsl:attribute>
+            <xsl:apply-templates/>
+        </a>
+    </xsl:template>
+    
+    <xsl:template match="tei:ptr">
+        <a>
+            <xsl:attribute name="href">
+                <xsl:value-of select="@target"/>
+            </xsl:attribute>
+            <xsl:value-of select="@target"/>
+        </a>
     </xsl:template>
     
 </xsl:stylesheet>
