@@ -1,0 +1,26 @@
+body {
+    background-color: #fdf6e3;
+    font-family: Helvetica, Arial, sans-serif;
+    margin: 40px;
+    color: #333;
+}
+
+#main-content {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    background-color: #fff8dc;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
+}
+
+h1 {
+    color: #b58900;
+    font-size: 2em;
+    text-align: center;
+}
+
+.intro {
+    font-size: 1.2em;
+    line-height: 1.6em;
+}
