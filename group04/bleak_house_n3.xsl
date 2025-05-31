@@ -39,6 +39,18 @@
         <p><xsl:apply-templates/></p>
     </xsl:template>
     
+    <xsl:template match="tei:p[@rend='ac']">
+        <p class="ac"><xsl:apply-templates/></p>
+    </xsl:template>
+    
+    <xsl:template match="tei:hi[@rend='ac']">
+        <span class="ac"><xsl:apply-templates/></span>
+    </xsl:template>
+    
+    <xsl:template match="tei:q[@rend='ac']">
+        <span class="ac"><xsl:apply-templates/></span>
+    </xsl:template>
+    
     <xsl:template match="tei:pb">
         <hr><xsl:apply-templates/></hr>
     </xsl:template>

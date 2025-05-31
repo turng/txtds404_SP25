@@ -16,6 +16,10 @@ div.intro p:first-of-type::first-letter {
   color: #4b2e19;
 }
 
+div.intro {
+    margin-bottom: 5em;
+}
+
 div.ad {
   border: 2px solid #8b5e3c; /* brown ink color */
   padding: 1.5em;
@@ -48,6 +52,10 @@ h1 {
   letter-spacing: 1px;
   font-variant: small-caps;
   text-shadow: 1px 1px 0 #e8dcc0;
+}
+
+.ac {
+    text-transform: uppercase;
 }
 
 hr {
