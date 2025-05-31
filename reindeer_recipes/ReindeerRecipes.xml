@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reindeer Recipes</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p> A NEW discovery from Alaska — nourishment—not gold—something to add to the enjoyment of
+            life—something that with a final analysis is found more precious than gold—something to
+            delight the inner man—Reindeer meat. </p>
+         <p> The Great Northern Dining Car Department, ever on the alert to discover new and better
+            foods to offer its patrons, believes that Reindeer meat will be approved by all who
+            crave something different. </p>
+         <p>The Reindeer, as now raised in Alaska, is a domesticated animal; has nothing of the wild
+            animal taste—the meat is finer in texture than beef and decidedly more tender—this
+            explained by the fact that the Reindeer is a docile animal, seldom exerting itself to
+            the extent of providing ordinary exercise—therefore he grows fat and soft. Reindeer meat
+            has juiciness of beef with delicacy of flavor unequalled by beef or venison. Reindeer
+            meat is a happy medium between wild game and domestic meats. </p>
+         <p> Reindeer meat is Alaska's latest and most promising contribution to its mother country,
+            and Great Northern Dining cars are happy in their role of introducing it. We confidently
+            predict a hearty reception. </p>
+         <p> Reindeer Recipes larger text, bold, centred</p>
+         <p> Reindeer Hunter Soup </p>
+         <p> Cut two pounds of Reindeer meat in small pieces and put it into the soup pot
+            (casserole), add two quarts of water. Chop one onion, pinch of mace and one bay leaf,
+            add to the meat, let it simmer until the meat is tender, add one cup of rice, salt and
+            pepper and let it cook until the rice is done. Pour into the tureen over French croutons
+            and serve. </p>
+         <p> Reindeer Stew Creole Style </p>
+         <p> Cut the meat into two-inch square pieces, salt and pepper well. Chop a couple onions
+            very fine, brown them in a pan in a little butter, then add the meat, let it brown
+            slightly and add a little flour. Let this brown a little. Chop a piece of cold ham very
+            fine, then add a few cloves and garlic, a sprig of thyme, a sprig of parsley and a bay
+            leaf, all minced fine. Pour soup stock or water over it, let it cook for thirty minutes,
+            add fresh mushrooms and cook for another twenty minutes. Serve very hot. </p>
+         <p>Ragout of Reindeer</p>
+         <p> Take the breast and the neck, cut it up into neat pieces, put it into a jar, cut up
+            some carrots, onions and celery, a few bay leaves, whole cloves, whole allspice, whole
+            pepper, put all together in vinegar, let it stand for two or three days, then take it
+            out and braise it to a light brown color, sprinkle it with flour and some stock, some
+            tomato juice. Let it simmer until done, season it with salt, paprika, pepper, thyme, a
+            little chopped garlic, chopped parsley, a little sugar, tomato catsup, Worcestershire
+            sauce, finish it with a little sour cream. </p>
+         <p> Roast Leg of Reindeer Meat </p>
+         <p> Wipe meat, sprinkle with salt and pepper, place on rack in dripping pan and dredge meat
+            and bottom of pan with flour. Place in not too hot oven and baste as soon as flour in
+            pan is brown, and every fifteen minutes thereafter, until meat is done, which should be
+            cooked rare. It may be necessary to put a small quantity of water in pan while meat is
+            cooking. </p>
+         <p>Reindeer Stew</p>
+         <p>Take a piece of the preserved venison, place in kettle, add some of the spices in which
+            the meat has been lying, also a piece of butter, cover well and stew until tender. When
+            ready to serve add a generous portion of sweet cream thickened with browned flour and a
+            little sugar.</p>
+         <p>Cuts from the flank, breast, neck or ribs are best suited for this dish</p>
+         <p> Cut meat in pieces desired, fry in butter and bacon fat to a rich golden-brown, add
+            boiling water and cover. After a few minutes remove scum and add following: grated bread
+            or flour browned in butter, grated rind of a lemon, pepper, cloves, few bay leaves,
+            liberal quantity of cubed onions, several cucumbers cut lengthwise and vinegar. When
+            nearly done add a very little apple jam or sugar to lessen sharpness of vinegar. </p>
+         <p>The sauce in which meat is served must be of creamy consistency and generous in
+            quantity.</p>
+         <p>Reindeer Chops or Steaks</p>
+         <p>Chops or streaks should be broiled, or fried, on a quick fire, well seasoned and served
+            with jelly. </p>
+         <p>Reindeer Mulligan—Hunter Style</p>
+         <p> This recipe was furnished by an old hunter </p>
+         <p> Take neck and shanks and parts of shoulder, cut in uniform pieces about two inches
+            square, place in large wide kettle, cover with water and let simmer about half hour, add
+            rutabagas, cut in uniform pieces about two inches square, fifteen minutes later add
+            carrots and potatoes cut the same way. Vegetables should be equal parts, and the three
+            together the same quantity as meat, also add several large onions, cut in quarters, then
+            season with salt and whole black peppers; place peppers in small cheese-cloth bag and a
+            few bay leaves, let simmer until done. Serve with dill pickles or sour pickles,
+            according to taste. </p>
+         <p>Broiled Reindeer Meat Steak</p>
+         <p>Wipe steak, sprinkle with salt and pepper, place on greased boiler and broil five
+            minutes. Remove to hot platter and pour over Chestnut sauce or Maitre d' Hotel butter. </p>
+         <p>Roast Loin of Reindeer Meat</p>
+         <p> Meat should be well skinned, neatly larded and pan closely covered during first part of
+            roasting, as this will help retain juices and also insure a milder flavor. Heat liberal
+            quantity of cubed bacon in roasting pan, add piece of butter, place loin roast in pan,
+            larded side up and cook, well covered, for one hour. During this time and afterwards,
+            baste frequently and as often as necessary add half cup boiling water. But during last
+            half hour of cooking use thick sour cream in place of water. Roast, according to size of
+            meat, from 2—2:30 hours, without turning. Must be cooked rare. Stir up gravy with cold
+            water and if not sufficiently creamy stiffen with some flour. </p>
+         <p>Saddle of Reindeer—Larded</p>
+         <p>Take the saddle and lard it, season it with salt and pepper, thyme, fry it on a quick
+            fire in a saute pan, a few spices, add some Espagnole, a little jelly, lemon juice. Do
+            not cook it too much—it should be medium cooked. When done finish the sauce with a
+            little chopped garlic, chopped parsley and a little cream and nutmeg.</p>
+      </body>
+   </text>
+</TEI>
