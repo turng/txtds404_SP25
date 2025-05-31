@@ -111,9 +111,11 @@
                ><!-- in places where we need to have two rendition attribtes, can we we do rendition and rend?-->
                The Hound of the Baskerville</p>
             <p rend="italics">(See page 128.)</p>
-            <figDesc>
-               <!-- we should discuss what we want to include in the figure descriptions-->
-            </figDesc>
+            <figDesc> In the full page illustration, a man on horseback speed across a field while a
+               hound pursues closely behind. In the background stands a human figure. The man on the
+               horse is dressed in an old-fashioned coat and hat. Both the horse and hound are dark.
+               The illustration has a border around it, and the initials S P are inscribed in the
+               bottom right corner. </figDesc>
          </figure>
          <pb n="123"/>
          <head><title type="magazine"><lb/>The Strand Magazine. <lb/>Vol. xxii. <date when="1901-08"
@@ -159,7 +161,6 @@
                      <!--what should we call this??????????-->* This story owes its inception to my
                      friend, Mr. Fletcher<lb break="yes"/>Robinson, who has helped me both in the
                      general plot and in<lb break="yes"/>the local details.—A. C. D.</fw>
-                  
                   <cb/><lb break="yes"/>well-esteemed, since those who know him<lb break="yes"/>give
                   him this mark of their appreciation."</said></p>
             <p><said>"Good!"</said> said <persName ref="#Holmes">Holmes</persName>.
@@ -197,9 +198,7 @@
                />apply it in a way which earned his approval. <lb break="yes"/>He now took the stick
                from my hands<fw type="--------------------">Vol. xxii.-16.</fw>
                <!-- what type would this fw be??????-->
-               
                <pb n="124"/><fw type="RunnningHead" rend="caps"> 124 The Strand Magazine.</fw>
-               
                <cb/>and examined it for a few minutes with his<lb break="yes"/>naked eyes. Then with
                an expression of<lb break="yes"/>interest he laid down his cigarette and, carry-<lb
                   break="no"/>ing the cane to the window, he looked over<lb break="yes"/>it again
@@ -214,9 +213,7 @@
                         magnifying glass. Holmes is wearing a light shirt and vest under a dark
                         jacket, a dark bow tie, and pants. He has short hair. The image does not
                         have a border around it, and the initials S P are inscribed in the bottom
-                        right corner.
-                        <!-- we should discuss what we want to include in the figure descriptions-->
-                     </figDesc>
+                        right corner. </figDesc>
                   </figure>
                   <lb break="yes"/>It gives us the basis for<lb break="yes"/>several
                   deductions."</said></p>
@@ -319,12 +316,17 @@
                   justified in my infer-<lb break="no"/>ences. As to the adjectives, I said, if I<lb
                      break="yes"/>remember right, amiable, unambitious, and<lb break="yes"
                   />absent-minded. It is my experience that it is<lb break="yes"/>only an amiable
-                  man in this world who<lb break="yes"/>receives testimonials, only <figure>
+                  man in this world who<lb break="yes"/>receives testimonials, only 
+                     <figure place="bottom right">
                      <graphic url="../images/BaskervillePage125.png"/>
                      <p rend="caps">"His eyes fell upon the stick in Holme's hand."</p>
-                     <figDesc>
-                        <!-- we should discuss what we want to include in the figure descriptions-->
-                     </figDesc>
+                     <figDesc> Mortimer is holding the door to the room Sherlock and Watson are in,
+                        having just walked in. Sherlock and Watson are dressed in suits, Sherlock is
+                        holding a cane, and Mortimer is dressed in a coat and holding a top hat in
+                        his free hand. Across from a table set in the middle of the room, Mortimer
+                        is looking towards Sherlock and the cane Sherlock holds. The image has a
+                        border around it, except for its bottom, and the initials S P are inscribed
+                        in the bottom right corner.</figDesc>
                   </figure>
                   <lb break="yes"/>an unambitious one who<lb break="yes"/>abandons a London
                      career<lb break="yes"/>for the country, and only<lb break="yes"/>an
@@ -346,9 +348,7 @@
             <p><said>"My dear fellow, how<lb break="yes"/>can you possibly be so<lb break="yes"
                   />sure of that?"</said></p>
             <p><said>"For the very simple<lb break="yes"/>reason that I see the dog<lb break="yes"
-                  />himself on our very door-<lb break="maybe"/>step, and there is the ring 
-                  
-                  <cb/>of
+                  />himself on our very door-<lb break="maybe"/>step, and there is the ring <cb/>of
                   its owner. Don't move, I beg you, <persName ref="#Watson">Watson</persName>.<lb
                      break="yes"/>He is a professional brother of yours, and your<lb break="yes"
                   />presence may be of assistance to me. Now is<lb break="yes"/>the dramatic moment
@@ -428,7 +428,7 @@
             <p><persName ref="#Holmes">Holmes</persName> was silent, but his little darting<lb
                   break="yes"/>glances showed me the interest which he<lb break="yes"/>took in our
                curious companion.</p>
-            
+
             <cb/>
             <p><said>"I presume, sir,"</said> said he at last, <said>"that it<lb break="yes"/>was
                   not merely for the purpose of examining<lb break="yes"/>my skull that you have
@@ -490,7 +490,7 @@
 
             <pb n="127"/>
             <fw type="RunnningHead" rend="caps">THE HOUND OF THE BASKERVILLES 127</fw>
-            
+
             <cb/>
             <p><persName ref="#Holmes">Holmes</persName> stretched out his hand for the<lb
                   break="yes"/>manuscript and flattened it upon his knee.</p>
@@ -508,7 +508,11 @@
                   ><!-- in places where we need to have two rendition attribtes, can we we do rendition and rend?-->
                      "<persName ref="#Mortimer">DR. MORTIMER</persName> TURNED THE MANUSCRIPT TO THE
                   LIGHT AND READ."</p>
-               <figDesc/>
+               <figDesc>Mortimer and Holmes sit in chairs across from each other while Watson
+                  stands nearby. Mortimer is holding and looking at a written material, and Holmes
+                  leaning back while appearing to be in conversation. All three men are dressed in
+                  suits. The image has a border around it, except for its bottom, and the initials S
+                  P are inscribed in the bottom right corner.</figDesc>
             </figure>
             <p><said>"It appears to be a statement of some<lb break="yes"/>sort."</said></p>
             <p><said>"Yes, it is a statement of a certain legend<lb break="yes"/>which runs in the
@@ -541,7 +545,6 @@
                   (the history of which by the learned<pb n="128"/>
                   <fw type="RunnningHead" rend="caps">128 THE STRAND MAGAZINE</fw>
                   <!-- what to do if these things are within saids and ps -->
-                  
                   <cb/><ref>Lord Clarendon<!-- This is a real guy apparently --></ref> I most
                   earnestly commend<lb break="yes"/>to your attention) this <placeName
                      ref="#BaskervilleHall">Manor of Baskerville</placeName><lb break="yes"/>was
