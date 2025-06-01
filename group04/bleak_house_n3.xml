@@ -248,13 +248,13 @@
          </div>
          <div type="ad" xml:id="waverleyNovels">
             <pb n="3"/>
-            <head><hi rend="ac">Vol. I of a new library edition, uniform with the standard English
-                  authors of, The Waverley Novels,</hi></head>
-            <p><hi rend="ac">By Sir Walter Scott, Bart.</hi></p>
+            <head rend="ac">Vol. I of a new library edition, uniform with the standard English
+               authors of, The Waverley Novels,</head>
+            <p rend="ac">By Sir Walter Scott, Bart.</p>
             <p>Just published, in Demy 8vo., price nine shillings,</p>
             <p>With frontispiece, by John Faed, R.S.A., Engraved by L. Stocke, and Vignette, by
                Birket Foster, Engraved by W. Forest</p>
-            <p><hi rend="ac">To be completed in twenty-five monthly volumes.</hi></p>
+            <p rend="ac">To be completed in twenty-five monthly volumes.</p>
             <p>No works of imagination of the same extent have ever been received with so great
                favour as the <hi rend="ac">Waverley novels</hi>.</p>
             <p>Since their first publication that fewer than a <hi rend="ac">hundred and twenty
@@ -275,34 +275,33 @@
                of the Author. </p>
          </div>
          <div type="ad" xml:id="elementsOfStructuralBotany">
-            <head><hi rend="ac">Elements of structural botany, forming part I. of a new botanical
-                  class book</hi></head>
-            <p><hi rend="ac">by J. H. Balfour, M.D., F.R.S.E., Professor of botany in the University
-                  of Edinburgh.</hi></p>
-            <p><hi rend="ac">Just published, in demy octavo, with 1060 illustrations, price 10s.
-                  6d.</hi></p>
+            <head rend="ac">Elements of structural botany, forming part I. of a new botanical class
+               book</head>
+            <p rend="ac">by J. H. Balfour, M.D., F.R.S.E., Professor of botany in the University of
+               Edinburgh.</p>
+            <p rend="ac">Just published, in demy octavo, with 1060 illustrations, price 10s. 6d.</p>
          </div>
          <div type="ad" xml:id="theLifeOfLordJeffrey">
-            <head><hi rend="ac">The life of lord Jeffrey, with a selection from his
-                  correspondence.</hi></head>
-            <p><hi rend="ac">By Lord Cockburn.</hi></p>
-            <p><hi rend="ac">in two volumes, demy octavo, price 25s.</hi></p>
-            <p><hi rend="ac">Edinburgh: Adam &amp; Charles Black. London: Longman &amp; Co.; Simpkin
-                  &amp; Co.; Hamilton &amp; Co.; and Houlston &amp; Stoneman.</hi></p>
+            <head rend="ac">The life of lord Jeffrey, with a selection from his
+               correspondence.</head>
+            <p rend="ac">By Lord Cockburn.</p>
+            <p rend="ac">in two volumes, demy octavo, price 25s.</p>
+            <p rend="ac">Edinburgh: Adam &amp; Charles Black. London: Longman &amp; Co.; Simpkin
+               &amp; Co.; Hamilton &amp; Co.; and Houlston &amp; Stoneman.</p>
          </div>
          <div type="ad-group" xml:id="colburn">
             <pb n="4"/>
-            <head><hi rend="ac">Colburn and Co.'s new publications.</hi></head>
+            <head rend="ac">Colburn and Co.'s new publications.</head>
             <p rend="ac">13, Great Marlborough Street</p>
             <div type="ad" xml:id="theLifeOfMarieDeMedicis">
-               <head><hi rend="ac">The Life of Marie de Medicis,</hi></head>
+               <head rend="ac">The Life of Marie de Medicis,</head>
                <p>Queen of France, Consort of Henry IV., and Regent of the Kingdom under Louis XIII.
                      <hi rend="ac">By Miss Pardok</hi>, Author of "Louis XIV. and the Court of
                   France," &amp;c. 3 vols., with Portraits, &amp;c. (<hi rend="italics"
                      >Immediately</hi>).</p>
             </div>
             <div type="ad" xml:id="theLiteratureAndRomanceOfNorthEurope">
-               <head><hi rend="ac">The literature and romance of Northern Europe,</hi></head>
+               <head rend="ac">The literature and romance of Northern Europe,</head>
                <p>With copious Specimens. <hi rend="ac">By William and Mary Howitt</hi>. 2 vols.
                   21s.</p>
                <p><q type="testimony">A work replete with interest to the scholar, the philosopher,
@@ -310,18 +309,18 @@
                   >Post</hi>.</p>
             </div>
             <div type="ad" xml:id="fiveyearsInTheWestIndies">
-               <head><hi rend="ac">Five years in the West Indies</hi>.</head>
+               <head rend="ac">Five years in the West Indies.</head>
                <p>By <hi rend="ac">Charles W. Day</hi>, Esq. 2 vols. with illustrations, 21s.</p>
             </div>
             <div type="ad" xml:id="canada">
-               <head><hi rend="ac">Canada as it was, is, and may be;</hi></head>
+               <head rend="ac">Canada as it was, is, and may be;</head>
                <p>With an account of recent transactions, by Sir<hi rend="ac">James E.
                      Alexander</hi>. 2 vols., with Map, &amp;c., 21s.</p>
                <p><q type="testimony">A very valuable and interesting work.</q> --<hi rend="italics"
                      >John Bull</hi>.</p>
             </div>
             <div type="ad" xml:id="adamGraeme">
-               <head><hi rend="ac">Adam Graeme of Mossgray</hi>.</head>
+               <head rend="ac">Adam Graeme of Mossgray.</head>
                <p>A new story of Scottish life. By the Author of <q>Maragaret Maitland,</q>
                   <q>Merkland,</q> and <q>Caleb Field.</q> 3 vols.</p>
                <p><q type="testimony">A story awakening genuine emotions of interest and delight, by
@@ -348,12 +347,12 @@
                <p>Author of <q>The Gambler's Wife,</q> &amp;c., is just ready in 3 vols.</p>
             </div>
             <div type="ad" xml:id="carpentersArithmeticNewEd">
-               <head><hi rend="ac">Carpenter's (T.) Arithmetic.</hi></head>
+               <head rend="ac">Carpenter's (T.) Arithmetic.</head>
                <p><hi rend="ac">New edition. By W. Rutherford, Esq.</hi> Price, bound in cloth, 1s.
                   6d.</p>
             </div>
             <div type="ad" xml:id="carpentersArithmetic">
-               <head><hi rend="ac dropcap">Carpenter's arithmetic:</hi></head>
+               <head rend="ac dropcap">Carpenter's arithmetic:</head>
                <p>designed for the use of Schools, by <hi rend="ac">Thomas Carpenter</hi>, Author of
                      <q>The Scholar's Spelling Assistant,</q> New Edition, carefully corrected and
                   considerably enlarged. By <hi rend="ac">W. Rutherford, LL.D., F.R.A.S.,</hi> Royal
@@ -374,14 +373,14 @@
             </div>
             <div type="ad" xml:id="theDaysOfBruce">
                <head rend="ac">The days of Bruce:</head>
-               <p><hi rend="ac">A story from a Scottish history. By Grace Aguilar,</hi></p>
+               <p rend="ac">A story from a Scottish history. By Grace Aguilar,</p>
                <p>New work by the Author of <q>home Influence.</q> On the 6th day of May, in one
                   vol., illustrated with frontispiece and vignette title, price 7s., 6d.,</p>
                <p>Author of <q>Home Influence,</q>
                   <q>The Mother's Recompense,</q>
                   <q>Women's Friendship,</q>
                   <q>The Vale of Cedars,</q> &amp;c. &amp;c.</p>
-               <p><hi rend="ac">London: Groombridge &amp; Sons, 5, Paternoster row.</hi></p>
+               <p rend="ac">London: Groombridge &amp; Sons, 5, Paternoster row.</p>
             </div>
             <div type="ad" xml:id="leFollet">
                <head>Le Follet.-- Important and valuable gratuity.</head>
@@ -405,6 +404,69 @@
                <p>Single numbers, 1s. 6d. each; Subscription, 16s. per year. Office, 9,
                   Argyle-place. <hi rend="ac">Simpkin, Marshall, &amp; Co.</hi>, and all
                   booksellers.</p>
+            </div>
+         </div>
+         <div type="ad-group" xml:id="p5newWorks">
+            <pb n="5"/>
+            <head rend="ac">New works.</head>
+            <div type="ad" xml:id="theStoryOfNellGwyn">
+               <head rend="ac">The story of Nell Gwyn</head>
+               <p rend="ac">And the sayings of King Charles II.</p>
+               <p>Related and collected by <hi rend="ac">Peter Cunningham, F.S.A</hi></p>
+               <p rend="italics">This day is published, in crown octavo, price 6s.</p>
+            </div>
+            <div type="ad" xml:id="howToSeeTheBritishMuseum">
+               <head rend="ac">How to see the British Museum.</head>
+               <p rend="ac">In four visits. By William Blanchard Jerrold.</p>
+               <p rend="italics">Complete in one volume, price 2s. 6d., bound in cloth,</p>
+               <p><q type="testimony">As a Guide-book through the vast collection it will be prized
+                     for the simplicity of its arrangement, and the clearness of its style.</q>
+                     --<hi rend="italics">Leader</hi>.</p>
+               <div type="ad" xml:id="theComicHistoryOfRome">
+                  <head rend="ac">The comic history of Rome.</head>
+                  <p rend="ac">By G. A. A'Beckett.</p>
+                  <p rend="italics">In one volume 8vo, price 11s., illustrated with ten large
+                     coloured engravings and numerous woodcuts by <hi rend="ac">John Leech</hi>.</p>
+               </div>
+               <div type="ad" xml:id="theComicHistoryOfEngland">
+                  <head rend="ac">The comic history of England.</head>
+                  <p rend="ac">Illustrated with twenty coloured engravings and numerous woodcuts, by
+                     John Leech.</p>
+                  <p rend="italics">By the same author, in two vols., 8vo, price 21s.</p>
+               </div>
+               <div type="ad" xml:id="writingsOfDouglassJerrold">
+                  <head rend="ac">The third volume of the collected edition of the writings of
+                     Douglass Jerrold.</head>
+                  <p>Containing <q rend="ac">Mrs. Caudle's lectures,</q> the <q rend="ac">Story of
+                        feather,</q> and <q rend="ac">The sick giant and the doctor dwarf.</q></p>
+                  <p rend="italics">This day is published, price 4s. in cloth</p>
+                  <p>&#8757; These works are also publishing in weekly numbers, price 11d. each, and
+                     in monthly parts, price 7d. each.</p>
+               </div>
+               <div type="ad" xml:id="proseAndVerse">
+                  <head rend="ac">Prose and verse.</head>
+                  <p rend="ac">By Mark Lemon.</p>
+                  <p rend="italics">Price 4s., in cloth boards.</p>
+               </div>
+               <div type="ad" xml:id="theEnchantedDoll">
+                  <head rend="ac">The enchanted doll.</head>
+                  <p>A fairy tale for young people. Illustrated by <hi rend="ac">Richard
+                     Doyle.</hi></p>
+                  <p rend="italics">By the same author, 3s. 6d.</p>
+               </div>
+               <div type="ad" xml:id="whatShallWeHaveForDinner">
+                  <head rend="ac">What shall we have for dinner?</head>
+                  <p rend="ac">By Lady Maria Clutterbuck.</p>
+                  <p rend="italics">Price 1s. A new edition enlarged and improved.</p>
+               </div>
+               <div rend="ac">
+                  <p><location>
+                        <address>
+                           <addrLine>Bradbury and Evans</addrLine>
+                           <street>11, Bouverie Street</street>
+                        </address>
+                     </location></p>
+               </div>
             </div>
          </div>
          <div type="ad" xml:id="childsHistoryEngland">
