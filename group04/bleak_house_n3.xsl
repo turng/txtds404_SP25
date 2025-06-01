@@ -47,6 +47,10 @@
         <p class="italics"><xsl:apply-templates/></p>
     </xsl:template>
     
+    <xsl:template match="tei:p[@rend='subtitle']">
+        <h3><xsl:apply-templates/></h3>
+    </xsl:template>
+    
     <xsl:template match="tei:hi[@rend='ac']">
         <span class="ac"><xsl:apply-templates/></span>
     </xsl:template>
@@ -118,5 +122,13 @@
             <xsl:value-of select="@target"/>
         </a>
     </xsl:template>
+    
+    <!-- <xsl:template match="tei:graphic">
+        <img>
+            <xsl:attribute name="src">
+                <xsl:value-of select="@url"/>
+            </xsl:attribute>
+        </img>
+    </xsl:template> -->
     
 </xsl:stylesheet>

@@ -54,6 +54,16 @@ h1 {
   text-shadow: 1px 1px 0 #e8dcc0;
 }
 
+h3 {
+  text-align: center;
+  font-size: 1.5em;
+  color: #4b2e19;
+  margin-bottom: 0em;
+  letter-spacing: 1px;
+  font-variant: small-caps;
+  text-shadow: 1px 1px 0 #e8dcc0;
+}
+
 .ac {
     text-transform: uppercase;
 }

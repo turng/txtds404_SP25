@@ -196,7 +196,8 @@
                   be had separately, price 5s.</p>
             </div>
             <div type="ad" xml:id="theElementsOfBotany">
-               <head rend="ac">The elements of botany; Structural and physiological.</head>
+               <head rend="ac">The elements of botany;</head>
+               <p rend="subtitle">Structural and physiological.</p>
                <p>With a glossary of technical terms, and numerous illustrations. By <name rend="ac"
                      type="person">Dr. Lindley</name>. 12s. cloth.</p>
                <p>&#8757;The glossary may be had separately, price 5s. cloth.</p>
@@ -207,20 +208,22 @@
                   8vo, price 14s. cloth.</p>
             </div>
             <div type="ad" xml:id="schoolBotany">
-               <head>School botany; or, the rudiments of botanical science.</head>
+               <head>School botany;</head>
+               <p rend="subtitle">Or, the rudiments of botanical science.</p>
                <p>By <name rend="ac" type="person">Dr. Lindley</name>.</p>
                <p>With nearly 400 illustrations. 8vo, price 5s. 6d. half-bound.</p>
             </div>
             <div type="ad" xml:id="orchidaceae">
-               <head rend="ac">Orchidace&#198; Lindenian&#198; Or notes upon a collection of orchids
-                  formed in Colombia and Cuba.</head>
+               <head rend="ac">Orchidaceæ Lindenianæ</head>
+               <p rend="subtitle">Or notes upon a collection of orchids formed in Colombia and
+                  Cuba.</p>
                <p>By <name rend="ac" type="person">Mr. J. Linden</name>. 8vo, price 2s. 6d.</p>
             </div>
             <div type="ad" xml:id="ladiesCompanionFlowerGarden">
                <head rend="ac">The ladies’ companion to the flower-garden.</head>
-               <p rend="ac">Being an alphabetical arrangement of all the ornamental plants grown in
-                  gardens and shrubberies, with full directions for their culture.</p>
-               <p rend="ac">By<name>Mrs. Loudon</name>.</p>
+               <p rend="subtitle">Being an alphabetical arrangement of all the ornamental plants
+                  grown in gardens and shrubberies, with full directions for their culture.</p>
+               <p rend="ac">By <name>Mrs. Loudon</name>.</p>
                <p>The fifth edition. Price 7s. cloth, with numerous woodcuts representing the
                   processes of grafting, budding, layering, &amp;c.</p>
             </div>
@@ -249,8 +252,9 @@
          </div>
          <div type="ad" xml:id="waverleyNovels">
             <pb n="3"/>
-            <head rend="ac">Vol. I of a new library edition, uniform with the standard English
-               authors of, The Waverley Novels,</head>
+            <head rend="ac">The Waverley Novels,</head>
+            <p rend="subtitle">Vol. I of a new library edition, uniform with the standard English
+               authors of,</p>
             <p rend="ac">By Sir Walter Scott, Bart.</p>
             <p>Just published, in Demy 8vo., price nine shillings,</p>
             <p>With frontispiece, by John Faed, R.S.A., Engraved by L. Stocke, and Vignette, by
@@ -276,15 +280,15 @@
                of the Author. </p>
          </div>
          <div type="ad" xml:id="elementsOfStructuralBotany">
-            <head rend="ac">Elements of structural botany, forming part I. of a new botanical class
-               book</head>
+            <head rend="ac">Elements of structural botany,</head>
+            <p rend="subtitle">forming part I. of a new botanical class book</p>
             <p rend="ac">by J. H. Balfour, M.D., F.R.S.E., Professor of botany in the University of
                Edinburgh.</p>
             <p rend="ac">Just published, in demy octavo, with 1060 illustrations, price 10s. 6d.</p>
          </div>
          <div type="ad" xml:id="theLifeOfLordJeffrey">
-            <head rend="ac">The life of lord Jeffrey, with a selection from his
-               correspondence.</head>
+            <head rend="ac">The life of lord Jeffrey,</head>
+            <p rend="subtitle">with a selection from his correspondence.</p>
             <p rend="ac">By Lord Cockburn.</p>
             <p rend="ac">in two volumes, demy octavo, price 25s.</p>
             <p rend="ac">Edinburgh: Adam &amp; Charles Black. London: Longman &amp; Co.; Simpkin
@@ -315,7 +319,7 @@
             </div>
             <div type="ad" xml:id="canada">
                <head rend="ac">Canada as it was, is, and may be;</head>
-               <p>With an account of recent transactions, by Sir<hi rend="ac">James E.
+               <p>With an account of recent transactions, by Sir <hi rend="ac">James E.
                      Alexander</hi>. 2 vols., with Map, &amp;c., 21s.</p>
                <p><q type="testimony">A very valuable and interesting work.</q> --<hi rend="italics"
                      >John Bull</hi>.</p>
@@ -374,8 +378,9 @@
             </div>
             <div type="ad" xml:id="theDaysOfBruce">
                <head rend="ac">The days of Bruce:</head>
-               <p rend="ac">A story from a Scottish history. By Grace Aguilar,</p>
-               <p>New work by the Author of <q>home Influence.</q> On the 6th day of May, in one
+               <p rend="subtitle">A story from a Scottish history.</p>
+               <p rend="ac">By Grace Aguilar,</p>
+               <p>New work by the Author of <q>Home Influence.</q> On the 6th day of May, in one
                   vol., illustrated with frontispiece and vignette title, price 7s., 6d.,</p>
                <p>Author of <q>Home Influence,</q>
                   <q>The Mother's Recompense,</q>
@@ -412,13 +417,14 @@
             <head rend="ac">New works.</head>
             <div type="ad" xml:id="theStoryOfNellGwyn">
                <head rend="ac">The story of Nell Gwyn</head>
-               <p rend="ac">And the sayings of King Charles II.</p>
+               <p rend="subtitle">And the sayings of King Charles II.</p>
                <p>Related and collected by <hi rend="ac">Peter Cunningham, F.S.A</hi></p>
                <p rend="italics">This day is published, in crown octavo, price 6s.</p>
             </div>
             <div type="ad" xml:id="howToSeeTheBritishMuseum">
                <head rend="ac">How to see the British Museum.</head>
-               <p rend="ac">In four visits. By William Blanchard Jerrold.</p>
+               <p rend="subtitle">In four visits.</p>
+               <p rend="ac">By William Blanchard Jerrold.</p>
                <p rend="italics">Complete in one volume, price 2s. 6d., bound in cloth,</p>
                <p><q type="testimony">As a Guide-book through the vast collection it will be prized
                      for the simplicity of its arrangement, and the clearness of its style.</q>
@@ -452,8 +458,8 @@
             </div>
             <div type="ad" xml:id="theEnchantedDoll">
                <head rend="ac">The enchanted doll.</head>
-               <p>A fairy tale for young people. Illustrated by <hi rend="ac">Richard
-                  Doyle.</hi></p>
+               <p rend="subtitle">A fairy tale for young people.</p>
+               <p>Illustrated by <hi rend="ac">Richard Doyle.</hi></p>
                <p rend="italics">By the same author, 3s. 6d.</p>
             </div>
             <div type="ad" xml:id="whatShallWeHaveForDinner">
