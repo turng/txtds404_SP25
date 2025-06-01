@@ -293,12 +293,32 @@
          <div type="ad-group" xml:id="colburn">
             <pb n="4"/>
             <head><hi rend="ac">Colburn and Co.'s new publications.</hi></head>
+            <p rend="ac">13, Great Marlborough Street</p>
             <div type="ad" xml:id="theLifeOfMarieDeMedicis">
                <head><hi rend="ac">The Life of Marie de Medicis,</hi></head>
                <p>Queen of France, Consort of Henry IV., and Regent of the Kingdom under Louis XIII.
                      <hi rend="ac">By Miss Pardok</hi>, Author of "Louis XIV. and the Court of
                   France," &amp;c. 3 vols., with Portraits, &amp;c. (<hi rend="italics"
                      >Immediately</hi>).</p>
+            </div>
+            <div type="ad" xml:id="theLiteratureAndRomanceOfNorthEurope">
+               <head><hi rend="ac">The literature and romance of Northern Europe,</hi></head>
+               <p>With copious Specimens. <hi rend="ac">By William and Mary Howitt</hi>. 2 vols. 21s.</p>
+               <p><q type="testimony">A work replete with interest to the scholar, the philosopher, the antiquarian, and the general reader.</q> --<hi rend="italics">Post</hi>.</p>
+            </div>
+            <div type="ad" xml:id="fiveyearsInTheWestIndies">
+               <head><hi rend="ac">Five years in the West Indies</hi>.</head>
+               <p>By <hi rend="ac">Charles W. Day</hi>, Esq. 2 vols. with illustrations, 21s.</p>
+            </div>
+            <div type="ad" xml:id="canada">
+               <head><hi rend="ac">Canada as it was, is, and may be;</hi></head>
+               <p>With an account of recent transactions, by Sir<hi rend="ac">James E. Alexander</hi>. 2 vols., with Map, &amp;c., 21s.</p>
+               <p><q type="testimony">A very valuable and interesting work.</q> --<hi rend="italics">John Bull</hi>.</p>
+            </div>
+            <div type="ad" xml:id="adamGraeme">
+               <head><hi rend="ac">Adam Graeme of Mossgray</hi>.</head>
+               <p>A new story of Scottish life. By the Author of <q>Maragaret Maitland,</q> <q>Merkland,</q> and <q>Caleb Field.</q> 3 vols.</p>
+               <p><q type="testimony">A story awakening genuine emotions of interest and delight, by its admirable pictures of Scottish life and scenery.</q> --<hi rend="italics">Morning Post</hi>.</p>
             </div>
          </div>
          <div type="ad" xml:id="childsHistoryEngland">
