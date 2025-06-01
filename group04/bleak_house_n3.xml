@@ -422,52 +422,53 @@
                <p><q type="testimony">As a Guide-book through the vast collection it will be prized
                      for the simplicity of its arrangement, and the clearness of its style.</q>
                      --<hi rend="italics">Leader</hi>.</p>
-               <div type="ad" xml:id="theComicHistoryOfRome">
-                  <head rend="ac">The comic history of Rome.</head>
-                  <p rend="ac">By G. A. A'Beckett.</p>
-                  <p rend="italics">In one volume 8vo, price 11s., illustrated with ten large
-                     coloured engravings and numerous woodcuts by <hi rend="ac">John Leech</hi>.</p>
-               </div>
-               <div type="ad" xml:id="theComicHistoryOfEngland">
-                  <head rend="ac">The comic history of England.</head>
-                  <p rend="ac">Illustrated with twenty coloured engravings and numerous woodcuts, by
-                     John Leech.</p>
-                  <p rend="italics">By the same author, in two vols., 8vo, price 21s.</p>
-               </div>
-               <div type="ad" xml:id="writingsOfDouglassJerrold">
-                  <head rend="ac">The third volume of the collected edition of the writings of
-                     Douglass Jerrold.</head>
-                  <p>Containing <q rend="ac">Mrs. Caudle's lectures,</q> the <q rend="ac">Story of
-                        feather,</q> and <q rend="ac">The sick giant and the doctor dwarf.</q></p>
-                  <p rend="italics">This day is published, price 4s. in cloth</p>
-                  <p>&#8757; These works are also publishing in weekly numbers, price 11d. each, and
-                     in monthly parts, price 7d. each.</p>
-               </div>
-               <div type="ad" xml:id="proseAndVerse">
-                  <head rend="ac">Prose and verse.</head>
-                  <p rend="ac">By Mark Lemon.</p>
-                  <p rend="italics">Price 4s., in cloth boards.</p>
-               </div>
-               <div type="ad" xml:id="theEnchantedDoll">
-                  <head rend="ac">The enchanted doll.</head>
-                  <p>A fairy tale for young people. Illustrated by <hi rend="ac">Richard
-                     Doyle.</hi></p>
-                  <p rend="italics">By the same author, 3s. 6d.</p>
-               </div>
-               <div type="ad" xml:id="whatShallWeHaveForDinner">
-                  <head rend="ac">What shall we have for dinner?</head>
-                  <p rend="ac">By Lady Maria Clutterbuck.</p>
-                  <p rend="italics">Price 1s. A new edition enlarged and improved.</p>
-               </div>
-               <div rend="ac">
-                  <p><location>
-                        <address>
-                           <addrLine>Bradbury and Evans</addrLine>
-                           <street>11, Bouverie Street</street>
-                        </address>
-                     </location></p>
-               </div>
             </div>
+            <div type="ad" xml:id="theComicHistoryOfRome">
+               <head rend="ac">The comic history of Rome.</head>
+               <p rend="ac">By G. A. A'Beckett.</p>
+               <p rend="italics">In one volume 8vo, price 11s., illustrated with ten large coloured
+                  engravings and numerous woodcuts by <hi rend="ac">John Leech</hi>.</p>
+            </div>
+            <div type="ad" xml:id="theComicHistoryOfEngland">
+               <head rend="ac">The comic history of England.</head>
+               <p rend="ac">Illustrated with twenty coloured engravings and numerous woodcuts, by
+                  John Leech.</p>
+               <p rend="italics">By the same author, in two vols., 8vo, price 21s.</p>
+            </div>
+            <div type="ad" xml:id="writingsOfDouglassJerrold">
+               <head rend="ac">The third volume of the collected edition of the writings of Douglass
+                  Jerrold.</head>
+               <p>Containing <q rend="ac">Mrs. Caudle's lectures,</q> the <q rend="ac">Story of
+                     feather,</q> and <q rend="ac">The sick giant and the doctor dwarf.</q></p>
+               <p rend="italics">This day is published, price 4s. in cloth</p>
+               <p>&#8757; These works are also publishing in weekly numbers, price 11d. each, and in
+                  monthly parts, price 7d. each.</p>
+            </div>
+            <div type="ad" xml:id="proseAndVerse">
+               <head rend="ac">Prose and verse.</head>
+               <p rend="ac">By Mark Lemon.</p>
+               <p rend="italics">Price 4s., in cloth boards.</p>
+            </div>
+            <div type="ad" xml:id="theEnchantedDoll">
+               <head rend="ac">The enchanted doll.</head>
+               <p>A fairy tale for young people. Illustrated by <hi rend="ac">Richard
+                  Doyle.</hi></p>
+               <p rend="italics">By the same author, 3s. 6d.</p>
+            </div>
+            <div type="ad" xml:id="whatShallWeHaveForDinner">
+               <head rend="ac">What shall we have for dinner?</head>
+               <p rend="ac">By Lady Maria Clutterbuck.</p>
+               <p rend="italics">Price 1s. A new edition enlarged and improved.</p>
+            </div>
+            <div rend="ac">
+               <p><location>
+                     <address>
+                        <addrLine>Bradbury and Evans</addrLine>
+                        <street>11, Bouverie Street</street>
+                     </address>
+                  </location></p>
+            </div>
+
          </div>
          <div type="ad" xml:id="childsHistoryEngland">
             <pb n="9"/>

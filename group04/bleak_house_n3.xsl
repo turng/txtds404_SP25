@@ -43,12 +43,24 @@
         <p class="ac"><xsl:apply-templates/></p>
     </xsl:template>
     
+    <xsl:template match="tei:p[@rend='italics']">
+        <p class="italics"><xsl:apply-templates/></p>
+    </xsl:template>
+    
     <xsl:template match="tei:hi[@rend='ac']">
         <span class="ac"><xsl:apply-templates/></span>
     </xsl:template>
     
+    <xsl:template match="tei:hi[@rend='italics']">
+        <span class="italics"><xsl:apply-templates/></span>
+    </xsl:template>
+    
+    <xsl:template match="tei:q">
+        <span class="quote"><xsl:apply-templates/></span>
+    </xsl:template>
+    
     <xsl:template match="tei:q[@rend='ac']">
-        <span class="ac"><xsl:apply-templates/></span>
+        <span class="quote ac"><xsl:apply-templates/></span>
     </xsl:template>
     
     <xsl:template match="tei:pb">

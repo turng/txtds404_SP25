@@ -58,6 +58,19 @@ h1 {
     text-transform: uppercase;
 }
 
+.italics {
+    font-style: italic;
+}
+
+.quote::before {
+  content: "“";
+}
+
+.quote::after {
+  content: "”";
+}
+
+
 hr {
   border: none;
   height: 2px;
