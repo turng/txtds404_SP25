@@ -112,7 +112,7 @@
                The Hound of the Baskerville</p>
             <p rend="italics">(See page 128.)</p>
             <figDesc> In the full page illustration, a man on horseback speed across a field while a
-               hound pursues closely behind. In the background stands a human figure. The man on the
+               hound pursues closely behind. In the background stands a shepherd. The man on the
                horse is dressed in an old-fashioned coat and hat. Both the horse and hound are dark.
                The illustration has a border around it, and the initials S P are inscribed in the
                bottom right corner. </figDesc>
@@ -209,11 +209,11 @@
                      place="center">
                      <graphic url="../images/BaskervillePage124.png"/>
                      <p rendition="bottom" rend="caps">"He looked over it again with a convex lens."</p>
-                     <figDesc> Sherlock Holmes, stood by a window, examines a walking stick with a
+                     <figDesc><persName ref="#Holmes">Sherlock Holmes</persName>, stood by a window, examines a walking stick with a
                         magnifying glass. Holmes is wearing a light shirt and vest under a dark
                         jacket, a dark bow tie, and pants. He has short hair. The image does not
                         have a border around it, and the initials S P are inscribed in the bottom
-                        right corner. </figDesc>
+                        right corner.</figDesc>
                   </figure>
                   <lb break="yes"/>It gives us the basis for<lb break="yes"/>several
                   deductions."</said></p>
@@ -320,8 +320,8 @@
                      <figure place="bottom right">
                      <graphic url="../images/BaskervillePage125.png"/>
                         <p rendition="bottom" rend="caps">"His eyes fell upon the stick in Holme's hand."</p>
-                     <figDesc> Mortimer is holding the door to the room Sherlock and Watson are in,
-                        having just walked in. Sherlock and Watson are dressed in suits, Sherlock is
+                     <figDesc> <persName ref="#Mortimer">Mortimer</persName> is holding the door to the room Sherlock and Watson are in,
+                        having just walked in. <persName ref="#Holmes">Holmes</persName> and <persName ref="#Watson">Watson</persName> are dressed in suits, Sherlock is
                         holding a cane, and Mortimer is dressed in a coat and holding a top hat in
                         his free hand. Across from a table set in the middle of the room, Mortimer
                         is looking towards Sherlock and the cane Sherlock holds. The image has a
@@ -507,7 +507,7 @@
                <p rendition="bottom" rend="caps">
                      "<persName ref="#Mortimer">DR. MORTIMER</persName> TURNED THE MANUSCRIPT TO THE
                   LIGHT AND READ."</p>
-               <figDesc>Mortimer and Holmes sit in chairs across from each other while Watson
+               <figDesc><persName ref="#Mortimer">Mortimer</persName> and <persName ref="#Holmes">Holmes</persName> sit in chairs across from each other while Watson
                   stands nearby. Mortimer is holding and looking at a written material, and Holmes
                   leaning back while appearing to be in conversation. All three men are dressed in
                   suits. The image has a border around it, except for its bottom, and the initials S
@@ -666,7 +666,7 @@
                "There in the centre lay the unhappy maid where she had fallen."
             </p>
             <figDesc>
-               A man and woman lay still on a field at night, and between them stands a large, dark hound. The man, who is laid out on his back in front of the picture, is in an old fashioned uniform, and a hat and cane are strewn near him. Closely behind him stands the hound, and behind it the woman lies on her side in a light dress. Behind these three main figures stand two larger rocks and three men on horseback reacting in horror to the scene, one of them obscured by the right border of the image. The image has a border around it, and the initials S P are inscribed in the bottom right corner.
+               A man and woman, <persName ref="#HBaskerville">Hugo Baskerville</persName> and the maid, lay still on <placeName ref="#theMoors">a field</placeName> at night, and between them stands a dark hound, almost as large as Baskerville's corpse. Hugo Baskerville, who is laid out on his back in front of the picture, is in an old fashioned uniform, and a hat and cane are strewn near him. Closely behind him stands the hound, and behind it the woman lies on her side in a light dress. Behind these three main figures stand two larger rocks and three men on horseback reacting in horror to the scene, one of them obscured by the right border of the image. The image has a border around it, and the initials S P are inscribed in the bottom right corner.
             </figDesc>
          </figure>
          
@@ -676,7 +676,7 @@
                "His body was discovered."
             </p>
             <figDesc>
-               A man is laid on his stomach and is unresponsive to another man standing behind him holding a lamp with a shocked expression. Both men are dressed in suits. The lamp is the only light source and most of the background is obscured in dark. The image has a border around it, except for its bottom, and the initials S P are inscribed in the bottom right corner.
+               A man, <persName ref="#CBaskerville">Charles Baskerville</persName>, is laid on his stomach and is unresponsive to another man standing behind him holding a lamp with a shocked expression. Both men are dressed in suits. The lamp is the only light source and most of the background is obscured in dark. The image has a border around it, except for its bottom, and the initials S P are inscribed in the bottom right corner.
             </figDesc>
          </figure>
       
@@ -686,7 +686,7 @@
                "I saw his eyes fix themselves over my shoulder."
             </p>
             <figDesc>
-               Watson and Mortimer stand at the entrance to a building, Mortimer outside near a carriage, and face towards each other in conversation. Mortimer is wearing a dark suit and tophat, and Watson is in a light-colored suit. The image has a border around it, except for its bottom, and the initials S P are inscribed in the bottom right corner.
+               <persName ref="#Watson">Watson</persName> and <persName ref="#Mortimer">Mortimer</persName> stand at the entrance to a building, Mortimer outside near a carriage, and face towards each other in conversation. Mortimer is wearing a dark suit and tophat, and Watson is in a light-colored suit. The image has a border around it, except for its bottom, and the initials S P are inscribed in the bottom right corner.
             </figDesc>
          </figure>
    </text>
