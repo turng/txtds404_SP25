@@ -208,7 +208,7 @@
                   certainly one or two<lb break="yes"/>indications upon the stick. <figure
                      place="center">
                      <graphic url="../images/BaskervillePage124.png"/>
-                     <p rend="caps">"He looked over it again with a convex lens."</p>
+                     <p rendition="bottom" rend="caps">"He looked over it again with a convex lens."</p>
                      <figDesc> Sherlock Holmes, stood by a window, examines a walking stick with a
                         magnifying glass. Holmes is wearing a light shirt and vest under a dark
                         jacket, a dark bow tie, and pants. He has short hair. The image does not
@@ -319,7 +319,7 @@
                   man in this world who<lb break="yes"/>receives testimonials, only 
                      <figure place="bottom right">
                      <graphic url="../images/BaskervillePage125.png"/>
-                     <p rend="caps">"His eyes fell upon the stick in Holme's hand."</p>
+                        <p rendition="bottom" rend="caps">"His eyes fell upon the stick in Holme's hand."</p>
                      <figDesc> Mortimer is holding the door to the room Sherlock and Watson are in,
                         having just walked in. Sherlock and Watson are dressed in suits, Sherlock is
                         holding a cane, and Mortimer is dressed in a coat and holding a top hat in
@@ -504,8 +504,7 @@
                figures: "<date when="1742">1742</date>."</p>
             <figure place="center">
                <graphic url="../images/BaskervillePage127.png"/>
-               <p rendition="bottom" rend="caps"
-                  ><!-- in places where we need to have two rendition attribtes, can we we do rendition and rend?-->
+               <p rendition="bottom" rend="caps">
                      "<persName ref="#Mortimer">DR. MORTIMER</persName> TURNED THE MANUSCRIPT TO THE
                   LIGHT AND READ."</p>
                <figDesc>Mortimer and Holmes sit in chairs across from each other while Watson
@@ -659,6 +658,37 @@
          <!-- Chapter 2 div, won't end until the very end of the story -->
 
       </body>
+      
+      <!--I am pre=preparing the figure statements, just copy and paste these into the correct figure places-->
+         <figure place="top left">
+            <graphic url="../images/BaskervillePage129.png"/>
+            <p rendition="bottom" rend="caps">
+               "There in the centre lay the unhappy maid where she had fallen."
+            </p>
+            <figDesc>
+               A man and woman lay still on a field at night, and between them stands a large, dark hound. The man, who is laid out on his back in front of the picture, is in an old fashioned uniform, and a hat and cane are strewn near him. Closely behind him stands the hound, and behind it the woman lies on her side in a light dress. Behind these three main figures stand two larger rocks and three men on horseback reacting in horror to the scene, one of them obscured by the right border of the image. The image has a border around it, and the initials S P are inscribed in the bottom right corner.
+            </figDesc>
+         </figure>
+         
+         <figure place="center">
+            <graphic url="../images/BaskervillePage130.png"/>
+            <p rendition="bottom" rend="caps">
+               "His body was discovered."
+            </p>
+            <figDesc>
+               A man is laid on his stomach and is unresponsive to another man standing behind him holding a lamp with a shocked expression. Both men are dressed in suits. The lamp is the only light source and most of the background is obscured in dark. The image has a border around it, except for its bottom, and the initials S P are inscribed in the bottom right corner.
+            </figDesc>
+         </figure>
+      
+         <figure place="top left">
+            <graphic url="../images/BaskervillePage132.png"/>
+            <p rendition="bottom" rend="caps">
+               "I saw his eyes fix themselves over my shoulder."
+            </p>
+            <figDesc>
+            
+            </figDesc>
+         </figure>
    </text>
    <standOff>
       <bibl> </bibl>
