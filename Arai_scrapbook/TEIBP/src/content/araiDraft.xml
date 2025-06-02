@@ -317,12 +317,20 @@
             </div>
 
             <div type="correspondence">
-                <ab>SEATTLE PUBLIC LIBRARY SEATTLE, WASHINGTON Judson T. Jennings, Librarian 29
-                    April 1942 Mr Clarence T. Arai 452-12th Avenue Seattle, Washington Dear Mr Arai:
-                    Thank you kindly for the copies of “Our Times” by Mark Sullivan, and “The March
-                    of Democracy by Adams, which you sent to the library yesterday. Both sets are
-                    being added to the Reference department. Cordially yours J T Jennings JTJ/FRP
-                    Librarian </ab>
+                <ab type="letterhead">SEATTLE PUBLIC LIBRARY SEATTLE, WASHINGTON Judson T. Jennings, Librarian 29
+                    April 1942 </ab>
+                
+                <p><address><addrLine>Mr Clarence T. Arai</addrLine>
+                <addrLine>452-12th Avenue</addrLine>
+                <addrLine>Seattle, Washington</addrLine></address></p> 
+                
+               <p>Dear Mr Arai:</p>
+                
+                   <p>Thank you kindly for the copies of “Our Times” by Mark Sullivan, and “The March of Democracy by Adams, which you sent to the library yesterday.</p> 
+                   <p> Both sets are being added to the Reference department.</p>
+                    <signed>Cordially yours<l/>
+                        <name ref="#jennings">J T Jennings</name><!-- image of signature?? --><l/>
+                        JTJ/FRP           Librarian</signed> 
             </div>
 
             <div>
