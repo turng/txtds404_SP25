@@ -52,6 +52,8 @@
    <text>
       <front>
          <div type="introduction">
+            <head>Bleak House no. 3</head>
+            <p rend="subtitle">Edited by Karalee Harris, Steven Haker, and Paul Jason Perez</p>
             <p> This edition focuses on the advertisements that appeared alongside the original <ref
                   type="note" target="#n1">serialized publication</ref> of Bleak House written by
                Charles Dickens and illustrated by Hablot Knight Browne. This first edition was
@@ -344,7 +346,7 @@
             </div>
             <div type="ad" xml:id="confessionsOfAnEtonian">
                <head>Confessions of an Etonian.</head>
-               <p>By<hi rend="ac">Charles Rowcroft</hi>, Esq., Author of <q>Tales of the
+               <p>By <hi rend="ac">Charles Rowcroft</hi>, Esq., Author of <q>Tales of the
                      Colonies,</q> &amp;c. 3 vols.</p>
             </div>
             <div type="ad" xml:id="aNewNovelByMrsGrey">
@@ -402,7 +404,7 @@
                <p><q type="testimony">No comparison whatever can be drawn between it and its
                      numerous predecessors.</q> --<hi rend="italics">Sun</hi>.</p>
                <p><q type="testimony"><hi rend="ac">Le Follet</hi> must eclipse all other works
-                     devoted to the dresses of ladies/</q> --<hi rend="italics">Weekly
+                     devoted to the dresses of ladies</q> --<hi rend="italics">Weekly
                   Despatch</hi>.</p>
                <p><q type="testimony">No plates comparable to these have ever been issued for the
                      same purpose. They elevate dress to its proper station among the fine arts.</q>
