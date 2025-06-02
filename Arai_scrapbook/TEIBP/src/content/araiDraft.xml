@@ -181,12 +181,31 @@
             </div>
 
             <div type="certificate">
-                <ab>REGISTRATION CERTIFICATE AMERICAN KENNEL CLUB AKC INCORPORATED AMERICAN KENNEL
-                    CLUB STUD BOOK AMERICAN KENNEL CLUB NEW YORK, N.Y. NAME OF DOG Duke of Main
-                    Street BREED Cocker Spaniel Sex Male SIRE Slicker Boy of Kitsop (934421) DAM
-                    Paul’s Queenie (898745) WHELPED March 14, 1934 COLOR Red BREEDER M. Ellen Paul
-                    OWNER Clarence T. Arai REGISTERED June 15, 1934 ASSIGNED NO 941308 VOLUME 51
-                    August ISSUE Perry B Rice SECRETARY gm</ab>
+                <head rend="caps" style="text-align: center;">Registration Certificate 
+                    
+                    American Kennel Club AKC Incorporated 
+                    
+                    American Kennel Club Stud Book
+                    American Kennel Club 
+                    New York, N.y.</head>
+                    
+                    <l><hi rend="caps">Name of Dog</hi> Duke of Main Street</l> 
+                <l><hi rend="caps">Breed</hi> Cocker Spaniel   <hi rend="caps">Sex</hi> Male</l> 
+                <l><hi rend="caps">Sire</hi> Slicker Boy of Kitsop (934421)</l> 
+                <l><hi rend="caps">Dam</hi> Paul’s Queenie (898745)</l> 
+                <l><hi rend="caps">Whelped</hi> March 14, 1934</l>
+                <l><hi rend="caps">Color</hi> Red</l> 
+                <l><hi rend="caps">Breeder</hi> M. Ellen Paul</l>
+                <l><hi rend="caps">Owner</hi> Clarence T. Arai</l> 
+                <l><hi rend="caps">Registered</hi> <date when="1934-06-15">June 15, 1934</date></l> 
+                <l><hi rend="caps">Assigned No</hi> 941308</l> 
+                <l><hi rend="caps">Volume</hi> 51</l>
+                <l>August <hi rend="caps">Issue</hi></l>
+                    
+                    <signed>
+                        <name>Perry B Rice</name> <l/>
+                        SECRETARY gm
+                    </signed>
             </div>
 
             <div type="statement">
