@@ -116,7 +116,7 @@
                 <head rend="caps">In Appreciation</head>
                 <head rend="caps">Presented to</head>
                 <head rend="caps"><name>Mr. Clarence T. Arai </name></head>
-                <p>On behalf of <name><ref target='#Fujiyama'>Aiichiro Fujiyama</ref></name>, Minister for Foreign Affairs of
+                <p>On behalf of <name ref="fujiyama">Aiichiro Fujiyama</name>name>, Minister for Foreign Affairs of
                     Japan, I convey to you the commendations of the Japanese Government for your
                     exemplary citizenship and leadership in the affairs of your community</p>
                 <p>Your unremitting and dedicated endeavors have contributed greatly to the
@@ -332,13 +332,33 @@
                     there</p>
             </div>
 
-            <div>
-                <ab>SEATTLE PUBLIC LIBRARY SEATTLE, WASHINGTON Judson T. Jennings, Librarian 29
-                    April 1942 Mr Clarence T. Arai 452-12th Avenue Seattle, Washington Dear Mr Arai:
-                    Thank you kindly for the copies of “Our Times” by Mark Sullivan, and “The March
-                    of Democracy by Adams, which you sent to the library yesterday. Both sets are
-                    being added to the Reference department. Cordially yours J T Jennings JTJ/FRP
-                    Librarian </ab>
+            <div type="correspondence">
+                <ab type="letterhead">
+                    <name ref="#spl" rend="caps">Seatle Public Library</name> 
+                    <name rend="caps">Seattle, Washington</name> 
+                    <name ref="#jennings">Judson T. Jennings</name>, Librarian 
+                    <date when="1942-04-29">29 April 1942</date>
+                </ab> 
+                    
+                <ab type="address"><address>
+                    <addrLine>Mr <name>Clarence T. Arai</name></addrLine>
+                    <addrLine>452-12th Avenue</addrLine> 
+                    <addrLine>Seattle, Washington</addrLine>
+                </address></ab> 
+                
+                <p>Dear Mr Arai:</p>
+                
+                <p>Thank you kindly for the copies of “Our Times” by Mark Sullivan, and “The March
+                of Democracy by Adams, which you sent to the library yesterday.</p>
+                
+                <p>Both sets are being added to the Reference department.</p> 
+                
+                <signed>
+                    Cordially yours 
+                
+                    <name ref="#jennings">J T Jennings</name> <!-- signature?-->
+                    JTJ/FRP                  Librarian 
+                </signed>
             </div>
 
             <div>
