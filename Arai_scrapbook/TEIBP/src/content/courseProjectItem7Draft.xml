@@ -52,14 +52,15 @@
       <encodingDesc>
          <tagsDecl>
             <rendition xml:id="date" scheme="css">font-family: Papyrus, fantasy; text-align: right;
-               font-style: italic; font-size: 10px;</rendition>
+               font-style: italic; font-size: 20px;</rendition>
             <rendition xml:id="title" scheme="css">font-family: Arial, sans-serif; font-size:
-               20px;</rendition>
+               40px;</rendition>
             <rendition xml:id="paper" scheme="css"> font-family: Papyrus, fantasy; text-align:
-               right; font-style: italic; font-size: 10px;</rendition>
+               right; font-style: italic; font-size: 20px;</rendition>
             <rendition xml:id="description" scheme="css"> font-family: "Lucida Console Regular",
-               monospace; font-size: 10px; text-indent: 2em;</rendition>
+               monospace; font-size: 20px; text-indent: 2em;</rendition>
             <rendition xml:id="center" scheme="css">text-align: center;</rendition>
+            
             <rendition xml:id="paragraphIndent" scheme="css">text-align: 2em;</rendition>
             <rendition xml:id="titleIndent" scheme="css">padding-left: 1em; font-weight:
                bold</rendition>
@@ -112,7 +113,7 @@
       </front>
       <body>
          <div xml:id="newspaperClippings">
-            <div xml:id="emptyStallsClipping">
+            <div xml:id="emptyStallsClipping" type="clipping">
                <head rendition="#date">MAY 1, 1942</head>
                <head rendition="#title">EMPTY STALLS--EVACUATIONS</head>
                <head rendition="#paper">SEATTLE TIMES</head>
@@ -127,40 +128,37 @@
                   live outside the evacuation area, they are barred from the central business
                   district by wartime restrictions on movements of Japanese.</p>
             </div>
-            <div xml:id="halfOfCityClipping" type="clipping" rendition="halfOfCityClippingStyle">
-               <div type="clippingArticle">
-                  <head rendition="halfCityTitle lineSpacing">HALF OF CITY'S</head>
-                  <head rendition="halfCityTitle lineSpacing titleIndent">JAPS HAVE GONE</head>
-                  <head rendition="center lineSpacing">____________</head>
-                  <p rendition="description">Seattle's central business district gave the appearance
-                     of a city without Japanese today as the last of them from Zones No. 1 and 2, or
-                     population, departed for the assembly center in Puyallup.</p>
-                  <p rendition="description"> And the Pike Place Markets for the first time in their
-                     years of operation, did business without their myriad of Japanese-operated
-                     stalls. </p>
-                  <p rendition="description"> It is estimated that only about half the Japanese of
-                     the city have been removed but those who have gone were from areas in which
-                     many were engaged in business and where they most often met public. </p>
-                  <p rendition="description"> Those Japanese remaining in the city are restricted to
-                     movement within the area in which they live. Beginning at noon, they and all
-                     others of the Japanese race were banned from going to the central business
-                     district, the waterfront or any place in the area to the north of the city that
-                     lies west of Eastlake Avenue and Roosevelt Way, any place west of Fifth Avenue
-                     in the central area, or any place south of Jackson Street in the southern area,
-                     except for one small locality between Jackson and Dearborn Streets. </p>
-                  <p rendition="description">This ban prevents any Japanese in the farming community
-                     sur- rounding the city from delivering produce to Seattle firms personally, as
-                     Produce Row and the markets cannot be reached without passing through a
-                     restricted area.</p>
-                  <p rendition="description"> The market master of the municipal market said that
-                     not a single Japanese merchant appeared this morning, although the ban did not
-                     go into effect until noon. </p>
-                  <p rendition="description"> Operators of private markets said several Japanese
-                     renters of stalls came early this morning with produce but brought Filipinos
-                     with them to tend the stalls and left before noon. </p>
-                  <p rendition="description">No date has been set for removal of the Japanese from
-                     there</p>
-               </div>
+            <div xml:id="halfOfCityClipping" type="clipping">
+               <head rendition="#title">HALF OF CITY'S</head>
+               <head rendition="#title">JAPS HAVE GONE</head>
+               <head rendition="#center">____________</head>
+               <p rendition="#description">Seattle's central business district gave the appearance of
+                  a city without Japanese today as the last of them from Zones No. 1 and 2, or
+                  population, departed for the assembly center in Puyallup.</p>
+               <p rendition="#description"> And the Pike Place Markets for the first time in their
+                  years of operation, did business without their myriad of Japanese-operated stalls. </p>
+               <p rendition="#description"> It is estimated that only about half the Japanese of the
+                  city have been removed but those who have gone were from areas in which many were
+                  engaged in business and where they most often met public. </p>
+               <p rendition="#description"> Those Japanese remaining in the city are restricted to
+                  movement within the area in which they live. Beginning at noon, they and all
+                  others of the Japanese race were banned from going to the central business
+                  district, the waterfront or any place in the area to the north of the city that
+                  lies west of Eastlake Avenue and Roosevelt Way, any place west of Fifth Avenue in
+                  the central area, or any place south of Jackson Street in the southern area,
+                  except for one small locality between Jackson and Dearborn Streets. </p>
+               <p rendition="#description">This ban prevents any Japanese in the farming community
+                  sur- rounding the city from delivering produce to Seattle firms personally, as
+                  Produce Row and the markets cannot be reached without passing through a restricted
+                  area.</p>
+               <p rendition="#description"> The market master of the municipal market said that not a
+                  single Japanese merchant appeared this morning, although the ban did not go into
+                  effect until noon. </p>
+               <p rendition="#description"> Operators of private markets said several Japanese
+                  renters of stalls came early this morning with produce but brought Filipinos with
+                  them to tend the stalls and left before noon. </p>
+               <p rendition="#description">No date has been set for removal of the Japanese from
+                  there</p>
             </div>
          </div>
       </body>
