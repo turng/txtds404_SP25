@@ -316,9 +316,11 @@
                     there</p>
             </div>
 
-            <div type="correspondence">
-                <ab type="letterhead">SEATTLE PUBLIC LIBRARY SEATTLE, WASHINGTON Judson T. Jennings, Librarian 29
-                    April 1942 </ab>
+            <div type="correspondence"> <!-- note to marisa from marisa: make all letterheads center align-->
+                <ab type="letterhead"><name ref="#spl" rend="caps">Seattle Public Library</name> 
+                    <name rend="caps">Seattle, Washington</name> 
+                    <name ref="#jennings">Judson T. Jennings</name>, Librarian 
+                    <date when="1942-04-29">29 April 1942</date></ab>
                 
                 <p><address><addrLine>Mr Clarence T. Arai</addrLine>
                 <addrLine>452-12th Avenue</addrLine>
