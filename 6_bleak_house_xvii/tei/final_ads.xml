@@ -103,8 +103,8 @@
                <p rend="bserif">HAS ONE LARGE SHOW ROOM</p>
                <p>Devoted exclusively to the DISPLAY of BATHS and \TOILETTE WARE. The stock of each is at once the
                   largest, newest, and most varied ever submitted to the Public, and marked at prices proportionate with those
-                  that have tended to make his establishment the most distinguished in this country. Portable Showers, 7s.,
-                  Pillar Showers, L2 15s. to £4 15s. ; Nursery, 11s. 6d. to 30s.; Sponging, 14s. to 30s.; Hip, 18s. 6d. to 29s.
+                  that have tended to make his establishment the most distinguished in this country. Portable Showers, <ref target="#n11">7s</ref>.,
+                  Pillar Showers, £2 15s. to £4 15s. ; Nursery, 11s. 6d. to 30s.; Sponging, 14s. to 30s.; Hip, 18s. 6d. to 29s.
                   A large assortment of Hot and Cold Plunge, Vapour, and Camp Shower Baths. Toilette Ware in great
                   variety, from 10s. 6d. to 45s. the Set of Three.</p>
                   
@@ -114,7 +114,7 @@
                <p>WILLIAM S. BURTON'S.</p>
                  
                <p>He has added to his SHOW-ROOMS Two very large ones, which are devoted to the exclusive show of
-                  IRON and BRASS HEDSTEADS and CHILDREN'S COTS, with appropriate Bedding and Mattresses. Many
+                  IRON and BRASS BEDSTEADS and CHILDREN'S COTS, with appropriate Bedding and Mattresses. Many
                   of these are quite new, and all are marked in plain figures. Common Iron Bedsteads, from 16s. 3d; Portable
                   Folding Bedsteads from 13s. 6d; Patent Iron Beadsteads, fitted with dove-tail joints and patent sacking, from
                   19s. 9d ; and Cots from 21s each. Handsome Ornamental Iron and Brass Bedsteads in great variety, from L3 15s. to L31.</p>
@@ -124,9 +124,9 @@
                <p rend="bserif">NEW FOLDING CHAIR BEDSTEAD.</p>
                <p>WILLIAM S. BURTON</p>
                   
-               <p>Has pleasure in offering an entirely new and very ingenious WROUGH IRON CHAIR BEDSTEAD, which,
+               <p>Has pleasure in offering an entirely new and very ingenious <ref target="#n12">WROUGHT IRON</ref> CHAIR BEDSTEAD, which,
                   from its being extremely light, durable, and portable (measuring, when folded, 2 ft. 11in. by 2ft. by 8 in 
-                  deep), and easily and instantaneously convertible from a chair to a bedstead, or <hi rend="it">vise versâ</hi>, present to</p>
+                  deep), and easily and instantaneously convertible from a chair to a bedstead, or <hi rend="it">vice versâ</hi>, present to</p>
                   
                <p>MILITARY OFFICERS AND PARTIES TRAVELLING</p>
                   
@@ -154,7 +154,7 @@
                <p rend="bserif">HAS TEN LARGE SHOW ROOMS</p>
                <p>(all communicating), exclusive of the shop, devoted solely to the show of</p>
                <p rend="sans">GENERAL FURNISHING IRONMONGERY,</p>
-               <p>including Cutlery, Nickel Silver, Plated, and Japanned Wares, Iron and Brass Bedsteads, so arranged and</p>
+               <p>including Cutlery, Nickel Silver, Plated, and <ref target="#n14">Japanned</ref> Wares, Iron and Brass Bedsteads, so arranged and</p>
                <p>classified that purchasers may easily and at once make their selections.</p>
                      
                <p rend="bserif">Catalogues, with Engravings, sent (per post) free. The Money returned for</p>
@@ -179,7 +179,7 @@
                <space type="sglinesh"/> <!--has diamond in middle-->
                
                <div>
-                  <p><hi rend="dropcap">T</hi>he <hi rend="sc">"English Cyclopædia"</hi>
+                  <p><hi rend="dropcap">T</hi>he <hi rend="sc">"English <ref target="#15">Cyclopædia</ref>"</hi>
                   will be published in Four Divisions; each having
                   its own alphabetical arrangement, and each forming, when complete, four disstinct
                   volumes.</p>
@@ -317,7 +317,7 @@
 	            
 	            <div>
 	               <p>Price 6s. in Cloth,</p>
-	               <p rend="bserif">A NEW EDITION OF VANITY FAIR.</p><!--bserif-->
+	               <p rend="bserif">A NEW EDITION OF <ref target="#16">VANITY FAIR</ref>.</p><!--bserif-->
 	               <p>By W. M. THACKERAY.</p>
 	               <p>"In forming our general estimate of this writer, we wish it to be understood as referring principally, if not
 	               exclusively, to 'Vanity Fair,' so immeasurably superior in our opinion is this to every other known production
@@ -325,7 +325,7 @@
 	               sentiment, - the confiding frankness with which the reader is addressed, -the thoroughbred carelessness with which
 	               the author permits the thoughts and feelings suggested by the situations to flow in their natural channel, as if
 	               conscious that nothing mean or unworthy could fall from him. In a word, the book is the work of a gentleman-
-	               one touch of nature makes the whole world kin, and here are touches of nature by the dozen." -<hi rend="it">Edinburgh Review</hi>.</p>
+	               one touch of nature makes the whole world kin, and here are touches of nature by the dozen." -<hi rend="it"><ref target="#17">Edinburgh Review</ref></hi>.</p>
 	               
 	               <!--sgline-->
 	               <space type="sglinesh"/>
@@ -371,14 +371,14 @@
 	               <head rend="sans"><hi rend="bold">MOTHERS! MOTHERS!! MOTHERS!!!</hi></head><!--sans-->
 	               <figure>
 	                  <graphic url="https://www.gutenberg.org/files/49844/49844-h/images/crest.jpg"/>
-	                        <figDesc>A seal royal seal with two horses mirroring each other.</figDesc>
+	                        <figDesc>A royal seal with a lion and unicorn facing each other.</figDesc>
 	               </figure>
 	               <p><hi rend="dropcaps">T</hi>HE BEST MEDICINE IN THE WORLD for INFANTS
 	               AND YOUNG CHILDREN IS ATKINSON AND BARKER'S ROYAL INFANTS'
-	               PRESERVATIVE-Under the Patronage of the Queen.-The high and universal
+	               PRESERVATIVE-Under the <ref target="#18">Patronage of the Queen</ref>.-The high and universal
 	               celebrity which this medicine continues to maintain for the prevention and cure of those 
 	               disorders incident to infants; affording instant relief in convulsions, flatulency, affections of the bowels, 
-	               difficult teething, the thrush, rickets, measles, hooping-cough, cow-pox, or vaccine inoculation, and may be
+	               difficult teething, the thrush, rickets, measles, whooping-cough, <ref target="#19">cow-pox</ref>, or vaccine inoculation, and may be
 	               given with safety immediately after birth. It is no misnomer cordial!-no stupefactive, deadly narcotic!-
 	               but a veritable preserver of infants! Mothers would do well in always keeping it in the nursery. Many
 	               thousands of children are annually saved by this much-esteemed medicine, which is an immediate remedy,
@@ -643,7 +643,7 @@
 	             </div>
 	             
 	             <div rend="bold">
-	                <p>Superb Epergnes, Candelabra, Salad Stands, Wine Coolers, Waiters, Corner Dishes,</p>
+	                <p>Superb <ref target="#20">Epergnes</ref>, Candelabra, Salad Stands, Wine Coolers, Waiters, Corner Dishes,</p>
 	                <p>Meat and Venison Dishes, Dish Covers, Cruet Frames, Liqueur Stands, Spoons and Forks,</p>
 	                <p>Tea and Coffee Services,Tea Kettles, Toast Racks, &amp;c., &amp;c.</p>
 	             </div>
