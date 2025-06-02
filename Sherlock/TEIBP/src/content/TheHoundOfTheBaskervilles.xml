@@ -651,8 +651,6 @@
                      shining<lb break="yes"/>bright upon the clearing, and there in the<lb
                      break="yes"/>centre lay <persName ref="#theMaiden">the unhappy maid</persName>
                   where she had <pb n="129"/>
-            </p>
-            <pb/>
          <figure place="top left">
             <graphic url="../images/BaskervillePage129.png"/>
             <p rendition="bottom" rend="caps"> "There in the centre lay the unhappy maid where she
@@ -670,7 +668,7 @@
          </figure>
          <cb/>
          <lb break="yes"/>
-         <p>fallen, dead of fear and of fatigue. But it <lb break="yes"/>was not the sight of her
+         fallen, dead of fear and of fatigue. But it <lb break="yes"/>was not the sight of her
             body, nor yet was it <lb break="yes"/>that of the body of <persName ref="#HBaskerville"
                >Hugo Baskerville</persName> lying <lb break="yes"/>near her, which raised the hair
             upon the <lb break="yes"/>heads of these three dare-devil roysterers, <lb break="yes"
@@ -683,10 +681,10 @@
             eyes and dripping jaws upon them, <lb break="yes"/>the three shrieked with fear and rode
             for <lb break="yes"/>dear life, still screaming, across the moor. <lb break="yes"/>One,
             it is said, died that very night of what <lb break="yes"/>he had seen, and the other
-            twain were but <lb break="yes"/>broken men for the rest of their days.</p>
+            twain were but <lb break="yes"/>broken men for the rest of their days.</said></p>
          <lb break="yes"/>
          <p>
-            <said>"Such is the tale, my sons, <lb break="yes"/>of the coming of the hound which is
+            <!--are we taking out these quotation marks bc of the said element?--><said>"Such is the tale, my sons, <lb break="yes"/>of the coming of the hound which is
                said to have plagued <lb break="yes"/>the family so sorely ever since. If I have <lb
                   break="yes"/>set it down it is because that which is clearly <lb break="yes"
                />known hath less terror than that which is but <lb break="yes"/>hinted at and
