@@ -308,11 +308,11 @@
                 </div>
             </div>
             <div xml:id="Dedication">
-                <p style="class:allcaps">Dedicated,</p>
-                <p style="font-size:12px;class:allcaps">As a remembrance of our friendly union.</p>
-                <p style="font-size:16px;class:allcaps">To My Companions</p>
-                <p style="font-size:12px;class:allcaps">In the</p>
-                <p style="class:allcaps"><ref target="#guild_note">Guild of Literature and
+                <p style="class:allcaps;text-align:center">Dedicated,</p>
+                <p style="font-size:12px;class:allcaps;text-align:center">As a remembrance of our friendly union.</p>
+                <p style="font-size:16px;class:allcaps;text-align:center">To My Companions</p>
+                <p style="font-size:12px;class:allcaps;text-align:center">In the</p>
+                <p style="class:allcaps;text-align:center"><ref target="#guild_note">Guild of Literature and
                     Art</ref></p>
             </div>
             <div xml:id="Table_of_Contents_1">
