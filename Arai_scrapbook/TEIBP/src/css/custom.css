@@ -35,3 +35,7 @@ signed {
     text-align: right;
 }
 
+[rend~="caps"] {
+    text-transform: uppercase;
+}
+

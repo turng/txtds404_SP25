@@ -360,9 +360,6 @@ caesura {
 camera {
   /* Empty Rule Set */
 }
-[rend~="caps"] {
-    text-transform: uppercase;
-}
 caption {
   display: block;
   margin-top: 1em;
