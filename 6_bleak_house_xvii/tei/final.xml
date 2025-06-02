@@ -67,7 +67,7 @@
                in it. </p>
             <p>Thanks to the <ref target="#n4">serial format</ref>, Bleak House reached a wide range of audiences. The
                critical perspective towards the legal system in Bleak House would have appealed to a
-               more educated population. Furthermore, the relatively afforable installments, public
+               more educated population. Furthermore, relatively afforable installments, public
                readings, and library lendings would allow the working class to access the novel.
                Eventually, Dickens' work would achieve a 
                global audience.</p>
@@ -79,7 +79,7 @@
                searchability and increases accessibility for a 21st-century reader.</p>
             <p>We choose not to modernize the text, since we wish to preserve the textual impact of
                the original 1852 publication. Thankfully, the language is not too far removed from
-               what modern readers are comfortable with. Instead, to supply more context, we choose
+               what modern readers are comfortable with. To supply more context, we choose
                to annotate unfamiliar terms and concepts pertaining to 19th-century British legal
                culture and Bleak House as a larger text.</p>
          </div>
@@ -103,7 +103,7 @@
                   these strengthening matters, and having held subtle conference with his familiar
                   demon, he confidentially instructs <persName ref="mercury">Mercury</persName>
                   <said aloud="true" who="bucket" toWhom="mercury">just to mention quietly to
-                        <persName ref="sir-dedlock">Sir Leicester Dedlock, Baronet,</persName> that
+                        <persName ref="sir-dedlock">Sir Leicester Dedlock, <ref target="#n5">Baronet</ref>,</persName> that
                      whenever he's ready for me, I'm ready for him.</said> A gracious message being
                   returned, that <persName ref="sir-dedlock">Sir Leicester</persName> will expedite
                   his dressing and join <persName ref="bucket">Mr. Bucket</persName> in the
@@ -113,7 +113,7 @@
 
                <p>Thoughtful <persName ref="bucket">Mr. Bucket</persName> is; as a man may be, with
                   weighty work to do; but composed, sure, confident. From the expression of his
-                  face, he might be a famous whist-player for a large stake — say a hundred guineas
+                  face, he might be a famous <ref target="#n6">whist</ref>-player for a large stake — say a hundred <ref target="#n7">guineas</ref>
                   certain — with the game in his hand, but with a high reputation involved in his
                   playing his hand out to the last card, in a masterly way. Not in the least anxious
                   or disturbed is <persName ref="bucket">Mr. Bucket</persName>, when <persName
@@ -125,7 +125,7 @@
                <p><said aloud="true" who="sir-dedlock" toWhom="bucket">I am sorry to have kept you
                      waiting, officer, but I am rather later than my usual hour this morning. I am
                      not well. The agitation, and the indignation from which I have recently
-                     suffered, have been too much for me. I am subject to — gout;</said>
+                     suffered, have been too much for me. I am subject to — <ref target="#n8">gout</ref>;</said>
                   <persName ref="sir-dedlock">Sir Leicester</persName> was going to say
                   indisposition, and would have said it to anybody else, but <persName ref="bucket"
                      >Mr. Bucket</persName> palpably knows all about it; <said aloud="true"
@@ -253,7 +253,7 @@
 
                <p><persName ref="sir-dedlock">Sir Leicester</persName> raises himself in his seat,
                   and stares at him fiercely. <persName ref="bucket">Mr. Bucket</persName> brings
-                  the finger into play as an emollient.</p>
+                  the finger into play as an <ref target="#n9">emollient</ref>.</p>
 
                <p><said aloud="true" who="bucket" toWhom="sir-dedlock"><persName ref="lady-dedlock"
                         >Lady Dedlock</persName>, you see, she's universally admired. That's what
@@ -330,7 +330,7 @@
                      <said aloud="true" who="bucket" toWhom="sir-dedlock">ought to have been her
                      husband; not a doubt about it. I know from his lips, that when that person soon
                      afterwards died, he suspected <persName ref="lady-dedlock">Lady
-                        Dedlock</persName> of visiting his wretched lodging, and his wretcheder
+                        Dedlock</persName> of visiting his wretched lodging, and his <ref target="#n10">wretcheder</ref>
                      grave, alone and in secret. I know from my own inquiries, and through my eyes
                      and ears, that <persName ref="lady-dedlock">Lady Dedlock</persName> did make
                      such visit, in the dress of her own maid; for the deceased <persName
@@ -675,6 +675,12 @@
             <note xml:id="n3">Browne was a British artist and illustrator.</note>
             <note xml:id="n4">Novels in the 1800s were often published in serialized format over a
                number of monthly editions. Individual editions usually ended with a cliffhanger.</note>
+            <note xml:id="n5">A baronet is a minor member of British nobility, above a knight. They are addressed as "Sir".</note>
+            <note xml:id="n6">A 4 player trick-taking card game, popular in 19th century England.</note>
+            <note xml:id="n7">A historical British coin, worth 21 shillings. It was demonetized in 1816.</note>
+            <note xml:id="n8">A form of inflammatory arthritis, significantly more common in the 19th century.</note>
+            <note xml:id="n9">A substance that soothes and moisturizes the skin.</note>
+            <note xml:id="n10">Meaning more wretched.</note>
          </div>
          <div type="biblio">
             <bibl xml:id="lloyd2007"> <author><surname>Lloyd</surname>, <forename>Amy</forename></author>. <title>Advertising in 19th Century British Newspapers (Amy J. Lloyd)</title>. <publisher>Gale</publisher>, <date>2007</date>, <ptr target="www.gale.com/intl/essays/amy-j-lloyd-advertising."/></bibl>
