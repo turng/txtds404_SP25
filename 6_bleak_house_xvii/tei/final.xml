@@ -61,15 +61,15 @@
                editor and essayist. He produced 14 novels, most of which were published in serial editions. 
                This included a 20-month serialization of Bleak House published by Bradbury and Evans with 
                illustrations by <ref target="#n3">Hablot Knight Browne</ref>.
-               The story of Bleak House follows the course of a legal dispute in the British <ref target="n2">Court of Chancery</ref>, 
-               as the <ref target="n1">Jarndyce family</ref> waits over generations to receive an inheritance they believe they deserve.
+               The story of Bleak House follows the course of a legal dispute in the British <ref target="#n2">Court of Chancery</ref>, 
+               as the <ref target="#n1">Jarndyce family</ref> waits over generations to receive an inheritance they believe they deserve.
                The story is a commentary on the convoluted legal system in Britain, and the corruption inherent 
                in it. </p>
-            <p>Thanks to the serial format, Bleak House reached a wide range of audiences. The
+            <p>Thanks to the <ref target="#n4">serial format</ref>, Bleak House reached a wide range of audiences. The
                critical perspective towards the legal system in Bleak House would have appealed to a
                more educated population. Furthermore, the relatively afforable installments, public
                readings, and library lendings would allow the working class to access the novel.
-               Eventually, Dickens work would achieve a 
+               Eventually, Dickens' work would achieve a 
                global audience.</p>
             <p>Through this edition, we are interested in examining the intertextuality between
                advertisements and different groups of readers, as well as the juxtaposition of
@@ -673,6 +673,8 @@
             <note xml:id="n1">The novel features the fictional case, Jarndyce and Jarndyce.</note>
             <note xml:id="n2">The Court of Chancery followed rules to avoid a slow pace and inequities of common laws.</note>
             <note xml:id="n3">Browne was a British artist and illustrator.</note>
+            <note xml:id="n4">Novels in the 1800s were often published in serialized format over a
+               number of monthly editions. Individual editions usually ended with a cliffhanger.</note>
          </div>
          <div type="biblio">
             <bibl xml:id="lloyd2007"> <author><surname>Lloyd</surname>, <forename>Amy</forename></author>. <title>Advertising in 19th Century British Newspapers (Amy J. Lloyd)</title>. <publisher>Gale</publisher>, <date>2007</date>, <ptr target="www.gale.com/intl/essays/amy-j-lloyd-advertising."/></bibl>
