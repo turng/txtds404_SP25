@@ -139,20 +139,22 @@
             <pb/>
 
             <div type="certificate" rend="caps">
-                <head>SMITHSONIAN INSTITUTION</head>
-                <head>WASHINGTON, D.C.</head>
-                <head>THIS·IS·TO·CERTIFY·THAT</head>
+                <head>Smithsonian Institution</head>
+                <head>Washington, D.C.</head>
+                <head>This·is·to·certify·that</head>
                 <head><ref type="name">Clarence T. Arai</ref></head>
-                <head>IS·REGISTERED· IN·THE·ARCHIVES·OF·THE·INSTITUTION·AS·A</head>
-                <head>PATRON</head>
-                <p>OF·THE·SMITHSONIAN·SCIENTIFIC·SERIES·IN·RECOGNITION·OF·HIS·AID·TO·THE·
-                    INSTITUTION’S·PROGRAM·FOR·THE·DIFFUSION·OF·KNOWLEDGE·AMONG·MEN·
-                    AND·THE·INCREASE·OF·ITS·FINANCIAL·ENDOWMENT·FOR·SCIENTIFIC·RESEARCH</p>
-                <p>IN·WITNESS·WHEREOF·THE·SEAL·OF·THE·INSTITUTION·AND·THE·SIGNATURES·OF
-                    ·THE·SECRETARY ·AND·THE·ADMINISTRATION·ASSISTANT·ARE·AFFIXED·HERETO</p>
-                <l>___________(signature)_________ SECRETARY</l>
+                <head>is·registered· in·the·archives·of·the·institution·as·a</head>
+                <head>patron</head>
+                <p>of·the·Smithsonian·Scientific·Series·in·recognition·of·his·aid·to·the·
+                    Institution’s·program·for·the·diffusion·of·knowledge·among·men·
+                    And·the·increase·of·its·financial·endowment·for·scientific·research</p>
+                <p>in·witness·whereof·the·seal·of·the·institution·and·the·signatures·of
+                    ·the·secretary ·and·the·administration·assistant·are·affixed·hereto</p>
+                <signed>
+                    <l>___________(signature)_________ Secretary</l>
                 <!-- maybe we should add images of signatures here?-->
-                <l> __________(signature)_________ GENERAL</l>
+                    <l> __________(signature)_________ General</l>
+                </signed>
             </div>
 
             <pb/>
@@ -193,9 +195,10 @@
                     
                     American Kennel Club Stud Book<l/>
                     American Kennel Club<l/>
-                    New York, N.Y.</head>
+                    New York, N.Y.
+                </head>
                     
-                    <l><hi rend="caps">Name of Dog</hi> Duke of Main Street</l> 
+                <l><hi rend="caps">Name of Dog</hi> Duke of Main Street</l> 
                 <l><hi rend="caps">Breed</hi> Cocker Spaniel   <hi rend="caps">Sex</hi> Male</l> 
                 <l><hi rend="caps">Sire</hi> Slicker Boy of Kitsop (934421)</l> 
                 <l><hi rend="caps">Dam</hi> Paul’s Queenie (898745)</l> 
@@ -208,10 +211,10 @@
                 <l><hi rend="caps">Volume</hi> 51</l>
                 <l>August <hi rend="caps">Issue</hi></l>
                     
-                    <signed>
-                        <name>Perry B Rice</name> <l/>
-                        <hi rend="caps">Secretary</hi> gm
-                    </signed>
+                <signed>
+                    <name>Perry B Rice</name> <l/>
+                    <hi rend="caps">Secretary</hi> gm
+                </signed>
             </div>
             
             <pb/>
@@ -365,27 +368,48 @@
                 
                <p>Dear Mr Arai:</p>
                 
-                   <p>Thank you kindly for the copies of “Our Times” by Mark Sullivan, and “The March of Democracy by Adams, which you sent to the library yesterday.</p> 
-                   <p> Both sets are being added to the Reference department.</p>
-                    <signed>Cordially yours<l/>
-                        <name ref="#jennings">J T Jennings</name><!-- image of signature?? --><l/>
-                        JTJ/FRP           Librarian</signed> 
+               <p>Thank you kindly for the copies of “Our Times” by Mark Sullivan, and “The March of Democracy by Adams, which you sent to the library yesterday.</p> 
+            
+               <p> Both sets are being added to the Reference department.</p>
+            
+                <signed>Cordially yours<l/>
+                    <name ref="#jennings">J T Jennings</name><!-- image of signature?? --><l/>
+                    JTJ/FRP           Librarian
+                </signed> 
             </div>
             
             <pb/>
 
             <div type="statement">
-                <ab>HEADQUARTERS NWS &amp; 44TH INFANTRY DIVISION OFFICE OF ACTING PROVOST MARSHAL
-                    STATE OF WASHINGTON SEATTLE, WASHINGTON May 2, 1942 TO WHOM IT MAY CONCERN: The
-                    applicant named, CLARENCE ARAI, an American citizen of Japa- nese blood is
-                    hereby granted permission and authorized to travel without molestation or
-                    hindrance by the most direct route from 452 12th Avenue, Seattle, Washington to
-                    the Seattle Public Library, 4th and Madison Street and the Federal Reserve
-                    National Bank of Commerce Building, Seattle, Washington. Travel authorized will
-                    be effective Tuesday, May 5, 1942 between the hours of 11:00 A.M. and 2:00 P.M.
-                    NOTHING FOLLOWS. (signature) MICHAEL A. RIVISTO Captain Infantry Acting Provost
-                    Marshal State of Washington MICHAEL A. RIVISTO Captain, Infantry NWS. PCF MM
-                    TEMPORARY PERMIT #18</ab>
+                <ab type="letterhead" rend="caps">
+                    Headquarters<l/>
+                    NWS &amp; 44th Infantry Division<l/>
+                    Office of Acting Provost Marshal<l/> 
+                    State of Washington<l/> 
+                    Seattle, Washington
+                </ab>
+                    
+                <l style="text-align: right;"><date when="1942-05-02">May 2, 1942</date></l> 
+                
+                <p><hi rend="caps">To whom it may concern:</hi></p>
+                <p>The applicant named, <name rend="caps">Clarence Arai</name>, an American citizen of Japanese blood is hereby granted permission and authorized to travel without molestation or hindrance by the most direct route from 452 12th Avenue, Seattle, Washington to the <name ref="#spl">Seattle Public Library</name>, 4th and Madison Street and the Federal Reserve National Bank of Commerce Building, Seattle, Washington. Travel authorized will be effective <date when="1942-05-05">Tuesday, May 5, 1942</date> between the hours of 11:00 A.M. and 2:00 P.M.  <hi rend="caps">Nothing follows.</hi></p> 
+                
+                <signed>(signature)<!--image?--><lb/>
+                    <hi rend="caps">Michael A. Rivisto</hi><lb/>
+                    Captain Infantry <lb/>
+                    Acting Provost Marshal <lb/>
+                    State of Washington <lb/>
+                    <seg type="stamped" style="color: blue;">
+                        <hi rend="caps">Michael A. Rivisto</hi><lb/> 
+                        Captain, Infantry<lb/>
+                        NWS. PCF
+                    </seg>
+                    
+                    <seg rend="caps" style="text-align: left;">
+                        MM
+                        Temporary Permit #18
+                    </seg>
+                </signed> 
             </div>
             
             <pb/>
