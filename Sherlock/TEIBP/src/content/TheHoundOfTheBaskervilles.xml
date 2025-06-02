@@ -116,6 +116,7 @@
                horse is dressed in an old-fashioned coat and hat. Both the horse and hound are dark.
                The illustration has a border around it, and the initials S P are inscribed in the
                bottom right corner. </figDesc>
+            <!-- I consider it acceptable not to include person references since the reader would not yet know to identify these people, but should be discussed-->
          </figure>
          <pb n="123"/>
          <head><title type="magazine"><lb/>The Strand Magazine. <lb/>Vol. xxii. <date when="1901-08"
@@ -208,12 +209,13 @@
                   certainly one or two<lb break="yes"/>indications upon the stick. <figure
                      place="center">
                      <graphic url="../images/BaskervillePage124.png"/>
-                     <p rendition="bottom" rend="caps">"He looked over it again with a convex lens."</p>
-                     <figDesc><persName ref="#Holmes">Sherlock Holmes</persName>, stood by a window, examines a walking stick with a
-                        magnifying glass. Holmes is wearing a light shirt and vest under a dark
-                        jacket, a dark bow tie, and pants. He has short hair. The image does not
-                        have a border around it, and the initials S P are inscribed in the bottom
-                        right corner.</figDesc>
+                     <p rendition="bottom" rend="caps">"He looked over it again with a convex
+                        lens."</p>
+                     <figDesc><persName ref="#Holmes">Sherlock Holmes</persName>, stood by a window,
+                        examines a walking stick with a magnifying glass. Holmes is wearing a light
+                        shirt and vest under a dark jacket, a dark bow tie, and pants. He has short
+                        hair. The image does not have a border around it, and the initials S P are
+                        inscribed in the bottom right corner.</figDesc>
                   </figure>
                   <lb break="yes"/>It gives us the basis for<lb break="yes"/>several
                   deductions."</said></p>
@@ -316,17 +318,21 @@
                   justified in my infer-<lb break="no"/>ences. As to the adjectives, I said, if I<lb
                      break="yes"/>remember right, amiable, unambitious, and<lb break="yes"
                   />absent-minded. It is my experience that it is<lb break="yes"/>only an amiable
-                  man in this world who<lb break="yes"/>receives testimonials, only 
-                     <figure place="bottom right">
+                  man in this world who<lb break="yes"/>receives testimonials, only <figure
+                     place="bottom right">
                      <graphic url="../images/BaskervillePage125.png"/>
-                        <p rendition="bottom" rend="caps">"His eyes fell upon the stick in Holme's hand."</p>
-                     <figDesc> <persName ref="#Mortimer">Mortimer</persName> is holding the door to the room Sherlock and Watson are in,
-                        having just walked in. <persName ref="#Holmes">Holmes</persName> and <persName ref="#Watson">Watson</persName> are dressed in suits, Sherlock is
-                        holding a cane, and Mortimer is dressed in a coat and holding a top hat in
-                        his free hand. Across from a table set in the middle of the room, Mortimer
-                        is looking towards Sherlock and the cane Sherlock holds. The image has a
-                        border around it, except for its bottom, and the initials S P are inscribed
-                        in the bottom right corner.</figDesc>
+                     <p rendition="bottom" rend="caps">"His eyes fell upon the stick in Holme's
+                        hand."</p>
+                     <figDesc>
+                        <persName ref="#Mortimer">Mortimer</persName> is holding the door to the
+                        room Sherlock and Watson are in, having just walked in. <persName
+                           ref="#Holmes">Holmes</persName> and <persName ref="#Watson"
+                           >Watson</persName> are dressed in suits, Sherlock is holding a cane, and
+                        Mortimer is dressed in a coat and holding a top hat in his free hand. Across
+                        from a table set in the middle of the room, Mortimer is looking towards
+                        Sherlock and the cane Sherlock holds. The image has a border around it,
+                        except for its bottom, and the initials S P are inscribed in the bottom
+                        right corner.</figDesc>
                   </figure>
                   <lb break="yes"/>an unambitious one who<lb break="yes"/>abandons a London
                      career<lb break="yes"/>for the country, and only<lb break="yes"/>an
@@ -504,14 +510,14 @@
                figures: "<date when="1742">1742</date>."</p>
             <figure place="center">
                <graphic url="../images/BaskervillePage127.png"/>
-               <p rendition="bottom" rend="caps">
-                     "<persName ref="#Mortimer">DR. MORTIMER</persName> TURNED THE MANUSCRIPT TO THE
-                  LIGHT AND READ."</p>
-               <figDesc><persName ref="#Mortimer">Mortimer</persName> and <persName ref="#Holmes">Holmes</persName> sit in chairs across from each other while Watson
-                  stands nearby. Mortimer is holding and looking at a written material, and Holmes
-                  leaning back while appearing to be in conversation. All three men are dressed in
-                  suits. The image has a border around it, except for its bottom, and the initials S
-                  P are inscribed in the bottom right corner.</figDesc>
+               <p rendition="bottom" rend="caps"> "<persName ref="#Mortimer">DR. MORTIMER</persName>
+                  TURNED THE MANUSCRIPT TO THE LIGHT AND READ."</p>
+               <figDesc><persName ref="#Mortimer">Mortimer</persName> and <persName ref="#Holmes"
+                     >Holmes</persName> sit in chairs across from each other while Watson stands
+                  nearby. Mortimer is holding and looking at a written material, and Holmes leaning
+                  back while appearing to be in conversation. All three men are dressed in suits.
+                  The image has a border around it, except for its bottom, and the initials S P are
+                  inscribed in the bottom right corner.</figDesc>
             </figure>
             <p><said>"It appears to be a statement of some<lb break="yes"/>sort."</said></p>
             <p><said>"Yes, it is a statement of a certain legend<lb break="yes"/>which runs in the
@@ -529,8 +535,8 @@
                old-world narrative:—</p>
             <p><said>"Of the origin of the Hound of the<lb break="yes"/>Baskervilles there have been
                   many state-<lb break="no"/>ments, yet as I come in a direct line from<lb
-                     break="yes"/><persName ref="HuBaskerville">Hugo Baskerville</persName>, and as I
-                  had the story<lb break="yes"/>from my father, who also had it from his.<lb
+                     break="yes"/><persName ref="HuBaskerville">Hugo Baskerville</persName>, and as
+                  I had the story<lb break="yes"/>from my father, who also had it from his.<lb
                      break="yes"/>I have set it down with all belief that it oc-<lb break="no"
                   />curred even as is here set forth. And I would<lb break="yes"/>have you believe,
                   my sons, that the same<lb break="yes"/><ref>Justice</ref> which punishes sin may
@@ -651,391 +657,411 @@
                      shining<lb break="yes"/>bright upon the clearing, and there in the<lb
                      break="yes"/>centre lay <persName ref="#theMaiden">the unhappy maid</persName>
                   where she had <pb n="129"/>
-         <figure place="top left">
-            <graphic url="../images/BaskervillePage129.png"/>
-            <p rendition="bottom" rend="caps"> "There in the centre lay the unhappy maid where she
-               had fallen." </p>
-            <figDesc> A man and woman, <persName ref="#HuBaskerville">Hugo Baskerville</persName>
-               and the maid, lay still on <placeName ref="#theMoors">a field</placeName> at night,
-               and between them stands a dark hound, almost as large as Baskerville's corpse. Hugo
-               Baskerville, who is laid out on his back in front of the picture, is in an old
-               fashioned uniform, and a hat and cane are strewn near him. Closely behind him stands
-               the hound, and behind it the woman lies on her side in a light dress. Behind these
-               three main figures stand two larger rocks and three men on horseback reacting in
-               horror to the scene, one of them obscured by the right border of the image. The image
-               has a border around it, and the initials S P are inscribed in the bottom right
-               corner. </figDesc>
-         </figure>
-         <cb/>
-         <lb break="yes"/>
-         fallen, dead of fear and of fatigue. But it <lb break="yes"/>was not the sight of her
-            body, nor yet was it <lb break="yes"/>that of the body of <persName ref="#HBaskerville"
-               >Hugo Baskerville</persName> lying <lb break="yes"/>near her, which raised the hair
-            upon the <lb break="yes"/>heads of these three dare-devil roysterers, <lb break="yes"
-            />but it was that, standing over <persName ref="#HuBaskerville">Hugo</persName>, and <lb
-               break="yes"/>plucking at his throat, there stood a foul <lb break="yes"/>thing, a
-            great, black beast, shaped like a <lb break="yes"/>hound, yet larger than any hound that
-            ever <lb break="yes"/>mortal eye has rested upon. And even as <lb break="yes"/>they
-            looked the thing tore the throat out of <lb break="yes"/><persName ref="#HuBaskerville"
-               >Hugo Baskerville</persName>, on which, as it turned its <lb break="yes"/>blazing
-            eyes and dripping jaws upon them, <lb break="yes"/>the three shrieked with fear and rode
-            for <lb break="yes"/>dear life, still screaming, across the moor. <lb break="yes"/>One,
-            it is said, died that very night of what <lb break="yes"/>he had seen, and the other
-            twain were but <lb break="yes"/>broken men for the rest of their days.</said></p>
-         <lb break="yes"/>
-         <p>
-            <!--are we taking out these quotation marks bc of the said element?--><said>"Such is the tale, my sons, <lb break="yes"/>of the coming of the hound which is
-               said to have plagued <lb break="yes"/>the family so sorely ever since. If I have <lb
-                  break="yes"/>set it down it is because that which is clearly <lb break="yes"
-               />known hath less terror than that which is but <lb break="yes"/>hinted at and
-               guessed. Nor can it be denied</said>
-         </p>
-         <ab>Vol. xxii,—17</ab>
-         <cb/>
-         <lb break="yes"/>
-         <p><said>that many of the family have <lb break="yes"/>been unhappy in their deaths, <lb
-                  break="yes"/>which have been sudden, <lb break="yes"/>bloody, and mysterious. Yet
-                  <lb break="yes"/>may we shelter ourselves in the <lb break="yes"/>infinite
-               goodness of Providence, <lb break="yes"/>which would not for ever punish <lb
-                  break="yes"/>the innocent beyond that third <lb break="yes"/>or fourth generation
-               which is <lb break="yes"/>threatened in Holy Writ. To <lb break="yes"/>that
-               Providence, my sons, I <lb break="yes"/>hereby command you, and I <lb break="yes"
-               />counsel you by way of caution <lb break="yes"/>to forbear from crossing the <lb
-                  break="yes"/>moor in those dark hours when <lb break="yes"/>the powers of evil are
-               exalted."</said></p>
-         <lb break="yes"/>
-         <p><said>"[This from <persName ref="#HuBaskerville">Hugo Basker-<lb break="no"
-                  />ville</persName> to his sons <persName>Rodger</persName> and <lb break="yes"
-                  /><persName>John</persName>, with instructions that they <lb break="yes"/>say
-               nothing thereof to their <lb break="yes"/>sister
-               <persName>Elizabeth</persName>.]"</said></p>
-         <lb break="yes"/>
-         <p>When <persName ref="#Mortimer">Dr. Mortimer</persName> had <lb break="yes"/>finished
-            reading this singular <lb break="yes"/>narrative he pushed his spec-<lb break="no"
-            />tacles up on his forehead and <lb break="yes"/>stared across at <persName
-               ref="#Holmes">Mr. Sherlock <lb break="yes"/>Holmes</persName>. The latter yawned <lb
-               break="yes"/>and tossed the end of his <lb break="yes"/>cigarette into the fire. </p>
-         <lb break="yes"/>
-         <p><said>"Well?"</said> said he.</p>
-         <lb break="yes"/>
-         <p><said>"Do you not find it interest<lb break="no"/>-ing?"</said></p>
-         <lb break="yes"/>
-         <p><said>"To a collector of fairy tales."</said></p>
-         <lb break="yes"/>
-         <p><persName ref="#Mortimer">Dr. Mortimer</persName> drew a folded <lb break="yes"
-            />newspaper out of his pocket.</p>
-         <lb break="yes"/>
-         <p><said>"Now, <persName ref="#Holmes">Mr. Holmes</persName>, we will give you <lb
-                  break="yes"/>something a little more recent. This is the <lb break="yes"/><hi
-                  rend="italics"><placeName ref="#Devon">Devon</placeName> County Chronicle</hi> of
-                  <date>May 14th</date> of this <lb break="yes"/>year. It is a short account of the
-               facts <lb break="yes"/>elicited at the death of <persName ref="#CBaskerville">Sir
-                  Charles Basker-<lb break="no"/>ville</persName> which occurred a few days before
-               that <lb break="yes"/>date."</said></p>
-         <lb break="yes"/>
-         <p>My friend leaned a little forward and his <lb break="yes"/>expression became intent. Our
-            visitor re-<lb break="yes"/>adjusted his glasses and began:—</p>
-         <lb break="yes"/>
-         <p><said>"The recent sudden death of <persName ref="#CBaskerville">Sir Charles <lb
-                     break="yes"/>Baskerville</persName>, whose name has been mentioned <lb
-                  break="yes"/>as the probable Liberal candidate for <placeName ref="#Mid-Devon"
-                     >Mid-<lb break="maybe"/>Devon</placeName> at the next election, has cast a
-               gloom <lb break="yes"/>over the county. Though <persName ref="#CBaskerville">Sir
-                  Charles</persName> had <lb break="yes"/>resided at <placeName
-                  ref="#BaskervilleHall">Baskerville Hall</placeName> for a compara-<lb break="no"
-               />tively short period his amiability of character <lb break="yes"/>and extreme
-               generosity had won the <lb break="yes"/>affection and respect of all who had been <lb
-                  break="yes"/>brought into contact with him. In these <lb break="yes"/>days of
-                  <foreign rend="italics">nouveaux riches</foreign> it is refreshing to <lb
-                  break="yes"/>find a case where the scion of an old county <lb break="yes"/>family
-               which has fallen upon evil days is able <lb break="yes"/>to make his own fortune and
-               to bring it back</said></p>
-         <pb n="130"/>
-         <fw type="RunningHead">130 THE STRAND MAGAZINE</fw>
-         <cb/>
-         <lb break="yes"/>
-         <p><said>with him to restore the fallen grandeur of his <lb break="yes"/>line. <persName
-                  ref="#CBaskerville">Sir Charles</persName>, as is well known, made <lb break="yes"
-               />large sums of money in South African <lb break="yes"/>speculation. More wise than
-               those who go <lb break="yes"/>on until the wheel turns against them, he <lb
-                  break="yes"/>realized his gains and returned to <placeName ref="#England"
-                  >England</placeName>
-               <lb break="yes"/>with them. It is only two years since he <lb break="yes"/>took up
-               his residence at <placeName ref="#BaskervilleHall">Baskerville Hall</placeName>, <lb
-                  break="yes"/>and it is common talk how large were those <lb break="yes"/>schemes
-               of reconstruction and improvement <lb break="yes"/>which have been interrupted by his
-               death. <lb break="yes"/>Being himself childless, it was his openly-<lb break="maybe"
-               />expressed desire that the whole <lb break="yes"/>countryside should, within his own
-                  <figure place="center">
-                  <graphic url="../images/BaskervillePage130.png"/>
-                  <p rendition="bottom" rend="caps"> "His body was discovered." </p>
-                  <figDesc> A man, <persName ref="#CBaskerville">Charles Baskerville</persName>, is
-                     laid on his stomach and is unresponsive to another man standing behind him
-                     holding a lamp with a shocked expression. Both men are dressed in suits. The
-                     lamp is the only light source and most of the background is obscured in dark.
-                     The image has a border around it, except for its bottom, and the initials S P
-                     are inscribed in the bottom right corner. </figDesc>
-               </figure>
-               <lb break="yes"/>lifetime, profit by his good fortune, <lb break="yes"/>and many will
-               have personal reasons <lb break="yes"/>for bewailing his untimely end. His <lb
-                  break="yes"/>generous donations to local and <lb break="yes"/>county charities
-               have been frequently <lb break="yes"/>chronicled in these columns.</said></p>
-         <lb break="yes"/>
-         <p><said>"The circumstances connected <lb break="yes"/>with the death of <persName
-                  ref="#CBaskerville">Sir Charles</persName> can-<lb break="no"/>not be said to have
-               been entirely <lb break="yes"/>cleared up by the <lb break="yes"/>inquest, but at <lb
-                  break="yes"/>least enough has <lb break="yes"/>been done to dis-<lb break="no"
-               />pose of those <lb break="yes"/>rumours to which <lb break="yes"/>local superstition
-                  <lb break="yes"/>has given rise. <lb break="yes"/>There is no <lb break="yes"
-               />reason whatever <lb break="yes"/>to suspect foul <lb break="yes"/>play, or to <lb
-                  break="yes"/>imagine that <lb break="yes"/>death could be <lb break="yes"/>from
-               any but <lb break="yes"/>natural causes. <lb break="yes"/><persName
-                  ref="#CBaskerville">Sir Charles</persName> was <lb break="yes"/>a widower, and <lb
-                  break="yes"/>a man who may <lb break="yes"/>be said to have <lb break="yes"/>been
-               in some <lb break="yes"/>ways of an eccen-<lb break="no"/>tric habit of <lb
-                  break="yes"/>mind. In spite of <lb break="yes"/>his considerable <lb break="yes"
-               />wealth he was <lb break="yes"/>simple in his <lb break="yes"/>personal tastes, and
-               his indoor servants at <lb break="yes"/><placeName ref="#BaskervilleHall">Baskerville
-                  Hall</placeName> consisted of a married <lb break="yes"/>couple named <persName
-                  ref="#Barrymore">Barrymore</persName>, the husband acting <lb break="yes"/>as
-               butler and the wife as housekeeper. Their <lb break="yes"/>evidence, corroborated by
-               that of several <lb break="yes"/>friends, tends to show that <persName
-                  ref="#CBaskerville">Sir Charles</persName>'s <lb break="yes"/>health has for some
-               time been impaired, and <lb break="yes"/>points especially to some affection of the
-                  <lb break="yes"/>heart, manifesting itself in changes of colour, <cb/><lb
-                  break="yes"/>breathlessness, and acute attacks of nervous <lb break="yes"
-               />depression. <persName ref="#Mortimer">Dr. James Mortimer</persName>, the friend <lb
-                  break="yes"/>and medical attendant of the deceased, has <lb break="yes"/>given
-               evidence to the same effect.</said></p>
-         <lb break="yes"/>
-         <p><said>"The facts of the case are simple. <lb break="yes"/><persName ref="#CBaskerville"
-                  >Sir Charles Baskerville</persName> was in the habit every <lb break="yes"/>night
-               before going to bed of walking down <lb break="yes"/>the famous <placeName
-                  ref="#YewAlley">Yew Alley</placeName> of <placeName ref="#BaskervilleHall"
-                  >Baskerville Hall</placeName>. <lb break="yes"/>The evidence of the <persName
-                  ref="#Barrymore">Barrymores</persName> shows <lb break="yes"/>that this had been
-               his custom. On the <date when="1889-05-04"><lb break="yes"/>4th of May</date>
-               <persName ref="#CBaskerville">Sir Charles</persName> had declared his <lb break="yes"
-               />intention of starting next day for <placeName ref="#London">London</placeName>, <lb
-                  break="yes"/>and had ordered <lb break="yes"/><persName ref="#Barrymore"
-                  >Barrymore</persName> to <lb break="yes"/>prepare his lug-<lb break="no"/>gage.
-               That night <lb break="yes"/>he went out as <lb break="yes"/>usual for his <lb
-                  break="yes"/>nocturnal walk, <lb break="yes"/>in the course of <lb break="yes"
-               />which he was in <lb break="yes"/>the habit of <lb break="yes"/>smoking a cigar. <lb
-                  break="yes"/>He never re-<lb break="no"/>turned. At <lb break="yes"/>twelve
-               o'clock <lb break="yes"/><persName ref="#Barrymore">Barrymore</persName>, find-<lb
-                  break="no"/>ing the hall door <lb break="yes"/>still open, be-<lb break="no"/>came
-               alarmed <lb break="yes"/>and, lighting a <lb break="yes"/>lantern, went in <lb
-                  break="yes"/>search of his <lb break="yes"/>master. The day <lb break="yes"/>had
-               been wet, <lb break="yes"/>and <persName ref="#CBaskerville">Sir Charles</persName>'s
-                  <lb break="yes"/>footmarks were <lb break="yes"/>easily traced <lb break="yes"
-               />down the <placeName ref="#YewAlley">Alley</placeName>. <lb break="yes"/>Half-way
-               down <lb break="yes"/>this walk there is <lb break="yes"/>a gate which <lb
-                  break="yes"/>leads out on to <lb break="yes"/><placeName ref="#theMoor">the
-                  moor</placeName>. There <lb break="yes"/>were indications <lb break="yes"/>that
-                  <persName ref="#CBaskerville">Sir Charles</persName>
-               <lb break="yes"/>had stood for <lb break="yes"/>some little time <lb break="yes"
-               />here. He then <lb break="yes"/>proceeded down <lb break="yes"/>the <placeName
-                  ref="#YewAlley">Alley</placeName>, and it was at the far end of it that <lb
-                  break="yes"/>his body was discovered. One fact which has <lb break="yes"/>not been
-               explained is the statement of <persName ref="#Barrymore">Barry-<lb break="no"
-                  />more</persName> that his master's footprints altered their <lb break="yes"
-               />character from the time that he passed the <lb break="yes"/>moor-gate, and that he
-               appeared from thence <lb break="yes"/>onwards to have been walking upon his toes. <lb
-                  break="yes"/>One <persName ref="#Murphy">Murphy</persName>, a gipsy horse-dealer,
-               was on the <lb break="yes"/>moor at no great distance at the time, but</said></p>
-         <pb n="131"/>
-         <fw type="RunningHead">THE HOUND OF THE BASKERVILLES 131</fw>
-         <cb/>
-         <lb break="yes"/>
-         <p><said>he appears by his own confession to have <lb break="yes"/>been the worse for
-               drink. He declares that <lb break="yes"/>he heard cries, but is unable to state from
-                  <lb break="yes"/>what direction they came. No signs of <lb break="yes"/>violence
-               were to be discovered upon <persName ref="#CBaskerville">Sir <lb break="yes"
-                  />Charles</persName>'s person, and though the doctor's <lb break="yes"/>evidence
-               pointed to an almost incredible <lb break="yes"/>facial distortion—so great that
-                  <persName ref="#Mortimer">Dr. Mortimer</persName>
-               <lb break="yes"/>refused at first to believe that it was indeed <lb break="yes"/>his
-               friend and patient who lay before him—it <lb break="yes"/>was explained that that is
-               a symptom which <lb break="yes"/>is not unusual in cases of dyspnœa and death <lb
-                  break="yes"/>from cardiac exhaustion. This explanation <lb break="yes"/>was borne
-               out by the post-mortem examina-<lb break="no"/>tion, which showed long-standing
-               organic <lb break="yes"/>disease, and the coroner's jury returned a <lb break="yes"
-               />verdict in accordance with the medical <lb break="yes"/>evidence. It is well that
-               this is so, for it <lb break="yes"/>is obviously of the utmost importance that <lb
-                  break="yes"/><persName ref="#CBaskerville">Sir Charles</persName>'s heir should
-               settle at the <placeName ref="#BaskervilleHall">Hall</placeName>
-               <lb break="yes"/>and continue the good work which has been <lb break="yes"/>so sadly
-               interrupted. Had the prosaic find-<lb break="no"/>ing of the coroner not finally put
-               an end <lb break="yes"/>to the romantic stories which have been <lb break="yes"
-               />whispered in connection with the affair it <lb break="yes"/>might have been
-               difficult to find a tenant for <lb break="yes"/><placeName ref="#BaskervilleHall"
-                  >Baskerville Hall</placeName>. It is understood that the <lb break="yes"
-               />next-of-kin is <persName ref="#HBaskerville">Mr. Henry Baskerville</persName>, if
-               he be <lb break="yes"/>still alive, the son of <persName ref="#CBaskerville">Sir
-                  Charles Baskerville</persName>'s <lb break="yes"/>younger brother. The young man
-               when last <lb break="yes"/>heard of was in <placeName ref="#America"
-                  >America</placeName>, and inquiries are <lb break="yes"/>being instituted with a
-               view to informing him <lb break="yes"/>of his good fortune."</said></p>
-         <lb break="yes"/>
-         <p><persName ref="#Mortimer">Dr. Mortimer</persName> refolded his paper and <lb break="yes"
-            />replaced it in his pocket.</p>
-         <lb break="yes"/>
-         <p><said>"Those are the public facts, <persName ref="#Holmes">Mr. Holmes</persName>, <lb
-                  break="yes"/>in connection with the death of <persName ref="#CBaskerville">Sir
-                  Charles <lb break="yes"/>Baskerville</persName>."</said></p>
-         <lb break="yes"/>
-         <p><said>"I must thank you,"</said> said <persName ref="#Holmes">Sherlock
-            Holmes</persName>, <lb break="yes"/><said>"for calling my attention to a case which <lb
-                  break="yes"/>certainly presents some features of interest. <lb break="yes"/>I had
-               observed some newspaper comment at <lb break="yes"/>the time, but I was exceedingly
-               preoccupied <lb break="yes"/>by that little affair of the <placeName ref="#Vatican"
-                  >Vatican</placeName> cameos, <lb break="yes"/>and in my anxiety to oblige the Pope
-               I lost <lb break="yes"/>touch with several interesting English cases. <lb break="yes"
-               />This article, you say, contains all the public <lb break="yes"/>facts?"</said></p>
-         <lb break="yes"/>
-         <p><said>"It does."</said></p>
-         <lb break="yes"/>
-         <p><said>"Then let me have the private ones."</said> He <lb break="yes"/>leaned back, put
-            his finger-tips together, and <lb break="yes"/>assumed his most impassive and judicial
-               <lb break="yes"/>expression.</p>
-         <lb break="yes"/>
-         <p><said>"In doing so,"</said> said <persName ref="#Mortimer">Dr. Mortimer</persName>, who
-               <lb break="yes"/>had begun to show signs of some strong <lb break="yes"/>emotion,
-               <said>"I am telling that which I have not <lb break="yes"/>confided to anyone. My
-               motive for with-<lb break="no"/>holding it from the coroner's inquiry is that a <lb
-                  break="yes"/>man of science shrinks from placing himself <cb/><lb break="yes"/>in
-               the public position of seeming to indorse <lb break="yes"/>a popular superstition. I
-               had the further <lb break="yes"/>motive that <placeName ref="#BaskervilleHall"
-                  >Baskerville Hall</placeName>, as the paper says, <lb break="yes"/>would certainly
-               remain untenanted if anything <lb break="yes"/>were done to increase its already
-               rather <lb break="yes"/>grim reputation. For both these reasons I <lb break="yes"
-               />thought that I was justified in telling rather <lb break="yes"/>less than I knew,
-               since no practical good <lb break="yes"/>could result from it, but with you there is
-               no <lb break="yes"/>reason why I should not be perfectly frank.</said></p>
-         <lb break="yes"/>
-         <p><said>"<placeName ref="#theMoor">The moor</placeName> is very sparsely inhabited, <lb
-                  break="yes"/>and those who live near each other are <lb break="yes"/>thrown very
-               much together. For this reason <lb break="yes"/>I saw a good deal of <persName
-                  ref="#CBaskerville">Sir Charles Baskerville</persName>. <lb break="yes"/>With the
-               exception of <persName ref="#Frankland">Mr. Frankland</persName>, of <lb break="yes"
-                  /><placeName ref="#LafterHall">Lafter Hall</placeName>, and <persName
-                  ref="#Stapleton">Mr. Stapleton</persName>, the naturalist, <lb break="yes"/>there
-               are no other men of education within <lb break="yes"/>many miles. <persName
-                  ref="#CBaskerville">Sir Charles</persName> was a retiring man <lb break="yes"/>but
-               the chance of his illness brought us <lb break="yes"/>together, and a community of
-               interests in <lb break="yes"/>science kept us so. He had brought back <lb break="yes"
-               />much scientific information from <placeName ref="#SouthAfrica">South <lb
-                     break="yes"/>Africa</placeName>, and many a charming evening we <lb break="yes"
-               />have spent together discussing the com-<lb break="no"/>parative anatomy of the
-               Bushmen and the <lb break="yes"/>Hottentot.</said></p>
-         <lb break="yes"/>
-         <p><said>"Within the last few months it became <lb break="yes"/>increasingly plain to me
-               that <persName ref="#CBaskerville">Sir Charles</persName>'s <lb break="yes"/>nervous
-               system was strained to breaking <lb break="yes"/>point. He had taken this legend
-               which I <lb break="yes"/>have read you exceedingly to heart—so <lb break="yes"/>much
-               so that, although he would walk in his <lb break="yes"/>own grounds, nothing would
-               induce him to <lb break="yes"/>go out upon the moor at night. Incredible <lb
-                  break="yes"/>as it may appear to you, <persName ref="#Holmes">Mr.
-                  Holmes</persName>, he <lb break="yes"/>was honestly convinced that a dreadful fate
-                  <lb break="yes"/>overhung his family, and certainly the records <lb break="yes"
-               />which he was able to give of his ancestors <lb break="yes"/>were not encouraging.
-               The idea of some <lb break="yes"/>ghastly presence constantly haunted him, <lb
-                  break="yes"/>and on more than one occasion he has asked <lb break="yes"/>me
-               whether I had on my medical journeys <lb break="yes"/>at night ever seen any strange
-               creature or <lb break="yes"/>heard the baying of a hound. The latter <lb break="yes"
-               />question he put to me several times, and <lb break="yes"/>always with a voice which
-               vibrated with <lb break="yes"/>excitement.</said></p>
-         <lb break="yes"/>
-         <p><said>"I can well remember driving up to his <lb break="yes"/>house in the evening, some
-               three weeks <lb break="yes"/>before the fatal event. He chanced to be at <lb
-                  break="yes"/>his hall door. I had descended from my gig <lb break="yes"/>and was
-               standing in front of him, when I <lb break="yes"/>saw his eyes fix themselves over my
-               shoulder, <lb break="yes"/>and stare past me with an expression of the <lb
-                  break="yes"/>most dreadful horror. I whisked round and <lb break="yes"/>had just
-               time to catch a glimpse of some-<lb break="yes"/>thing which I took to be a large
-               black calf <lb break="yes"/>passing at the head of the drive. So excited <lb
-                  break="yes"/>and alarmed was he that I was compelled to</said></p>
-         <pb n="132"/>
-         <fw type="RunningHead">132 THE STRAND MAGAZINE</fw>
-         <figure place="top left">
-            <graphic url="../images/BaskervillePage132.png"/>
-            <p rendition="bottom" rend="caps"> "I saw his eyes fix themselves over my shoulder." </p>
-            <figDesc>
-               <persName ref="#Watson">Watson</persName> and <persName ref="#Mortimer"
-                  >Mortimer</persName> stand at the entrance to a building, Mortimer outside near a
-               carriage, and face towards each other in conversation. Mortimer is wearing a dark
-               suit and tophat, and Watson is in a light-colored suit. The image has a border around
-               it, except for its bottom, and the initials S P are inscribed in the bottom right
-               corner. </figDesc>
-         </figure>
-         <cb/>
-         <lb break="yes"/>
-         <p><said>go down to the spot where the animal had <lb break="yes"/>been and look around for
-               it. It was gone, <lb break="yes"/>however, and the incident appeared to make <lb
-                  break="yes"/>the worst impression upon his mind. I <lb break="yes"/>stayed with
-               him all the evening, and it was on <lb break="yes"/>that occasion, to explain the
-               emotion which <lb break="yes"/>he had shown, that he confided to my keeping <lb
-                  break="yes"/>that narrative which I read to you when first <lb break="yes"/>I
-               came. I mention this small episode because <lb break="yes"/>it assumes some
-               importance in view of the <lb break="yes"/>tragedy which followed, but I was
-               convinced <lb break="yes"/>at the time that the matter was extremely <lb break="yes"
-               />trivial and that his excitement had no <lb break="yes"/>justification.</said></p>
-         <lb break="yes"/>
-         <p><said>"It was at my advice that <persName ref="#CBaskerville">Sir Charles</persName> was
-                  <lb break="yes"/>about to go to <placeName ref="#London">London</placeName>. His
-               heart was, I knew, <lb break="yes"/>affected, and the constant anxiety in which he
-                  <lb break="yes"/>lived, however chimerical the cause of it might <lb break="yes"
-               />be, was evidently having a serious effect upon <cb/><lb break="yes"/>his health. I
-               thought that a <lb break="yes"/>few months among the dis-<lb break="no"/>tractions of
-               town would <lb break="yes"/>send him back a new man. <lb break="yes"/><persName
-                  ref="#Stapleton">Mr. Stapleton</persName>, a mutual <lb break="yes"/>friend who
-               was much con-<lb break="no"/>cerned at his state of <lb break="yes"/>health, was of
-               the same <lb break="yes"/>opinion. At the last in-<lb break="no"/>stant came this
-               terrible <lb break="yes"/>catastrophe.</said></p>
-         <lb break="yes"/>
-         <p><said>"On the night of <persName ref="#CBaskerville">Sir <lb break="yes"
-                  />Charles</persName>'s death <persName ref="#Barrymore">Barrymore</persName>
-               <lb break="yes"/>the butler, who made the <lb break="yes"/>discovery, sent <persName
-                  ref="#Perkins">Perkins</persName> the <lb break="yes"/>groom on horseback to <lb
-                  break="yes"/>me, and as I was sitting <lb break="yes"/>up late I was able to reach
-                  <lb break="yes"/><placeName ref="#BaskervilleHall">Baskerville Hall</placeName>
-               within an <lb break="yes"/>hour of the event. I <lb break="yes"/>checked and
-               corroborated <lb break="yes"/>all the facts which were <lb break="yes"/>mentioned at
-               the inquest. <lb break="yes"/>I followed the footsteps <lb break="yes"/>down the
-                  <placeName ref="#YewAlley">Yew Alley</placeName>, I saw <lb break="yes"/>the spot
-               at the moor gate <lb break="yes"/>where he seemed to have <lb break="yes"/>waited, I
-               remarked the <lb break="yes"/>change in the shape of the <lb break="yes"/>prints
-               after that point, I <lb break="yes"/>noted that there were no <lb break="yes"/>other
-               footsteps save those <lb break="yes"/>of <persName ref="#Barrymore"
-                  >Barrymore</persName> on the soft <lb break="yes"/>gravel, and finally I care-<lb
-                  break="no"/>fully examined the body, <lb break="yes"/>which had not been <lb
-                  break="yes"/>touched until my arrival. <lb break="yes"/><persName
-                  ref="#CBaskerville">Sir Charles</persName> lay on his face, his arms out, his <lb
-                  break="yes"/>fingers dug into the ground, and his features <lb break="yes"
-               />convulsed with some strong emotion to such <lb break="yes"/>an extent that I could
-               hardly have sworn to <lb break="yes"/>his identity. There was certainly no physical
-                  <lb break="yes"/>injury of any kind. But one false statement <lb break="yes"/>was
-               made by <persName ref="#Barrymore">Barrymore</persName> at the inquest. He <lb
-                  break="yes"/>said that there were no traces upon the <lb break="yes"/>ground round
-               the body. He did not observe <lb break="yes"/>any. But I did—some little distance
-               off, but <lb break="yes"/>fresh and clear."</said></p>
-         <lb break="yes"/>
-         <p><said>"Footprints?"</said></p>
-         <lb break="yes"/>
-         <p><said>"Footprints."</said></p>
-         <lb break="yes"/>
-         <p><said>"A man's or a woman's?"</said></p>
-         <lb break="yes"/>
-         <p><persName ref="#Mortimer">Dr. Mortimer</persName> looked strangely at us for an <lb
-               break="yes"/>instant, and his voice sank almost to a <lb break="yes"/>whisper as he
-            answered:—</p>
-         <lb break="yes"/>
-         <p><said>"<persName ref="#Holmes">Mr. Holmes</persName>, they were the footprints of <lb
-                  break="yes"/>a gigantic hound!"</said></p>
-         <lb break="yes"/>
-         <p><hi rend="italics">(To be continued.)</hi></p>
-         </div>   
+                  <figure place="top left">
+                     <graphic url="../images/BaskervillePage129.png"/>
+                     <p rendition="bottom" rend="caps"> "There in the centre lay the unhappy maid
+                        where she had fallen." </p>
+                     <figDesc> A man and woman, <persName ref="#HuBaskerville">Hugo
+                           Baskerville</persName> and <persName ref="#theMaiden">the
+                           maiden</persName>, lay still on <placeName ref="#theMoors">a
+                           field</placeName> at night, and between them stands a dark hound, almost
+                        as large as Baskerville's corpse. Hugo Baskerville, who is laid out on his
+                        back in front of the picture, is in an old fashioned uniform, and a hat and
+                        cane are strewn near him. Closely behind him stands the hound, and behind it
+                        the woman lies on her side in a light dress. Behind these three main figures
+                        stand two larger rocks and three men on horseback reacting in horror to the
+                        scene, one of them obscured by the right border of the image. The image has
+                        a border around it, and the initials S P are inscribed in the bottom right
+                        corner. </figDesc>
+                  </figure>
+                  <cb/>
+                  <lb break="yes"/> fallen, dead of fear and of fatigue. But it <lb break="yes"/>was
+                  not the sight of her body, nor yet was it <lb break="yes"/>that of the body of
+                     <persName ref="#HBaskerville">Hugo Baskerville</persName> lying <lb break="yes"
+                  />near her, which raised the hair upon the <lb break="yes"/>heads of these three
+                  dare-devil roysterers, <lb break="yes"/>but it was that, standing over <persName
+                     ref="#HuBaskerville">Hugo</persName>, and <lb break="yes"/>plucking at his
+                  throat, there stood a foul <lb break="yes"/>thing, a great, black beast, shaped
+                  like a <lb break="yes"/>hound, yet larger than any hound that ever <lb break="yes"
+                  />mortal eye has rested upon. And even as <lb break="yes"/>they looked the thing
+                  tore the throat out of <lb break="yes"/><persName ref="#HuBaskerville">Hugo
+                     Baskerville</persName>, on which, as it turned its <lb break="yes"/>blazing
+                  eyes and dripping jaws upon them, <lb break="yes"/>the three shrieked with fear
+                  and rode for <lb break="yes"/>dear life, still screaming, across the moor. <lb
+                     break="yes"/>One, it is said, died that very night of what <lb break="yes"/>he
+                  had seen, and the other twain were but <lb break="yes"/>broken men for the rest of
+                  their days.</said></p>
+            <lb break="yes"/>
+            <p>
+               <!--are we taking out these quotation marks bc of the said element?--><said>"Such is
+                  the tale, my sons, <lb break="yes"/>of the coming of the hound which is said to
+                  have plagued <lb break="yes"/>the family so sorely ever since. If I have <lb
+                     break="yes"/>set it down it is because that which is clearly <lb break="yes"
+                  />known hath less terror than that which is but <lb break="yes"/>hinted at and
+                  guessed. Nor can it be denied</said>
+            </p>
+            <ab>Vol. xxii,—17</ab>
+            <cb/>
+            <lb break="yes"/>
+            <p><said>that many of the family have <lb break="yes"/>been unhappy in their deaths, <lb
+                     break="yes"/>which have been sudden, <lb break="yes"/>bloody, and mysterious.
+                  Yet <lb break="yes"/>may we shelter ourselves in the <lb break="yes"/>infinite
+                  goodness of Providence, <lb break="yes"/>which would not for ever punish <lb
+                     break="yes"/>the innocent beyond that third <lb break="yes"/>or fourth
+                  generation which is <lb break="yes"/>threatened in Holy Writ. To <lb break="yes"
+                  />that Providence, my sons, I <lb break="yes"/>hereby command you, and I <lb
+                     break="yes"/>counsel you by way of caution <lb break="yes"/>to forbear from
+                  crossing the <lb break="yes"/>moor in those dark hours when <lb break="yes"/>the
+                  powers of evil are exalted."</said></p>
+            <lb break="yes"/>
+            <p><said>"[This from <persName ref="#HuBaskerville">Hugo Basker-<lb break="no"
+                     />ville</persName> to his sons <persName>Rodger</persName> and <lb break="yes"
+                     /><persName>John</persName>, with instructions that they <lb break="yes"/>say
+                  nothing thereof to their <lb break="yes"/>sister
+                  <persName>Elizabeth</persName>.]"</said></p>
+            <lb break="yes"/>
+            <p>When <persName ref="#Mortimer">Dr. Mortimer</persName> had <lb break="yes"/>finished
+               reading this singular <lb break="yes"/>narrative he pushed his spec-<lb break="no"
+               />tacles up on his forehead and <lb break="yes"/>stared across at <persName
+                  ref="#Holmes">Mr. Sherlock <lb break="yes"/>Holmes</persName>. The latter yawned
+                  <lb break="yes"/>and tossed the end of his <lb break="yes"/>cigarette into the
+               fire. </p>
+            <lb break="yes"/>
+            <p><said>"Well?"</said> said he.</p>
+            <lb break="yes"/>
+            <p><said>"Do you not find it interest<lb break="no"/>-ing?"</said></p>
+            <lb break="yes"/>
+            <p><said>"To a collector of fairy tales."</said></p>
+            <lb break="yes"/>
+            <p><persName ref="#Mortimer">Dr. Mortimer</persName> drew a folded <lb break="yes"
+               />newspaper out of his pocket.</p>
+            <lb break="yes"/>
+            <p><said>"Now, <persName ref="#Holmes">Mr. Holmes</persName>, we will give you <lb
+                     break="yes"/>something a little more recent. This is the <lb break="yes"/><hi
+                     rend="italics"><placeName ref="#Devon">Devon</placeName> County Chronicle</hi>
+                  of <date>May 14th</date> of this <lb break="yes"/>year. It is a short account of
+                  the facts <lb break="yes"/>elicited at the death of <persName ref="#CBaskerville"
+                     >Sir Charles Basker-<lb break="no"/>ville</persName> which occurred a few days
+                  before that <lb break="yes"/>date."</said></p>
+            <lb break="yes"/>
+            <p>My friend leaned a little forward and his <lb break="yes"/>expression became intent.
+               Our visitor re-<lb break="yes"/>adjusted his glasses and began:—</p>
+            <lb break="yes"/>
+            <p><said>"The recent sudden death of <persName ref="#CBaskerville">Sir Charles <lb
+                        break="yes"/>Baskerville</persName>, whose name has been mentioned <lb
+                     break="yes"/>as the probable Liberal candidate for <placeName ref="#Mid-Devon"
+                        >Mid-<lb break="maybe"/>Devon</placeName> at the next election, has cast a
+                  gloom <lb break="yes"/>over the county. Though <persName ref="#CBaskerville">Sir
+                     Charles</persName> had <lb break="yes"/>resided at <placeName
+                     ref="#BaskervilleHall">Baskerville Hall</placeName> for a compara-<lb
+                     break="no"/>tively short period his amiability of character <lb break="yes"
+                  />and extreme generosity had won the <lb break="yes"/>affection and respect of all
+                  who had been <lb break="yes"/>brought into contact with him. In these <lb
+                     break="yes"/>days of <foreign rend="italics">nouveaux riches</foreign> it is
+                  refreshing to <lb break="yes"/>find a case where the scion of an old county <lb
+                     break="yes"/>family which has fallen upon evil days is able <lb break="yes"/>to
+                  make his own fortune and to bring it back</said></p>
+            <pb n="130"/>
+            <fw type="RunningHead">130 THE STRAND MAGAZINE</fw>
+            <cb/>
+            <lb break="yes"/>
+            <p><said>with him to restore the fallen grandeur of his <lb break="yes"/>line. <persName
+                     ref="#CBaskerville">Sir Charles</persName>, as is well known, made <lb
+                     break="yes"/>large sums of money in South African <lb break="yes"/>speculation.
+                  More wise than those who go <lb break="yes"/>on until the wheel turns against
+                  them, he <lb break="yes"/>realized his gains and returned to <placeName
+                     ref="#England">England</placeName>
+                  <lb break="yes"/>with them. It is only two years since he <lb break="yes"/>took up
+                  his residence at <placeName ref="#BaskervilleHall">Baskerville Hall</placeName>,
+                     <lb break="yes"/>and it is common talk how large were those <lb break="yes"
+                  />schemes of reconstruction and improvement <lb break="yes"/>which have been
+                  interrupted by his death. <lb break="yes"/>Being himself childless, it was his
+                     openly-<lb break="maybe"/>expressed desire that the whole <lb break="yes"
+                  />countryside should, within his own <figure place="center">
+                     <graphic url="../images/BaskervillePage130.png"/>
+                     <p rendition="bottom" rend="caps"> "His body was discovered." </p>
+                     <figDesc> A man, <persName ref="#CBaskerville">Charles Baskerville</persName>,
+                        is laid on his stomach and is unresponsive to another man standing behind
+                        him holding a lamp with a shocked expression. Both men are dressed in suits.
+                        The lamp is the only light source and most of the background is obscured in
+                        dark. The image has a border around it, except for its bottom, and the
+                        initials S P are inscribed in the bottom right corner. </figDesc>
+                  </figure>
+                  <lb break="yes"/>lifetime, profit by his good fortune, <lb break="yes"/>and many
+                  will have personal reasons <lb break="yes"/>for bewailing his untimely end. His
+                     <lb break="yes"/>generous donations to local and <lb break="yes"/>county
+                  charities have been frequently <lb break="yes"/>chronicled in these
+                  columns.</said></p>
+            <lb break="yes"/>
+            <p><said>"The circumstances connected <lb break="yes"/>with the death of <persName
+                     ref="#CBaskerville">Sir Charles</persName> can-<lb break="no"/>not be said to
+                  have been entirely <lb break="yes"/>cleared up by the <lb break="yes"/>inquest,
+                  but at <lb break="yes"/>least enough has <lb break="yes"/>been done to dis-<lb
+                     break="no"/>pose of those <lb break="yes"/>rumours to which <lb break="yes"
+                  />local superstition <lb break="yes"/>has given rise. <lb break="yes"/>There is no
+                     <lb break="yes"/>reason whatever <lb break="yes"/>to suspect foul <lb
+                     break="yes"/>play, or to <lb break="yes"/>imagine that <lb break="yes"/>death
+                  could be <lb break="yes"/>from any but <lb break="yes"/>natural causes. <lb
+                     break="yes"/><persName ref="#CBaskerville">Sir Charles</persName> was <lb
+                     break="yes"/>a widower, and <lb break="yes"/>a man who may <lb break="yes"/>be
+                  said to have <lb break="yes"/>been in some <lb break="yes"/>ways of an eccen-<lb
+                     break="no"/>tric habit of <lb break="yes"/>mind. In spite of <lb break="yes"
+                  />his considerable <lb break="yes"/>wealth he was <lb break="yes"/>simple in his
+                     <lb break="yes"/>personal tastes, and his indoor servants at <lb break="yes"
+                     /><placeName ref="#BaskervilleHall">Baskerville Hall</placeName> consisted of a
+                  married <lb break="yes"/>couple named <persName ref="#Barrymore"
+                     >Barrymore</persName>, the husband acting <lb break="yes"/>as butler and the
+                  wife as housekeeper. Their <lb break="yes"/>evidence, corroborated by that of
+                  several <lb break="yes"/>friends, tends to show that <persName ref="#CBaskerville"
+                     >Sir Charles</persName>'s <lb break="yes"/>health has for some time been
+                  impaired, and <lb break="yes"/>points especially to some affection of the <lb
+                     break="yes"/>heart, manifesting itself in changes of colour, <cb/><lb
+                     break="yes"/>breathlessness, and acute attacks of nervous <lb break="yes"
+                  />depression. <persName ref="#Mortimer">Dr. James Mortimer</persName>, the friend
+                     <lb break="yes"/>and medical attendant of the deceased, has <lb break="yes"
+                  />given evidence to the same effect.</said></p>
+            <lb break="yes"/>
+            <p><said>"The facts of the case are simple. <lb break="yes"/><persName
+                     ref="#CBaskerville">Sir Charles Baskerville</persName> was in the habit every
+                     <lb break="yes"/>night before going to bed of walking down <lb break="yes"/>the
+                  famous <placeName ref="#YewAlley">Yew Alley</placeName> of <placeName
+                     ref="#BaskervilleHall">Baskerville Hall</placeName>. <lb break="yes"/>The
+                  evidence of the <persName ref="#Barrymore">Barrymores</persName> shows <lb
+                     break="yes"/>that this had been his custom. On the <date when="1889-05-04"><lb
+                        break="yes"/>4th of May</date>
+                  <persName ref="#CBaskerville">Sir Charles</persName> had declared his <lb
+                     break="yes"/>intention of starting next day for <placeName ref="#London"
+                     >London</placeName>, <lb break="yes"/>and had ordered <lb break="yes"
+                     /><persName ref="#Barrymore">Barrymore</persName> to <lb break="yes"/>prepare
+                  his lug-<lb break="no"/>gage. That night <lb break="yes"/>he went out as <lb
+                     break="yes"/>usual for his <lb break="yes"/>nocturnal walk, <lb break="yes"/>in
+                  the course of <lb break="yes"/>which he was in <lb break="yes"/>the habit of <lb
+                     break="yes"/>smoking a cigar. <lb break="yes"/>He never re-<lb break="no"
+                  />turned. At <lb break="yes"/>twelve o'clock <lb break="yes"/><persName
+                     ref="#Barrymore">Barrymore</persName>, find-<lb break="no"/>ing the hall door
+                     <lb break="yes"/>still open, be-<lb break="no"/>came alarmed <lb break="yes"
+                  />and, lighting a <lb break="yes"/>lantern, went in <lb break="yes"/>search of his
+                     <lb break="yes"/>master. The day <lb break="yes"/>had been wet, <lb break="yes"
+                  />and <persName ref="#CBaskerville">Sir Charles</persName>'s <lb break="yes"
+                  />footmarks were <lb break="yes"/>easily traced <lb break="yes"/>down the
+                     <placeName ref="#YewAlley">Alley</placeName>. <lb break="yes"/>Half-way down
+                     <lb break="yes"/>this walk there is <lb break="yes"/>a gate which <lb
+                     break="yes"/>leads out on to <lb break="yes"/><placeName ref="#theMoor">the
+                     moor</placeName>. There <lb break="yes"/>were indications <lb break="yes"/>that
+                     <persName ref="#CBaskerville">Sir Charles</persName>
+                  <lb break="yes"/>had stood for <lb break="yes"/>some little time <lb break="yes"
+                  />here. He then <lb break="yes"/>proceeded down <lb break="yes"/>the <placeName
+                     ref="#YewAlley">Alley</placeName>, and it was at the far end of it that <lb
+                     break="yes"/>his body was discovered. One fact which has <lb break="yes"/>not
+                  been explained is the statement of <persName ref="#Barrymore">Barry-<lb break="no"
+                     />more</persName> that his master's footprints altered their <lb break="yes"
+                  />character from the time that he passed the <lb break="yes"/>moor-gate, and that
+                  he appeared from thence <lb break="yes"/>onwards to have been walking upon his
+                  toes. <lb break="yes"/>One <persName ref="#Murphy">Murphy</persName>, a gipsy
+                  horse-dealer, was on the <lb break="yes"/>moor at no great distance at the time,
+                  but</said></p>
+            <pb n="131"/>
+            <fw type="RunningHead">THE HOUND OF THE BASKERVILLES 131</fw>
+            <cb/>
+            <lb break="yes"/>
+            <p><said>he appears by his own confession to have <lb break="yes"/>been the worse for
+                  drink. He declares that <lb break="yes"/>he heard cries, but is unable to state
+                  from <lb break="yes"/>what direction they came. No signs of <lb break="yes"
+                  />violence were to be discovered upon <persName ref="#CBaskerville">Sir <lb
+                        break="yes"/>Charles</persName>'s person, and though the doctor's <lb
+                     break="yes"/>evidence pointed to an almost incredible <lb break="yes"/>facial
+                  distortion—so great that <persName ref="#Mortimer">Dr. Mortimer</persName>
+                  <lb break="yes"/>refused at first to believe that it was indeed <lb break="yes"
+                  />his friend and patient who lay before him—it <lb break="yes"/>was explained that
+                  that is a symptom which <lb break="yes"/>is not unusual in cases of dyspnœa and
+                  death <lb break="yes"/>from cardiac exhaustion. This explanation <lb break="yes"
+                  />was borne out by the post-mortem examina-<lb break="no"/>tion, which showed
+                  long-standing organic <lb break="yes"/>disease, and the coroner's jury returned a
+                     <lb break="yes"/>verdict in accordance with the medical <lb break="yes"
+                  />evidence. It is well that this is so, for it <lb break="yes"/>is obviously of
+                  the utmost importance that <lb break="yes"/><persName ref="#CBaskerville">Sir
+                     Charles</persName>'s heir should settle at the <placeName
+                     ref="#BaskervilleHall">Hall</placeName>
+                  <lb break="yes"/>and continue the good work which has been <lb break="yes"/>so
+                  sadly interrupted. Had the prosaic find-<lb break="no"/>ing of the coroner not
+                  finally put an end <lb break="yes"/>to the romantic stories which have been <lb
+                     break="yes"/>whispered in connection with the affair it <lb break="yes"/>might
+                  have been difficult to find a tenant for <lb break="yes"/><placeName
+                     ref="#BaskervilleHall">Baskerville Hall</placeName>. It is understood that the
+                     <lb break="yes"/>next-of-kin is <persName ref="#HBaskerville">Mr. Henry
+                     Baskerville</persName>, if he be <lb break="yes"/>still alive, the son of
+                     <persName ref="#CBaskerville">Sir Charles Baskerville</persName>'s <lb
+                     break="yes"/>younger brother. The young man when last <lb break="yes"/>heard of
+                  was in <placeName ref="#America">America</placeName>, and inquiries are <lb
+                     break="yes"/>being instituted with a view to informing him <lb break="yes"/>of
+                  his good fortune."</said></p>
+            <lb break="yes"/>
+            <p><persName ref="#Mortimer">Dr. Mortimer</persName> refolded his paper and <lb
+                  break="yes"/>replaced it in his pocket.</p>
+            <lb break="yes"/>
+            <p><said>"Those are the public facts, <persName ref="#Holmes">Mr. Holmes</persName>, <lb
+                     break="yes"/>in connection with the death of <persName ref="#CBaskerville">Sir
+                     Charles <lb break="yes"/>Baskerville</persName>."</said></p>
+            <lb break="yes"/>
+            <p><said>"I must thank you,"</said> said <persName ref="#Holmes">Sherlock
+                  Holmes</persName>, <lb break="yes"/><said>"for calling my attention to a case
+                  which <lb break="yes"/>certainly presents some features of interest. <lb
+                     break="yes"/>I had observed some newspaper comment at <lb break="yes"/>the
+                  time, but I was exceedingly preoccupied <lb break="yes"/>by that little affair of
+                  the <placeName ref="#Vatican">Vatican</placeName> cameos, <lb break="yes"/>and in
+                  my anxiety to oblige the Pope I lost <lb break="yes"/>touch with several
+                  interesting English cases. <lb break="yes"/>This article, you say, contains all
+                  the public <lb break="yes"/>facts?"</said></p>
+            <lb break="yes"/>
+            <p><said>"It does."</said></p>
+            <lb break="yes"/>
+            <p><said>"Then let me have the private ones."</said> He <lb break="yes"/>leaned back,
+               put his finger-tips together, and <lb break="yes"/>assumed his most impassive and
+               judicial <lb break="yes"/>expression.</p>
+            <lb break="yes"/>
+            <p><said>"In doing so,"</said> said <persName ref="#Mortimer">Dr. Mortimer</persName>,
+               who <lb break="yes"/>had begun to show signs of some strong <lb break="yes"/>emotion,
+                  <said>"I am telling that which I have not <lb break="yes"/>confided to anyone. My
+                  motive for with-<lb break="no"/>holding it from the coroner's inquiry is that a
+                     <lb break="yes"/>man of science shrinks from placing himself <cb/><lb
+                     break="yes"/>in the public position of seeming to indorse <lb break="yes"/>a
+                  popular superstition. I had the further <lb break="yes"/>motive that <placeName
+                     ref="#BaskervilleHall">Baskerville Hall</placeName>, as the paper says, <lb
+                     break="yes"/>would certainly remain untenanted if anything <lb break="yes"
+                  />were done to increase its already rather <lb break="yes"/>grim reputation. For
+                  both these reasons I <lb break="yes"/>thought that I was justified in telling
+                  rather <lb break="yes"/>less than I knew, since no practical good <lb break="yes"
+                  />could result from it, but with you there is no <lb break="yes"/>reason why I
+                  should not be perfectly frank.</said></p>
+            <lb break="yes"/>
+            <p><said>"<placeName ref="#theMoor">The moor</placeName> is very sparsely inhabited, <lb
+                     break="yes"/>and those who live near each other are <lb break="yes"/>thrown
+                  very much together. For this reason <lb break="yes"/>I saw a good deal of
+                     <persName ref="#CBaskerville">Sir Charles Baskerville</persName>. <lb
+                     break="yes"/>With the exception of <persName ref="#Frankland">Mr.
+                     Frankland</persName>, of <lb break="yes"/><placeName ref="#LafterHall">Lafter
+                     Hall</placeName>, and <persName ref="#Stapleton">Mr. Stapleton</persName>, the
+                  naturalist, <lb break="yes"/>there are no other men of education within <lb
+                     break="yes"/>many miles. <persName ref="#CBaskerville">Sir Charles</persName>
+                  was a retiring man <lb break="yes"/>but the chance of his illness brought us <lb
+                     break="yes"/>together, and a community of interests in <lb break="yes"/>science
+                  kept us so. He had brought back <lb break="yes"/>much scientific information from
+                     <placeName ref="#SouthAfrica">South <lb break="yes"/>Africa</placeName>, and
+                  many a charming evening we <lb break="yes"/>have spent together discussing the
+                     com-<lb break="no"/>parative anatomy of the Bushmen and the <lb break="yes"
+                  />Hottentot.</said></p>
+            <lb break="yes"/>
+            <p><said>"Within the last few months it became <lb break="yes"/>increasingly plain to me
+                  that <persName ref="#CBaskerville">Sir Charles</persName>'s <lb break="yes"
+                  />nervous system was strained to breaking <lb break="yes"/>point. He had taken
+                  this legend which I <lb break="yes"/>have read you exceedingly to heart—so <lb
+                     break="yes"/>much so that, although he would walk in his <lb break="yes"/>own
+                  grounds, nothing would induce him to <lb break="yes"/>go out upon the moor at
+                  night. Incredible <lb break="yes"/>as it may appear to you, <persName
+                     ref="#Holmes">Mr. Holmes</persName>, he <lb break="yes"/>was honestly convinced
+                  that a dreadful fate <lb break="yes"/>overhung his family, and certainly the
+                  records <lb break="yes"/>which he was able to give of his ancestors <lb
+                     break="yes"/>were not encouraging. The idea of some <lb break="yes"/>ghastly
+                  presence constantly haunted him, <lb break="yes"/>and on more than one occasion he
+                  has asked <lb break="yes"/>me whether I had on my medical journeys <lb break="yes"
+                  />at night ever seen any strange creature or <lb break="yes"/>heard the baying of
+                  a hound. The latter <lb break="yes"/>question he put to me several times, and <lb
+                     break="yes"/>always with a voice which vibrated with <lb break="yes"
+                  />excitement.</said></p>
+            <lb break="yes"/>
+            <p><said>"I can well remember driving up to his <lb break="yes"/>house in the evening,
+                  some three weeks <lb break="yes"/>before the fatal event. He chanced to be at <lb
+                     break="yes"/>his hall door. I had descended from my gig <lb break="yes"/>and
+                  was standing in front of him, when I <lb break="yes"/>saw his eyes fix themselves
+                  over my shoulder, <lb break="yes"/>and stare past me with an expression of the <lb
+                     break="yes"/>most dreadful horror. I whisked round and <lb break="yes"/>had
+                  just time to catch a glimpse of some-<lb break="yes"/>thing which I took to be a
+                  large black calf <lb break="yes"/>passing at the head of the drive. So excited <lb
+                     break="yes"/>and alarmed was he that I was compelled to</said></p>
+            <pb n="132"/>
+            <fw type="RunningHead">132 THE STRAND MAGAZINE</fw>
+            <figure place="top left">
+               <graphic url="../images/BaskervillePage132.png"/>
+               <p rendition="bottom" rend="caps"> "I saw his eyes fix themselves over my shoulder." </p>
+               <figDesc>
+                  <persName ref="#Watson">Watson</persName> and <persName ref="#Mortimer"
+                     >Mortimer</persName> stand at the entrance to a building, Mortimer outside near
+                  a carriage, and face towards each other in conversation. Mortimer is wearing a
+                  dark suit and tophat, and Watson is in a light-colored suit. The image has a
+                  border around it, except for its bottom, and the initials S P are inscribed in the
+                  bottom right corner. </figDesc>
+            </figure>
+            <cb/>
+            <lb break="yes"/>
+            <p><said>go down to the spot where the animal had <lb break="yes"/>been and look around
+                  for it. It was gone, <lb break="yes"/>however, and the incident appeared to make
+                     <lb break="yes"/>the worst impression upon his mind. I <lb break="yes"/>stayed
+                  with him all the evening, and it was on <lb break="yes"/>that occasion, to explain
+                  the emotion which <lb break="yes"/>he had shown, that he confided to my keeping
+                     <lb break="yes"/>that narrative which I read to you when first <lb break="yes"
+                  />I came. I mention this small episode because <lb break="yes"/>it assumes some
+                  importance in view of the <lb break="yes"/>tragedy which followed, but I was
+                  convinced <lb break="yes"/>at the time that the matter was extremely <lb
+                     break="yes"/>trivial and that his excitement had no <lb break="yes"
+                  />justification.</said></p>
+            <lb break="yes"/>
+            <p><said>"It was at my advice that <persName ref="#CBaskerville">Sir Charles</persName>
+                  was <lb break="yes"/>about to go to <placeName ref="#London">London</placeName>.
+                  His heart was, I knew, <lb break="yes"/>affected, and the constant anxiety in
+                  which he <lb break="yes"/>lived, however chimerical the cause of it might <lb
+                     break="yes"/>be, was evidently having a serious effect upon <cb/><lb
+                     break="yes"/>his health. I thought that a <lb break="yes"/>few months among the
+                     dis-<lb break="no"/>tractions of town would <lb break="yes"/>send him back a
+                  new man. <lb break="yes"/><persName ref="#Stapleton">Mr. Stapleton</persName>, a
+                  mutual <lb break="yes"/>friend who was much con-<lb break="no"/>cerned at his
+                  state of <lb break="yes"/>health, was of the same <lb break="yes"/>opinion. At the
+                  last in-<lb break="no"/>stant came this terrible <lb break="yes"
+                  />catastrophe.</said></p>
+            <lb break="yes"/>
+            <p><said>"On the night of <persName ref="#CBaskerville">Sir <lb break="yes"
+                     />Charles</persName>'s death <persName ref="#Barrymore">Barrymore</persName>
+                  <lb break="yes"/>the butler, who made the <lb break="yes"/>discovery, sent
+                     <persName ref="#Perkins">Perkins</persName> the <lb break="yes"/>groom on
+                  horseback to <lb break="yes"/>me, and as I was sitting <lb break="yes"/>up late I
+                  was able to reach <lb break="yes"/><placeName ref="#BaskervilleHall">Baskerville
+                     Hall</placeName> within an <lb break="yes"/>hour of the event. I <lb
+                     break="yes"/>checked and corroborated <lb break="yes"/>all the facts which were
+                     <lb break="yes"/>mentioned at the inquest. <lb break="yes"/>I followed the
+                  footsteps <lb break="yes"/>down the <placeName ref="#YewAlley">Yew
+                     Alley</placeName>, I saw <lb break="yes"/>the spot at the moor gate <lb
+                     break="yes"/>where he seemed to have <lb break="yes"/>waited, I remarked the
+                     <lb break="yes"/>change in the shape of the <lb break="yes"/>prints after that
+                  point, I <lb break="yes"/>noted that there were no <lb break="yes"/>other
+                  footsteps save those <lb break="yes"/>of <persName ref="#Barrymore"
+                     >Barrymore</persName> on the soft <lb break="yes"/>gravel, and finally I
+                     care-<lb break="no"/>fully examined the body, <lb break="yes"/>which had not
+                  been <lb break="yes"/>touched until my arrival. <lb break="yes"/><persName
+                     ref="#CBaskerville">Sir Charles</persName> lay on his face, his arms out, his
+                     <lb break="yes"/>fingers dug into the ground, and his features <lb break="yes"
+                  />convulsed with some strong emotion to such <lb break="yes"/>an extent that I
+                  could hardly have sworn to <lb break="yes"/>his identity. There was certainly no
+                  physical <lb break="yes"/>injury of any kind. But one false statement <lb
+                     break="yes"/>was made by <persName ref="#Barrymore">Barrymore</persName> at the
+                  inquest. He <lb break="yes"/>said that there were no traces upon the <lb
+                     break="yes"/>ground round the body. He did not observe <lb break="yes"/>any.
+                  But I did—some little distance off, but <lb break="yes"/>fresh and
+               clear."</said></p>
+            <lb break="yes"/>
+            <p><said>"Footprints?"</said></p>
+            <lb break="yes"/>
+            <p><said>"Footprints."</said></p>
+            <lb break="yes"/>
+            <p><said>"A man's or a woman's?"</said></p>
+            <lb break="yes"/>
+            <p><persName ref="#Mortimer">Dr. Mortimer</persName> looked strangely at us for an <lb
+                  break="yes"/>instant, and his voice sank almost to a <lb break="yes"/>whisper as
+               he answered:—</p>
+            <lb break="yes"/>
+            <p><said>"<persName ref="#Holmes">Mr. Holmes</persName>, they were the footprints of <lb
+                     break="yes"/>a gigantic hound!"</said></p>
+            <lb break="yes"/>
+            <p><hi rend="italics">(To be continued.)</hi></p>
+         </div>
       </body>
    </text>
    <standOff>
