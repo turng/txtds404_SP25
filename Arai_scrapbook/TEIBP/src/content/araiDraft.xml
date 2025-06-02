@@ -322,9 +322,9 @@
                     <name ref="#jennings">Judson T. Jennings</name>, Librarian<l/>
                     <date when="1942-04-29">29 April 1942</date></ab>
                 
-                <p><address><addrLine>Mr Clarence T. Arai</addrLine>
+                <ab type="toAddress"><address><addrLine>Mr Clarence T. Arai</addrLine>
                 <addrLine>452-12th Avenue</addrLine>
-                <addrLine>Seattle, Washington</addrLine></address></p> 
+                <addrLine>Seattle, Washington</addrLine></address></ab> 
                 
                <p>Dear Mr Arai:</p>
                 
@@ -575,33 +575,32 @@
             </div>
 
             <div>
-                <ab><name ref="#staff_association">SEATTLE PUBLIC LIBRARY STAFF ASSOCIATION</name> 
-                    4th AVE. and MADISON ST. 
-                    SEATTLE, WASHINGTON 
+                <ab type="letterhead"><address rend="caps"><addrLine><name ref="#staff_association">Seattle Public Library Staff Association</name></addrLine> 
+                    <addrLine>4th Ave. <hi rend="not caps">and</hi> Madison St.</addrLine> 
+                    <addrLine>Seattle, Washington</addrLine></address></ab>
                     
-                    <date when="1942-05-25">25 May 1942</date> 
+                    <l style="text-align: center;"><date when="1942-05-25">25 May 1942</date></l> 
                     
-                    Mr Clarence T. Arai 
+                    <ab type="toAddress">Mr Clarence T. Arai 
                     (H/S)taff Headquarters, Camp Harmony
                     Section 2, no. 79 
-                    Puyallup, Washington 
+                    Puyallup, Washington</ab> 
                     
-                    Dear Mr Arai: 
+                    <p>Dear Mr Arai:</p> 
                     
-                    Greetings from the Seventh Annual Banquet of the S(E/e)attle Public Library Staff Association to both you and Mrs Arai.
+                    <p>Greetings from the Seventh Annual Banquet of the S(E/e)attle Public Library Staff Association to both you and Mrs Arai.</p>
                     
-                    We were so sorry not to have you with us Friday night. We tried to make it an especially nice affair since it was to be the last one before Mr Jennings retired. As toastmistress, I read your letter and when the suggestion was made that greetings be sent to you, you should have heard the applause, so you can see what a place you hold in our minds and hearts. 
+                    <p>We were so sorry not to have you with us Friday night. We tried to make it an especially nice affair since it was to be the last one before <name ref="#jennings">Mr Jennings</name> retired. As toastmistress, I read your letter and when the suggestion was made that greetings be sent to you, you should have heard the applause, so you can see what a place you hold in our minds and hearts.</p> 
                     
-                    The dining room at the Ranier Club looked very beautiful with the tables decorated with rhododendrons and iris and colorful programs, serving also as place cards. There were one hundred and forty-one present. 
+                    <p>The dining room at the Ranier Club looked very beautiful with the tables decorated with rhododendrons and iris and colorful programs, serving also as place cards. There were one hundred and forty-one present.</p> 
                     
-                    Between courses we sang the songs printed in the program and then we had a series of humorous book reviews supposedly suggestions for the book case in the new house Mr Jennings is building across Lake Washington. After the last of these the group burst into the song “For He’s a Jolly Good Fellow.” Then we said we had a real book for him and Miss Andrus presented him with the portfolio of letters, one of which you wrote, - there were over a hundred altogether, and was he pleased!
+                    <p>Between courses we sang the songs printed in the program and then we had a series of humorous book reviews supposedly suggestions for the book case in the new house <name ref="#jennings">Mr Jennings</name> is building across Lake Washington. After the last of these the group burst into the song “For He’s a Jolly Good Fellow.” Then we said we had a real book for him and Miss Andrus presented him with the portfolio of letters, one of which you wrote, - there were over a hundred altogether, and was he pleased!</p>
                     
-                    He made a little speech of appreciation and then it was Mrs. Quigley’s turn to add to the book-shelf. She presented him with a book containing a diploma saying that he had completed thirty-five years of successful service “summa cum laude”, and then she presented Mr Richards, the new librarian, with a schedule book such as they give Freshmen at the University, listing the courses he’d have to take such as Handling the Board, Pleasing the Staff, Balancing the Budget, etc. Mr Richards then said briefly how pleased he and Mrs Richards were to be included and how much he was looking forward to his work. 
+                    <p>He made a little speech of appreciation and then it was Mrs. Quigley’s turn to add to the book-shelf. She presented him with a book containing a diploma saying that he had completed thirty-five years of successful service “summa cum laude”, and then she presented Mr Richards, the new librarian, with a schedule book such as they give Freshmen at the University, listing the courses he’d have to take such as Handling the Board, Pleasing the Staff, Balancing the Budget, etc. Mr Richards then said briefly how pleased he and Mrs Richards were to be included and how much he was looking forward to his work.</p> 
                     
-                    Last of all we said we thought the best books to have on our shelves were the master works that were standbys through thick and thin to guide and comfort us and then Miss Eberlin presented Mr Jennings with a Columbia Master Works Album of Beethoven’s “Tempest” Sonata, first speaking of records and how librarians have always”kept 
-                    <p/>
-                    SEATTLE PUBLIC
-                    LIBRARY STAFF ASSOCIATION 4th AVE. and MADISON ST. SEATTLE, WASHINGTON -2-
+                    <ab>Last of all we said we thought the best books to have on our shelves were the master works that were standbys through thick and thin to guide and comfort us and then Miss Eberlin presented <name ref="#jennings">Mr Jennings</name> with a Columbia Master Works Album of Beethoven’s “Tempest” Sonata, first speaking of records and how librarians have always”kept 
+                    <pb/>
+                    SEATTLE PUBLIC LIBRARY STAFF ASSOCIATION 4th AVE. and MADISON ST. SEATTLE, WASHINGTON -2-
                     records” religiously. But she said that after we had gotten this record it
                     occurred to us he would need something to play it on it on and so there was a
                     companion volume to this. Covered with a cloth in the alcover back of the
