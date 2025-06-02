@@ -65,8 +65,6 @@
             <rendition xml:id="description" scheme="css"> font-family: "Lucida Console Regular",
                monospace; font-size: 20px; text-indent: 2em;</rendition>
             <rendition xml:id="center" scheme="css">text-align: center;</rendition>
-
-            <rendition xml:id="paragraphIndent" scheme="css">text-align: 2em;</rendition>
             <rendition xml:id="titleIndent" scheme="css">padding-left: 1em; </rendition>
          </tagsDecl>
       </encodingDesc>

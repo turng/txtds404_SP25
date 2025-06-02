@@ -50,6 +50,25 @@
                 </bibl>
             </sourceDesc>
         </fileDesc>
+        <encodingDesc>
+            <tagsDecl>
+                <rendition xml:id="border" scheme="css"> border: 4px solid black; padding: 30px; </rendition>
+                <rendition xml:id="date" scheme="css">font-family: Papyrus, fantasy; text-align: right;
+                    font-style: italic; font-size: 20px;</rendition>
+                <rendition xml:id="title" scheme="css">font-family: Arial, sans-serif; font-size: 35px;
+                    font-weight: bold;</rendition>
+                <rendition xml:id="subTitle" scheme="css">font-family: Arial, sans-serif; font-size:
+                    35px; font-style: italic; font-weight: bold;</rendition>
+                <rendition xml:id="paper" scheme="css"> font-family: Papyrus, fantasy; text-align:
+                    right; font-style: italic; font-size: 20px;</rendition>
+                <rendition xml:id="author" scheme="css">font-family: Arial, sans-serif; font-size: 20px;
+                    font-weight: bold;</rendition>
+                <rendition xml:id="description" scheme="css"> font-family: "Lucida Console Regular",
+                    monospace; font-size: 20px; text-indent: 2em;</rendition>
+                <rendition xml:id="center" scheme="css">text-align: center;</rendition>
+                <rendition xml:id="titleIndent" scheme="css">padding-left: 1em; </rendition>
+            </tagsDecl>
+        </encodingDesc>
     </teiHeader>
     <text>
         <front>
