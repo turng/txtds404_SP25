@@ -181,13 +181,13 @@
             </div>
 
             <div type="certificate">
-                <head rend="caps" style="text-align: center;">Registration Certificate 
+                <head rend="caps" style="text-align: center;">Registration Certificate<l/>
                     
-                    American Kennel Club AKC Incorporated 
+                    American Kennel Club AKC Incorporated <!-- this is the logo thingy, will encode properly later--><l/>
                     
-                    American Kennel Club Stud Book
-                    American Kennel Club 
-                    New York, N.y.</head>
+                    American Kennel Club Stud Book<l/>
+                    American Kennel Club<l/>
+                    New York, N.Y.</head>
                     
                     <l><hi rend="caps">Name of Dog</hi> Duke of Main Street</l> 
                 <l><hi rend="caps">Breed</hi> Cocker Spaniel   <hi rend="caps">Sex</hi> Male</l> 
@@ -204,7 +204,7 @@
                     
                     <signed>
                         <name>Perry B Rice</name> <l/>
-                        SECRETARY gm
+                        <hi rend="caps">Secretary</hi> gm
                     </signed>
             </div>
 

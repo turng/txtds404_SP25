@@ -27,3 +27,7 @@
     text-indent: 25px;
 }
 
+ab[type="letterhead"] {
+    text-align: center;
+}
+
