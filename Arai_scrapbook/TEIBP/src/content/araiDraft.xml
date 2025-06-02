@@ -131,7 +131,7 @@
                 <p>Presented at Seattle, Washington this <date when="1960-05-22">22nd day of May,
                         1960</date>.</p>
                 <l>Consul-General of Japan</l>
-                <l>_______(signature)______ <name>Yoshiharu Taken</name>o </l>
+                <l>_______(signature)______ <name>Yoshiharu Takeno</name></l> <!-- maybe we should add image of signature here?-->
             </div>
 
             <div type="certificate" rend="caps">
@@ -146,7 +146,7 @@
                     AND·THE·INCREASE·OF·ITS·FINANCIAL·ENDOWMENT·FOR·SCIENTIFIC·RESEARCH</p>
                 <p>IN·WITNESS·WHEREOF·THE·SEAL·OF·THE·INSTITUTION·AND·THE·SIGNATURES·OF
                     ·THE·SECRETARY ·AND·THE·ADMINISTRATION·ASSISTANT·ARE·AFFIXED·HERETO</p>
-                <l>___________(signature)_________ SECRETARY</l> <!-- add images of signatures here?-->
+                <l>___________(signature)_________ SECRETARY</l> <!-- maybe we should add images of signatures here?-->
                 <l> __________(signature)_________ GENERAL</l>
             </div>
 
@@ -166,8 +166,8 @@
                 <p>Sir;-</p>
                     
                 <p>Permit us to offer our
-                congratulations and best wishes toward your future as a trustee of the <name>Seattle
-                Public Library</name>. Mayor <name>John F. Dore</name>, in choosing you, thus for the first time in
+                congratulations and best wishes toward your future as a trustee of the <name ref="#spl">Seattle
+                Public Library</name>. Mayor <name ref="#dore">John F. Dore</name>, in choosing you, thus for the first time in
                 the history of Seattle according recognition to the people you so ably
                 represent, we know made a selection which will undoubtedly redound to his and
                 your credit.</p>
@@ -607,12 +607,11 @@
                     <ref target="#spl_historylink_bib"/>
                 </note>
                 <note xml:id="staff_association">
-                    The Seattle Public Library Staff Association was established in 1935 to address staff problems including lack of pension, cuts to hours and vacation, and staff reductions.
+                    The <name ref="#spl">Seattle Public Library</name> Staff Association was established in 1935 to address staff problems including lack of pension, cuts to hours and vacation, and staff reductions.
                     <ref target="#spl_historylink_bib"/>
                 </note>
                 <note xml:id="pike_place">
-                    Pike Place Market is a public market in Seattle that opened in
-                    1907. This is one of the oldest continuously operated public markets in the United
+                    Pike Place Market is a public market in Seattle that opened in 1907. This is one of the oldest continuously operated public markets in the United
                     States. 
                     <ref target="#pike_place_market_bib"/>
                 </note>
