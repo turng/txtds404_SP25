@@ -316,7 +316,7 @@
                     there</p>
             </div>
 
-            <div>
+            <div type="correspondence">
                 <ab>SEATTLE PUBLIC LIBRARY SEATTLE, WASHINGTON Judson T. Jennings, Librarian 29
                     April 1942 Mr Clarence T. Arai 452-12th Avenue Seattle, Washington Dear Mr Arai:
                     Thank you kindly for the copies of “Our Times” by Mark Sullivan, and “The March
@@ -540,11 +540,11 @@
             </div>
 
             <div type="correspondence">
-                <ab><date when="1942-06-02">June 2, 1942</date> 
+                <l><date when="1942-06-02" style="text-align: right;">June 2, 1942</date></l> 
                     
-                    Mr. Clarence T. Arai 
-                    Puyallup 
-                    Washington </ab>
+                    <p>Mr. Clarence T. Arai<l/>
+                    Puyallup<l/>
+                    Washington</p> 
                     
                     <p>Dear Mr. Arai:</p>
                     
@@ -555,10 +555,10 @@
                     
                 <signed>
                     Sincerely yours 
-                    SEATTLE PUBLIC LIBRARY BOARD
-                    Josephine M. Quigley 
+                    <name ref="#spl" rend="caps">Seattle Public Library Board</name>
+                    <name>Josephine M. Quigley</name> 
                     President 
-                    Christine A. Neergaard
+                    <name>Christine A. Neergaard</name>
                     (signature) <!-- these are signatures i can't read-->
                     (signature)
                 </signed>
@@ -618,30 +618,30 @@
             <div type="annotations">
                 <note xml:id="spl"> During World War II, the Seattle Public Library continued to
                     serve incarcerated Japanese American patrons, sending almost 7,000 books to Camp
-                    Minidoka. <ref target="#spl_historylink_bib"/>
+                    Minidoka.<ref target="#spl_historylink_bib"/>
                 </note>
                 <note xml:id="jennings"> Librarian Judson T. Jennings (1873-1948) was the director
                     of the <name ref="#spl">Seattle Public Library</name> from 1907 to 1942. Upon
                     reaching the mandatory retirement age, he became the first chair of the King
-                    County Rural Library District (now the King County Library System). <ref
+                    County Rural Library District (now the King County Library System).<ref
                         target="#spl_historylink_bib"/>
                 </note>
                 <note xml:id="staff_association"> The <name ref="#spl">Seattle Public Library</name>
                     Staff Association was established in 1935 to address staff problems including
-                    lack of pension, cuts to hours and vacation, and staff reductions. <ref
+                    lack of pension, cuts to hours and vacation, and staff reductions.<ref
                         target="#spl_historylink_bib"/>
                 </note>
                 <note xml:id="pike_place"> Pike Place Market is a public market in Seattle that
                     opened in 1907. This is one of the oldest continuously operated public markets
-                    in the United States. <ref target="#pike_place_market_bib"/>
+                    in the United States.<ref target="#pike_place_market_bib"/>
                 </note>
                 <note xml:id="dore"> John F. Dore (1881-1938) served as the Mayor of Seattle from
-                    1932 to 1934 and from 1936 to 1938. </note>
+                    1932 to 1934 and from 1936 to 1938.</note>
                 <note xml:id="fujiyama"> Aiichiro Fujiyama was the Japanese Foreign Minister from
                     1957-1960. <ref target="#fujiyama_bib"/>
                 </note>
                 <note xml:id="DeWitt"> J.L. DeWitt was a United States general officer known for
-                    overseeing the incarceration of over 110,000 Japanese Americans. <ref
+                    overseeing the incarceration of over 110,000 Japanese Americans.<ref
                         target="#dewitt_bib"/>
                 </note>
             </div>
@@ -665,8 +665,7 @@
                     <bibl xml:id="fujiyama_bib" type="webpage"> “<title level="a">Aiichiro Fujiyama,
                             87; Ex-Japanese Politician</title>. <publisher>New York
                             Times</publisher>
-                        <ref
-                            target="https://www.nytimes.com/1985/02/23/world/aiichiro-fujiyama-87-ex-japanese-politician.html"
+                        <ref target="https://www.nytimes.com/1985/02/23/world/aiichiro-fujiyama-87-ex-japanese-politician.html"
                             >Aiichiro Fujiyama, 87; Ex-Japanese Politician</ref>
                     </bibl>
                     <bibl xml:id="dewitt_bib" type="webpage">
