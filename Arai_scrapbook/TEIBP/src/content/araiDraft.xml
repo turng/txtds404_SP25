@@ -189,12 +189,12 @@
             <pb/>
 
             <div type="certificate">
-                <head rend="caps" style="text-align: center;">Registration Certificate<l/>
+                <head rend="caps" style="text-align: center;">Registration Certificate<lb/>
                     
-                    American Kennel Club AKC Incorporated <!-- this is the logo thingy, will encode properly later--><l/>
+                    American Kennel Club AKC Incorporated <!-- this is the logo thingy, will encode properly later--><lb/>
                     
-                    American Kennel Club Stud Book<l/>
-                    American Kennel Club<l/>
+                    American Kennel Club Stud Book<lb/>
+                    American Kennel Club<lb/>
                     New York, N.Y.
                 </head>
                     
@@ -212,7 +212,7 @@
                 <l>August <hi rend="caps">Issue</hi></l>
                     
                 <signed>
-                    <name>Perry B Rice</name> <l/>
+                    <name>Perry B Rice</name> <lb/>
                     <hi rend="caps">Secretary</hi> gm
                 </signed>
             </div>
@@ -406,7 +406,7 @@
                     </seg>
                     
                     <seg rend="caps" style="text-align: left;">
-                        MM
+                        MM<lb/>
                         Temporary Permit #18
                     </seg>
                 </signed> 
@@ -415,10 +415,15 @@
             <pb/>
 
             <div type="clipping">
-                <ab>SEATTLE POST-INTELLIGENCER, WEDNESDAY, MAY 18, 1942 NEW EXCLUSION AREAS P.1
-                    5/13/42 PROHIBITED ZONE—Map of the area covered by Exclusion Order No. 67, from
-                    which Japanese will be cleared by Monday. UNDER BAN, TOO—The territory inside
-                    the heavy line is covered by Exclusion Order No. 68, effective on Saturday.</ab>
+                <head rend="caps">Seattle Post-Intelligencer,<date when="1942-05-18"> Wednesday, May 18, 1942</date>
+                    
+                    <l rendition="#title">New Exclusion Area</l>s 
+                    <add>P.1 5/13/42</add></head>
+                    
+                    <!--image goes here-->
+                    
+                    <p><hi rend="caps">Prohibited Zone</hi>—Map of the area covered by Exclusion Order No. 67, from which Japanese will be cleared by Monday.</p>
+                    <p><hi rend="caps">Under Ban, Too</hi>—The territory inside the heavy line is covered by Exclusion Order No. 68, effective on <date when="1941-05-21">Saturday</date>.</p>
             </div>
             
             <pb/>
@@ -695,7 +700,7 @@
                 
                  <p>records” religiously. But she said that after we had gotten this record it occurred to us he would need something to play it on it on and so there was a companion volume to this. Covered with a cloth in the alcover back of the speakers table was an R.C.A. Radio-Victrola which Miss Eberlin then uncovered. <name ref="#jennings">Mr Jennings</name> was quite overcome. “I can’t say anything” was all he could say, so we joined hands around the table and sang Auld Lang Syne, and that was the end.</p> 
                         
-                 <p>We surely wished many times during the evening that you and Mrs Arai might be with us and I know I am expressing the feeling of the whole group when I say that you have our very best wishes and that we hope this trying period through which you are passing may seem more bearable as time goes on. This morning’s P-I carries your picture and tells of your new work. “You can’t keep a good man down”, you know.</p> 
+                 <p>We surely wished many times during the evening that you and Mrs Arai might be with us and I know I am expressing the feeling of the whole group when I say that you have our very best wishes and that we hope this trying period through which you are passing may seem more bearable as time goes on. This morning’s P-I <!--make a note saying this is probably the post intelligencer?--> carries your picture and tells of your new work. “You can’t keep a good man down”, you know.</p> 
                         
                   <signed>
                     Sincerely your friend<l/>
