@@ -116,7 +116,7 @@
                <head rendition="#date">MAY 1, 1942</head>
                <head rendition="#title">EMPTY STALLS--EVACUATIONS</head>
                <head rendition="#paper">SEATTLE TIMES</head>
-               <figure>
+               <figure xml:id="emptyStallsImage">
                   <graphic url="../images/pikeplacenewTEIBP.jpg"/>
                   <figDesc>black and white vacant stalls at Pike Place Public Market</figDesc>
                </figure>
@@ -166,8 +166,8 @@
                <head rendition="#subTitle #center">Seattle Evacuees Making Best of</head>
                <head rendition="#subTitle #center">Site, Despite New Conditions</head>
                <head rendition="#center">___________</head>
-               <head rendition="#author">By R. B. Bermann</head>
-               <head rendition="#author">Post-Intelligencer Staff Correspondent</head>
+               <head rendition="#author #center">By R. B. Bermann</head>
+               <head rendition="#author #center">Post-Intelligencer Staff Correspondent</head>
 
                <p rendition="#description">CAMP HARMONY, Puyallup, May 24—Although some of them have
                   been here scarcely a week, Seattle Japanese are adjusting themselves rapidly to
@@ -187,8 +187,11 @@
                <p rendition="#description">This is because there is so little difference in scales
                   of pay. A common laborer receives $8 a month,</p>
                <p rendition="#description"
-                  >____________________________________________________________________________</p>
-               <p>INSERT_IMAGE</p>
+                  >__________________________________</p>
+               <figure xml:id="campHarmonyImage">
+                  <graphic url="../images/campHarmonyBedroomTEIBP.jpg"/>
+                  <figDesc>Camp Harmony Bedroom</figDesc>
+               </figure>
 
                <p rendition="#description">COMFORT OF HOME—Mrs. Robert Hosokawa, recent Willamette
                   coed, laying out a new apron in the cozy apartment which she and her husband have
@@ -196,7 +199,7 @@
                   furniture out of scrap lumber and his drive of two months achieved the rest with a
                   few draperies.</p>
                <p rendition="description"
-                  >____________________________________________________________________________</p>
+                  >__________________________________</p>
 
                <p rendition="#description">busy on work details or administrative duties, there is
                   always something to do around their temporary homes — because the army didn’t have
