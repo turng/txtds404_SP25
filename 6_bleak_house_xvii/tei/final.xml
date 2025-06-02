@@ -30,7 +30,7 @@
                <note>Published in 20 installations monthly, beginning in <date when="1852-03-12">12
                      March 1852</date> and ending <date when="1853-09-12">12 September 1853</date>.
                   Our edition, No. XVII, was published <date when="1853-07-12">12 July
-                     1853</date>.</note>
+                  1853</date>.</note>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -51,26 +51,25 @@
       </profileDesc>
    </teiHeader>
    <text>
-    <front>
+      <front>
          <titlePage>
             <titlePart> ... </titlePart>
          </titlePage>
          <div type="intro">
-            <p>Charles Dickens
-               is one of the most well-known English authors, who had a diverse writing career as a reporter, 
-               editor and essayist. He produced 14 novels, most of which were published in serial editions. 
-               This included a 20-month serialization of Bleak House published by Bradbury and Evans with 
-               illustrations by <ref target="#n3">Hablot Knight Browne</ref>.
-               The story of Bleak House follows the course of a legal dispute in the British <ref target="n2">Court of Chancery</ref>, 
-               as the <ref target="n1">Jarndyce family</ref> waits over generations to receive an inheritance they believe they deserve.
-               The story is a commentary on the convoluted legal system in Britain, and the corruption inherent 
-               in it. </p>
-            <p>Thanks to the serial format, Bleak House reached a wide range of audiences. The
-               critical perspective towards the legal system in Bleak House would have appealed to a
-               more educated population. Furthermore, the relatively afforable installments, public
-               readings, and library lendings would allow the working class to access the novel.
-               Eventually, Dickens work would achieve a 
-               global audience.</p>
+            <p>Charles Dickens is one of the most well-known English authors, who had a diverse
+               writing career as a reporter, editor and essayist. He produced 14 novels, most of
+               which were published in serial editions. This included a 20-month serialization of
+               Bleak House published by Bradbury and Evans with illustrations by <ref target="#n3"
+                  >Hablot Knight Browne</ref>. The story of Bleak House follows the course of a
+               legal dispute in the British <ref target="n2">Court of Chancery</ref>, as the <ref
+                  target="n1">Jarndyce family</ref> waits over generations to receive an inheritance
+               they believe they deserve. The story is a commentary on the convoluted legal system
+               in Britain, and the corruption inherent in it. </p>
+            <p>Thanks to the <ref target="#n4">serial format</ref>, Bleak House reached a wide range
+               of audiences. The critical perspective towards the legal system in Bleak House
+               appealed to a more educated population. Furthermore, the relatively afforable
+               installments, public readings, and library lendings allowed the working class to
+               access the novel. Eventually, Dickens work would achieve a global audience.</p>
          </div>
          <div type="preface">
             <p>Through this edition, we are interested in examining the intertextuality between
@@ -132,7 +131,8 @@
                <p><said aloud="true" who="sir-dedlock" toWhom="bucket">I am sorry to have kept you
                      waiting, officer, but I am rather later than my usual hour this morning. I am
                      not well. The agitation, and the indignation from which I have recently
-                     suffered, have been too much for me. I am subject to — gout;</said>
+                     suffered, have been too much for me. I am subject to — <ref target="#n5"
+                        >gout</ref>;</said>
                   <persName ref="sir-dedlock">Sir Leicester</persName> was going to say
                   indisposition, and would have said it to anybody else, but <persName ref="bucket"
                      >Mr. Bucket</persName> palpably knows all about it; <said aloud="true"
@@ -675,26 +675,43 @@
             </div>
          </div>
       </body>
-     <back>
+      <back>
          <div type="endnotes">
             <note xml:id="n1">The novel features the fictional case, Jarndyce and Jarndyce.</note>
-            <note xml:id="n2">The Court of Chancery followed rules to avoid a slow pace and inequities of common laws.</note>
+            <note xml:id="n2">The Court of Chancery followed rules to avoid the slow pace and
+               convoluted process of common law.</note>
             <note xml:id="n3">Browne was a British artist and illustrator.</note>
+            <note xml:id="n4">Novels in the 1800s were often published in serialized format over a
+               number of monthly editions. Individual editions usually ended with a cliffhanger.</note>
          </div>
          <div type="biblio">
-            <bibl xml:id="lloyd2007"> <author><surname>Lloyd</surname>, <forename>Amy</forename></author>. <title>Advertising in 19th Century British Newspapers (Amy J. Lloyd)</title>. <publisher>Gale</publisher>, <date>2007</date>, <ptr target="www.gale.com/intl/essays/amy-j-lloyd-advertising."/></bibl>
-            
-            <bibl xml:id="poetry2019"><author>Poetry Foundation</author>. <title>Poetry Foundation</title>. <publisher>Poetry Foundation</publisher>, <date>2019</date>, <ptr target="www.poetryfoundation.org/poets/charles-dickens"/></bibl>
-            
-            <bibl xml:id="steinlight2006"><author><surname>Steinlight</surname>, <forename>Emily</forename></author>. <title>“AntiBleak House”: Advertising and the Victorian Novel</title>. <publisher>JSTOR</publisher>, <date>2006</date> <ptr target="www.jstor.org/stable/30219643, https://doi.org/10.2307/30219643."/></bibl>
-            
-            <bibl xml:id="england2014"><author>University of England AU</author>. <title>Introduction: Themes Dickens</title>. <publisher>Une.edu.au</publisher>, <date>2014</date>, <ptr target="esthersnarrative.une.edu.au/themes-1/."/></bibl>
-            
-            <bibl xml:id="wiki2019"><author>Wikipedia Contributors</author>. <title>Bleak House</title>. <publisher>Wikipedia, Wikimedia Foundation</publisher>, <date>1 Dec. 2019</date>, <ptr target="en.wikipedia.org/wiki/Bleak_House."/></bibl>
+            <bibl xml:id="lloyd2007">
+               <author><surname>Lloyd</surname>, <forename>Amy</forename></author>.
+                  <title>Advertising in 19th Century British Newspapers (Amy J. Lloyd)</title>.
+                  <publisher>Gale</publisher>, <date>2007</date>, <ptr
+                  target="www.gale.com/intl/essays/amy-j-lloyd-advertising."/></bibl>
+
+            <bibl xml:id="poetry2019"><author>Poetry Foundation</author>. <title>Poetry
+                  Foundation</title>. <publisher>Poetry Foundation</publisher>, <date>2019</date>,
+                  <ptr target="www.poetryfoundation.org/poets/charles-dickens"/></bibl>
+
+            <bibl xml:id="steinlight2006"><author><surname>Steinlight</surname>,
+                     <forename>Emily</forename></author>. <title>“AntiBleak House”: Advertising and
+                  the Victorian Novel</title>. <publisher>JSTOR</publisher>, <date>2006</date>
+               <ptr target="www.jstor.org/stable/30219643, https://doi.org/10.2307/30219643."
+               /></bibl>
+
+            <bibl xml:id="england2014"><author>University of England AU</author>.
+                  <title>Introduction: Themes Dickens</title>. <publisher>Une.edu.au</publisher>,
+                  <date>2014</date>, <ptr target="esthersnarrative.une.edu.au/themes-1/."/></bibl>
+
+            <bibl xml:id="wiki2019"><author>Wikipedia Contributors</author>. <title>Bleak
+                  House</title>. <publisher>Wikipedia, Wikimedia Foundation</publisher>, <date>1
+                  Dec. 2019</date>, <ptr target="en.wikipedia.org/wiki/Bleak_House."/></bibl>
          </div>
       </back>
    </text>
-   
+
    <standOff>
       <!-- characters index -->
       <listPerson>
@@ -712,7 +729,8 @@
          </person>
          <person xml:id="sir-dedlock">
             <persName>Sir Leicester Dedlock</persName>
-            <note>A baronet, proud of his rank, unaware of his wife's (Lady Dedlock's) secret.</note>
+            <note>A baronet, proud of his rank, unaware of his wife's (Lady Dedlock's)
+               secret.</note>
          </person>
          <person xml:id="lady-dedlock">
             <persName>Lady Dedlock</persName>
@@ -724,7 +742,8 @@
          </person>
          <person xml:id="honoria">
             <persName>Honoria</persName>
-            <note>A women previously in a relationship with Captain Hawdon. She is revealed to be Lady Dedlock in Chapter 29.</note>
+            <note>A women previously in a relationship with Captain Hawdon. She is revealed to be
+               Lady Dedlock in Chapter 29.</note>
          </person>
          <person xml:id="lady-dedlock-sister">
             <persName>Miss Barbary</persName>
@@ -732,7 +751,8 @@
          </person>
          <person xml:id="george">
             <persName>George Rouncewell</persName>
-            <note>The son of Mrs. Rouncewell who is falsely arrested for Tulkinghorn's murder.</note>
+            <note>The son of Mrs. Rouncewell who is falsely arrested for Tulkinghorn's
+               murder.</note>
          </person>
          <person xml:id="captain-hawdon">
             <persName>Captain Hawdon</persName>
@@ -775,22 +795,22 @@
             <note>One of Mr. Chadband's parishioners.</note>
          </person>
       </listPerson>
-      
+
       <!-- places index -->
       <listPlace>
          <place xml:id="library">
             <note>The library in Bleak House, the Dedlock estate.</note>
          </place>
          <place xml:id="lincoln-inn-fields">
-            <note>Historic public square and garden located in the Holborn area of London, connected to the Court of Chancery (legal institution).</note>
+            <note>Historic public square and garden located in the Holborn area of London, connected
+               to the Court of Chancery (legal institution).</note>
          </place>
          <place xml:id="precinct">
-            <note>A legal precinct, likely near Lincoln’s Inn Fields.
-            </note>
+            <note>A legal precinct, likely near Lincoln’s Inn Fields. </note>
          </place>
-         
+
       </listPlace>
-      
+
       <!-- legal annotations -->
       <list>
          <item xml:id="reckon-up">
@@ -799,11 +819,13 @@
          </item>
          <item xml:id="serjeant">
             <term>Serjeant</term>
-            <note>Short for serjeant-in-law, a member of an order of barristers at the English and Irish Bar.</note>
+            <note>Short for serjeant-in-law, a member of an order of barristers at the English and
+               Irish Bar.</note>
          </item>
          <item xml:id="stationer">
             <term>Stationer</term>
-            <note>A merchant who sells paper, forms, and stationery items used by lawyers and other legal professionals.</note>
+            <note>A merchant who sells paper, forms, and stationery items used by lawyers and other
+               legal professionals.</note>
          </item>
       </list>
    </standOff>
