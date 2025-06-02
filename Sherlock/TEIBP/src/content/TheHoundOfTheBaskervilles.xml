@@ -158,10 +158,12 @@
                   the man by an examination of it."</s></p>
             <p><said>"I think," said I, following as far as I could<lb break="yes"/>the methods of
                   my companion, "that <persName ref="#Mortimer">Dr.<lb break="yes"
-                     />Mortimer</persName> is a successful elderly medical man, <fw type="-----">
-                     <!--what should we call this??????????-->* This story owes its inception to my
-                     friend, Mr. Fletcher<lb break="yes"/>Robinson, who has helped me both in the
-                     general plot and in<lb break="yes"/>the local details.—A. C. D.</fw>
+                     />Mortimer</persName> is a successful elderly medical man, <fw
+                     type="authorsNote">
+                     <!--what should we call this? Would author's note be sufficient?-->* This story
+                     owes its inception to my friend, Mr. Fletcher<lb break="yes"/>Robinson, who has
+                     helped me both in the general plot and in<lb break="yes"/>the local details.—A.
+                     C. D.</fw>
                   <cb/><lb break="yes"/>well-esteemed, since those who know him<lb break="yes"/>give
                   him this mark of their appreciation."</said></p>
             <p><said>"Good!"</said> said <persName ref="#Holmes">Holmes</persName>.
@@ -198,7 +200,7 @@
                to think <lb break="yes"/>that I had so far mastered his system as to <lb break="yes"
                />apply it in a way which earned his approval. <lb break="yes"/>He now took the stick
                from my hands<fw type="--------------------">Vol. xxii.-16.</fw>
-               <!-- what type would this fw be??????-->
+               <!-- what type would this fw be? Does this appear at anothe rpart of the text?-->
                <pb n="124"/><fw type="RunnningHead" rend="caps"> 124 The Strand Magazine.</fw>
                <cb/>and examined it for a few minutes with his<lb break="yes"/>naked eyes. Then with
                an expression of<lb break="yes"/>interest he laid down his cigarette and, carry-<lb
@@ -305,8 +307,7 @@
                   Reversion?' Corresponding<lb break="yes"/>member of the Swedish Pathological
                      Society.<lb break="yes"/>Author of 'Some Freaks of Atavism'<lb break="yes"/><q
                      rend="italics">(Lancet, 1882)</q>. 'Do We Progress?' <q rend="italics"
-                        >(Journal<lb break="yes"/>of Psychology, March, 1883)</q>.
-                  <!-- unsure whether we will be creating some sort of citation format--> Medical<lb
+                        >(Journal<lb break="yes"/>of Psychology, March, 1883)</q>. Medical<lb
                      break="yes"/>Officer for the parishes of <placeName ref="#Grimpen"
                      >Grimpen</placeName>,<lb break="yes"/><placeName ref="#Thorsley"
                      >Thorsley</placeName>, and <placeName ref="#HighBarrow">High
@@ -692,13 +693,11 @@
                   had seen, and the other twain were but <lb break="yes"/>broken men for the rest of
                   their days.</said></p>
             <lb break="yes"/>
-            <p>
-               <!--are we taking out these quotation marks bc of the said element?--><said>"Such is
-                  the tale, my sons, <lb break="yes"/>of the coming of the hound which is said to
-                  have plagued <lb break="yes"/>the family so sorely ever since. If I have <lb
-                     break="yes"/>set it down it is because that which is clearly <lb break="yes"
-                  />known hath less terror than that which is but <lb break="yes"/>hinted at and
-                  guessed. Nor can it be denied</said>
+            <p><said>"Such is the tale, my sons, <lb break="yes"/>of the coming of the hound which
+                  is said to have plagued <lb break="yes"/>the family so sorely ever since. If I
+                  have <lb break="yes"/>set it down it is because that which is clearly <lb
+                     break="yes"/>known hath less terror than that which is but <lb break="yes"
+                  />hinted at and guessed. Nor can it be denied</said>
             </p>
             <ab>Vol. xxii,—17</ab>
             <cb/>
