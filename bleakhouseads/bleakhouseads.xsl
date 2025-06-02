@@ -14,6 +14,9 @@
                     .contentblock{
                     padding:1%;
                     }
+                    .allcaps{
+                    text-transform:uppercase;
+                    {
                 </style>
             </head>
             <body>
@@ -74,7 +77,7 @@
     <xsl:template match="tei:head">
         <h4 style="font-weight:normal;"><xsl:apply-templates/></h4>
     </xsl:template>
-    <xsl:template match="tei:div">
+    <xsl:template match="tei:body/tei:div">
         <hr></hr>
         <div class="contentblock">
             <xsl:apply-templates/>
@@ -96,12 +99,21 @@
         <p style="margin:none"><xsl:apply-templates/></p>
     </xsl:template>
     <xsl:template match="tei:quote">
-        <p><xsl:apply-templates/></p>
+        "<xsl:apply-templates/>"
     </xsl:template>
     <xsl:template match="tei:l">
         <p><xsl:apply-templates/></p>
     </xsl:template>
     <xsl:template match="tei:hi[@rend='allcaps']">
         <hi style="text-transform:uppercase;"><xsl:apply-templates/></hi>
+    </xsl:template>
+    <xsl:template match="tei:table">
+        <table><xsl:apply-templates/></table>
+    </xsl:template>
+    <xsl:template match="tei:row">
+        <tr><xsl:apply-templates/></tr>
+    </xsl:template>
+    <xsl:template match="tei:cell">
+        <td><xsl:apply-templates/></td>
     </xsl:template>
 </xsl:stylesheet>
