@@ -131,7 +131,7 @@
                 <p>Presented at Seattle, Washington this <date when="1960-05-22">22nd day of May,
                         1960</date>.</p>
                 <l>Consul-General of Japan</l>
-                <l>_______(signature)______ <name>Yoshiharu Taken</name>o </l>
+                <l>_______(signature)______ <name>Yoshiharu Takeno</name></l> <!-- maybe we should add image of signature here?-->
             </div>
 
             <div type="certificate" rend="caps">
@@ -146,7 +146,7 @@
                     AND·THE·INCREASE·OF·ITS·FINANCIAL·ENDOWMENT·FOR·SCIENTIFIC·RESEARCH</p>
                 <p>IN·WITNESS·WHEREOF·THE·SEAL·OF·THE·INSTITUTION·AND·THE·SIGNATURES·OF
                     ·THE·SECRETARY ·AND·THE·ADMINISTRATION·ASSISTANT·ARE·AFFIXED·HERETO</p>
-                <l>___________(signature)_________ SECRETARY</l> <!-- add images of signatures here?-->
+                <l>___________(signature)_________ SECRETARY</l> <!-- maybe we should add images of signatures here?-->
                 <l> __________(signature)_________ GENERAL</l>
             </div>
 
@@ -166,8 +166,8 @@
                 <p>Sir;-</p>
                     
                 <p>Permit us to offer our
-                congratulations and best wishes toward your future as a trustee of the <name>Seattle
-                Public Library</name>. Mayor <name>John F. Dore</name>, in choosing you, thus for the first time in
+                congratulations and best wishes toward your future as a trustee of the <name ref="#spl">Seattle
+                Public Library</name>. Mayor <name ref="#dore">John F. Dore</name>, in choosing you, thus for the first time in
                 the history of Seattle according recognition to the people you so ably
                 represent, we know made a selection which will undoubtedly redound to his and
                 your credit.</p>
@@ -598,23 +598,34 @@
         </body>
         <back>
             <div type="annotations">
+                <note xml:id="spl">
+                    During World War II, the Seattle Public Library continued to serve incarcerated Japanese American patrons, sending almost 7,000 books to Camp Minidoka. 
+                    <ref target="#spl_historylink_bib"/>
+                </note>
+                <note xml:id="jennings">
+                    Librarian Judson T. Jennings (1873-1948) was the director of the <name ref="#spl">Seattle Public Library</name> from 1907 to 1942. Upon reaching the mandatory retirement age, he became the first chair of the King County Rural Library District (now the King County Library System).
+                    <ref target="#spl_historylink_bib"/>
+                </note>
+                <note xml:id="staff_association">
+                    The <name ref="#spl">Seattle Public Library</name> Staff Association was established in 1935 to address staff problems including lack of pension, cuts to hours and vacation, and staff reductions.
+                    <ref target="#spl_historylink_bib"/>
+                </note>
                 <note xml:id="pike_place">
-                    Pike Place Market is a public market in Seattle that opened in
-                    1907. This is one of the oldest continuously operated public markets in the United
+                    Pike Place Market is a public market in Seattle that opened in 1907. This is one of the oldest continuously operated public markets in the United
                     States. 
-                    <ref target="pike_place_market_bib"/>
+                    <ref target="#pike_place_market_bib"/>
                 </note>
                 <note xml:id="Dore">
                     John F. Dore (1881-1938) served as the Mayor of Seattle from 1932 to
                     1934 and from 1936 to 1938.
                 </note>
-                <note xml:id="Fujiyama">
+                <note xml:id="fujiyama">
                     Aiichiro Fujiyama was the Japanese Foreign Minister from 1957-1960.
-                    <ref target="fujiyama_bib"/>
+                    <ref target="#fujiyama_bib"/>
                 </note>
                 <note xml:id="DeWitt">
                     J.L. DeWitt was a United States general officer known for overseeing the incarceration of over 110,000 Japanese Americans.
-                    <ref target="dewitt_bib"/>
+                    <ref target="#dewitt_bib"/>
                 </note>
             </div>
             <div type="bibliography">
@@ -634,7 +645,7 @@
                                 <date>7/01/2011</date>
                                 <ref target="https://www.historylink.org/File/9869">Central Library, 1906-1957, The Seattle Public Library</ref>
                     </bibl>
-                    <bibl xml:id= "fujiyama_bib" type= "webpage">
+                    <bibl xml:id="fujiyama_bib" type="webpage">
                         “<title level="a">Aiichiro Fujiyama, 87; Ex-Japanese Politician</title>.
                         <publisher>New York Times</publisher>                    
                         <ref target="https://www.nytimes.com/1985/02/23/world/aiichiro-fujiyama-87-ex-japanese-politician.html">Aiichiro Fujiyama, 87; Ex-Japanese Politician</ref>
