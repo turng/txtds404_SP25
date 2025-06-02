@@ -116,7 +116,7 @@
                 <head rend="caps">In Appreciation</head>
                 <head rend="caps">Presented to</head>
                 <head rend="caps"><name>Mr. Clarence T. Arai </name></head>
-                <p>On behalf of <name>Aiichiro Fujiyama</name>, Minister for Foreign Affairs of
+                <p>On behalf of <name><ref target='#Fujiyama'>Aiichiro Fujiyama</ref></name>, Minister for Foreign Affairs of
                     Japan, I convey to you the commendations of the Japanese Government for your
                     exemplary citizenship and leadership in the affairs of your community</p>
                 <p>Your unremitting and dedicated endeavors have contributed greatly to the
@@ -138,7 +138,7 @@
                 <head>SMITHSONIAN INSTITUTION</head>
                 <head>WASHINGTON, D.C.</head>
                 <head>THIS·IS·TO·CERTIFY·THAT</head>
-                <head><ref type="name">Clarence T. Arai</ref></head>
+                <head>Clarence T. Arai</head>
                 <head>IS·REGISTERED· IN·THE·ARCHIVES·OF·THE·INSTITUTION·AS·A</head>
                 <head>PATRON</head>
                 <p>OF·THE·SMITHSONIAN·SCIENTIFIC·SERIES·IN·RECOGNITION·OF·HIS·AID·TO·THE·
@@ -281,7 +281,7 @@
                     Violation of Restrictions or Orders with Respect to Persons Entering, Remaining
                     in, Leaving, or Committing any Act in Military Areas or Zones,” and alien
                     Japanese will be subject to immediate apprehension and internment.</p>
-                <l>J. L. DEWITT Lieutenant General, U.S. Army Commanding</l>
+                <l><ref target='#DeWitt'>J. L. DEWITT</ref> Lieutenant General, U.S. Army Commanding</l>
             </div>
 
             <div xml:id="emptyStallsClipping" type="clipping" rendition="#border">
@@ -637,7 +637,7 @@
                     States. 
                     <ref target="#pike_place_market_bib"/>
                 </note>
-                <note xml:id="dore">
+                <note xml:id="Dore">
                     John F. Dore (1881-1938) served as the Mayor of Seattle from 1932 to
                     1934 and from 1936 to 1938.
                 </note>
