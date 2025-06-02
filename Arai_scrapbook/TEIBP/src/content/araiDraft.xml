@@ -51,7 +51,7 @@
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-            <!-- i might be remembering incorrectly but didn't he comment that we should have something else here? -->
+            <p>We did not correct any errors as they did not detract from one's understanding of the text.</p>
             <tagsDecl>
                 <rendition xml:id="border" scheme="css"> border: 4px solid black; padding: 30px; </rendition>
                 <rendition xml:id="date" scheme="css">font-family: Papyrus, fantasy; text-align: right;
@@ -356,7 +356,7 @@
             
             <pb/>
 
-            <div type="correspondence"> <!-- note to marisa from marisa: make all letterheads center align-->
+            <div type="correspondence">
                 <ab type="letterhead"><name ref="#spl" rend="caps">Seattle Public Library</name><l/>
                     <name rend="caps">Seattle, Washington</name><l/>
                     <name ref="#jennings">Judson T. Jennings</name>, Librarian<l/>
@@ -708,6 +708,12 @@
                     serve incarcerated Japanese American patrons, sending almost 7,000 books to Camp
                     Minidoka.<ref target="#spl_historylink_bib"/>
                 </note>
+                <!--marisa: make one for minidoka-->
+                <!--maybe we should make ones for exclusion orders 67 and/or 68 ?-->
+                <note xml:id="akc">
+                    The American Kennel Club is a nonprofit registry of purebred dog pedigrees.
+                    <ref target="#akc_bib"/>
+                </note>
                 <note xml:id="jennings"> Librarian Judson T. Jennings (1873-1948) was the director
                     of the <name ref="#spl">Seattle Public Library</name> from 1907 to 1942. Upon
                     reaching the mandatory retirement age, he became the first chair of the King
@@ -731,6 +737,7 @@
                 <note xml:id="DeWitt"> J.L. DeWitt was a United States general officer known for
                     overseeing the incarceration of over 110,000 Japanese Americans.<ref
                         target="#dewitt_bib"/>
+                <!--spl staff association 7th banquet program (is referenced in a letter i transcribed and is included in the scrapbook but i didn't transcribe it)-->
                 </note>
             </div>
             <div type="bibliography">
@@ -741,6 +748,10 @@
                         <publisher>EBSCO</publisher>
                         <date>2023</date>
                         <ref target="https://www.ebsco.com/research-starters/history/clarence-takeya-arai">Clarence Takeya Arai</ref>
+                    </bibl>
+                    <bibl xml:id="akc_bib" type="webpage"> “<title level="a">American Kennel Club</title>. <title level="m">Wikipedia</title>
+                        <publisher>Wikipedia.org</publisher>
+                        <ref target="https://en.wikipedia.org/wiki/American_Kennel_Club">American Kennel Club</ref>
                     </bibl>
                     <bibl xml:id="pike_place_market_bib" type="webpage"> “<title level="a">Pike
                             Place Market</title>. <title level="m">Wikipedia</title>
@@ -766,7 +777,7 @@
                         <title level="a">John Lesene DeWitt</title>
                         <publisher>National Park Service</publisher>
                         <date>04/03/2024</date>
-                        <ref target="link here">title here</ref>
+                        <ref target="https://www.nps.gov/people/john-lesesne-dewitt.htm">John Lesesne DeWitt</ref>
                     </bibl>
                 </listBibl>
             </div>
