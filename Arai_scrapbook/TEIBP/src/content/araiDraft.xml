@@ -181,9 +181,11 @@
                     represent, we know made a selection which will undoubtedly redound to his and
                     your credit.</p>
 
-                <p rend="caps">The Butts' Parole League</p>
-                <p>by <name>Frank O. Murphy</name></p>
-                <!-- add image of signature here?-->
+                <signed>
+                    <l rend="caps">The Butts' Parole League</l>
+                    <l>by <name>Frank O. Murphy</name></l>
+                    <!-- add image of signature here?-->
+                </signed>
             </div>
             
             <pb/>
@@ -686,7 +688,7 @@
                 
                  <p>records” religiously. But she said that after we had gotten this record it occurred to us he would need something to play it on it on and so there was a companion volume to this. Covered with a cloth in the alcover back of the speakers table was an R.C.A. Radio-Victrola which Miss Eberlin then uncovered. <name ref="#jennings">Mr Jennings</name> was quite overcome. “I can’t say anything” was all he could say, so we joined hands around the table and sang Auld Lang Syne, and that was the end.</p> 
                         
-                 <p>We surely wished many times during the evening that you and Mrs Arai might be with us and I know I am expressing the feeling of the whole group when I say that you have our very best wishes and that we hope this trying period through which you are passing may seem more bearable as time goes on. This morning’s P-I <!--make a note saying this is probably the post intelligencer?--> carries your picture and tells of your new work. “You can’t keep a good man down”, you know.</p> 
+                 <p>We surely wished many times during the evening that you and Mrs Arai might be with us and I know I am expressing the feeling of the whole group when I say that you have our very best wishes and that we hope this trying period through which you are passing may seem more bearable as time goes on. This morning’s P-I <!--maybe make a note saying this is probably the post intelligencer?--> carries your picture and tells of your new work. “You can’t keep a good man down”, you know.</p> 
                         
                   <signed>
                     Sincerely your friend<l/>
@@ -709,7 +711,7 @@
                     Minidoka.<ref target="#spl_historylink_bib"/>
                 </note>
                 <!--marisa: make one for minidoka-->
-                <!--maybe we should make ones for exclusion orders 67 and/or 68 ?-->
+                <!--maybe we should make ones for exclusion orders 67 and/or 68 too?-->
                 <note xml:id="akc">
                     The American Kennel Club is a nonprofit registry of purebred dog pedigrees.
                     <ref target="#akc_bib"/>
@@ -732,7 +734,7 @@
                 <note xml:id="dore"> John F. Dore (1881-1938) served as the Mayor of Seattle from
                     1932 to 1934 and from 1936 to 1938.</note>
                 <note xml:id="fujiyama"> Aiichiro Fujiyama was the Japanese Foreign Minister from
-                    1957-1960. <ref target="#fujiyama_bib"/>
+                    1957-1960.<ref target="#fujiyama_bib"/>
                 </note>
                 <note xml:id="DeWitt"> J.L. DeWitt was a United States general officer known for
                     overseeing the incarceration of over 110,000 Japanese Americans.<ref
