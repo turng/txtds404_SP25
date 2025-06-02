@@ -560,7 +560,7 @@
                     
                     <p>The members of the Board of the <name ref="#spl">Seattle Public Library</name> wish to express to you our regret that you are unable to serve longer with them in the labor of sreving the citizens of Seattle in their library needs.</p>
                    <p> We do wish, however, to let you know how much we have enjoyed your disinterested advice - your willingness to serve faithfully and your just approach to all problems that have come before the Board.</p> 
-                    <p>Your viewpoint has always been wholesome, un- prejudiced and eminently fair and we shall all miss your congenial companionship at our Board meetings, as well as the presence of Mrs. Arai and yourself at the annual banquet of the Staff Association.</p> 
+                    <p>Your viewpoint has always been wholesome, un- prejudiced and eminently fair and we shall all miss your congenial companionship at our Board meetings, as well as the presence of Mrs. Arai and yourself at the annual banquet of the <name ref="#staff_association">Staff Association.</name></p> 
                     <p>While we recognize that under present conditions many things arise that give much distress, we know that your sound philosophy and unfailing good humour will ever attend you.</p>
                     
                 <signed>
@@ -576,7 +576,7 @@
 
             <div>
                 <ab type="letterhead"><address rend="caps"><addrLine><name ref="#staff_association">Seattle Public Library Staff Association</name></addrLine> 
-                    <addrLine>4th Ave. <hi rend="not caps">and</hi> Madison St.</addrLine> 
+                    <addrLine>4th Ave. <hi rend="lowercase">and</hi> Madison St.</addrLine> 
                     <addrLine>Seattle, Washington</addrLine></address></ab>
                     
                     <l style="text-align: center;"><date when="1942-05-25">25 May 1942</date></l> 
@@ -598,27 +598,38 @@
                     
                     <p>He made a little speech of appreciation and then it was Mrs. Quigley’s turn to add to the book-shelf. She presented him with a book containing a diploma saying that he had completed thirty-five years of successful service “summa cum laude”, and then she presented Mr Richards, the new librarian, with a schedule book such as they give Freshmen at the University, listing the courses he’d have to take such as Handling the Board, Pleasing the Staff, Balancing the Budget, etc. Mr Richards then said briefly how pleased he and Mrs Richards were to be included and how much he was looking forward to his work.</p> 
                     
-                    <ab>Last of all we said we thought the best books to have on our shelves were the master works that were standbys through thick and thin to guide and comfort us and then Miss Eberlin presented <name ref="#jennings">Mr Jennings</name> with a Columbia Master Works Album of Beethoven’s “Tempest” Sonata, first speaking of records and how librarians have always”kept 
+                    <p>Last of all we said we thought the best books to have on our shelves were the master works that were standbys through thick and thin to guide and comfort us and then Miss Eberlin presented <name ref="#jennings">Mr Jennings</name> with a Columbia Master Works Album of Beethoven’s “Tempest” Sonata, first speaking of records and how librarians have always”kept</p> 
+                        
                     <pb/>
-                    SEATTLE PUBLIC LIBRARY STAFF ASSOCIATION 4th AVE. and MADISON ST. SEATTLE, WASHINGTON -2-
-                    records” religiously. But she said that after we had gotten this record it
-                    occurred to us he would need something to play it on it on and so there was a
-                    companion volume to this. Covered with a cloth in the alcover back of the
-                    speakers table was an R.C.A. Radio-Victrola which Miss Eberlin then uncovered.
-                    Mr Jennings was quite overcome. “I can’t say anything” was all he could say, so
-                    we joined hands around the table and sang Auld Lang Syne, and that was the end.
-                    We surely wished many times during the evening that you and Mrs Arai might be
-                    with us and I know I am expressing the feeling of the whole group when I say
-                    that you have our very best wishes and that we hope this trying period through
-                    which you are passing may seem more bearable as time goes on. This morning’s P-I
-                    carries your picture and tells of your new work. “You can’t keep a good man
-                    down”, you know. Sincerely your friend Alice A. Frost (E/A)AF/FRP President,
-                    Seattle Public Library Staff Association P.S. Miss Calkins, head of our
-                    Reference department, is coming with a friend to Puyallup tomorrow and will be
-                    at the gate of the Camp at 5:30 and will be very happy to see you if you can be
-                    there.</ab>
+                        
+                <ab type="letterhead">
+                    <address rend="caps">
+                        <addrLine><name ref="#staff_association">Seattle Public Library Staff Association</name></addrLine> 
+                        <addrLine>4th Ave. <hi rend="lowercase">and</hi> Madison St.</addrLine> 
+                        <addrLine>Seattle, Washington</addrLine>
+                    </address>
+                </ab>
+                
+                 <ab type="pgNum" style="text-align: center;">-2-</ab>
+                
+                 <p>records” religiously. But she said that after we had gotten this record it occurred to us he would need something to play it on it on and so there was a companion volume to this. Covered with a cloth in the alcover back of the speakers table was an R.C.A. Radio-Victrola which Miss Eberlin then uncovered. <name ref="#jennings">Mr Jennings</name> was quite overcome. “I can’t say anything” was all he could say, so we joined hands around the table and sang Auld Lang Syne, and that was the end.</p> 
+                        
+                 <p>We surely wished many times during the evening that you and Mrs Arai might be with us and I know I am expressing the feeling of the whole group when I say that you have our very best wishes and that we hope this trying period through which you are passing may seem more bearable as time goes on. This morning’s P-I carries your picture and tells of your new work. “You can’t keep a good man down”, you know.</p> 
+                        
+                  <signed>
+                    Sincerely your friend<l/>
+                    <name>Alice A. Frost</name> <!--signature--> <l/>
+                    (E/A)AF/FRP      President,Seattle Public Library <l/> Staff Association
+                </signed>
+                    
+                <postscript>
+                    <label>P.S.</label> 
+                    <p>Miss Calkins, head of our Reference department, is coming with a friend to Puyallup tomorrow and will be at the gate of the Camp at 5:30 and will be very happy to see you if you can be there.</p>
+                </postscript>
             </div>
+            
         </body>
+        
         <back>
             <div type="annotations">
                 <note xml:id="spl"> During World War II, the Seattle Public Library continued to
