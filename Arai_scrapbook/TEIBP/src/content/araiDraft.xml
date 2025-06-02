@@ -571,21 +571,29 @@
                     aren’t being pampered — I think everybody’s doing a swell job.</p>
             </div>
 
-            <div>
-                <ab>June 2, 1942 Mr. Clarence T. Arai Puyallup Washington Dear Mr. Arai: The members
-                    of the Board of the Seattle Public Library wish to express to you our regret
-                    that you are unable to serve longer with them in the labor of sreving the
-                    citizens of Seattle in their library needs. We do wish, however, to let you know
-                    how much we have enjoyed your disinterested advice - your will- ingness to serve
-                    faithfully and your just approach to all problems that have come before the
-                    Board. Your viewpoint has always been wholesome, un- prejudiced and eminently
-                    fair and we shall all miss your congenial companionship at our Board meetings,
-                    as well as the presence of Mrs. Arai and yourself at the annual banquet of the
-                    Staff Association. While we recognize that under present conditions many things
-                    arise that give much distress, we know that your sound philosophy and unfailing
-                    good humour will ever attend you. Sincerely yours SEATTLE PUBLIC LIBRARY BOARD
-                    Josephine M. Quigley President Christine A. Neergaard (signature)
-                    (signature)</ab>
+            <div type="correspondence">
+                <ab><date when="1942-06-02">June 2, 1942</date> 
+                    
+                    Mr. Clarence T. Arai 
+                    Puyallup 
+                    Washington </ab>
+                    
+                    <p>Dear Mr. Arai:</p>
+                    
+                    <p>The members of the Board of the <name ref="#spl">Seattle Public Library</name> wish to express to you our regret that you are unable to serve longer with them in the labor of sreving the citizens of Seattle in their library needs.</p>
+                   <p> We do wish, however, to let you know how much we have enjoyed your disinterested advice - your willingness to serve faithfully and your just approach to all problems that have come before the Board.</p> 
+                    <p>Your viewpoint has always been wholesome, un- prejudiced and eminently fair and we shall all miss your congenial companionship at our Board meetings, as well as the presence of Mrs. Arai and yourself at the annual banquet of the Staff Association.</p> 
+                    <p>While we recognize that under present conditions many things arise that give much distress, we know that your sound philosophy and unfailing good humour will ever attend you.</p>
+                    
+                <signed>
+                    Sincerely yours 
+                    SEATTLE PUBLIC LIBRARY BOARD
+                    Josephine M. Quigley 
+                    President 
+                    Christine A. Neergaard
+                    (signature) <!-- these are signatures i can't read-->
+                    (signature)
+                </signed>
             </div>
 
             <div>
@@ -697,6 +705,7 @@
                             <publisher>National Park Service</publisher> 
                             <date>04/03/2024</date>
                     </bibl>
+                    <!--note to marisa from marisa: add the arai ebsco source-->
                 </listBibl>
             </div>
         </back>
