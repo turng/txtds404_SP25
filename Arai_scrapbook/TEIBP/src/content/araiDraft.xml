@@ -243,7 +243,7 @@
                     Area No.1, or within any of the Zones</p>
             </div>
 
-            <div>
+            <div type="statement">
                 <head><hi rend="bold">Headquarters</hi></head>
                 <head><hi rend="bold">Western Defense Command</hi></head>
                 <head><hi rend="bold">And Fourth Army Presidio of San Francisco,
@@ -355,7 +355,7 @@
                         JTJ/FRP           Librarian</signed> 
             </div>
 
-            <div>
+            <div type="statement">
                 <ab>HEADQUARTERS NWS &amp; 44TH INFANTRY DIVISION OFFICE OF ACTING PROVOST MARSHAL
                     STATE OF WASHINGTON SEATTLE, WASHINGTON May 2, 1942 TO WHOM IT MAY CONCERN: The
                     applicant named, CLARENCE ARAI, an American citizen of Japa- nese blood is
@@ -369,7 +369,7 @@
                     TEMPORARY PERMIT #18</ab>
             </div>
 
-            <div>
+            <div type="clipping">
                 <ab>SEATTLE POST-INTELLIGENCER, WEDNESDAY, MAY 18, 1942 NEW EXCLUSION AREAS P.1
                     5/13/42 PROHIBITED ZONE—Map of the area covered by Exclusion Order No. 67, from
                     which Japanese will be cleared by Monday. UNDER BAN, TOO—The territory inside
@@ -594,7 +594,7 @@
                 </signed>
             </div>
 
-            <div>
+            <div type="correspondence">
                 <ab type="letterhead">
                     <address rend="caps">
                         <addrLine><name ref="#staff_association">Seattle Public Library Staff Association</name></addrLine> 
