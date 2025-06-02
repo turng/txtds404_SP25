@@ -68,16 +68,16 @@
         </fileDesc>
         <encodingDesc>
             <tagsDecl>
-                <rendition scheme="css" xml:id="covertitle1">font-family: sans-serif</rendition>
-                <rendition scheme="css" xml:id="covertitle2">font-family: sans-serif</rendition>
+                <rendition scheme="css" xml:id="covertitle1">font-family:sans-serif</rendition>
+                <rendition scheme="css" xml:id="covertitle2">font-family:sans-serif</rendition>
                 <rendition scheme="css" xml:id="titlepage1"/>
-                <rendition scheme="css" xml:id="titlepage2">font-family: sans-serif</rendition>
-                <rendition scheme="css" xml:id="sectiontitle">font-family: serif</rendition>
-                <rendition scheme="css" xml:id="prefacetext">font-family: serif</rendition>
-                <rendition scheme="css" xml:id="tableofcontents">font-family: serif</rendition>
-                <rendition scheme="css" xml:id="listofplates">font-family: serif</rendition>
-                <rendition scheme="css" xml:id="maintext">font-family: serif</rendition>
-                <rendition scheme="css" xml:id="runningheader">font-family: serif</rendition>
+                <rendition scheme="css" xml:id="titlepage2">font-family:sans-serif</rendition>
+                <rendition scheme="css" xml:id="sectiontitle">font-family:serif</rendition>
+                <rendition scheme="css" xml:id="prefacetext">font-family:serif</rendition>
+                <rendition scheme="css" xml:id="tableofcontents">font-family:serif</rendition>
+                <rendition scheme="css" xml:id="listofplates">font-family:serif</rendition>
+                <rendition scheme="css" xml:id="maintext">font-family:serif</rendition>
+                <rendition scheme="css" xml:id="runningheader">font-family:serif</rendition>
             </tagsDecl>
         </encodingDesc>
         <profileDesc>
@@ -100,44 +100,43 @@
                 <lb/>
                 <p>On Monday, 12th September will be published,</p>
                 <p><hi rend="italics">Complete in One thick Volume, 8vo, with Forty Illustrations
-                        by</hi> H.K. Browne,</p>
-                <p style="font-size:30px"><hi rend="allcaps">Bleak House.</hi></p>
-                <p style="font-size:12px"><hi rend="allcaps">By</hi></p>
-                <p style="font-size:16px"><hi rend="allcaps">Charles Dickens.</hi></p>
+                        by</hi> <ref target="#HKBrowne_note">H.K. Browne</ref>,</p>
+                <p style="font-size:30px"><hi style="class:allcaps">Bleak House.</hi></p>
+                <p style="font-size:12px"><hi style="class:allcaps">By</hi></p>
+                <p style="font-size:16px"><hi style="class:allcaps">Charles Dickens.</hi></p>
                 <p>The Publishers beg to inform the Public and the Trade that <hi rend="caps">Bleak
                         House,</hi> complete in One Volume, will be ready for delivery on the 12th
                     September.</p>
-                <p>Price, neatly bound in cloth . . . . . . . . . &#163;1 1 0 </p>
+                <p>Price, <ref target="#cloth_binding_note">neatly bound in cloth</ref> . . . . . . . . . &#163;1 1 0 </p>
                 <p> &quot; &quot; &quot; Half morocco, marble edges . . . . 1 4 6</p>
                 <p>(<hi rend="italics">Cloth Cases for binding the above may be had at the
                         Publishers.</hi>)</p>
-                <p><hi rend="allcaps">Subscribers</hi> desirious of having their copies bound in a
+                <p><hi style="class:allcaps">Subscribers</hi> desirious of having their copies bound in a
                     similar style can have them at their Booksellers, at the following prices:——</p>
-                <p>Whole bound, morocco gilt edges . . . . . . . . 6s. 6d.</p>
+                <p>Whole bound, morocco gilt edges . . . . . . . . <ref target="#price_note">6s. 6d.</ref></p>
                 <p>Half bound, &quot; . . . . . . . . 4 6</p>
                 <p>In cloth, lettered . . . . . . . . . . 1 6</p>
-                <p style="font-size:16px"><hi rend="allcaps">By the same author.</hi></p>
+                <p style="font-size:16px"><hi style="class:allcaps">By the same author.</hi></p>
                 <p style="font-size:12px">Price <hi rend="italics">3s. 6d.</hi> eacg, neatly bound
                     in cloth,</p>
-                <p style="font-size:20px"><hi rend="allcaps">The first and second volumes</hi></p>
-                <p style="font-size:12px"><hi rend="allcaps">Of</hi></p>
+                <p style="font-size:20px"><hi style="class:allcaps">The first and second volumes</hi></p>
+                <p style="font-size:12px"><hi style="class:allcaps">Of</hi></p>
                 <p style="font-size:25px"><hi rend="allcaps bold">A Child's History of
                     England.</hi></p>
-                <p style="font-size:12px"><hi rend="allcaps">With frontispieces from drawings by
+                <p style="font-size:12px"><hi style="class:allcaps">With frontispieces from drawings by
                         F.W. Topham.</hi></p>
-                <p style="font-size:12px"><hi rend="allcaps">Corrected and revised from
+                <p style="font-size:12px"><hi style="class:allcaps">Corrected and revised from
                         &quot;Household Words,&quot; with a table of dates.</hi></p>
                 <p style="font-size:12px"><hi rend="italics">The History will be completed in Three
                         Volumes.</hi></p>
             </div>
             <div xml:id="Encyclopedia_Ad">
                 <head rend="caps">English Cyclopædia.</head>
-                <l style="font-type:gothic">A New Dictionary of Universal Knowlege.</l>
-                <l style="font-size:12px"><hi rend="bold allcaps">And Illustrated with Five Thousand
-                        Wood Engravings.</hi></l>
-                <l><hi rend="allcaps">Conducted by Mr. Charles Knight.</hi></l>
-                <lb/>
-                <l><hi rend="allcaps">Opinions of the Press</hi></l>
+                <ab style="font-type:gothic">A New Dictionary of Universal Knowlege.</ab>
+                <ab style="font-size:12px"><hi rend="bold allcaps">And Illustrated with Five Thousand
+                        Wood Engravings.</hi></ab>
+                <ab><hi style="class:allcaps">Conducted by Mr. Charles Knight.</hi></ab><lb/>
+                <ab><hi style="class:allcaps">Opinions of the Press</hi></ab>
                 <quote>“Among serials, the most important in our eyes is the new edition of the
                     Penny Cyclopædia issued in separate divisions under the name of the English
                     Cyclopædia.” — Leader</quote>
@@ -176,27 +175,28 @@
                     wonderful production in a variety of ways; accuracy, the beauty and correctness
                     of the wood engravings, in the Natural History portion; and though last not
                     least its amazing cheapness.”-Dumfries Courier.</quote>
-                <p><hi rend="allcaps">Bradbury &amp; Evans, 11, Bouverie Street.</hi></p>
+                <p><hi style="class:allcaps">Bradbury &amp; Evans, 11, Bouverie Street.</hi></p>
             </div>
             <div xml:id="Cheap_Edition">
-                <head><hi rend="allcaps">Cheap Edition</hi></head>
-                <p style="font-size=12px"><hi rend="allcaps">Of The</hi></p>
-                <p style="font-size=16px"><hi rend="allcaps">Works of Mr. Charles Dickens.</hi></p>
+                <head><hi style="class:allcaps"><ref target="#Cheap_Edition_note">Cheap
+                    Edition</ref></hi></head>
+                <p style="font-size=12px"><hi style="class:allcaps">Of The</hi></p>
+                <p style="font-size=16px"><hi style="class:allcaps">Works of Mr. Charles Dickens.</hi></p>
                 <p>In compliance with the general wish of the purchasers of this Edition of the
-                    Works of <hi rend="allcaps">MR. CHARLES DICKENS</hi>, terminating with <hi
-                        rend="allcaps">“MARTIN CHUZZLEWIT,”</hi> it is intended to include within it
+                    Works of <hi style="class:allcaps">MR. CHARLES DICKENS</hi>, terminating with <hi
+                        style="class:allcaps">“MARTIN CHUZZLEWIT,”</hi> it is intended to include within it
                     the five Christmas Books :—</p>
-                <p style="font-size=16px"><hi rend="allcaps">A Christmas Carol.</hi></p>
-                <p style="font-size=16px"><hi rend="allcaps">The Chimes.</hi></p>
-                <p style="font-size=16px"><hi rend="allcaps">The Cricket on the Hearth</hi></p>
-                <p style="font-size=16px"><hi rend="allcaps">The Battle of Life.</hi></p>
-                <p style="font-size=16px"><hi rend="allcaps">The Haunted Man.</hi></p>
+                <p style="font-size=16px"><hi style="class:allcaps">A Christmas Carol.</hi></p>
+                <p style="font-size=16px"><hi style="class:allcaps">The Chimes.</hi></p>
+                <p style="font-size=16px"><hi style="class:allcaps">The Cricket on the Hearth</hi></p>
+                <p style="font-size=16px"><hi style="class:allcaps">The Battle of Life.</hi></p>
+                <p style="font-size=16px"><hi style="class:allcaps">The Haunted Man.</hi></p>
                 <p>These will form, together, when their publication in Numbers shall be completed,
-                        <hi rend="allcaps">ONE ADDITIONAL VOLUME OF THE CHEAP EDITION.</hi></p>
+                        <hi style="class:allcaps">ONE ADDITIONAL VOLUME OF THE CHEAP EDITION.</hi></p>
                 <p>This additional Volume, like its predecessors (and printed to range with them),
                     will be issued in Weekly Numbers, price 1 ½ d. each, and in Monthly Parts. The
                     first Weekly Number will be published on the 1st of June.</p>
-                <p style="font-size=16px"><hi rend="allcaps">Chapman and Hall, 193,
+                <p style="font-size=16px"><hi style="class:allcaps">Chapman and Hall, 193,
                     Piccadilly</hi></p>
             </div>
             <div xml:id="Chapman_and_Hall">
@@ -270,72 +270,134 @@
                     </table>
                 </div>
                 <div>
-                    <ab style="class:publisher">London: Chapman and Hall, 193, Piccadilly.</ab>
+                    <ab style="class:publisher">London: <ref target="#Chapman_and_Hall_note">Chapman and Hall</ref>, 193, Piccadilly.</ab>
                 </div>
             </div>
             <div xml:id="Dedication">
-                <p><hi rend="allcaps">Dedicated,</hi></p>
-                <p style="font-size=12px"><hi rend="allcaps">As a remembrance of our friendly
-                        union.</hi></p>
-                <p style="font-size=16px"><hi rend="allcaps">To My Companions</hi></p>
-                <p style="font-size=12px"><hi rend="allcaps">In the</hi></p>
-                <p><hi rend="allcaps">Guild of Literature and Art</hi></p>
+                <p style="class:allcaps">Dedicated,</p>
+                <p style="font-size:12px;class:allcaps">As a remembrance of our friendly
+                        union.</p>
+                <p style="font-size:16px;class:allcaps">To My Companions</p>
+                <p style="font-size:12px;class:allcaps">In the</p>
+                <p style="class:allcaps"><ref target="#guild_note">Guild of Literature and
+                        Art</ref></p>
             </div>
             <div xml:id="Table_of_Contents_1">
-                <head><hi rend="allcaps">Contents.</hi></head>
-                <p style="font-size=10px"><hi rend="allcaps">Chap. Page</hi></p>
-                <p>I.—IN CHANCERY. . . . . . . . . 1</p>
-                <p>II.—In Fashion. . . . . . . . . 5</p>
-                <p>III.—A Progress. . . . . . . . . 10</p>
-                <p>IV.—Telescopic Philanthropy. . . . . . . 24</p>
-                <p>V.—A Morning Adventure. . . . . . . . 33</p>
-                <p>VI.—Quite at Home. . . . . . . . 42</p>
-                <p>VII.—The Ghost’s Walk. . . . . . . 57</p>
-                <p>VIII.—Covering a Multitude of Sins. . . . . . 65</p>
-                <p>IX.—Signs and Tokens. . . . . . . 79</p>
-                <p>X.—The Law-writer. . . . . . . . 89</p>
-                <p>XI.—Our dear Brother. . . . . . . 97</p>
-                <p>XII.—On the Watch. . . . . . . . 107</p>
-                <p>XIII.—Esther’s Narrative. . . . . . 117</p>
-                <p>XIV.—Deportment. . . . . . . . . 129</p>
+                <head><hi style="class:allcaps">Contents.</hi></head>
+                <table>
+                    <row style="font-size:10px;class:allcaps">
+                        <cell>Chap.</cell>
+                        <cell>Page</cell>
+                    </row>
+                    <row>
+                        <cell>I.</cell>
+                        <cell style="class:allcaps">In Chancery</cell>
+                        <cell>1</cell>
+                    </row>
+                    <row>
+                        <cell>II.</cell>
+                        <cell>In Fashion</cell>
+                        <cell>5</cell>
+                    </row>
+                    <row>
+                        <cell>III.</cell>
+                        <cell>A Progress</cell>
+                        <cell>10</cell>
+                    </row>
+                    <row>
+                        <cell>IV.</cell>
+                        <cell>Telescopic Philanthropy</cell>
+                        <cell>24</cell>
+                    </row>
+                    <row>
+                        <cell>V.</cell>
+                        <cell>A Morning Adventure</cell>
+                        <cell>33</cell>
+                    </row>
+                    <row>
+                        <cell>VI.</cell>
+                        <cell>Quite at Home</cell>
+                        <cell>42</cell>
+                    </row>
+                    <row>
+                        <cell>VII.</cell>
+                        <cell>The Ghost's Walk</cell>
+                        <cell>57</cell>
+                    </row>
+                    <row>
+                        <cell>VIII.</cell>
+                        <cell>Covering a Multitude of Sins</cell>
+                        <cell>65</cell>
+                    </row>
+                    <row>
+                        <cell>IX.</cell>
+                        <cell>Signs and Tokens</cell>
+                        <cell>79</cell>
+                    </row>
+                    <row>
+                        <cell>X.</cell>
+                        <cell>The Law-writer</cell>
+                        <cell>89</cell>
+                    </row>
+                    <row>
+                        <cell>XI.</cell>
+                        <cell>Our dear Brother</cell>
+                        <cell>97</cell>
+                    </row>
+                    <row>
+                        <cell>XII.</cell>
+                        <cell>On the Watch</cell>
+                        <cell>107</cell>
+                    </row>
+                    <row>
+                        <cell>XIII.</cell>
+                        <cell>Esther's Narrative</cell>
+                        <cell>117</cell>
+                    </row>
+                    <row>
+                        <cell>XIV.</cell>
+                        <cell>Deportment</cell>
+                        <cell>129</cell>
+                    </row>
+                </table>
             </div>
             <div xml:id="Title_Page">
-                <head>BLEAK HOUSE.</head>
+                <head style="class:allcaps">Bleak House.</head>
                 <div rend="spacing">
                     <p>BY</p>
                 </div>
                 <div rend="smallspacing">
-                    <p><seg source="boldtext">CHARLES DICKENS.</seg></p>
+                    <p><seg source="boldtext" style="class:allcaps">Charles Dickens.</seg></p>
                 </div>
 
                 <div rend="spacing smalltext">
                     <div type="rule"/>
                     <div>
-                        <p>WITH ILLUSTRATIONS BY H. K. BROWNE.</p>
+                        <p style="class:allcaps">With illustrations by H. K. Browne.</p>
                     </div>
                     <div type="rule"/>
                 </div>
 
                 <div rend="spacing">
-                    <p> LONDON : <lb/> BRADBURY AND EVANS, 11, BOUVERIE STREET. <lb/> 1853. </p>
+                    <p style="class:allcaps"> London : <lb/> Bradbury and Evans, 11, Bouverie Street. <lb/> 1853. </p>
                 </div>
             </div>
             <div xml:id="Chapter_I">
                 <div rend="spacing">
-                    <head>BLEAK HOUSE.</head>
+                    <head style="class:allcaps">Bleak House.</head>
                 </div>
                 <div rend="smallspacing">
                     <div type="rule"/>
                     <div type="rule"/>
                     <div rend="smallspacing">
-                        <p>CHAPTER I.</p>
+                        <p style="class:allcaps">Chapter I.</p>
                     </div>
                 </div>
                 <div rend="smallspacing smalltext">
-                    <p>IN CHANCERY.</p>
+                    <p style="class:allcaps">In Chancery.</p>
                 </div>
                 <div rend="booktext smallspacing smalltext">
-                    <p> LONDON. Michaelmas term lately over, and the Lord Chancellor sitting in
+                    <p><hi style="class:allcaps">London.</hi> Michaelmas term lately over, and the Lord Chancellor sitting in
                         Lincoln's Inn Hall. Implacable November weather. As much mud in the streets,
                         as if the waters had but newly retired from the face of the earth, and it
                         would not be wonderful to meet a Megalosaurus, forty feet long or so,
@@ -348,7 +410,7 @@
                         at street-corners, where tens of thousands of other foot passengers have
                         been slipping and sliding since the day broke (if the day ever broke),
                         adding new deposits to the crust upon crust of mud, sticking at those points
-                        tenaciously to the pavement, and accumulating at compound interest. </p>
+                        tenaciously to the pavement, and accumulating at compound interest.</p>
                 </div>
             </div>
             <div xml:id="Chapter_LX">
@@ -356,20 +418,20 @@
                     <div type="rule"/>
                     <div type="rule"/>
                     <div rend="smallspacing">
-                        <p>CHAPTER LX.</p>
+                        <p style="class:allcaps">Chapter LX.</p>
                     </div>
                 </div>
                 <div rend="smallspacing smalltext">
-                    <p>PERSPECTIVE.</p>
+                    <p style="class:allcaps">Perspective.</p>
                 </div>
 
                 <div rend="booktext smallspacing smalltext">
-                    <p> I PROCEED to other passages of my narrative. From the goodness of all about
+                    <p><hi style="class:allcaps">I proceed</hi> to other passages of my narrative. From the goodness of all about
                         me, I derived such consolation as I can never think of unmoved. I have
                         already said so much of myself, and so much still remains, that I will not
                         dwell upon my sorrow. I had an illness, but it was not a long one; and I
                         would avoid even this mention of it, if I could quite keep down the
-                        recollection of their sympathy. </p>
+                        recollection of their sympathy.</p>
                 </div>
                 <div rend="spacing">
                     <div type="rule"/>
@@ -390,17 +452,16 @@
             popularity. </note>
         <note xml:id="Chapman_and_Hall_note"> Chapman and Hall published another edition of Bleak
             House in 1873. </note>
-        <note xml:id="cloth_binding_note"> During the late 19th century cloth binding became more
+        <note xml:id="cloth_binding_note"> During the late 19th century, cloth binding became more
             popular, but it was not the norm. It was popular during the 17th and 18th century, with
-            books bound with either leather binding or in a “temporary envelope of paper wrappers”
-            (Carter). The development of cloth binding made literature more accessible as it was
-            cheaper than its leather counterparts so a wider range of people from varying social
-            strata could purchase books. </note>
-        <note xml:id="price_note"> The “s” symbol denotes the amount of shillings an item is while
-            the “d” symbol represents how many pennies an item costs. Shillings were the main form
-            of currency in England in 1850 when Bleak House was published. It would take 20
-            shillings to make a pound and 12 pence to make a shilling, showing the cheapness of this
-            text at the time. </note>
+            books bound in either leather or in a “temporary envelope of paper wrappers” (Carter).
+            The development of cloth binding made literature more accessible as it was cheaper than
+            its leather counterparts so a wider range of people from varying social strata could
+            purchase books. </note>
+        <note xml:id="price_note"> “s” denotes the cost of an item in shillings, while “d” denotes
+            the cost in pennies. Shillings were the main form of currency in England in 1850 when
+            Bleak House was published. It would take 20 shillings to make a pound and 12 pence to
+            make a shilling, showing the cheapness of this text at the time. </note>
         <note xml:id="Cheap_Edition_note"> Publishers created cheap editions of books or compendiums
             of books in this case in order to increase affordability and accessibility of literature
             to ensure it was reaching as many people as possible. The creation of these editions
@@ -418,21 +479,19 @@
             more awareness of underfunded artists. The group was funded through various fundraising
             efforts including theatrical performances. </note>
         <bibl>
-            <bibl>
-                Carter, John. “Origins of Cloth Bindings.” Denis Gouey Bookbinding Studio, bookbinding.com/origins-of-cloth-bindings/. Accessed 19 May 2025.
-            </bibl>
-            <bibl>
-                “Currency, Coinage and the Cost of Living.” The Proceedings of the Old Bailey, Digital Humanities Institute, www.oldbaileyonline.org/about/coinage. Accessed 19 May 2025.
-            </bibl>
-            <bibl>
-                “Dickens’s Launches the ‘Cheap Edition’ of His Works, Beginning with ‘Pickwick.’” History of Information, www.historyofinformation.com/detail.php?id=4506. Accessed 19 May 2025.
-            </bibl>
-            <bibl>
-                “Hablot Knight (Phiz) Browne (1815 - 1882).” Royal Academy of Arts, Royal Academy of Arts, www.royalacademy.org.uk/art-artists/name/hablot-knight-phiz-browne. Accessed 19 May 2025.
-            </bibl>
-            <bibl>
-                Schlicke, Paul, editor. The Oxford Reader’s Companion to Dickens, 2000, https://doi.org/10.1093/acref/9780198662532.001.0001. 
-            </bibl>
+            <bibl> Carter, John. “Origins of Cloth Bindings.” Denis Gouey Bookbinding Studio,
+                bookbinding.com/origins-of-cloth-bindings/. Accessed 19 May 2025. </bibl>
+            <bibl> “Currency, Coinage and the Cost of Living.” The Proceedings of the Old Bailey,
+                Digital Humanities Institute, www.oldbaileyonline.org/about/coinage. Accessed 19 May
+                2025. </bibl>
+            <bibl> “Dickens’s Launches the ‘Cheap Edition’ of His Works, Beginning with ‘Pickwick.’”
+                History of Information, www.historyofinformation.com/detail.php?id=4506. Accessed 19
+                May 2025. </bibl>
+            <bibl> “Hablot Knight (Phiz) Browne (1815 - 1882).” Royal Academy of Arts, Royal Academy
+                of Arts, www.royalacademy.org.uk/art-artists/name/hablot-knight-phiz-browne.
+                Accessed 19 May 2025. </bibl>
+            <bibl> Schlicke, Paul, editor. The Oxford Reader’s Companion to Dickens, 2000,
+                https://doi.org/10.1093/acref/9780198662532.001.0001. </bibl>
         </bibl>
     </standOff>
 </TEI>
