@@ -22,20 +22,20 @@
             <titlePart> ... </titlePart>
          </titlePage>
          <div type="intro">
-            <p><ref target="#dickens">Charles Dickens</ref>
+            <p>Charles Dickens
                is one of the most well-known English authors, who had a diverse writing career as a reporter, 
                editor and essayist. He produced 14 novels, most of which were published in serial editions. 
                This included a 20-month serialization of Bleak House published by Bradbury and Evans with 
-               illustrations by <ref target="#browne">Hablot Knight Browne</ref>.
-               The story of Bleak House follows the course of a legal dispute in the British Court of Chancery, 
-               as the Jarndyce family waits over generations to receive an inheritance they believe they deserve.
+               illustrations by <ref target="#n3">Hablot Knight Browne</ref>.
+               The story of Bleak House follows the course of a legal dispute in the British <ref target="n2">Court of Chancery</ref>, 
+               as the <ref target="n1">Jarndyce family</ref> waits over generations to receive an inheritance they believe they deserve.
                The story is a commentary on the convoluted legal system in Britain, and the corruption inherent 
                in it. </p>
             <p>Thanks to the serial format, Bleak House reached a wide range of audiences. The
                critical perspective towards the legal system in Bleak House would have appealed to a
                more educated population. Furthermore, the relatively afforable installments, public
                readings, and library lendings would allow the working class to access the novel.
-               Eventually, <ref target="#dickens">Dickens</ref>' work would achieve a 
+               Eventually, Dickens work would achieve a 
                global audience.</p>
          </div>
          <div type="preface">
@@ -63,58 +63,19 @@
       <back>
          <div type="endnotes">
             <note xml:id="n1">The novel features the fictional case, Jarndyce and Jarndyce.</note>
-            <note xml:id="n2">Royal seal of the United Kingdom.</note>
-            <div type="characters">
-               <note></note>
-            </div>
+            <note xml:id="n2">The Court of Chancery followed rules to avoid a slow pace and inequities of common laws.</note>
+            <note xml:id="n3">Browne was a British artist and illustrator.</note>
          </div>
          <div type="biblio">
-            <listBibl>
-               <bibl xml:id="bleakhouse_wiki"><author>Wikipedia Contributors</author>. “<title>Bleak House</title>.” 
-		       Wikipedia, <publisher>Wikimedia Foundation</publisher>, <date>1 Dec. 2019</date>, 
-		       <ref target="https://en.wikipedia.org/wiki/Bleak_House">en.wikipedia.org/wiki/Bleak_House.</ref>
-                  <!--<title ref="https://en.wikipedia.org/wiki/Bleak_House">Wikipedia</title>-->
-               </bibl>
-               <bibl xml:id="University_of_New_England">
-                  <title ref="http://esthersnarrative.une.edu.au/themes-1/">University of New
-                     England website</title>
-               </bibl>
-               <bibl xml:id="Poetry_Foundation">
-                  <title ref="https://www.poetryfoundation.org/poets/charles-dickens">Poetry
-                     Foundation</title>
-               </bibl>
-		          <bibl xml:id="Gale">
-                  <title ref="https://www.gale.com/intl/essays/amy-j-lloyd-advertising">University
-		      of Cambridge</title>
-               </bibl>
-            </listBibl>
-         </div>
-         <div type="index">
-            <listPerson type="real">
-               <person xml:id="dickens">
-                  <persName>
-                     <surname type="first">Charles</surname>
-                     <surname type="middle">Knight</surname>    
-                     <forename>Dickens</forename>
-                  </persName>
-                  <note>
-                     <p> He was one of the most well-known English authors, who had a diverse writing 
-                        career as a reporter, editor and essayist.</p>
-                  </note>
-               </person>
-            </listPerson>
+            <bibl xml:id="lloyd2007"> <author><surname>Lloyd</surname>, <forename>Amy</forename></author>. <title>Advertising in 19th Century British Newspapers (Amy J. Lloyd)</title>. <publisher>Gale</publisher>, <date>2007</date>, <ptr target="www.gale.com/intl/essays/amy-j-lloyd-advertising."/></bibl>
             
-            <listPerson type="real">
-               <person xml:id="browne">
-                  <persName>
-                     <surname>Hablot</surname>
-                     <forename>Browne</forename>
-                  </persName>
-                  <note>
-                     <p>An illustrator for Bradbury and Evans. His nickname is "Phiz."</p>
-                  </note>
-               </person>
-            </listPerson>
+            <bibl xml:id="poetry2019"><author>Poetry Foundation</author>. <title>Poetry Foundation</title>. <publisher>Poetry Foundation</publisher>, <date>2019</date>, <ptr target="www.poetryfoundation.org/poets/charles-dickens"/></bibl>
+            
+            <bibl xml:id="steinlight2006"><author><surname>Steinlight</surname>, <forename>Emily</forename></author>. <title>“AntiBleak House”: Advertising and the Victorian Novel</title>. <publisher>JSTOR</publisher>, <date>2006</date> <ptr target="www.jstor.org/stable/30219643, https://doi.org/10.2307/30219643."/></bibl>
+            
+            <bibl xml:id="england2014"><author>University of England AU</author>. <title>Introduction: Themes Dickens</title>. <publisher>Une.edu.au</publisher>, <date>2014</date>, <ptr target="esthersnarrative.une.edu.au/themes-1/."/></bibl>
+            
+            <bibl xml:id="wiki2019"><author>Wikipedia Contributors</author>. <title>Bleak House</title>. <publisher>Wikipedia, Wikimedia Foundation</publisher>, <date>1 Dec. 2019</date>, <ptr target="en.wikipedia.org/wiki/Bleak_House."/></bibl>
          </div>
       </back>
    </text>
