@@ -83,25 +83,13 @@
             <xsl:apply-templates/>
         </div>
     </xsl:template>
-    <xsl:template match="tei:div[@xml:id='Bleak_House_Ad']//tei:p">
+    <xsl:template match="tei:div//tei:p">
         <p><xsl:apply-templates/></p>
-    </xsl:template>
-    <xsl:template match="tei:div[@xml:id='Encyclopedia_Ad']//tei:p">
-        <p><xsl:apply-templates/></p>
-    </xsl:template>
-    <xsl:template match="tei:div[@xml:id='Cheap_Edition']//tei:p">
-        <p><xsl:apply-templates/></p>
-    </xsl:template>
-    <xsl:template match="tei:div[@xml:id='Dedication']//tei:p">
-        <p style="text-align:center"><xsl:apply-templates/></p>
-    </xsl:template>
-    <xsl:template match="tei:div[@xml:id='Chapters_1']//tei:p">
-        <p style="margin:none"><xsl:apply-templates/></p>
     </xsl:template>
     <xsl:template match="tei:quote">
         "<xsl:apply-templates/>"
     </xsl:template>
-    <xsl:template match="tei:l">
+    <xsl:template match="tei:ab">
         <p><xsl:apply-templates/></p>
     </xsl:template>
     <xsl:template match="tei:hi[@rend='allcaps']">
