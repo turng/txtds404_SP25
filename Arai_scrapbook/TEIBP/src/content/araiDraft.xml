@@ -749,23 +749,29 @@
             </div>
             <div type="bibliography">
                 <listBibl>
+                    <bibl xml:id="arai_bib" type="webpage">
+                        "<title>Clarence Takeya Arai</title>."
+                        <author>Mary Schons</author>
+                        <publisher>EBSCO</publisher>
+                        <date>2023</date>
+                        <ref target="https://www.ebsco.com/research-starters/history/clarence-takeya-arai">Clarence Takeya Arai</ref>
+                    </bibl>
                     <bibl xml:id="pike_place_market_bib" type="webpage"> “<title level="a">Pike
                             Place Market</title>. <title level="m">Wikipedia</title>
-                        <publisher>TODO</publisher>
-                        <date>TODO</date>
+                        <publisher>Wikipedia.org</publisher>
                         <ref target="https://en.wikipedia.org/
                             wiki/Pike_Place_Market">Pike Place Market</ref>
                     </bibl>
-                    <bibl xml:id="spl_historylink_bib" type="webpage"> “<title>Central Library,
-                            1906-1957, The Seattle Public Library</title>.” <author>Paula
-                            Becker</author>
+                    <bibl xml:id="spl_historylink_bib" type="webpage"> 
+                        “<title>Central Library, 1906-1957, The Seattle Public Library</title>.” 
+                        <author>Paula Becker</author>
                         <publisher>HistoryLink.org</publisher>
                         <date>7/01/2011</date>
                         <ref target="https://www.historylink.org/File/9869">Central Library,
                             1906-1957, The Seattle Public Library</ref>
                     </bibl>
-                    <bibl xml:id="fujiyama_bib" type="webpage"> “<title level="a">Aiichiro Fujiyama,
-                            87; Ex-Japanese Politician</title>. <publisher>New York
+                    <bibl xml:id="fujiyama_bib" type="webpage"> "<title level="a">Aiichiro Fujiyama,
+                            87; Ex-Japanese Politician</title>." <publisher>New York
                             Times</publisher>
                         <ref target="https://www.nytimes.com/1985/02/23/world/aiichiro-fujiyama-87-ex-japanese-politician.html"
                             >Aiichiro Fujiyama, 87; Ex-Japanese Politician</ref>
@@ -774,8 +780,8 @@
                         <title level="a">John Lesene DeWitt</title>
                         <publisher>National Park Service</publisher>
                         <date>04/03/2024</date>
+                        <ref target="link here">title here</ref>
                     </bibl>
-                    <!--note to marisa from marisa: add the arai ebsco source-->
                 </listBibl>
             </div>
         </back>
