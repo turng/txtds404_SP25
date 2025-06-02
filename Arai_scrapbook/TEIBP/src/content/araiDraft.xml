@@ -51,6 +51,7 @@
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
+            <!-- i might be remembering incorrectly but didn't he comment that we should have something else here? -->
             <tagsDecl>
                 <rendition xml:id="border" scheme="css"> border: 4px solid black; padding: 30px; </rendition>
                 <rendition xml:id="date" scheme="css">font-family: Papyrus, fantasy; text-align: right;
@@ -145,29 +146,37 @@
                     AND·THE·INCREASE·OF·ITS·FINANCIAL·ENDOWMENT·FOR·SCIENTIFIC·RESEARCH</p>
                 <p>IN·WITNESS·WHEREOF·THE·SEAL·OF·THE·INSTITUTION·AND·THE·SIGNATURES·OF
                     ·THE·SECRETARY ·AND·THE·ADMINISTRATION·ASSISTANT·ARE·AFFIXED·HERETO</p>
-                <l>___________(signature)_________ SECRETARY</l>
+                <l>___________(signature)_________ SECRETARY</l> <!-- add images of signatures here?-->
                 <l> __________(signature)_________ GENERAL</l>
             </div>
 
             <div type="correspondence">
                 <ab type="letterhead">
                     <address>
-                        <addrLine>THE BUTTS’ PAROLE LEAGUE</addrLine>
+                        <addrLine rend="caps">The Butts' Parole League</addrLine>
                         <addrLine>Box 70, Nippon Station</addrLine>
                         <addrLine>Seattle, Washington</addrLine>
                     </address>
                     <date when="1937-04-02">April 2, 1937</date>
                 </ab>
 
-                <ab>Clarence T. Arai, Esq., Seattle, Wn. Sir;- Permit us to offer our
-                    congratulations and best wishes toward your future as a trustee of the Seattle
-                    Public Library. Mayor John F. Dore, in choosing you, thus for the first time in
-                    the history of Seattle according recognition to the people you so ably
-                    represent, we know made a selection which will undoubtedly redound to his and
-                    your credit. THE BUTTS’ PAROLE LEAGUE. by Frank O. Murphy</ab>
+                <p><name>Clarence T. Arai</name>, Esq.,</p>
+                <p>Seattle, Wn.</p>
+                    
+                <p>Sir;-</p>
+                    
+                <p>Permit us to offer our
+                congratulations and best wishes toward your future as a trustee of the <name>Seattle
+                Public Library</name>. Mayor <name>John F. Dore</name>, in choosing you, thus for the first time in
+                the history of Seattle according recognition to the people you so ably
+                represent, we know made a selection which will undoubtedly redound to his and
+                your credit.</p>
+                
+                <p rend="caps">The Butts' Parole League</p> 
+                <p>by <name>Frank O. Murphy</name></p> <!-- add image of signature here?-->
             </div>
 
-            <div>
+            <div type="certificate">
                 <ab>REGISTRATION CERTIFICATE AMERICAN KENNEL CLUB AKC INCORPORATED AMERICAN KENNEL
                     CLUB STUD BOOK AMERICAN KENNEL CLUB NEW YORK, N.Y. NAME OF DOG Duke of Main
                     Street BREED Cocker Spaniel Sex Male SIRE Slicker Boy of Kitsop (934421) DAM
@@ -588,13 +597,52 @@
             </div>
         </body>
         <back>
+            <div type="annotations">
+                <note xml:id="pike_place">
+                    Pike Place Market is a public market in Seattle that opened in
+                    1907. This is one of the oldest continuously operated public markets in the United
+                    States. 
+                    <ref target="pike_place_market_bib"/>
+                </note>
+                <note xml:id="dore">
+                    John F. Dore (1881-1938) served as the Mayor of Seattle from 1932 to
+                    1934 and from 1936 to 1938.
+                </note>
+                <note xml:id="Fujiyama">
+                    Aiichiro Fujiyama was the Japanese Foreign Minister from 1957-1960.
+                    <ref target="fujiyama_bib"/>
+                </note>
+                <note xml:id="DeWitt">
+                    J.L. DeWitt was a United States general officer known for overseeing the incarceration of over 110,000 Japanese Americans.
+                    <ref target="dewitt_bib"/>
+                </note>
+            </div>
             <div type="bibliography">
                 <listBibl>
-                    <bibl xml:id="TODO" type="webpage"> "<title level="a">TODO</title>." <title
-                            level="m">TODO</title>
+                    <bibl xml:id="pike_place_market_bib" type="webpage">
+                        “<title level="a">Pike Place Market</title>.
+                        <title level="m">Wikipedia</title>
                         <publisher>TODO</publisher>
                         <date>TODO</date>
-                        <ref target="INSERT_LINK">INSERT_NAME_OF_LINK</ref>
+                        <ref target="https://en.wikipedia.org/
+                            wiki/Pike_Place_Market">Pike Place Market</ref>
+                    </bibl>
+                    <bibl xml:id="spl_historylink_bib" type="webpage">
+                        “<title>Central Library, 1906-1957, The Seattle Public Library</title>.”
+                        <author>Paula Becker</author>
+                                <publisher>HistoryLink.org</publisher>
+                                <date>7/01/2011</date>
+                                <ref target="https://www.historylink.org/File/9869">Central Library, 1906-1957, The Seattle Public Library</ref>
+                    </bibl>
+                    <bibl xml:id= "fujiyama_bib" type= "webpage">
+                        “<title level="a">Aiichiro Fujiyama, 87; Ex-Japanese Politician</title>.
+                        <publisher>New York Times</publisher>                    
+                        <ref target="https://www.nytimes.com/1985/02/23/world/aiichiro-fujiyama-87-ex-japanese-politician.html">Aiichiro Fujiyama, 87; Ex-Japanese Politician</ref>
+                    </bibl>
+                    <bibl xml:id="dewitt_bib" type="webpage">
+                        <title level="a">John Lesene DeWitt</title>
+                            <publisher>National Park Service</publisher> 
+                            <date>04/03/2024</date>
                     </bibl>
                 </listBibl>
             </div>
