@@ -386,24 +386,30 @@
                     NWS &amp; 44th Infantry Division<l/>
                     Office of Acting Provost Marshal<l/> 
                     State of Washington<l/> 
-                    Seattle, Washington</ab>
+                    Seattle, Washington
+                </ab>
                     
-                    <l style="text-align: right;"><date when="1942-05-02">May 2, 1942</date></l> 
+                <l style="text-align: right;"><date when="1942-05-02">May 2, 1942</date></l> 
+                
+                <p><hi rend="caps">To whom it may concern:</hi></p>
+                <p>The applicant named, <name rend="caps">Clarence Arai</name>, an American citizen of Japanese blood is hereby granted permission and authorized to travel without molestation or hindrance by the most direct route from 452 12th Avenue, Seattle, Washington to the <name ref="#spl">Seattle Public Library</name>, 4th and Madison Street and the Federal Reserve National Bank of Commerce Building, Seattle, Washington. Travel authorized will be effective <date when="1942-05-05">Tuesday, May 5, 1942</date> between the hours of 11:00 A.M. and 2:00 P.M.  <hi rend="caps">Nothing follows.</hi></p> 
+                
+                <signed>(signature)<!--image?--><lb/>
+                    <hi rend="caps">Michael A. Rivisto</hi><lb/>
+                    Captain Infantry <lb/>
+                    Acting Provost Marshal <lb/>
+                    State of Washington <lb/>
+                    <seg type="stamped" style="color: blue;">
+                        <hi rend="caps">Michael A. Rivisto</hi><lb/> 
+                        Captain, Infantry<lb/>
+                        NWS. PCF
+                    </seg>
                     
-                    <p><hi rend="caps">To whom it may concern:</hi></p>
-                    <p>The applicant named, <name rend="caps">Clarence Arai</name>, an American citizen of Japanese blood is hereby granted permission and authorized to travel without molestation or hindrance by the most direct route from 452 12th Avenue, Seattle, Washington to the <name ref="#spl">Seattle Public Library</name>, 4th and Madison Street and the Federal Reserve National Bank of Commerce Building, Seattle, Washington. Travel authorized will be effective <date when="1942-05-05">Tuesday, May 5, 1942</date> between the hours of 11:00 A.M. and 2:00 P.M.  <hi rend="caps">Nothing follows.</hi></p> 
-                    
-                    <signed>(signature) 
-                    MICHAEL A. RIVISTO 
-                    Captain Infantry 
-                    Acting Provost Marshal 
-                    State of Washington 
-                    MICHAEL A. RIVISTO 
-                    Captain, Infantry 
-                    NWS. PCF</signed> 
-                    
-                    <ab>MM
-                    TEMPORARY PERMIT #18</ab>
+                    <seg rend="caps" style="text-align: left;">
+                        MM
+                        Temporary Permit #18
+                    </seg>
+                </signed> 
             </div>
             
             <pb/>
