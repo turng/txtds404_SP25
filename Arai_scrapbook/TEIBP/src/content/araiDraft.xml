@@ -135,6 +135,8 @@
                 <l>_______(signature)______ <name>Yoshiharu Takeno</name></l>
                 <!-- maybe we should add image of signature here?-->
             </div>
+            
+            <pb/>
 
             <div type="certificate" rend="caps">
                 <head>SMITHSONIAN INSTITUTION</head>
@@ -152,6 +154,8 @@
                 <!-- maybe we should add images of signatures here?-->
                 <l> __________(signature)_________ GENERAL</l>
             </div>
+
+            <pb/>
 
             <div type="correspondence">
                 <ab type="letterhead">
@@ -179,6 +183,8 @@
                 <p>by <name>Frank O. Murphy</name></p>
                 <!-- add image of signature here?-->
             </div>
+            
+            <pb/>
 
             <div type="certificate">
                 <head rend="caps" style="text-align: center;">Registration Certificate<l/>
@@ -207,6 +213,8 @@
                         <hi rend="caps">Secretary</hi> gm
                     </signed>
             </div>
+            
+            <pb/>
 
             <div type="statement">
                 <head><hi rend="bold">Headquarters</hi></head>
@@ -242,6 +250,8 @@
                     Japanese ancestry residing or being within the geographical limits of Military
                     Area No.1, or within any of the Zones</p>
             </div>
+            
+            <pb/>
 
             <div type="statement">
                 <head><hi rend="bold">Headquarters</hi></head>
@@ -284,6 +294,8 @@
                     Japanese will be subject to immediate apprehension and internment.</p>
                 <l>J. L. DEWITT Lieutenant General, U.S. Army Commanding</l>
             </div>
+            
+            <pb/>
 
             <div xml:id="emptyStallsClipping" type="clipping" rendition="#border">
                 <head rendition="#date"><date when="1942-03-24">March 24, 1942</date>MAY 1,
@@ -302,6 +314,9 @@
                     evacuation area, they are barred from the central business district by wartime
                     restrictions on movements of Japanese.</p>
             </div>
+            
+            <pb/>
+            
             <div xml:id="halfOfCityClipping" type="clipping" rendition="#border">
                 <head rendition="#title">HALF OF CITY'S</head>
                 <head rendition="#title #titleIndent">JAPS HAVE GONE</head>
@@ -335,6 +350,8 @@
                 <p rendition="#description">No date has been set for removal of the Japanese from
                     there</p>
             </div>
+            
+            <pb/>
 
             <div type="correspondence"> <!-- note to marisa from marisa: make all letterheads center align-->
                 <ab type="letterhead"><name ref="#spl" rend="caps">Seattle Public Library</name><l/>
@@ -354,6 +371,8 @@
                         <name ref="#jennings">J T Jennings</name><!-- image of signature?? --><l/>
                         JTJ/FRP           Librarian</signed> 
             </div>
+            
+            <pb/>
 
             <div type="statement">
                 <ab>HEADQUARTERS NWS &amp; 44TH INFANTRY DIVISION OFFICE OF ACTING PROVOST MARSHAL
@@ -368,6 +387,8 @@
                     Marshal State of Washington MICHAEL A. RIVISTO Captain, Infantry NWS. PCF MM
                     TEMPORARY PERMIT #18</ab>
             </div>
+            
+            <pb/>
 
             <div type="clipping">
                 <ab>SEATTLE POST-INTELLIGENCER, WEDNESDAY, MAY 18, 1942 NEW EXCLUSION AREAS P.1
@@ -375,6 +396,8 @@
                     which Japanese will be cleared by Monday. UNDER BAN, TOO—The territory inside
                     the heavy line is covered by Exclusion Order No. 68, effective on Saturday.</ab>
             </div>
+            
+            <pb/>
 
             <div xml:id="moreJapaneseGetOrdersClipping" type="clipping" rendition="#border">
                 <head rendition="#title">More Japanese Get</head>
@@ -410,6 +433,8 @@
                     same hours on the same days, for the other area—one in the Bowers Building on
                     MainSt., Poulsbo, and the other</p>
             </div>
+            
+            <pb/>
 
             <div xml:id="exclusionAreasClipping" type="clipping" rendition="#border">
                 <head rendition="#paper">SEATTLE POST-INTELLIGENCER, WEDNESDAY, MAY 18, 1942</head>
@@ -428,6 +453,8 @@
                 <p rendition="#description"> UNDER BAN, TOO—The territory inside the heavy line is
                     covered by Exclusion Order No. 68, effective on Saturday.</p>
             </div>
+            
+            <pb/>
 
             <div xml:id="registrationClipping" type="clipping" rendition="#border">
                 <head rendition="#date">TUESDAY</head>
@@ -458,6 +485,8 @@
                     remaining Japanese in King County. They still remain in rural areas north and
                     east of Seattle, and a smaller portion of Southern King County.</p>
             </div>
+            
+            <pb/>
 
             <div xml:id="campHarmonyJapsClipping" type="clipping" rendition="#border">
                 <head rendition="#title #center">Camp Harmony Japs</head>
@@ -569,6 +598,8 @@
                     aren’t being pampered — I think everybody’s doing a swell job.</p>
             </div>
 
+            <pb/>
+
             <div type="correspondence">
                 <l><date when="1942-06-02" style="text-align: right;">June 2, 1942</date></l> 
                     
@@ -593,6 +624,8 @@
                     (signature)<l/>
                 </signed>
             </div>
+            
+            <pb/>
 
             <div type="correspondence">
                 <ab type="letterhead">
