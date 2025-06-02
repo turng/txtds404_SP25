@@ -54,10 +54,14 @@
             <rendition xml:id="border" scheme="css"> border: 4px solid black; padding: 30px; </rendition>
             <rendition xml:id="date" scheme="css">font-family: Papyrus, fantasy; text-align: right;
                font-style: italic; font-size: 20px;</rendition>
-            <rendition xml:id="title" scheme="css">font-family: Arial, sans-serif; font-size:
-               35px;</rendition>
+            <rendition xml:id="title" scheme="css">font-family: Arial, sans-serif; font-size: 35px;
+               font-weight: bold;</rendition>
+            <rendition xml:id="subTitle" scheme="css">font-family: Arial, sans-serif; font-size:
+               35px; font-style: italic; font-weight: bold;</rendition>
             <rendition xml:id="paper" scheme="css"> font-family: Papyrus, fantasy; text-align:
                right; font-style: italic; font-size: 20px;</rendition>
+            <rendition xml:id="author" scheme="css">font-family: Arial, sans-serif; font-size: 20px;
+               font-weight: bold;</rendition>
             <rendition xml:id="description" scheme="css"> font-family: "Lucida Console Regular",
                monospace; font-size: 20px; text-indent: 2em;</rendition>
             <rendition xml:id="center" scheme="css">text-align: center;</rendition>
@@ -154,6 +158,109 @@
                   them to tend the stalls and left before noon. </p>
                <p rendition="#description">No date has been set for removal of the Japanese from
                   there</p>
+            </div>
+            <div xml:id="campHarmonyJapsClipping" type="clipping" rendition="#border">
+               <head rendition="#title #center">Camp Harmony Japs</head>
+               <head rendition="#title #center">Living Up to Name</head>
+               <head rendition="#center">___________</head>
+               <head rendition="#subTitle #center">Seattle Evacuees Making Best of</head>
+               <head rendition="#subTitle #center">Site, Despite New Conditions</head>
+               <head rendition="#center">___________</head>
+               <head rendition="#author">By R. B. Bermann</head>
+               <head rendition="#author">Post-Intelligencer Staff Correspondent</head>
+
+               <p rendition="#description">CAMP HARMONY, Puyallup, May 24—Although some of them have
+                  been here scarcely a week, Seattle Japanese are adjusting themselves rapidly to
+                  conditions at this assembly center, and the camp is really living up to its
+                  name.</p>
+               <p rendition="#description">Life is very different from anything to which they had
+                  been accustomed, but they are making the best of things as they found them, and
+                  remarkably few complaints are heard.</p>
+               <p rendition="#description">Maybe the secret lies in the fact that they have so
+                  little idle time on their hands. If they are not just before the travel of all
+                  Japanese was restricted. </p>
+               <p rendition="#description">Her husband build a wardrobe, a linen closet, a vanity
+                  and bench and other bedroom furniture out of scrap lumber and she supplied the
+                  feminine touch with draperies that give the room a really homelike appearance.</p>
+               <p rendition="#description">A completely democratic spirit prevails in the camp,
+                  because practically everyone is on the same economic status.</p>
+               <p rendition="#description">This is because there is so little difference in scales
+                  of pay. A common laborer receives $8 a month,</p>
+               <p rendition="#description"
+                  >____________________________________________________________________________</p>
+               <p>INSERT_IMAGE</p>
+
+               <p rendition="#description">COMFORT OF HOME—Mrs. Robert Hosokawa, recent Willamette
+                  coed, laying out a new apron in the cozy apartment which she and her husband have
+                  contrived to make out of their bare barracks. Her husband constructed the
+                  furniture out of scrap lumber and his drive of two months achieved the rest with a
+                  few draperies.</p>
+               <p rendition="description"
+                  >____________________________________________________________________________</p>
+
+               <p rendition="#description">busy on work details or administrative duties, there is
+                  always something to do around their temporary homes — because the army didn’t have
+                  time to indulge in any of the niceties of interior decoration in constructing
+                  their barracks. </p>
+               <p rendition="#description">And, as if that weren’t enough, many of them have put in
+                  tiny Victory Gardens. For instance, Clarence Arai, for years a prominent Seattle
+                  attorney, has put in radishes, beets, Chinese lettuce and onions — and his little
+                  plot is as meticulously neat as if he were a professional gardener. </p>
+               <p rendition="#description">They take pride in the amount of ingenuity they can show
+                  in making their primitive quarters look more like the homes they left behind
+                  them.</p>
+               <p rendition="#description">An outstanding example in this respect is furnished by
+                  the apartment where Robert Hosokawa, formerly a furniture salesman in Seattle, is
+                  spending his honeymoon. His brider, the former Yoshi Yoshizawa, twenty, was a
+                  junior in Willamette University when the first evacuation orders were issued. She
+                  hurried to Seattle to be married [...] a skilled laborer $12 and a professional
+                  man or woman $16. This pay, of course, is in addition to their board and lodging
+                  and medical and dental attention.</p>
+               <p rendition="#description">The dental clinic is one of the busiest centers in the
+                  camp, with as many as eighteen or twenty patients in a single morning — which
+                  isn’t excessive in view of the fact that the center has an estimated population of
+                  7,500.</p>
+               <p rendition="#description">Six former Seattle dentists are on duty there — Dr. S.
+                  Higashida and his son, Robert; Dr. H. Higashida and his son, Robert; Dr. H.
+                  Mitsumori, Dr. F. Kinemori, Dr. G. Y. Nomura and Dr. S. Ishihashi.</p>
+               <p rendition="#description">A paper has been started, with Dick Takeuchi, former
+                  editor of the Great Northern Daily News, in charge. Takeuchi, who was a journalism
+                  senior at the University of Washington, has tentatively called the paper the Camp
+                  Harmony News Letter, but he isn’t satisfied and has asked his readers to suggest
+                  other names. </p>
+               <p rendition="#description">Dyke Miyagawa, another University of Washington senior,
+                  is his managing editor, and Taka Oka, a sophomore, is assistant managing editor. </p>
+               <p rendition="#description">Keith Oka, formerly employed at the Craftsmen’s Press, is
+                  art editor, and Tad Kuniyuki, formerly sports editor for the Japanese American
+                  Courier, has a similar job there. </p>
+               <p rendition="#description">James Y. Sakamoto, former publisher of the Japanese
+                  American Courier and now chief Japanese supervisor of the camp, has set up his
+                  headquarters underneath the grandstand on the fairgrounds and keeps busy from
+                  morning to night consulting with members of his staff. </p>
+               <p rendition="#description">Bill Hosokawa, University of Washington graduate and
+                  former editor of a newspaper in Singapore, is his chief adjutant. The headquarters
+                  staff is divided into five general sections, with George Ishihara, produce
+                  shipper, in charge of personnel; Jack Maki, associate in the Far Eastern
+                  department at the University of Washington, in charge of information; Dick
+                  Setsuda, beer distributor, in charge of operations; Thomas Iseri, Auburn produce
+                  shipper, in charge of supply, and Julius Fujihara, in charge of police, fire,
+                  postal and other services.</p>
+               <p rendition="#description">Leaders of the four areas into which the center is
+                  divided are William Mimbu, attorney; Yakeo Nogaki and Teruji Umino, both bank
+                  clerks, and Hiroyuki (“Lefty”) Ichihara, who had a fishing tackle store in
+                  Seattle.</p>
+               <p rendition="#description">All of these executives, incidentally, are American-born
+                  Japanese. </p>
+               <p rendition="#description">Life in the camp is by no means all work and no play. </p>
+               <p rendition="#description">Churches have supplied a piano for each of the four areas
+                  and there is plenty of community singing and choir practice.</p>
+               <p rendition="#description">There are athletic facilities for all ages, and a number
+                  of soft ball and ping pong tournaments are already in progress. </p>
+               <p rendition="#description">There are recreational rooms in each area. </p>
+               <p rendition="#description">Jack Maki, the former University faculty member, summed
+                  up the attitude of the evacuees when he said: </p>
+               <p rendition="#description">“We aren’t being mistreated, but, on the other hand, we
+                  aren’t being pampered — I think everybody’s doing a swell job.</p>
             </div>
          </div>
       </body>
