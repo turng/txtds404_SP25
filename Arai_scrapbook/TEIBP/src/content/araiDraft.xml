@@ -177,12 +177,34 @@
             </div>
 
             <div type="certificate">
-                <ab>REGISTRATION CERTIFICATE AMERICAN KENNEL CLUB AKC INCORPORATED AMERICAN KENNEL
-                    CLUB STUD BOOK AMERICAN KENNEL CLUB NEW YORK, N.Y. NAME OF DOG Duke of Main
-                    Street BREED Cocker Spaniel Sex Male SIRE Slicker Boy of Kitsop (934421) DAM
-                    Paul’s Queenie (898745) WHELPED March 14, 1934 COLOR Red BREEDER M. Ellen Paul
-                    OWNER Clarence T. Arai REGISTERED June 15, 1934 ASSIGNED NO 941308 VOLUME 51
-                    August ISSUE Perry B Rice SECRETARY gm</ab>
+                <head rend="caps">
+                    Registration Certificate 
+                
+                    American Kennel Club AKC Incorporated <!--this is the text in the logo thingy, will encode properly later -->
+                    
+                    American Kennel Club Stud Book 
+                    American Kennel Club 
+                    New York, N.Y.
+                </head>
+                 
+                    <l>NAME OF DOG Duke of Main Street</l>
+                    <l>BREED Cocker Spaniel Sex Male</l>
+                    <l>SIRE Slicker Boy of Kitsop (934421)</l> 
+                    <l>DAM Paul’s Queenie (898745)</l> 
+                    <l>WHELPED March 14, 1934</l>
+                    <l>COLOR Red</l>
+                    <l>BREEDER M. Ellen Paul</l>
+                    <l>OWNER Clarence T. Arai</l>
+                    <l>REGISTERED June 15, 1934</l>
+                    <l>ASSIGNED NO 941308</l>
+                    <l>VOLUME 51</l>
+                    <l>August ISSUE</l> 
+                    
+                    <signed>
+                        <l>Perry B Rice</l> 
+                        <l>SECRETARY</l> 
+                        <l>gm</l>
+                    </signed>
             </div>
 
             <div type="statement">
