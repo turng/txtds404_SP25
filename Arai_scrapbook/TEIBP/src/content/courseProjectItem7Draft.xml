@@ -65,8 +65,6 @@
             <rendition xml:id="description" scheme="css"> font-family: "Lucida Console Regular",
                monospace; font-size: 20px; text-indent: 2em;</rendition>
             <rendition xml:id="center" scheme="css">text-align: center;</rendition>
-
-            <rendition xml:id="paragraphIndent" scheme="css">text-align: 2em;</rendition>
             <rendition xml:id="titleIndent" scheme="css">padding-left: 1em; </rendition>
          </tagsDecl>
       </encodingDesc>
@@ -165,6 +163,7 @@
                <head rendition="#center">___________</head>
                <head rendition="#subTitle #center">Seattle Evacuees Making Best of</head>
                <head rendition="#subTitle #center">Site, Despite New Conditions</head>
+               <head rendition="#date">SEATTLE, MAY 25, 1942</head>
                <head rendition="#center">___________</head>
                <head rendition="#author #center">By R. B. Bermann</head>
                <head rendition="#author #center">Post-Intelligencer Staff Correspondent</head>
@@ -186,8 +185,7 @@
                   because practically everyone is on the same economic status.</p>
                <p rendition="#description">This is because there is so little difference in scales
                   of pay. A common laborer receives $8 a month,</p>
-               <p rendition="#description"
-                  >__________________________________</p>
+               <p rendition="#description #center">__________________________________</p>
                <figure xml:id="campHarmonyImage">
                   <graphic url="../images/campHarmonyBedroomTEIBP.jpg"/>
                   <figDesc>Camp Harmony Bedroom</figDesc>
@@ -198,8 +196,7 @@
                   contrived to make out of their bare barracks. Her husband constructed the
                   furniture out of scrap lumber and his drive of two months achieved the rest with a
                   few draperies.</p>
-               <p rendition="description"
-                  >__________________________________</p>
+               <p rendition="#description #center">__________________________________</p>
 
                <p rendition="#description">busy on work details or administrative duties, there is
                   always something to do around their temporary homes — because the army didn’t have
@@ -264,6 +261,88 @@
                   up the attitude of the evacuees when he said: </p>
                <p rendition="#description">“We aren’t being mistreated, but, on the other hand, we
                   aren’t being pampered — I think everybody’s doing a swell job.</p>
+            </div>
+            <div xml:id="exclusionAreasClipping" type="clipping" rendition="#border">
+               <head rendition="#paper">SEATTLE POST-INTELLIGENCER, WEDNESDAY, MAY 18, 1942</head>
+               <head rendition="#title">NEW EXCLUSION AREAS</head>
+               <head rendition="#date">P.1 5/13/42</head>
+               <figure xml:id="firstExclusionAreaImage">
+                  <graphic url="../images/firstExclusionAreaTEIPB.jpg"/>
+                  <figDesc>Camp Harmony Bedroom</figDesc>
+               </figure>
+               <p rendition="#description">PROHIBITED ZONE—Map of the area covered by Exclusion
+                  Order No. 67, from which Japanese will be cleared by Monday. </p>
+               <figure xml:id="secondExclusionAreaImage">
+                  <graphic url="../images/secondExclusionAreaTEIBP.jpg"/>
+                  <figDesc>Camp Harmony Bedroom</figDesc>
+               </figure>
+               <p rendition="#description"> UNDER BAN, TOO—The territory inside the heavy line is
+                  covered by Exclusion Order No. 68, effective on Saturday.</p>
+
+            </div>
+            <div xml:id="moreJapaneseGetOrdersClipping" type="clipping" rendition="#border">
+               <head rendition="#title">More Japanese Get</head>
+               <head rendition="#title #titleIndent">Evacuation Orders</head>
+               <head rendition="#center">____________</head>
+               <head rendition="#author #center">By R. B. Bermann</head>
+
+               <p rendition="#description">Evacuation of all Japanese from Kitsap County, western
+                  Pierce County and the southwestern tip of King County was decreed yesterday in
+                  orders by Lieut. Gen. John L. DeWitt, commanding the Western Defense Command and
+                  Fourth Army.</p>
+               <p rendition="#description">One order, No. 67, takes in Tacoma, Fort Lewis, McChord
+                  Field, Steilacoom and that portion of King County west of Highway 99 and south of
+                  Des Moines. The 1,100 Japanese living in this area are to be evacuated by noon
+                  Monday.</p>
+               <p rendition="#description">OTHER AREAS</p>
+               <p rendition="#description">The other order, No. 68, takes in the Puget Sound Navy
+                  Yard at Bremerton and all the rest of Kitsap County, except Bainbridge Island
+                  which was evacuated earlier; Vashon Island in King County and the island and
+                  Olympic Peninsula sections of Pierce County. The 200 Japanese living in this area
+                  are to be evacuated by noon Saturday.</p>
+               <p rendition="#description">The destination of the Japanese affected by these orders
+                  was not announced, but the fact that they were advised they would not be permitted
+                  to use private automobiles was constructed as an indication that they will not be
+                  sent to the assembly center in Puyallup.</p>
+               <p rendition="#description">It was considered probable that they would be sent to the
+                  assembly center at Pinedale, Calif., to join evacuees from the rural districts of
+                  King and Pierce counties who have already been moved there.</p>
+               <p rendition="#description">Prospective evacuees in the area covered by Order No. 67
+                  will register between 8 a.m. and 5 p. m. today and tomorrow at a civil control
+                  station at 1715 S. Tacoma Ave., Tacoma.</p>
+               <p rendition="#description">There will be two registration points, open during the
+                  same hours on the same days, for the other area—one in the Bowers Building on
+                  MainSt., Poulsbo, and the other</p>
+            </div>
+
+            <div xml:id="registrationClipping" type="clipping" rendition="#border">
+               <head rendition="#date">TUESDAY</head>
+               <head rendition="#date">P.1 5/12/42</head>
+               <head rendition="#title">REGISTRATION</head>
+               <head rendition="#title #titleIndent">OF REMAINING</head>
+               <head rendition="#title #titleIndent #titleIndent">JAPS STARTS</head>
+               <head rendition="#subTitle #center">All Left in Seattle to Get</head>
+               <head rendition="#subTitle #center">Assignments by Tonight;</head>
+               <head rendition="#subTitle #center">New County Orders Seen</head>
+               <head rendition="#center">____________</head>
+               <p rendition="#description">Registration of all Japanese remaining in Seattle started
+                  yesterday and will continue today at the newest civil control station, 2203 E.
+                  Madison St.</p>
+               <p rendition="#description">Like the registrations which preceded it, everything was
+                  varied out in an orderly manner with a minimum of confusion. It is expected that
+                  1,098 Japanese remain in the last Seattle district to be evacuated, and all will
+                  be registered and get their Puyallup center assignments by 5 o’clock this
+                  evening.</p>
+               <p rendition="#description">PUYALLUP, TOO</p>
+               <p rendition="#description">At the same time, registration was proceeding in Puyallup
+                  of some 1,000 Japanese living in Eastern Pierce County. They are to be sent to an
+                  evacuation center at Pinedale, Calif., where Japanese from rural King County south
+                  of Seattle are also going.</p>
+               <p rendition="#description">Among those who registered yesterday were a number of
+                  Japanese who are married to men or women of other races.</p>
+               <p rendition="#description">Orders are expected this week to evacuate all of the
+                  remaining Japanese in King County. They still remain in rural areas north and east
+                  of Seattle, and a smaller portion of Southern King County.</p>
             </div>
          </div>
       </body>
