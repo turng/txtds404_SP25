@@ -78,7 +78,7 @@
                     and bus rides to Portland. On paper, Arai was a lawyer, civil rights advocate,
                     and photographer. But on paper, he was also a gardener, a father, a man with
                     dreams and indignation with the injustice he knew he was living: a human.</p>
-                <p> Regrettably, we could not include every insightful artifact in Arai’s scrapbook.
+                <p>Regrettably, we could not include every insightful artifact in Arai’s scrapbook.
                     We each chose a genre (personal correspondences, state issues, and newspaper
                     articles) and selected a few pages from that genre, maintaining original
                     spellings and punctuation to preserve authenticity. Our goal was to provide a
@@ -87,15 +87,15 @@
                     textbooks or documentaries, providing insight on lived experiences through his
                     personal memorabilia and artifacts. By publishing this work, we hope that
                     readers will gain a more well-rounded, holistic perspective on this time period,
-                    and an awareness of Arai’s life and enduring legacy. </p>
+                    and an awareness of Arai’s life and enduring legacy.</p>
             </div>
             <div type="annotations"> </div>
         </front>
         <body>
-            <div type="certificate">
-                <head rend='caps'>In Appreciation</head>
-                <head rend= 'caps'>Presented to</head>
-                <head rend= 'caps'><name>Mr. Clarence T. Arai </name></head>
+            <div type="certificate" rend='gothic'>
+                <head rend="caps">In Appreciation</head>
+                <head rend="caps">Presented to</head>
+                <head rend="caps"><name>Mr. Clarence T. Arai </name></head>
                 <p>On behalf of <name>Aiichiro Fujiyama</name>, Minister for Foreign Affairs of
                     Japan, I convey to you the commendations of the Japanese Government for your
                     exemplary citizenship and leadership in the affairs of your community</p>
@@ -108,22 +108,26 @@
                     present to you this mokuahi from the Japanese Government as a token of heartfelt
                     appreciation for your unswerving devotion to the cause of peace and
                     understanding between our two countries.</p>
-                <p>Presented at Seattle, Washington this 22nd day of May, 1960.</p>
+                <p>Presented at Seattle, Washington this <date when="1960-05-22">22nd day of May,
+                        1960</date>.</p>
                 <l>Consul-General of Japan</l>
-                <l>_______(signature)______ Yoshiharu Takeno </l>
+                <l>_______(signature)______ <name>Yoshiharu Taken</name>o </l>
             </div>
 
-            <div type="certificate">
-
-                <ab>SMITHSONIAN INSTITUTION WASHINGTON, D.C. THIS·IS·TO·CERTIFY·THAT Clarence T.
-                    Arai IS·REGISTERED· IN·THE·ARCHIVES·OF·THE·INSTITUTION·AS·A PATRON
-                    OF·THE·SMITHSONIAN·SCIENTIFIC·SERIES·IN·RECOGNITION·OF·HIS·AID·TO·THE·
+            <div type="certificate" rend="caps">
+                <head>SMITHSONIAN INSTITUTION</head>
+                <head>WASHINGTON, D.C.</head>
+                <head>THIS·IS·TO·CERTIFY·THAT</head>
+                <head><ref type="name">Clarence T. Arai</ref></head>
+                <head>IS·REGISTERED· IN·THE·ARCHIVES·OF·THE·INSTITUTION·AS·A</head>
+                <head>PATRON</head>
+                <p>OF·THE·SMITHSONIAN·SCIENTIFIC·SERIES·IN·RECOGNITION·OF·HIS·AID·TO·THE·
                     INSTITUTION’S·PROGRAM·FOR·THE·DIFFUSION·OF·KNOWLEDGE·AMONG·MEN·
-                    AND·THE·INCREASE·OF·ITS·FINANCIAL·ENDOWMENT·FOR·SCIENTIFIC·RESEARCH
-                    IN·WITNESS·WHEREOF·THE·SEAL· OF ·THE· INSTITUTION·AND ·THE ·SIGNATURES·OF
-                    ·THE·SECRETARY ·AND·THE·ADMINISTRATION·ASSISTANT·ARE ·AFFIXED·HERETO
-                    ___________(signature)_________ SECRETARY ____(signature)_______________
-                    ADMINISTRATIVE ASSISTANT </ab>
+                    AND·THE·INCREASE·OF·ITS·FINANCIAL·ENDOWMENT·FOR·SCIENTIFIC·RESEARCH</p>
+                <p>IN·WITNESS·WHEREOF·THE·SEAL·OF·THE·INSTITUTION·AND·THE·SIGNATURES·OF
+                    ·THE·SECRETARY ·AND·THE·ADMINISTRATION·ASSISTANT·ARE·AFFIXED·HERETO</p>
+                <l>___________(signature)_________ SECRETARY</l>
+                <l> __________(signature)_________ GENERAL</l>
             </div>
 
             <div type="correspondence">
@@ -153,61 +157,81 @@
                     August ISSUE Perry B Rice SECRETARY gm</ab>
             </div>
 
-            <div>
-                <ab>Headquarters Western Defense Command And Fourth Army Presidio of San Francisco,
-                    California - - - Public Proclamation No. 3 - - - March 24, 1942 TO: The people
-                    within the States of Washington, Oregon, California, Montana, Idaho, Nevada,
-                    Utah and Arizona, and the Public Generally: WHEREAS, By Public Proclamation
-                    No.1, dated March 2, 1942, this headquarters, there were designated and
-                    established Military Areas Nos. 1 and 2 and Zones thereof, and WHEREAS, By
-                    Public Proclamation No. 2, dated March 2, 1942, this headquarters, there were
+            <div type="statement">
+                <head><hi rend="bold">Headquarters</hi></head>
+                <head rend="bold">Western Defense Command</head>
+                <head><hi rend="bold">And Fourth Army</hi></head>
+                <head><hi rend="bold">Presidio of San Francisco, California</hi></head>
+                <head><hi rend="bold">- - - Public Proclamation No. 3 - - - </hi></head>
+                <head><date when="1942-03-24">March 24, 1942</date></head>
+                <p>TO: The people within the States of Washington, Oregon, California, Montana,
+                    Idaho, Nevada, Utah and Arizona, and the Public Generally:</p>
+                <p><hi rend="sc">WHEREAS</hi>, By Public Proclamation No.1, dated <date
+                        when="1942-03-02">March 2, 1942</date>, this headquarters, there were
+                    designated and established Military Areas Nos. 1 and 2 and Zones thereof,
+                    and</p>
+                <p><hi rend="sc">WHEREAS</hi>, By Public Proclamation No. 2, dated <date
+                        when="1942-03-02">March 2, 1942</date>, this headquarters, there were
                     designated and established Military Areas Nos. 3,4,5 and 6 and Zones thereof,
-                    and WHEREAS, The present situation within these Military Areas and Zones
-                    requires as a matter of military necessity the establishment of certain
+                    and</p>
+                <p><hi rend="sc">WHEREAS</hi>, The present situation within these Military Areas and
+                    Zones requires as a matter of military necessity the establishment of certain
                     regulations pertaining to all enemy aliens and all persons of Japanese ancestry
-                    within said Military Areas and Zones thereof: Now, THEREFORE, I, J.L. DEWITT,
-                    Lieutenant General, U.S. Army, by virtue of the authority vested in me by the
-                    President of the United States and by the Secretary of War and my powers and
-                    prerogatives as Commanding General, Western Defense Command, do hereby declare
-                    and establish the following regulations covering the conduct to be observed by
-                    all alien Japanese, all alien Germans, all alien Italians, and all persons of
-                    Japanese ancestry residing or being within the Military Areas above described,
-                    or such portions thereof as are hereinafter mentioned : From and after 6:00
-                    A.M., March 27, 1942, all alien Japanese, all alien Germans, all alien Italians,
-                    and all persons of Japanese ancestry residing or being within the geographical
-                    limits of Military Area No.1, or within any of the Zones </ab>
+                    within said Military Areas and Zones thereof:</p>
+                <p>Now, <hi rend="sc">THEREFORE</hi>, I, J.L. DEWITT, Lieutenant General, U.S. Army,
+                    by virtue of the authority vested in me by the President of the United States
+                    and by the Secretary of War and my powers and prerogatives as Commanding
+                    General, Western Defense Command, do hereby declare and establish the following
+                    regulations covering the conduct to be observed by all alien Japanese, all alien
+                    Germans, all alien Italians, and all persons of Japanese ancestry residing or
+                    being within the Military Areas above described, or such portions thereof as are
+                    hereinafter mentioned: </p>
+                <p>From and after 6:00 A.M., <date when="1942-03-27">March 27, 1942</date>, all
+                    alien Japanese, all alien Germans, all alien Italians, and all persons of
+                    Japanese ancestry residing or being within the geographical limits of Military
+                    Area No.1, or within any of the Zones</p>
             </div>
 
             <div>
-                <ab>Headquarters Western Defense Command And Fourth Army Presidio of San Francisco,
-                    California April 24th, 1942 Civilian Exclusion Order No.17 Pursuant to the
-                    provisions of Public Proclamations Nos. 1 and 2, this Headquarters, dated March
-                    2, 1942, and March 16, 1942, respectively, it is hereby ordered that from and
-                    after 12 o’clock noon, P.W.T., of Friday, May 1, 1942, all persons of Japanese
-                    ancestry, both alien and non-aline, be excluded from that portion of Military
-                    Area No. 1 described as follows: All that portion of the City of Seattle, State
-                    of Washington, within that boundary beginning at the point at which the
-                    northerly limits of said city meet Shilshole Bay ; thence easterly and following
-                    the northerly limits of said city to Roosevelt Way ; thence southerly and
-                    following Roosevelt Way, Eastlake Avenue, fairview Avenue, Virginia Street, and
-                    Westlake Avenue to Fifth Avenue ; thence southeasterly on Fifth Avenue to Yesler
-                    Way ; thence easterly on Yesler Way to Maynard Avenue ; thence southerly on
-                    Maynard Avenue to Jackson Street ; thence westerly on jackson Street to Elliott
-                    Bay ; thence north-westerly and northerly, and following the westerly limits of
-                    the CIty of Seattle, to the point of beginning. A responsible member of each
-                    family, and each individual living alone, in the above described area will
-                    report between the hours of 8:00 A.M. and 5:00 P.M., Saturday, April 25, 1942,
-                    or during the same hours on Sunday, April 26, 1942, to the Civil Control Station
-                    located at : 2100 Second Avenue, Seattle, Washington. Any person subject to this
-                    order who fails to comply with any of its provisions or with the provisions of
-                    published instructions pertaining herto or who is found in the above area after
-                    12 o’clock noon, P.W.T., of Friday, May 1, 1942, will be liable to the criminal
-                    penalties provided by Public Law No.503, 77th Congress, approved March 21, 1942,
-                    entitled “An Act to Provide a Penalty for Violation of Restrictions or Orders
-                    with Respect to Persons Entering, Remaining in, Leaving, or Committing any Act
-                    in Military Areas or Zones,” and alien Japanese will be subject to immediate
-                    apprehension and internment. J. L. DEWITT Lieutenant General, U.S. Army
-                    Commanding </ab>
+                <head><hi rend="bold">Headquarters</hi></head>
+                <head><hi rend="bold">Western Defense Command</hi></head>
+                <head><hi rend="bold">And Fourth Army Presidio of San Francisco,
+                    California</hi></head>
+                <head><date when="1942-04-24">April 24th, 1942</date></head>
+                <head><hi rend="bold">Civilian Exclusion Order No.17</hi></head>
+                <p>Pursuant to the provisions of Public Proclamations Nos. 1 and 2, this
+                    Headquarters, dated <date when="1942-03-02">March 2, 1942</date>, and <date
+                        when="1942-03-16">March 16, 1942</date>, respectively, it is hereby ordered
+                    that from and after 12 o’clock noon, P.W.T., of Friday, <date when="1942-05-01"
+                        >May 1, 1942</date>, all persons of Japanese ancestry, both alien and
+                    non-aline, be excluded from that portion of Military Area No. 1 described as
+                    follows:</p>
+                <p>All that portion of the City of Seattle, State of Washington, within that
+                    boundary beginning at the point at which the northerly limits of said city meet
+                    Shilshole Bay ; thence easterly and following the northerly limits of said city
+                    to Roosevelt Way ; thence southerly and following Roosevelt Way, Eastlake
+                    Avenue, fairview Avenue, Virginia Street, and Westlake Avenue to Fifth Avenue ;
+                    thence southeasterly on Fifth Avenue to Yesler Way ; thence easterly on Yesler
+                    Way to Maynard Avenue ; thence southerly on Maynard Avenue to Jackson Street ;
+                    thence westerly on jackson Street to Elliott Bay ; thence north-westerly and
+                    northerly, and following the westerly limits of the CIty of Seattle, to the
+                    point of beginning.</p>
+                <p>A responsible member of each family, and each individual living alone, in the
+                    above described area will report between the hours of 8:00 A.M. and 5:00 P.M.,
+                    Saturday, <date when="1942-04-25">April 25, 1942</date>, or during the same
+                    hours on Sunday, <date when="1942-04-26">April 26, 1942</date>, to the Civil
+                    Control Station located at :</p>
+                <l>2100 Second Avenue,</l>
+                <l>Seattle, Washington.</l>
+                <p>Any person subject to this order who fails to comply with any of its provisions
+                    or with the provisions of published instructions pertaining herto or who is
+                    found in the above area after 12 o’clock noon, P.W.T., of Friday, May 1, 1942,
+                    will be liable to the criminal penalties provided by Public Law No.503, 77th
+                    Congress, approved March 21, 1942, entitled “An Act to Provide a Penalty for
+                    Violation of Restrictions or Orders with Respect to Persons Entering, Remaining
+                    in, Leaving, or Committing any Act in Military Areas or Zones,” and alien
+                    Japanese will be subject to immediate apprehension and internment.</p>
+                <l>J. L. DEWITT Lieutenant General, U.S. Army Commanding</l>
             </div>
 
             <div>
