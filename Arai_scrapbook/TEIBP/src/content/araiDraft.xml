@@ -414,20 +414,6 @@
             
             <pb/>
 
-            <div type="clipping">
-                <head rend="caps">Seattle Post-Intelligencer,<date when="1942-05-18"> Wednesday, May 18, 1942</date>
-                    
-                    <l rendition="#title">New Exclusion Area</l>s 
-                    <add>P.1 5/13/42</add></head>
-                    
-                    <!--image goes here-->
-                    
-                    <p><hi rend="caps">Prohibited Zone</hi>—Map of the area covered by Exclusion Order No. 67, from which Japanese will be cleared by Monday.</p>
-                    <p><hi rend="caps">Under Ban, Too</hi>—The territory inside the heavy line is covered by Exclusion Order No. 68, effective on <date when="1941-05-21">Saturday</date>.</p>
-            </div>
-            
-            <pb/>
-
             <div xml:id="moreJapaneseGetOrdersClipping" type="clipping" rendition="#border">
                 <head rendition="#title">More Japanese Get</head>
                 <head rendition="#title #titleIndent">Evacuation Orders</head>
