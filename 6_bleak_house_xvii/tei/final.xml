@@ -1,0 +1,809 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bleak House Volume XVII Digital Edition</title>
+            <author>Charles Dickens</author>
+            <editor ref="#Alysa">Alysa Meng</editor>
+            <editor ref="#Karthik">Karthik Malli</editor>
+            <editor ref="#Keren">Keren Truong</editor>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>TXTDS 404/504 Spring <date when="2025">2025</date> offering at the University
+               of Washington</publisher>
+            <pubPlace key="Seattle, WA, USA">Seattle, Washington</pubPlace>
+            <date when="2025">2025</date>
+            <distributor>From University of Washington Libraries Special Collections</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Bleak House</title>
+               <author key="Dickens, Charles (1812-1870)">Charles Dickens</author>
+               <publisher>Bradbury and Evans</publisher>
+               <pubPlace key="London, UK">London</pubPlace>
+               <date>1852–1853</date>
+               <note>Published in 20 installations monthly, beginning in <date when="1852-03-12">12
+                     March 1852</date> and ending <date when="1853-09-12">12 September 1853</date>.
+                  Our edition, No. XVII, was published <date when="1853-07-12">12 July
+                     1853</date>.</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>We choose not to modernize the text, since we wish to preserve the textual impact of
+               the original 1852 publication. Thankfully, the language is not too far removed from
+               what modern readers are comfortable with. Instead, to supply more context, we choose
+               to annotate unfamiliar terms and concepts pertaining to 19th century British legal
+               culture and Bleak House as a larger text.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <creation>By Charles Dickens.<date>1852-53</date></creation>
+         <langUsage>
+            <language ident="en">The text is in English.</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+    <front>
+         <titlePage>
+            <titlePart> ... </titlePart>
+         </titlePage>
+         <div type="intro">
+            <p>Charles Dickens
+               is one of the most well-known English authors, who had a diverse writing career as a reporter, 
+               editor and essayist. He produced 14 novels, most of which were published in serial editions. 
+               This included a 20-month serialization of Bleak House published by Bradbury and Evans with 
+               illustrations by <ref target="#n3">Hablot Knight Browne</ref>.
+               The story of Bleak House follows the course of a legal dispute in the British <ref target="n2">Court of Chancery</ref>, 
+               as the <ref target="n1">Jarndyce family</ref> waits over generations to receive an inheritance they believe they deserve.
+               The story is a commentary on the convoluted legal system in Britain, and the corruption inherent 
+               in it. </p>
+            <p>Thanks to the serial format, Bleak House reached a wide range of audiences. The
+               critical perspective towards the legal system in Bleak House would have appealed to a
+               more educated population. Furthermore, the relatively afforable installments, public
+               readings, and library lendings would allow the working class to access the novel.
+               Eventually, Dickens work would achieve a 
+               global audience.</p>
+         </div>
+         <div type="preface">
+            <p>Through this edition, we are interested in examining the intertextuality between
+               advertisements and different groups of readers, as well as the juxtaposition of
+               advertisements and the prose text of the novel. Along the way, we provide access to a
+               serialized experience of the novel, as a modern parallel to how Bleak House would
+               have been read when it was first published in 1852. The digital edition also augments
+               searchability and increases accessibility for a 21st-century reader.</p>
+         </div>
+         <div type="editorial">
+            <p>We choose not to modernize the text, since we wish to preserve the textual impact of
+               the original 1852 publication. Thankfully, the language is not too far removed from
+               what modern readers are comfortable with. Instead, to supply more context, we choose
+               to annotate unfamiliar terms and concepts pertaining to 19th-century British legal
+               culture and Bleak House as a larger text.</p>
+         </div>
+         <div type="maintext">
+            <p/>
+         </div>
+      </front>
+      <body>
+         <!-- Section for the novel -->
+         <div type="bleak-house">
+            <div n="54" type="chapter" xml:id="ch54">
+               <pb n="513"/>
+               <note type="original" place="foot">L L</note>
+               <head rend="caps">Springing a mine.</head>
+
+               <!-- Start ch 54 text -->
+               <p><hi rend="caps">Refreshed</hi> by sleep, <persName ref="bucket">Mr.
+                     Bucket</persName> rises betimes in the morning, and prepares for a field-day.
+                  Smartened up by the aid of a clean shirt and a wet hair-brush, with which
+                  instrument, on occasions of ceremony, he lubricates such thin locks as remain to
+                  him after his life of severe study, <persName ref="bucket">Mr. Bucket</persName>
+                  lays in a breakfast of two mutton chops as a foundation to work upon, together
+                  with tea, eggs, toast and marmalade, on a corresponding scale. Having much enjoyed
+                  these strengthening matters, and having held subtle conference with his familiar
+                  demon, he confidentially instructs <persName ref="mercury">Mercury</persName>
+                  <said aloud="true" who="bucket" toWhom="mercury">just to mention quietly to
+                        <persName ref="sir-dedlock">Sir Leicester Dedlock, Baronet,</persName> that
+                     whenever he's ready for me, I'm ready for him.</said> A gracious message being
+                  returned, that <persName ref="sir-dedlock">Sir Leicester</persName> will expedite
+                  his dressing and join <persName ref="bucket">Mr. Bucket</persName> in the
+                     <placeName ref="library">library</placeName> within ten minutes, <persName
+                     ref="bucket">Mr. Bucket</persName> repairs to that apartment; and stands before
+                  the fire, with his finger on his chin, looking at the blazing coals.</p>
+
+               <p>Thoughtful <persName ref="bucket">Mr. Bucket</persName> is; as a man may be, with
+                  weighty work to do; but composed, sure, confident. From the expression of his
+                  face, he might be a famous whist-player for a large stake — say a hundred guineas
+                  certain — with the game in his hand, but with a high reputation involved in his
+                  playing his hand out to the last card, in a masterly way. Not in the least anxious
+                  or disturbed is <persName ref="bucket">Mr. Bucket</persName>, when <persName
+                     ref="sir-dedlock">Sir Leicester</persName> appears; but he eyes the baronet
+                  aside as he comes slowly to his easy chair, with that observant gravity of
+                  yesterday, in which there might have been yesterday, but for the audacity of the
+                  idea, a touch of compassion.</p>
+
+               <p><said aloud="true" who="sir-dedlock" toWhom="bucket">I am sorry to have kept you
+                     waiting, officer, but I am rather later than my usual hour this morning. I am
+                     not well. The agitation, and the indignation from which I have recently
+                     suffered, have been too much for me. I am subject to — gout;</said>
+                  <persName ref="sir-dedlock">Sir Leicester</persName> was going to say
+                  indisposition, and would have said it to anybody else, but <persName ref="bucket"
+                     >Mr. Bucket</persName> palpably knows all about it; <said aloud="true"
+                     who="sir-dedlock" toWhom="bucket">and recent circumstances have brought it
+                     on.</said></p>
+
+               <p>As he takes his seat with some difficulty, and with an air of pain, <persName
+                     ref="bucket">Mr. Bucket</persName> draws a little nearer, standing with one of
+                  his large hands on the library table.</p>
+
+               <p><said aloud="true" who="sir-dedlock" toWhom="bucket">I am not aware,
+                     officer,</said>
+                  <persName ref="sir-dedlock">Sir Leicester</persName> observes, raising his eyes to
+                  his face, <said aloud="true" who="sir-dedlock" toWhom="bucket">whether you wish us
+                     to be alone; but that is entirely as you please. If you do, well and good. If
+                     not, <persName ref="miss-dedlock">Miss Dedlock</persName> would be
+                     interested——</said></p>
+
+               <p><said aloud="true" who="bucket" toWhom="sir-dedlock">Why, <persName
+                        ref="sir-dedlock">Sir Leicester Dedlock, Baronet</persName>,</said> returns
+                     <persName ref="bucket">Mr. Bucket</persName>, with his head persuasively on one
+                  side, and his forefinger pendant at one ear like an ear-ring, <said aloud="true"
+                     who="bucket" toWhom="sir-dedlock">we can't be too private, just at present. You
+                     will presently see that we can't be too private. A lady, under any
+                     circumstances, and especially in <persName ref="miss-dedlock">Miss
+                        Dedlock</persName>'s elevated station of society, can't but be agreeable to
+                     me; but speaking without a view to myself, I will take the liberty of assuring
+                     you that I know we can't be too private.</said></p>
+
+               <pb n="514"/>
+
+               <p><said aloud="true" who="sir-dedlock" toWhom="bucket">That is enough.</said></p>
+
+               <p><said aloud="true" who="bucket" toWhom="sir-dedlock">So much so, <persName
+                        ref="sir-dedlock">Sir Leicester Dedlock, Baronet</persName>,</said>
+                  <persName ref="bucket">Mr. Bucket</persName> resumes, <said aloud="true"
+                     who="bucket" toWhom="sir-dedlock">that I was on the point of asking your
+                     permission to turn the key in the door.</said></p>
+
+               <p><said aloud="true" who="sir-dedlock" toWhom="bucket">By all means.</said>
+                  <persName ref="bucket">Mr. Bucket</persName> skilfully and softly takes that
+                  precaution; stooping on his knee for a moment, from mere force of habit, so to
+                  adjust the key in the lock as that no one shall peep in from the outerside.</p>
+
+               <p><said aloud="true" who="bucket" toWhom="sir-dedlock"><persName ref="sir-dedlock"
+                        >Sir Leicester Dedlock, Baronet</persName>, I mentioned yesterday evening,
+                     that I wanted but a very little to complete this case. I have now completed it,
+                     and collected proof against the person who did this crime.</said></p>
+
+               <p><said aloud="true" who="sir-dedlock" toWhom="bucket">Against the
+                  soldier?</said></p>
+
+               <p><said aloud="true" who="bucket" toWhom="sir-dedlock">No, <persName
+                        ref="sir-dedlock">Sir Leicester Dedlock</persName>; not the
+                  soldier.</said></p>
+               <p><persName ref="sir-dedlock">Sir Leicester</persName> looks astounded, and
+                  inquires, <said aloud="true" who="sir-dedlock" toWhom="bucket">Is the man in
+                     custody?</said></p>
+               <p><persName ref="bucket">Mr. Bucket</persName> tells him, after a pause, <said
+                     aloud="true" who="bucket" toWhom="sir-dedlock">It was a woman.</said></p>
+
+               <p><persName ref="sir-dedlock">Sir Leicester</persName> leans back in his chair, and
+                  breathlessly ejaculates, <said aloud="true" who="sir-dedlock" toWhom="bucket">Good
+                     Heaven!</said></p>
+
+               <p><said aloud="true" who="bucket" toWhom="sir-dedlock">Now, <persName
+                        ref="sir-dedlock">Sir Leicester Dedlock, Baronet</persName>,</said>
+                  <persName ref="bucket">Mr. Bucket</persName> begins, standing over him with one
+                  hand spread out on the library table, and the forefinger of the other in
+                  impressive use, <said aloud="true" who="bucket" toWhom="sir-dedlock">it's my duty
+                     to prepare you for a train of circumstances that may, and I go so far as to say
+                     that will, give you a shock. But <persName ref="sir-dedlock">Sir Leicester
+                        Dedlock, Baronet</persName>, you are a gentleman; and I know what a
+                     gentleman is, and what a gentleman is capable of. A gentleman can bear a shock,
+                     when it must come, boldly and steadily. A gentleman can make up his mind to
+                     stand up against almost any blow. Why, take yourself, <persName
+                        ref="sir-dedlock">Sir Leicester Dedlock, Baronet</persName>. If there's a
+                     blow to be inflicted on you, you naturally think of your family. You ask
+                     yourself, how would all them ancestors of yours, away to Julius Cæsar—not to go
+                     beyond him at present—have borne that blow; you remember scores of them that
+                     would have borne it well; and you bear it well on their accounts, and to
+                     maintain the family credit. That's the way you argue, and that's the way you
+                     act, <persName ref="sir-dedlock">Sir Leicester Dedlock,
+                     Baronet</persName>.</said></p>
+
+               <p><persName ref="sir-dedlock">Sir Leicester</persName>, leaning back in his chair,
+                  and grasping the elbows, sits looking at him with a stony face.</p>
+
+
+               <p><said aloud="true" who="bucket" toWhom="sir-dedlock">Now, <persName
+                        ref="sir-dedlock">Sir Leicester Dedlock</persName>,</said> proceeds
+                     <persName ref="bucket">Mr. Bucket</persName>, <said aloud="true" who="bucket"
+                     toWhom="sir-dedlock">thus preparing you, let me beg of you not to trouble your
+                     mind, for a moment, as to anything having come to <hi rend="it">my</hi>
+                     knowledge. I know so much about so many characters, high and low, that a piece
+                     of information more or less, don't signify a straw. I don't suppose there's a
+                     move on the board that would surprise <hi rend="it">me</hi>; and as to this or
+                     that move having taken place, why my knowing it is no odds at all; any possible
+                     move whatever (provided it's in a wrong direction) being a probable move
+                     according to my experience. Therefore what I say to you, <persName
+                        ref="sir-dedlock">Sir Leicester Dedlock, Baronet</persName>, is, don't you
+                     go and let yourself be put out of the way, because of my knowing anything of
+                     your family affairs.</said></p>
+
+               <p><said aloud="true" who="sir-dedlock" toWhom="bucket">I thank you for your
+                     preparation,</said> returns <persName ref="sir-dedlock">Sir
+                     Leicester</persName>, after a silence, without moving hand, foot, or feature;
+                     <said aloud="true" who="sir-dedlock" toWhom="bucket">which I hope is not
+                     necessary, though I give it credit for being well intended. Be so good as to go
+                     on. Also;</said>
+                  <persName ref="sir-dedlock">Sir Leicester</persName> seems to shrink in the shadow
+                  of his figure; <said aloud="true" who="sir-dedlock" toWhom="bucket">also, to take
+                     a seat, if you have no objection.</said></p>
+
+               <p>None at all. <persName ref="bucket">Mr. Bucket</persName> brings a chair, and
+                  diminishes his shadow.</p>
+
+               <pb n="515"/>
+               <note type="original" place="foot">L L 2</note>
+
+               <p><said aloud="true" who="bucket" toWhom="sir-dedlock">Now, <persName
+                        ref="sir-dedlock">Sir Leicester Dedlock, Baronet</persName>, with this short
+                     preface, I come to the point. <persName ref="lady-dedlock">Lady
+                        Dedlock</persName>———</said></p>
+
+               <p><persName ref="sir-dedlock">Sir Leicester</persName> raises himself in his seat,
+                  and stares at him fiercely. <persName ref="bucket">Mr. Bucket</persName> brings
+                  the finger into play as an emollient.</p>
+
+               <p><said aloud="true" who="bucket" toWhom="sir-dedlock"><persName ref="lady-dedlock"
+                        >Lady Dedlock</persName>, you see, she's universally admired. That's what
+                        <persName ref="lady-dedlock">her Ladyship</persName> is; she's universally
+                     admired,</said> says <persName ref="bucket">Mr. Bucket</persName>.</p>
+
+               <p><said aloud="true" who="sir-dedlock" toWhom="bucket">I would greatly prefer,
+                        <persName ref="bucket">officer</persName>,</said>
+                  <persName ref="sir-dedlock">Sir Leicester</persName> returns, stiffly, <said
+                     aloud="true" who="sir-dedlock" toWhom="bucket"><persName ref="lady-dedlock">my
+                        Lady</persName>'s name being entirely omitted from this
+                  discussion.</said></p>
+
+               <p><said aloud="true" who="bucket" toWhom="sir-dedlock">So would I, <persName
+                        ref="sir-dedlock">Sir Leicester Dedlock, Baronet</persName>, but——it's
+                     impossible.</said></p>
+
+               <p><said aloud="true" who="sir-dedlock" toWhom="bucket">Impossible?</said></p>
+
+               <p>Mr. Bucket shakes his relentless head.</p>
+
+               <p><said aloud="true" who="bucket" toWhom="sir-dedlock"><persName ref="sir-dedlock"
+                        >Sir Leicester Dedlock, Baronet</persName>, it's altogether impossible. What
+                     I have got to say, is about <persName ref="lady-dedlock">her
+                        Ladyship</persName>. She is the pivot it all turns on.</said></p>
+
+               <p><said aloud="true" who="sir-dedlock" toWhom="bucket"><persName ref="bucket"
+                        >Officer</persName>,</said> retorts <persName ref="sir-dedlock">Sir
+                     Leicester</persName>, with a fiery eye, and a guivering lip, <said aloud="true"
+                     who="sir-dedlock" toWhom="bucket">you know your duty. Do your duty; but be
+                     careful not to overstep it. I would not suffer it. I would not endure it. You
+                     bring <persName ref="lady-dedlock">my Lady</persName>'s name into this
+                     communication, upon your responsibility—upon your responsibility. <persName
+                        ref="lady-dedlock">My Lady</persName>'s name is not a name for common
+                     persons to triffe with!</said></p>
+
+               <p><said aloud="true" who="bucket" toWhom="sir-dedlock"><persName ref="sir-dedlock"
+                        >Sir Leicester Dedlock, Baronet</persName>, I say what I must say; and no
+                     more.</said></p>
+
+               <p><said aloud="true" who="sir-dedlock" toWhom="bucket">I hope it may prove so. Very
+                     well. Go on. Go on, sir!</said></p>
+
+               <p>Glancing at the angry eyes which now avoid him, and at the angry figure trembling
+                  from head to foot, yet striving to be still, <persName ref="bucket">Mr.
+                     Bucket</persName> feels his way with his forefinger, and in a low voice
+                  proceeds.</p>
+
+
+               <p><said aloud="true" who="bucket" toWhom="sir-dedlock"><persName ref="sir-dedlock"
+                        >Sir Leicester Dedlock, Baronet</persName>, it becomes my duty to tell you
+                     that the deceased <persName ref="tulkinghorn">Mr. Tulkinghorn</persName> long
+                     entertained mistrusts and suspicions of <persName ref="lady-dedlock">Lady
+                        Dedlock</persName>.</said></p>
+
+               <p><said aloud="true" who="sir-dedlock" toWhom="bucket">If he had dared to breathe
+                     them to me, sir—which he never did—I would have killed him myself!</said>
+                  exclaims <persName ref="sir-dedlock">Sir Leicester</persName>, striking his hand
+                  upon the table. But, in the very heat and fury of the act, he stops, fixed by the
+                  knowing eyes of <persName ref="bucket">Mr. Bucket</persName>, whose forefinger is
+                  slowly going, and who, with mingled confidence and patience, shakes his head.</p>
+
+               <p><said aloud="true" who="bucket" toWhom="sir-dedlock"><persName ref="sir-dedlock"
+                        >Sir Leicester Dedlock</persName>, the deceased <persName ref="tulkinghorn"
+                        >Mr. Tulkinghorn</persName> was deep and close; and what he fully had in his
+                     mind in the very beginning, I can't quite take upon myself to say. But I know
+                     from his lips, that he long ago suspected <persName ref="lady-dedlock">Lady
+                        Dedlock</persName> of having discovered, through the sight of some
+                     handwriting—in this very house, and when you yourself, <persName
+                        ref="sir-dedlock">Sir Leicester Dedlock</persName>, were present—the
+                     existence, in great poverty, of a certain person, who had been her lover before
+                     you courted her, and who ought to have been her husband;</said>
+                  <persName ref="bucket">Mr. Bucket</persName> stops, and deliberately repeats,
+                     <said aloud="true" who="bucket" toWhom="sir-dedlock">ought to have been her
+                     husband; not a doubt about it. I know from his lips, that when that person soon
+                     afterwards died, he suspected <persName ref="lady-dedlock">Lady
+                        Dedlock</persName> of visiting his wretched lodging, and his wretcheder
+                     grave, alone and in secret. I know from my own inquiries, and through my eyes
+                     and ears, that <persName ref="lady-dedlock">Lady Dedlock</persName> did make
+                     such visit, in the dress of her own maid; for the deceased <persName
+                        ref="tulkinghorn">Mr. Tulkinghorn</persName> employed me to <term
+                        type="legal" ref="reckon-up">reckon up</term>
+                     <persName ref="lady-dedlock">her Ladyship</persName>—if you'll excuse my making
+                     use of the term we commonly employ—and I <term type="legal" ref="reckon-up"
+                        >reckoned her up</term>, so far, completely. I confronted the maid, in the
+                     chambers in <placeName ref="lincoln-inn-fields">Lincoln's Inn
+                        Fields</placeName>, with a witness who had been <persName ref="lady-dedlock"
+                        >Lady Dedlock</persName>'s guide; and there couldn't be the shadow of a
+                     doubt <pb n="516"/>that she had worn the young woman's dress, unknown to her.
+                        <persName ref="sir-dedlock">Sir Leicester Dedlock, Baronet</persName>, I did
+                     endeavour to pave the way a little towards these unpleasant disclosures,
+                     yesterday, by saying that very strange things happened even in high families
+                     sometimes. All this, and more, has happened in your own family, and to and
+                     through <persName ref="lady-dedlock">your own Lady</persName>. It's my belief
+                     that the deceased <persName ref="tulkinghorn">Mr. Tulkinghorn</persName>
+                     followed up these inquiried to the hour of his death; and that he and <persName
+                        ref="lady-dedlock">Lady Dedlock</persName> even had bad blood between them
+                     upon the matter, that very night. Now, only you put that to <persName
+                        ref="lady-dedlock">Lady Dedlock</persName>, <persName ref="sir-dedlock">Sir
+                        Leicester Dedlock, Baronet</persName>; and ask <persName ref="lady-dedlock"
+                        >her Ladyship</persName> whether, even after he had left here, she didn't go
+                     down to his chambers with the intention of saying something further to him,
+                     dressed in a loose black mantle with a deep fringe to it.</said></p>
+
+               <p><persName ref="sir-dedlock">Sir Leicester</persName> sits like a statue, gazing at
+                  the cruel finger that is probing the life-blood of his heart.</p>
+
+               <p><said aloud="true" who="bucket" toWhom="sir-dedlock">You put that to <persName
+                        ref="lady-dedlock">her Ladyship</persName>, <persName ref="sir-dedlock">Sir
+                        Leicester Dedlock, Baronet</persName>, from me, <persName ref="bucket"
+                        >Inspector Bucket</persName> of the Detective. And if <persName
+                        ref="lady-dedlock">her Ladyship</persName> makes any difficulty about
+                     admitting of it, you tell her that it's no use; that <persName ref="bucket"
+                        >Inspector Bucket</persName> knows it, and knows that she passed the soldier
+                     as you called him (though he's not in the army now), and knows that she knows
+                     she passed him, on the staircase. Now, <persName ref="sir-dedlock">Sir
+                        Leicester Dedlock, Baronet</persName>, why do I relate all this?</said></p>
+
+               <p><persName ref="sir-dedlock">Sir Leicester</persName>, who has covered his face
+                  with his hands, uttering a single groan, requests him to pause for a moment. By
+                  and by, he takes his hands away; and so preserves his dignity and outward
+                  calmness, though there is no more color in his face than in his white hair, that
+                     <persName ref="bucket">Mr. Bucket</persName> is a little awed by him. Something
+                  frozen and fixed is upon his manner, over and above its usual shell of
+                  haughtiness; and <persName ref="bucket">Mr. Bucket</persName> soon detects an
+                  unusual slowness in his speech, with now and then a curious trouble in beginning,
+                  which occasions him to utter inarticulate sounds. With such sounds, he now breaks
+                  silence; soon, however, controlling himself to say, that he does not comprehend
+                  why a gentleman so faithful and zealous as the late <persName ref="tulkinghorn"
+                     >Mr. Tulkinghorn</persName> should have communicated to him nothing of this
+                  painful, this distressing, this unlooked-for, this overwhelming, this incredible
+                  intelligence.</p>
+
+               <p><said aloud="true" who="bucket" toWhom="sir-dedlock">Again, <persName
+                        ref="sir-dedlock">Sir Leicester Dedlock, Baronet</persName>,</said> returns
+                     <persName ref="bucket">Mr. Bucket</persName>, <said aloud="true" who="bucket"
+                     toWhom="sir-dedlock">put it to <persName ref="lady-dedlock">her
+                        Ladyship</persName> to clear that up. Put it to her <persName
+                        ref="lady-dedlock">Ladyship</persName>, if you think right, from <persName
+                        ref="bucket">Inspector Bucket</persName> of the Detective. You'll find, or
+                     I'm much mistaken, that the deceased <persName ref="tulkinghorn">Mr.
+                        Tulkinghorn</persName> had the intention of communicating the whole to you,
+                     as soon as he considered it ripe; and further, that he had given <persName
+                        ref="lady-dedlock">her Ladyship</persName> so to understand. Why, he might
+                     have been going to reveal it on the very morning when I examined the body! You
+                     don't know what I'm going to say and do, five minutes from this present time,
+                        <persName ref="sir-dedlock">Sir Leicester Dedlock, Baronet</persName>; and
+                     supposing l was to be picked off now, you might wonder why I hadn't done it,
+                     don't you see?</said></p>
+
+               <p>True. <persName ref="sir-dedlock">Sir Leicester</persName>, avoiding, with some
+                  trouble, those obtrusive sounds, says, <said aloud="true" who="sir-dedlock"
+                     toWhom="bucket">True.</said> At this juncture, a considerable noise of voices
+                  is heard in the hall. <persName ref="bucket">Mr. Bucket</persName>, after
+                  listening, goes to the library-door, softly unlocks and opens it, and listens
+                  again. Then he draws in his head, and whispers, hurriedly, but composedly, <said
+                     aloud="true" who="bucket" toWhom="sir-dedlock"><persName ref="sir-dedlock">Sir
+                        Leicester Dedlock, Baronet</persName>, this unfortunate family affair has
+                     taken air, as I expected it <pb n="517"/> might; the deceased Mr. Tulkinghorn
+                     being cut down so sudden. The chance to hush it, is to let in these people now
+                     in a wrangle with your footmen. Would you mind sitting quiet—on the family
+                     account—while I reckon 'em up? And would you just throw in a nod, when I seem
+                     to ask you for it?</said></p>
+
+               <p><persName ref="sir-dedlock">Sir Leicester</persName> indistinctly answers, <said
+                     aloud="true" who="sir-dedlock" toWhom="bucket"><persName ref="bucket"
+                        >Officer</persName>. The best you can, the best you can!</said> and
+                     <persName ref="bucket">Mr. Bucket</persName>, with a nod and a sagacious crook
+                  of the forefinger, slips down into the hall, where the voices quickly die away. He
+                  is not long in returning, a few paces ahead of <persName ref="mercury"
+                     >Mercury</persName>, and a brother deity also powdered and in peach-blossom
+                  smalls, who bear between them a chair in which is an incapable old man. Another
+                  man and two women come behind. Directing the pitching of the chair, in an affable
+                  and easy manner, <persName ref="bucket">Mr. Bucket</persName> dismisses the
+                     <persName ref="mercuries">Mercuries</persName>, and locks the door again.
+                     <persName ref="sir-dedlock">Sir Leicester</persName> looks on at this invasion
+                  of the sacred <placeName ref="precinct">precincts</placeName> with an icy
+                  stare.</p>
+
+               <p><said aloud="true" who="bucket">Now, perhaps you may know me, ladies and
+                     gentlemen,</said> says <persName ref="bucket">Mr. Bucket</persName>, in a
+                  confidential voice. <said aloud="true" who="bucket">I am <persName ref="bucket"
+                        >Inspector Bucket</persName> of the Detective, I am; and
+                  this,</said>producing the tip of his convenient little staff from his
+                  breast-pocket, <said aloud="true" who="bucket">is my authority. Now, you wanted to
+                     see <persName ref="sir-dedlock">Sir Leicester Dedlock, Baronet</persName>.
+                     Well! You do see him; and, mind you, it ain't every one as is admitted to that
+                     honor. Your name, old gentleman, is <persName ref="smallweed"
+                        >Smallweed</persName>; that's what your name is; I know it well.</said></p>
+
+               <p><said aloud="true" who="smallweed" toWhom="bucket">Well, and you never heard any
+                     harm of it!</said> cries <persName ref="smallweed">Mr. Smallweed</persName> in
+                  a shrill loud voice.</p>
+
+               <p><said aloud="true" who="bucket" toWhom="smallweed">You don't happen to know why
+                     they killed the pig, do you?</said> retorts <persName ref="bucket">Mr.
+                     Bucket</persName>, with a stedfast look, but without loss of temper.</p>
+
+               <p><said aloud="true" who="smallweed" toWhom="bucket">No!</said></p>
+
+               <p><said aloud="true" who="bucket" toWhom="smallweed">Why, they killed him,</said>
+                  says <persName ref="bucket">Mr. Bucket</persName>, <said aloud="true" who="bucket"
+                     toWhom="smallweed">on account of his having so much cheek. Don't <hi rend="it"
+                        >you</hi> get into the same position, because it isn't worthy of you. You
+                     ain't in the habit of conversing with a deaf person, are you?</said></p>
+
+               <p><said aloud="true" who="smallweed" toWhom="bucket">Yes,</said> snarls <persName
+                     ref="smallweed">Mr. Smallweed</persName>, <said aloud="true" who="smallweed"
+                     toWhom="bucket">my wife's deaf.</said></p>
+
+               <p><said aloud="true" who="bucket" toWhom="smallweed">That accounts for your pitching
+                     your voice so high. But as she ain't here, just pitch it an octave or two
+                     lower, will you, and I'll not only be obliged to you, but it'll do you more
+                     credit,</said> says <persName ref="bucket">Mr. Bucket</persName>. <said
+                     aloud="true" who="bucket" toWhom="smallweed">This other gentleman is in the
+                     preaching line, I think?</said></p>
+
+               <p><said aloud="true" who="smallweed" toWhom="bucket">Name of <persName
+                        ref="mr-chadband">Chadband</persName>,</said>
+                  <persName ref="smallweed">Mr. Smallweed</persName> puts in, speaking henceforth in
+                  a much lower key.</p>
+
+               <p><said aloud="true" who="bucket" toWhom="mrs-chadband">Once had a friend and
+                     brother <term type="legal" ref="serjeant">serjeant</term> of the same
+                     name,</said> says <persName ref="bucket">Mr. Bucket</persName>, offering his
+                  hand, <said aloud="true" who="bucket" toWhom="mrs-chadband">and consequently feel
+                     a liking for it. <persName ref="mrs-chadband">Mrs. Chadband</persName>, no
+                     doubt?</said></p>
+
+               <p><said aloud="true" who="smallweed" toWhom="bucket">And <persName ref="mrs-snagsby"
+                        >Mrs. Snagsby</persName>,</said>
+                  <persName ref="smallweed">Mr. Smallweed</persName> introduces.</p>
+
+               <!-- This is directed towards a group of people -->
+               <p><said aloud="true" who="bucket"><persName ref="mr-snagsby">Husband</persName> a
+                        <term type="legal" ref="stationer">law stationer</term>, and a friend of my
+                     own,</said> says <persName ref="bucket">Mr. Bucket</persName>. <said
+                     aloud="true" who="bucket">Love him like a brother!—Now, what's up?</said></p>
+
+               <p><said aloud="true" who="smallweed" toWhom="bucket">Do you mean what business have
+                     we come upon?</said>
+                  <persName ref="smallweed">Mr. Smallweed</persName> asks, a little dashed by the
+                  suddenness of this turn.</p>
+
+               <p><said aloud="true" who="bucket">Ah! You know what I mean. Let us hear what it's
+                     all about in presence of <persName ref="sir-dedlock">Sir Leicester Dedlock,
+                        Baronet</persName>. Come. </said></p>
+
+               <p><persName ref="smallweed">Mr. Smallweed</persName>, beckoning <persName
+                     ref="mr-chadband">Mr. Chadband</persName>, takes a moment's counsel with him in
+                  a whisper. <persName ref="mr-chadband">Mr. Chadband</persName>, expressing a
+                  considerable <pb n="518"/>amount of oil from the pores of his forchead and the
+                  palms of his hands, says aloud, <said aloud="true" who="mr-chadband"
+                     toWhom="smallweed">Yes. You first!</said> and retires to his former place.</p>
+
+               <p><said aloud="true" who="smallweed" toWhom="bucket">I was the client and friend of
+                        <persName ref="tulkinghorn">Mr. Tulkinghorn</persName>,</said> pipes
+                     <persName ref="smallweed">Grandfather Smallweed</persName>, then; <said
+                     aloud="true" who="smallweed" toWhom="bucket">I did business with him. I was
+                     useful to him, and he was useful to me. <persName ref="krook">Krook</persName>,
+                     dead and gone, was my brother in-law. He was own brother to a brimstone
+                     magpie—leastways <persName ref="mrs-smallweed">Mrs. Smallweed</persName>. I
+                     come in to <persName ref="krook">Krook</persName>'s property. I examined all
+                     his papers and all his effects. They was all dug out under my eyes. There was a
+                     bundle of letters belonging to a dead and gone lodger, as was hid away at the
+                     back of a shelf in the side of <persName ref="krook-cat">Lady Jane</persName>'s
+                     bed—his cat's bed. He hid an manner of things away, everywheres. <persName
+                        ref="tulkinghorn">Mr. Tulkinghorn</persName> wanted 'em and got'em, but I
+                     looked 'em over first. I'm a man of business, and I took a squint at 'em. They
+                     was letters from the lodger's sweetheart, and she signed <persName
+                        ref="honoria">Honoria</persName>. Dear me, that's not a common name,
+                        <persName ref="honoria">Honoria</persName>, is it? There's no lady in this
+                     house that signs <persName ref="honoria">Honoria</persName>, is there? O no. I
+                     don't think so! O no, I don't think so! And not in the same hand, perhaps? O
+                     no, I don't think so!</said></p>
+
+               <p>Here <persName ref="smallweed">Mr. Smallweed</persName>, seized with a fit of
+                  coughing in the midst of his triumph, breaks off to ejaculate <said aloud="true"
+                     who="smallweed" toWhom="bucket">O dear me! O Lord! I'm shaken all to
+                     pieces!</said></p>
+
+               <p><said aloud="true" who="bucket" toWhom="smallweed">Now, when you're ready,</said>
+                  says <persName ref="bucket">Mr. Bucket</persName>, after awaiting his recovery,
+                     <said aloud="true" who="bucket" toWhom="smallweed">to come to anything that
+                     concerns <persName ref="sir-dedlock">Sir Leicester Dedlock, Baronet</persName>,
+                     here the gentleman sits, you know.</said></p>
+
+               <p><said aloud="true" who="smallweed" toWhom="bucket">Haven't I come to it, <persName
+                        ref="bucket">Mr. Bucket</persName>?</said> cries Grandfather Smallweed.
+                     <said aloud="true" who="smallweed" toWhom="bucket">Isn't the gentleman
+                     concerned yet? Not with <persName ref="captain-hawdon">Captain
+                        Hawdon</persName> and his ever affectionate <persName ref="honoria"
+                        >Honoria</persName>, and their child into the bargain? Come, then, I want to
+                     know where those letters are. That concerns me, if it don't concern <persName
+                        ref="sir-dedlock">Sir Leicester Dedlock</persName>. I will know where they
+                     are. I won't have 'em disappear so quietly. I handed 'em over to my friend and
+                     solicitor, <persName ref="tulkinghorn">Mr. Tulkinghorn</persName>; not to
+                     anybody else.</said></p>
+
+               <p><said aloud="true" who="bucket" toWhom="smallweed">Why he paid you for them, you
+                     know, and handsome too,</said> says <persName ref="bucket">Mr.
+                     Bucket</persName>.</p>
+               <p><said aloud="true" who="smallweed" toWhom="bucket">I don't care for that. I want
+                     to know who's got'em. And I tell you what we want—what we all here want, Mr.
+                     Bucket. We want more pains-taking and search-making into this murder. We know
+                     where the interest and the motive was, and you have not done enough. If
+                        <persName ref="george">George</persName> the vagabond dragoon had any hand
+                     in it, he was only an accomplice, and was set on. You know what I mean as well
+                     as any man.</said></p>
+
+               <p><said aloud="true" who="bucket" toWhom="smallweed">Now I tell you what,</said>
+                  says <persName ref="bucket">Mr. Bucket</persName>, instantaneously altering his
+                  manner, coming close to him, and communicating an extraordinary fascination to the
+                  forefinger, <said aloud="true" who="bucket" toWhom="smallweed">I am damned if I am
+                     a going to have my case spoilt, or interfered with, or anticipated by so much
+                     as half a second of time, by any human being in creation. <hi rend="it"
+                        >You</hi> want more pains-taking and search-making? <hi rend="it">You</hi>
+                     do? Do you see this hand, and do you think that <hi rend="it">I</hi> don't know
+                     the right time to stretch it out, and put it on the arm that fired that
+                     shot?</said></p>
+
+               <p>Such is the dread power of the man, and so terribly evident it is that he makes no
+                  idle boast, that <persName ref="smallweed">Mr. Smallweed</persName> begins to
+                  apologise. <persName ref="bucket">Mr. Bucket</persName>, dismissing his sudden
+                  anger, checks him.</p>
+
+               <p>The advice I give you, is, don't you trouble your head about the murder. That's my
+                  affair. You keep half an eye on the newspapers; <pb n="519"/> and I shouldn't
+                  wonder if you was to read something about it before long, if you look sharp. I
+                  know my business, and that's all I've got to say to you on that subject. Now about
+                  those letters. You want to know whos got'em. I don't mind telling you. <hi
+                     rend="it">I</hi> have got 'em. Is that the packet?</p>
+
+               <p><persName ref="smallweed">Mr. Smallweed</persName> looks, with greedy eyes, at the
+                  little bundle <persName ref="bucket">Mr. Bucket</persName> produces from a
+                  mysterious part of his coat, and identifies it as the same.</p>
+
+               <p><said aloud="true" who="bucket" toWhom="smallweed">What have you got to say
+                     next?</said> asks <persName ref="bucket">Mr. Bucket</persName>. <said
+                     aloud="true" who="bucket" toWhom="smallweed">Now, don't open your mouth too
+                     wide, because you don't look handsome when you do it.</said></p>
+
+               <p><said aloud="true" who="smallweed" toWhom="bucket">I want five hundred
+                     pound.</said></p>
+
+               <p><said aloud="true" who="bucket" toWhom="smallweed">No, you don't; you mean
+                     fifty,</said> says <persName ref="bucket">Mr. Bucket</persName>, humorously. It
+                  appears, however, that <persName ref="smallweed">Mr. Smallweed</persName> means
+                  five hundred.</p>
+
+               <p><said aloud="true" who="bucket" toWhom="smallweed">That is, I am deputed by
+                        <persName ref="sir-dedlock">Sir Leicester Dedlock, Baronet</persName>, to
+                     consider (without admitting or promising anything) this bit of business,</said>
+                  says <persName ref="bucket">Mr. Bucket</persName>; <persName ref="sir-dedlock">Sir
+                     Leicester</persName> mechanically bows his head; <said aloud="true"
+                     who="bucket" toWhom="smallweed">and you ask me to consider a proposal of five
+                     hundred pound. Why, it's an unreasonable proposal! Two fifty would be bad
+                     enough, but better than that. Hadn't you better say two fifty?</said></p>
+
+               <p><persName ref="smallweed">Mr. Smallweed</persName> is quite clear that he had
+                  better not.</p>
+
+               <p><said aloud="true" who="bucket">Then,</said> says <persName ref="bucket">Mr.
+                     Bucket</persName>, <said aloud="true" who="bucket">let's hear <persName
+                        ref="mr-chadband">Mr. Chadband</persName>. Lord! Many a time I've heard my
+                     old fellow-<term type="legal" ref="serjeant">serjeant</term> of that name; and
+                     a moderate man he was in all respects, as ever I come across!</said></p>
+
+               <p>Thus invited, <persName ref="mr-chadband">Mr. Chadband</persName> steps forth,
+                  and, after a little sleek smiling and a little oil-grinding with the palms of his
+                  hands, delivers himself as follows:</p>
+
+               <p><said aloud="true" who="mr-chadband">My friends, we are now—<persName
+                        ref="mrs-chadband">Rachael</persName> my wife, and I—in the mansions of the
+                     rich and great. Why are we now in the mansions of the rich and great, my
+                     friends? Is it because we are invited? Because we are bidden to feast with
+                     them, because we are bidden to rejoice with them, because we are bidden to play
+                     the lute with them, because we are bidden to dance with them? No. Then why are
+                     we here, my friends? Air we in possession of a sinful secret, and doe we
+                     require corn, and wine, and oil—or, what is much the same thing, money—for the
+                     keeping thereof? Probably so, my friends.</said></p>
+
+               <p><said aloud="true" who="bucket" toWhom="mr-chadband">You're a man of business, you
+                     are,</said> returns <persName ref="bucket">Mr. Bucket</persName>, very
+                  attentive; <said aloud="true" who="bucket" toWhom="mr-chadband">and consequently
+                     you're going on to mention what the nature of your secret is. You are right.
+                     You couldn't do better.</said></p>
+
+               <p><said aloud="true" who="mr-chadband" toWhom="bucket">Let us then, my brother, in a
+                     spirit of love,</said> says Mr. Chadband, with a cunning eye, <said
+                     aloud="true" who="mr-chadband">proceed untoe it.</said>
+                  <said aloud="true" who="mr-chadband" toWhom="mrs-chadband"><persName
+                        ref="mrs-chadband">Rachael</persName> my wife, advance!</said></p>
+
+               <p><persName ref="mrs-chadband">Mrs. Chadband</persName>, more than ready, so
+                  advances as to jostle her husband into the back-ground, and confronts <persName
+                     ref="bucket">Mr. Bucket</persName> with a hard frowning smile.</p>
+
+               <p><said aloud="true" who="mrs-chadband" toWhom="bucket">Since you want to know what
+                     we know,</said> says she, <said aloud="true" who="mrs-chadband" toWhom="bucket"
+                     >I'll tell you. I helped to bring up <persName ref="miss-hawdon">Miss
+                        Hawdon</persName>, <persName ref="lady-dedlock">her Ladyship</persName>'s
+                     daughter. I was in the service of her <persName ref="lady-dedlock-sister"
+                        >Ladyship's sister</persName>, who was very sensitive to the disgrace
+                        <persName ref="lady-dedlock">her Ladyship</persName> brought upon her, and
+                     gave out, even to <persName ref="lady-dedlock">her Ladyship</persName>, that
+                     the child was dead—she was very nearly so—when she was born. But she's alive,
+                     and I know her.</said> With these words, and a laugh, and laying a bitter
+                  stress on the word <quote>Ladyship,</quote> Mrs. Chadband folds her arms, and
+                  looks implacably at <persName ref="bucket">Mr. Bucket</persName>.</p>
+
+            </div>
+         </div>
+      </body>
+     <back>
+         <div type="endnotes">
+            <note xml:id="n1">The novel features the fictional case, Jarndyce and Jarndyce.</note>
+            <note xml:id="n2">The Court of Chancery followed rules to avoid a slow pace and inequities of common laws.</note>
+            <note xml:id="n3">Browne was a British artist and illustrator.</note>
+         </div>
+         <div type="biblio">
+            <bibl xml:id="lloyd2007"> <author><surname>Lloyd</surname>, <forename>Amy</forename></author>. <title>Advertising in 19th Century British Newspapers (Amy J. Lloyd)</title>. <publisher>Gale</publisher>, <date>2007</date>, <ptr target="www.gale.com/intl/essays/amy-j-lloyd-advertising."/></bibl>
+            
+            <bibl xml:id="poetry2019"><author>Poetry Foundation</author>. <title>Poetry Foundation</title>. <publisher>Poetry Foundation</publisher>, <date>2019</date>, <ptr target="www.poetryfoundation.org/poets/charles-dickens"/></bibl>
+            
+            <bibl xml:id="steinlight2006"><author><surname>Steinlight</surname>, <forename>Emily</forename></author>. <title>“AntiBleak House”: Advertising and the Victorian Novel</title>. <publisher>JSTOR</publisher>, <date>2006</date> <ptr target="www.jstor.org/stable/30219643, https://doi.org/10.2307/30219643."/></bibl>
+            
+            <bibl xml:id="england2014"><author>University of England AU</author>. <title>Introduction: Themes Dickens</title>. <publisher>Une.edu.au</publisher>, <date>2014</date>, <ptr target="esthersnarrative.une.edu.au/themes-1/."/></bibl>
+            
+            <bibl xml:id="wiki2019"><author>Wikipedia Contributors</author>. <title>Bleak House</title>. <publisher>Wikipedia, Wikimedia Foundation</publisher>, <date>1 Dec. 2019</date>, <ptr target="en.wikipedia.org/wiki/Bleak_House."/></bibl>
+         </div>
+      </back>
+   </text>
+   
+   <standOff>
+      <!-- characters index -->
+      <listPerson>
+         <person xml:id="bucket">
+            <persName>Inspector Bucket</persName>
+            <note>The police detective trying to solve the Tulkinghorn murder mystery.</note>
+         </person>
+         <person xml:id="mr-chadband">
+            <persName>Mr. Chadband</persName>
+            <note>The Reverend Mr. Chadband is Mrs. Chadband's husband and a clegyman.</note>
+         </person>
+         <person xml:id="mrs-chadband">
+            <persName>Mrs. Chadband</persName>
+            <note>Also known as Mrs. Rachael, Miss Barbary's servant.</note>
+         </person>
+         <person xml:id="sir-dedlock">
+            <persName>Sir Leicester Dedlock</persName>
+            <note>A baronet, proud of his rank, unaware of his wife's (Lady Dedlock's) secret.</note>
+         </person>
+         <person xml:id="lady-dedlock">
+            <persName>Lady Dedlock</persName>
+            <note>The wife of Sir Leicester Dedlock. Also referred to as Honoria.</note>
+         </person>
+         <person xml:id="miss-dedlock">
+            <persName>Miss Dedlock</persName>
+            <note>Lady Dedlock before her marriage.</note>
+         </person>
+         <person xml:id="honoria">
+            <persName>Honoria</persName>
+            <note>A women previously in a relationship with Captain Hawdon. She is revealed to be Lady Dedlock in Chapter 29.</note>
+         </person>
+         <person xml:id="lady-dedlock-sister">
+            <persName>Miss Barbary</persName>
+            <note>Lady Dedlock's sister.</note>
+         </person>
+         <person xml:id="george">
+            <persName>George Rouncewell</persName>
+            <note>The son of Mrs. Rouncewell who is falsely arrested for Tulkinghorn's murder.</note>
+         </person>
+         <person xml:id="captain-hawdon">
+            <persName>Captain Hawdon</persName>
+            <note>A law writer and Lady Dedlock's former lover.</note>
+         </person>
+         <person xml:id="miss-hawdon">
+            <persName>Miss Hawdon</persName>
+            <note>The daughter of Lady Dedlock.</note>
+         </person>
+         <person xml:id="krook-cat">
+            <persName>Lady Jane</persName>
+            <note>Krook's cat.</note>
+         </person>
+         <person xml:id="krook">
+            <persName>Krook</persName>
+            <note>A shop owner and the landlord of Captain Hawdon.</note>
+         </person>
+         <person xml:id="mercury">
+            <persName>Mercury</persName>
+            <note>A servant at Chesney Wold.</note>
+         </person>
+         <person xml:id="mercuries">
+            <persName>Mercuries</persName>
+            <note>In general, referring to servants at Chesney Wold.</note>
+         </person>
+         <person xml:id="smallweed">
+            <persName>Mr. Smallweed</persName>
+            <note>Mrs. Smallweed's husband.</note>
+         </person>
+         <person xml:id="mrs-smallweed">
+            <persName>Mrs. Smallweed</persName>
+            <note>Krook's sister.</note>
+         </person>
+         <person xml:id="mr-snagsby">
+            <persName>Mr. Snagsby</persName>
+            <note>A law-stationer and Mrs. Snagsby's husband.</note>
+         </person>
+         <person xml:id="mrs-snagsby">
+            <persName>Mrs. Snagsby</persName>
+            <note>One of Mr. Chadband's parishioners.</note>
+         </person>
+      </listPerson>
+      
+      <!-- places index -->
+      <listPlace>
+         <place xml:id="library">
+            <note>The library in Bleak House, the Dedlock estate.</note>
+         </place>
+         <place xml:id="lincoln-inn-fields">
+            <note>Historic public square and garden located in the Holborn area of London, connected to the Court of Chancery (legal institution).</note>
+         </place>
+         <place xml:id="precinct">
+            <note>A legal precinct, likely near Lincoln’s Inn Fields.
+            </note>
+         </place>
+         
+      </listPlace>
+      
+      <!-- legal annotations -->
+      <list>
+         <item xml:id="reckon-up">
+            <term>To reckon up</term>
+            <note>To calculate the total amount owed by a creditor.</note>
+         </item>
+         <item xml:id="serjeant">
+            <term>Serjeant</term>
+            <note>Short for serjeant-in-law, a member of an order of barristers at the English and Irish Bar.</note>
+         </item>
+         <item xml:id="stationer">
+            <term>Stationer</term>
+            <note>A merchant who sells paper, forms, and stationery items used by lawyers and other legal professionals.</note>
+         </item>
+      </list>
+   </standOff>
+</TEI>
