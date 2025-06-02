@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-stylesheet type="text/xsl" href="custom.xsl"?>
@@ -51,22 +50,7 @@
       </profileDesc>
    </teiHeader>
    <text>
-      <front>
-         <titlePage>
-            <docImprint>No. XVII. July. Price 1s</docImprint>
-            <docTitle>
-               <titlePart type="main" rend="caps">Bleak House</titlePart>
-            </docTitle>
-            <byline rend="caps">By Charles Dickens</byline>
-            <byline rend="caps">With illustrations by H. K. Browne</byline>
-            <docImprint rend="caps">
-               <pubPlace>London</pubPlace>: <publisher>Bradbury &amp; Evans, Bouverie
-                  Street</publisher> Agents: J. Menzies, Edinburgh; Murray and Son, Glasglow; J.
-               M'Glacilan, Dublin. </docImprint>
-            <docImprint>The Author of this Work notifies that it is his intention to reserve the
-               right of translating it.</docImprint>
-            <graphic url="./title.png" n="Image of Bleak House title page"/>
-         </titlePage>
+      <front xml:id="intro">
          <div type="editorial-intro">
             <p>Charles Dickens is one of the most well-known English authors, who had a diverse
                writing career as a reporter, editor and essayist. He produced 14 novels, most of
@@ -94,10 +78,28 @@
                to annotate unfamiliar terms and concepts pertaining to 19th-century British legal
                culture and Bleak House as a larger text.</p>
          </div>
+         <titlePage>
+            <docImprint>No. XVII. July. Price 1s</docImprint>
+            <docTitle>
+               <titlePart type="main" rend="caps">Bleak House</titlePart>
+            </docTitle>
+            <byline rend="caps">By Charles Dickens</byline>
+            <byline rend="caps">With illustrations by H. K. Browne</byline>
+            <docImprint rend="caps">
+               <pubPlace>London</pubPlace>: <publisher>Bradbury &amp; Evans, Bouverie
+                  Street</publisher> Agents: J. Menzies, Edinburgh; Murray and Son, Glasglow; J.
+               M'Glacilan, Dublin. </docImprint>
+            <docImprint>The Author of this Work notifies that it is his intention to reserve the
+               right of translating it.</docImprint>
+            <figure>
+               <graphic url="../images/title.png" n="Image of Bleak House title page"/>
+            </figure>
+         </titlePage>
       </front>
       <body>
-         <div type="ads">
+         <div type="ads" xml:id="ads-content">
             <!--pg 0 ad-->
+            <pb/>
             <div rend="serif">
                <!--pg is blue-->
                <p rend="bserif">WILLIAM S. BURTON'S</p>
@@ -184,6 +186,7 @@
             </div>
 
             <!--pg 3 of ads-->
+            <pb/>
             <div>
                <div type="header">
                   <head rend="sc">advertisements.</head>
@@ -294,6 +297,7 @@
             </div>
 
             <!--pg 5 of ads-->
+            <pb/>
             <div rend="serif">
                <div type="top">
                   <head rend="caps"><hi rend="sc">advertisements</hi>.</head>
@@ -443,6 +447,7 @@
             </div>
 
             <!--pg 41 of ads-->
+            <pb/>
             <div type="table">
                <div rend="serif">
                   <p>12, CHEAPSIDE, CITY.</p>
@@ -703,19 +708,19 @@
                </div>
                <div>
                   <figure>
-                     <graphic url="C:\Users\Kylie\Downloads\candle_holder.png"/>
+                     <graphic url="../images/candle_holder.png"/>
                      <figDesc>An ornate candle holder with two spots for two candles.</figDesc>
                   </figure>
                   <figure>
-                     <graphic url="C:\Users\Kylie\Downloads\deer_pastry_holder.png"/>
+                     <graphic url="../images/deer_pastry_holder.png"/>
                      <figDesc>A dome dish cover with a deer on the top.</figDesc>
                   </figure>
                   <figure>
-                     <graphic url="C:\Users\Kylie\Downloads\candle_wick_holder.png"/>
+                     <graphic url="../images/candle_wick_holder.png"/>
                      <figDesc>An ornate candle holder for one candle stick.</figDesc>
                   </figure>
                   <figure>
-                     <graphic url="C:\Users\Kylie\Downloads\decorative_basket.png"/>
+                     <graphic url="../images/decorative_basket.png"/>
                      <figDesc>A decorative basket with stands and a handle.</figDesc>
                   </figure>
                </div>
@@ -1452,7 +1457,7 @@
       </listPlace>
 
       <!-- legal annotations -->
-      <list>
+      <list xml:id="legal">
          <item xml:id="reckon-up">
             <term>To reckon up</term>
             <note>To calculate the total amount owed by a creditor.</note>

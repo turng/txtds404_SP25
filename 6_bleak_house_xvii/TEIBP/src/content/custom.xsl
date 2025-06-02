@@ -23,29 +23,43 @@
     </xsl:template>
 
     <xsl:template match="tei:title">
-        <!-- don't do anything for title -->
+        <h1>
+            <xsl:apply-templates/>
+        </h1>
     </xsl:template>
+    
+    <xsl:template match="tei:author">
+       <!-- don't display dickens -->
+    </xsl:template>
+    
+    <xsl:template match="tei:editor">
+        <h3><xsl:apply-templates/></h3>
+    </xsl:template>
+    
+    <xsl:template match="tei:titlePage">
+        <xsl:apply-templates/>
+    </xsl:template>
+    
 
     <xsl:template match="tei:body">
         <!-- add a little nav bar for fun, it also has styling -->
-        <nav class="sidebar">
+        <nav class="topnav">
             <ul>
-                <li>
+                <li><a href="#">Introduction</a></li>
+                <li><a href="#ads-content">Advertisements</a></li>
+                <li class="has-subnav">
                     <a href="#ch54">Novel</a>
-                </li>
-                <li>
-                    <a href="#persons">Characters</a>
-                </li>
-                <li>
-                    <a href="#places">Places</a>
-                </li>
-                <li>
-                    <a href="#legal">Legal terminology</a>
+                    <ul class="subnav">
+                        <li><a href="#persons">Characters</a></li>
+                        <li><a href="#places">Places</a></li>
+                        <li><a href="#legal">Legal terminology</a></li>
+                    </ul>
                 </li>
             </ul>
         </nav>
+        
 
-        <div class="novelcontent">
+        <div class="content-section">
             <!-- we overrode body, so we recopy the teibp logic for displaying the rest of the file -->
             <xsl:copy>
                 <xsl:call-template name="templHtmlAttrLang">
@@ -58,9 +72,8 @@
 
     <!-- the default standoff formatting is horrendous. let's fix it -->
 
-
     <xsl:template match="tei:listPerson">
-        <section class="novelcontent" id="persons">
+        <section id="persons">
             <h2>Persons index</h2>
             <xsl:for-each select="tei:person">
                 <div class="person">
@@ -81,7 +94,7 @@
     </xsl:template>
 
     <xsl:template match="tei:listPlace">
-        <section class="novelcontent" id="places">
+        <section id="places">
             <h2>Places index</h2>
             <xsl:for-each select="tei:place">
                 <div class="place">
@@ -102,7 +115,7 @@
     </xsl:template>
 
     <xsl:template match="tei:list[@xml:id = 'legal']">
-        <section class="novelcontent" id="legal">
+        <section id="legal">
             <h2>Legal terminology</h2>
             <xsl:for-each select="tei:item">
                 <div class="place">
