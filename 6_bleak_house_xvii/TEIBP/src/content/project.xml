@@ -791,7 +791,7 @@
                   <persName ref="sir-dedlock">Sir Leicester</persName> observes, raising his eyes to
                   his face, <said aloud="true" who="sir-dedlock" toWhom="bucket">whether you wish us
                      to be alone; but that is entirely as you please. If you do, well and good. If
-                     not, <persName ref="miss-dedlock">Miss Dedlock</persName> would be
+                     not, <persName ref="lady-dedlock">Miss Dedlock</persName> would be
                      interested——</said></p>
 
                <p><said aloud="true" who="bucket" toWhom="sir-dedlock">Why, <persName
@@ -800,7 +800,7 @@
                   side, and his forefinger pendant at one ear like an ear-ring, <said aloud="true"
                      who="bucket" toWhom="sir-dedlock">we can't be too private, just at present. You
                      will presently see that we can't be too private. A lady, under any
-                     circumstances, and especially in <persName ref="miss-dedlock">Miss
+                     circumstances, and especially in <persName ref="lady-dedlock">Miss
                         Dedlock</persName>'s elevated station of society, can't but be agreeable to
                      me; but speaking without a view to myself, I will take the liberty of assuring
                      you that I know we can't be too private.</said></p>
@@ -1174,9 +1174,9 @@
                         ref="tulkinghorn">Mr. Tulkinghorn</persName> wanted 'em and got'em, but I
                      looked 'em over first. I'm a man of business, and I took a squint at 'em. They
                      was letters from the lodger's sweetheart, and she signed <persName
-                        ref="honoria">Honoria</persName>. Dear me, that's not a common name,
-                        <persName ref="honoria">Honoria</persName>, is it? There's no lady in this
-                     house that signs <persName ref="honoria">Honoria</persName>, is there? O no. I
+                        ref="lady-dedlock">Honoria</persName>. Dear me, that's not a common name,
+                        <persName ref="lady-dedlock">Honoria</persName>, is it? There's no lady in this
+                     house that signs <persName ref="lady-dedlock">Honoria</persName>, is there? O no. I
                      don't think so! O no, I don't think so! And not in the same hand, perhaps? O
                      no, I don't think so!</said></p>
 
@@ -1195,7 +1195,7 @@
                         ref="bucket">Mr. Bucket</persName>?</said> cries Grandfather Smallweed.
                      <said aloud="true" who="smallweed" toWhom="bucket">Isn't the gentleman
                      concerned yet? Not with <persName ref="captain-hawdon">Captain
-                        Hawdon</persName> and his ever affectionate <persName ref="honoria"
+                        Hawdon</persName> and his ever affectionate <persName ref="lady-dedlock"
                         >Honoria</persName>, and their child into the bargain? Come, then, I want to
                      know where those letters are. That concerns me, if it don't concern <persName
                         ref="sir-dedlock">Sir Leicester Dedlock</persName>. I will know where they
@@ -1394,15 +1394,7 @@
          </person>
          <person xml:id="lady-dedlock">
             <persName>Lady Dedlock</persName>
-            <note>The wife of Sir Leicester Dedlock. Also referred to as Honoria.</note>
-         </person>
-         <person xml:id="miss-dedlock">
-            <persName>Miss Dedlock</persName>
-            <note>Lady Dedlock before her marriage.</note>
-         </person>
-         <person xml:id="honoria">
-            <persName>Honoria</persName>
-            <note>A women previously in a relationship with Captain Hawdon. She is revealed to be Lady Dedlock in Chapter 29.</note>
+            <note>The wife of Sir Leicester Dedlock. Also referred to as Honoria (connection revealed as Chapter 29). She was previously in a relationship with Captain Hawdon.</note>
          </person>
          <person xml:id="lady-dedlock-sister">
             <persName>Miss Barbary</persName>
