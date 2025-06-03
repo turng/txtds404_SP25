@@ -57,15 +57,15 @@
                which were published in serial editions. This included a 20-month serialization of
                Bleak House published by Bradbury and Evans with illustrations by <ref target="#n3"
                   >Hablot Knight Browne</ref>. The story of Bleak House follows the course of a
-               legal dispute in the British <ref target="n2">Court of Chancery</ref>, as the <ref
-                  target="n1">Jarndyce family</ref> waits over generations to receive an inheritance
-               they believe they deserve. The story is a commentary on the convoluted legal system
-               in Britain, and the corruption inherent in it. </p>
-            <p>Thanks to the serial format, Bleak House reached a wide range of audiences. The
-               critical perspective towards the legal system in Bleak House would have appealed to a
-               more educated population. Furthermore, the relatively afforable installments, public
-               readings, and library lendings would allow the working class to access the novel.
-               Eventually, Dickens work would achieve a global audience.</p>
+               legal dispute in the British <ref target="#n2">Court of Chancery</ref>, as the <ref
+                  target="#n1">Jarndyce family</ref> waits over generations to receive an
+               inheritance they believe they deserve. The story is a commentary on the convoluted
+               legal system in Britain, and the corruption inherent in it. </p>
+            <p>Thanks to the <ref target="#n4">serial format</ref>, Bleak House reached a wide range
+               of audiences. The critical perspective towards the legal system in Bleak House would
+               have appealed to a more educated population. Furthermore, relatively afforable
+               installments, public readings, and library lendings would allow the working class to
+               access the novel. Eventually, Dickens' work would achieve a global audience.</p>
             <p>Through this edition, we are interested in examining the intertextuality between
                advertisements and different groups of readers, as well as the juxtaposition of
                advertisements and the prose text of the novel. Along the way, we provide access to a
@@ -74,8 +74,8 @@
                searchability and increases accessibility for a 21st-century reader.</p>
             <p>We choose not to modernize the text, since we wish to preserve the textual impact of
                the original 1852 publication. Thankfully, the language is not too far removed from
-               what modern readers are comfortable with. Instead, to supply more context, we choose
-               to annotate unfamiliar terms and concepts pertaining to 19th-century British legal
+               what modern readers are comfortable with. To supply more context, we choose to
+               annotate unfamiliar terms and concepts pertaining to 19th-century British legal
                culture and Bleak House as a larger text.</p>
          </div>
          <titlePage>
@@ -115,11 +115,11 @@
                <p>Devoted exclusively to the DISPLAY of BATHS and \TOILETTE WARE. The stock of each
                   is at once the largest, newest, and most varied ever submitted to the Public, and
                   marked at prices proportionate with those that have tended to make his
-                  establishment the most distinguished in this country. Portable Showers, 7s.,
-                  Pillar Showers, L2 15s. to £4 15s. ; Nursery, 11s. 6d. to 30s.; Sponging, 14s. to
-                  30s.; Hip, 18s. 6d. to 29s. A large assortment of Hot and Cold Plunge, Vapour, and
-                  Camp Shower Baths. Toilette Ware in great variety, from 10s. 6d. to 45s. the Set
-                  of Three.</p>
+                  establishment the most distinguished in this country. Portable Showers, <ref
+                     target="#n11">7s</ref>., Pillar Showers, £2 15s. to £4 15s. ; Nursery, 11s. 6d.
+                  to 30s.; Sponging, 14s. to 30s.; Hip, 18s. 6d. to 29s. A large assortment of Hot
+                  and Cold Plunge, Vapour, and Camp Shower Baths. Toilette Ware in great variety,
+                  from 10s. 6d. to 45s. the Set of Three.</p>
 
                <space type="dblinesh"/>
 
@@ -127,7 +127,7 @@
                <p>WILLIAM S. BURTON'S.</p>
 
                <p>He has added to his SHOW-ROOMS Two very large ones, which are devoted to the
-                  exclusive show of IRON and BRASS HEDSTEADS and CHILDREN'S COTS, with appropriate
+                  exclusive show of IRON and BRASS BEDSTEADS and CHILDREN'S COTS, with appropriate
                   Bedding and Mattresses. Many of these are quite new, and all are marked in plain
                   figures. Common Iron Bedsteads, from 16s. 3d; Portable Folding Bedsteads from 13s.
                   6d; Patent Iron Beadsteads, fitted with dove-tail joints and patent sacking, from
@@ -139,11 +139,11 @@
                <p rend="bserif">NEW FOLDING CHAIR BEDSTEAD.</p>
                <p>WILLIAM S. BURTON</p>
 
-               <p>Has pleasure in offering an entirely new and very ingenious WROUGH IRON CHAIR
-                  BEDSTEAD, which, from its being extremely light, durable, and portable (measuring,
-                  when folded, 2 ft. 11in. by 2ft. by 8 in deep), and easily and instantaneously
-                  convertible from a chair to a bedstead, or <hi rend="it">vise versâ</hi>, present
-                  to</p>
+               <p>Has pleasure in offering an entirely new and very ingenious <ref target="#n12"
+                     >WROUGHT IRON</ref> CHAIR BEDSTEAD, which, from its being extremely light,
+                  durable, and portable (measuring, when folded, 2 ft. 11in. by 2ft. by 8 in deep),
+                  and easily and instantaneously convertible from a chair to a bedstead, or <hi
+                     rend="it">vice versâ</hi>, present to</p>
 
                <p>MILITARY OFFICERS AND PARTIES TRAVELLING</p>
 
@@ -176,8 +176,8 @@
                <p rend="bserif">HAS TEN LARGE SHOW ROOMS</p>
                <p>(all communicating), exclusive of the shop, devoted solely to the show of</p>
                <p rend="sans">GENERAL FURNISHING IRONMONGERY,</p>
-               <p>including Cutlery, Nickel Silver, Plated, and Japanned Wares, Iron and Brass
-                  Bedsteads, so arranged and</p>
+               <p>including Cutlery, Nickel Silver, Plated, and <ref target="#n14">Japanned</ref>
+                  Wares, Iron and Brass Bedsteads, so arranged and</p>
                <p>classified that purchasers may easily and at once make their selections.</p>
 
                <p rend="bserif">Catalogues, with Engravings, sent (per post) free. The Money
@@ -206,9 +206,10 @@
                <!--has diamond in middle-->
 
                <div>
-                  <p><hi rend="dropcap">T</hi>he <hi rend="sc">"English Cyclopædia"</hi> will be
-                     published in Four Divisions; each having its own alphabetical arrangement, and
-                     each forming, when complete, four disstinct volumes.</p>
+                  <p><hi rend="dropcap">T</hi>he <hi rend="sc">"English <ref target="#15"
+                           >Cyclopædia</ref>"</hi> will be published in Four Divisions; each having
+                     its own alphabetical arrangement, and each forming, when complete, four
+                     disstinct volumes.</p>
                </div>
 
                <div type="col">
@@ -336,7 +337,7 @@
                   <p>Being an Alphabetical Arrangement of all the Ornamental Plants grown in Gardens
                      and Shrubberies;</p>
                   <p>with full directions for their culture.</p>
-                  <p>BY MRS. LOUDON.</p>
+                  <p>BY MRS.LOUDON.</p>
                   <p><hi rend="sc">with considerable additions and corrected to the present
                         time.</hi></p>
                   <!--sc-->
@@ -347,7 +348,7 @@
 
                <div>
                   <p>Price 6s. in Cloth,</p>
-                  <p rend="bserif">A NEW EDITION OF VANITY FAIR.</p>
+                  <p rend="bserif">A NEW EDITION OF <ref target="#16">VANITY FAIR</ref>.</p>
                   <!--bserif-->
                   <p>By W. M. THACKERAY.</p>
                   <p>"In forming our general estimate of this writer, we wish it to be understood as
@@ -360,7 +361,7 @@
                      channel, as if conscious that nothing mean or unworthy could fall from him. In
                      a word, the book is the work of a gentleman- one touch of nature makes the
                      whole world kin, and here are touches of nature by the dozen." -<hi rend="it"
-                        >Edinburgh Review</hi>.</p>
+                           ><ref target="#17">Edinburgh Review</ref></hi>.</p>
 
                   <!--sgline-->
                   <space type="sglinesh"/>
@@ -417,20 +418,20 @@
                   <!--sans-->
                   <figure>
                      <graphic url="https://www.gutenberg.org/files/49844/49844-h/images/crest.jpg"/>
-                     <figDesc>A seal royal seal with two horses mirroring each other.</figDesc>
+                     <figDesc>A royal seal with a lion and unicorn facing each other.</figDesc>
                   </figure>
                   <p><hi rend="dropcaps">T</hi>HE BEST MEDICINE IN THE WORLD for INFANTS AND YOUNG
-                     CHILDREN IS ATKINSON AND BARKER'S ROYAL INFANTS' PRESERVATIVE-Under the
-                     Patronage of the Queen.-The high and universal celebrity which this medicine
-                     continues to maintain for the prevention and cure of those disorders incident
-                     to infants; affording instant relief in convulsions, flatulency, affections of
-                     the bowels, difficult teething, the thrush, rickets, measles, hooping-cough,
-                     cow-pox, or vaccine inoculation, and may be given with safety immediately after
-                     birth. It is no misnomer cordial!-no stupefactive, deadly narcotic!- but a
-                     veritable preserver of infants! Mothers would do well in always keeping it in
-                     the nursery. Many thousands of children are annually saved by this
-                     much-esteemed medicine, which is an immediate remedy, and the infants rather
-                     like it than otherwise.</p>
+                     CHILDREN IS ATKINSON AND BARKER'S ROYAL INFANTS' PRESERVATIVE-Under the <ref
+                        target="#18">Patronage of the Queen</ref>.-The high and universal celebrity
+                     which this medicine continues to maintain for the prevention and cure of those
+                     disorders incident to infants; affording instant relief in convulsions,
+                     flatulency, affections of the bowels, difficult teething, the thrush, rickets,
+                     measles, whooping-cough, <ref target="#19">cow-pox</ref>, or vaccine
+                     inoculation, and may be given with safety immediately after birth. It is no
+                     misnomer cordial!-no stupefactive, deadly narcotic!- but a veritable preserver
+                     of infants! Mothers would do well in always keeping it in the nursery. Many
+                     thousands of children are annually saved by this much-esteemed medicine, which
+                     is an immediate remedy, and the infants rather like it than otherwise.</p>
                   <!--indent-->
                   <p><space unit="chars" quantity="4"/>Prepared only by ROBERT BARKER, Ollerenshaw
                      Hall, Chapel-en-le-Frith, Derbyshire, late of Manchester,</p>
@@ -463,7 +464,7 @@
                   <table rows="9" cols="6">
                      <head rend="sans">SPOONS AND FORKS.</head>
                      <figure>
-                        <graphic url="https://www.gutenberg.org/files/42385/42385-h/images/p144.jpg"/>
+                        <graphic url="../images/spoon_and_fork_png.png"/>
                         <figDesc>A ornate decorated spoon at the handle with a pointy spoon
                            tip</figDesc>
                      </figure>
@@ -700,8 +701,8 @@
                </div>
 
                <div rend="bold">
-                  <p>Superb Epergnes, Candelabra, Salad Stands, Wine Coolers, Waiters, Corner
-                     Dishes,</p>
+                  <p>Superb <ref target="#20">Epergnes</ref>, Candelabra, Salad Stands, Wine
+                     Coolers, Waiters, Corner Dishes,</p>
                   <p>Meat and Venison Dishes, Dish Covers, Cruet Frames, Liqueur Stands, Spoons and
                      Forks,</p>
                   <p>Tea and Coffee Services,Tea Kettles, Toast Racks, &amp;c., &amp;c.</p>
@@ -732,6 +733,7 @@
          </div>
 
          <!-- Section for the novel -->
+         <!-- Section for the novel -->
          <div type="bleak-house">
             <div n="54" type="chapter" xml:id="ch54">
                <pb n="513"/>
@@ -749,29 +751,31 @@
                   these strengthening matters, and having held subtle conference with his familiar
                   demon, he confidentially instructs <persName ref="mercury">Mercury</persName>
                   <said aloud="true" who="bucket" toWhom="mercury">just to mention quietly to
-                        <persName ref="sir-dedlock">Sir Leicester Dedlock, Baronet,</persName> that
-                     whenever he's ready for me, I'm ready for him.</said> A gracious message being
-                  returned, that <persName ref="sir-dedlock">Sir Leicester</persName> will expedite
-                  his dressing and join <persName ref="bucket">Mr. Bucket</persName> in the
-                     <placeName ref="library">library</placeName> within ten minutes, <persName
-                     ref="bucket">Mr. Bucket</persName> repairs to that apartment; and stands before
-                  the fire, with his finger on his chin, looking at the blazing coals.</p>
+                        <persName ref="sir-dedlock">Sir Leicester Dedlock, <ref target="#n5"
+                           >Baronet</ref>,</persName> that whenever he's ready for me, I'm ready for
+                     him.</said> A gracious message being returned, that <persName ref="sir-dedlock"
+                     >Sir Leicester</persName> will expedite his dressing and join <persName
+                     ref="bucket">Mr. Bucket</persName> in the <placeName ref="library"
+                     >library</placeName> within ten minutes, <persName ref="bucket">Mr.
+                     Bucket</persName> repairs to that apartment; and stands before the fire, with
+                  his finger on his chin, looking at the blazing coals.</p>
 
                <p>Thoughtful <persName ref="bucket">Mr. Bucket</persName> is; as a man may be, with
                   weighty work to do; but composed, sure, confident. From the expression of his
-                  face, he might be a famous whist-player for a large stake — say a hundred guineas
-                  certain — with the game in his hand, but with a high reputation involved in his
-                  playing his hand out to the last card, in a masterly way. Not in the least anxious
-                  or disturbed is <persName ref="bucket">Mr. Bucket</persName>, when <persName
-                     ref="sir-dedlock">Sir Leicester</persName> appears; but he eyes the baronet
-                  aside as he comes slowly to his easy chair, with that observant gravity of
-                  yesterday, in which there might have been yesterday, but for the audacity of the
-                  idea, a touch of compassion.</p>
+                  face, he might be a famous <ref target="#n6">whist</ref>-player for a large stake
+                  — say a hundred <ref target="#n7">guineas</ref> certain — with the game in his
+                  hand, but with a high reputation involved in his playing his hand out to the last
+                  card, in a masterly way. Not in the least anxious or disturbed is <persName
+                     ref="bucket">Mr. Bucket</persName>, when <persName ref="sir-dedlock">Sir
+                     Leicester</persName> appears; but he eyes the baronet aside as he comes slowly
+                  to his easy chair, with that observant gravity of yesterday, in which there might
+                  have been yesterday, but for the audacity of the idea, a touch of compassion.</p>
 
                <p><said aloud="true" who="sir-dedlock" toWhom="bucket">I am sorry to have kept you
                      waiting, officer, but I am rather later than my usual hour this morning. I am
                      not well. The agitation, and the indignation from which I have recently
-                     suffered, have been too much for me. I am subject to — gout;</said>
+                     suffered, have been too much for me. I am subject to — <ref target="#n8"
+                        >gout</ref>;</said>
                   <persName ref="sir-dedlock">Sir Leicester</persName> was going to say
                   indisposition, and would have said it to anybody else, but <persName ref="bucket"
                      >Mr. Bucket</persName> palpably knows all about it; <said aloud="true"
@@ -899,7 +903,7 @@
 
                <p><persName ref="sir-dedlock">Sir Leicester</persName> raises himself in his seat,
                   and stares at him fiercely. <persName ref="bucket">Mr. Bucket</persName> brings
-                  the finger into play as an emollient.</p>
+                  the finger into play as an <ref target="#n9">emollient</ref>.</p>
 
                <p><said aloud="true" who="bucket" toWhom="sir-dedlock"><persName ref="lady-dedlock"
                         >Lady Dedlock</persName>, you see, she's universally admired. That's what
@@ -976,12 +980,12 @@
                      <said aloud="true" who="bucket" toWhom="sir-dedlock">ought to have been her
                      husband; not a doubt about it. I know from his lips, that when that person soon
                      afterwards died, he suspected <persName ref="lady-dedlock">Lady
-                        Dedlock</persName> of visiting his wretched lodging, and his wretcheder
-                     grave, alone and in secret. I know from my own inquiries, and through my eyes
-                     and ears, that <persName ref="lady-dedlock">Lady Dedlock</persName> did make
-                     such visit, in the dress of her own maid; for the deceased <persName
-                        ref="tulkinghorn">Mr. Tulkinghorn</persName> employed me to <term
-                        type="legal" ref="reckon-up">reckon up</term>
+                        Dedlock</persName> of visiting his wretched lodging, and his <ref
+                        target="#n10">wretcheder</ref> grave, alone and in secret. I know from my
+                     own inquiries, and through my eyes and ears, that <persName ref="lady-dedlock"
+                        >Lady Dedlock</persName> did make such visit, in the dress of her own maid;
+                     for the deceased <persName ref="tulkinghorn">Mr. Tulkinghorn</persName>
+                     employed me to <term type="legal" ref="reckon-up">reckon up</term>
                      <persName ref="lady-dedlock">her Ladyship</persName>—if you'll excuse my making
                      use of the term we commonly employ—and I <term type="legal" ref="reckon-up"
                         >reckoned her up</term>, so far, completely. I confronted the maid, in the
@@ -1317,9 +1321,26 @@
       <back>
          <div type="endnotes">
             <note xml:id="n1">The novel features the fictional case, Jarndyce and Jarndyce.</note>
-            <note xml:id="n2">The Court of Chancery followed rules to avoid a slow pace and
-               inequities of common laws.</note>
+            <note xml:id="n2">The Court of Chancery followed rules to avoid a slow pace and inequities of common laws.</note>
             <note xml:id="n3">Browne was a British artist and illustrator.</note>
+            <note xml:id="n4">Novels in the 1800s were often published in serialized format over a
+               number of monthly editions. Individual editions usually ended with a cliffhanger.</note>
+            <note xml:id="n5">A baronet is a minor member of British nobility, above a knight. They are addressed as "Sir".</note>
+            <note xml:id="n6">A 4 player trick-taking card game, popular in 19th century England.</note>
+            <note xml:id="n7">A historical British coin, worth 21 shillings. It was demonetized in 1816.</note>
+            <note xml:id="n8">A form of inflammatory arthritis, significantly more common in the 19th century.</note>
+            <note xml:id="n9">A substance that soothes and moisturizes the skin.</note>
+            <note xml:id="n10">Meaning "more wretched".</note>
+            <note xml:id="n11">"s." stands for shillings, a type of British coin. 20 shillings made a pound.</note>
+            <note xml:id="n12">Wrought iron was a common material in the 19th century.</note>
+            <note xml:id="n13">"d." stands for pennies, a type of British coin. 12 pennies made a shilling.</note>
+            <note xml:id="n14">A type of decorative finish, made to imitate the appearance of East Asian lacquerwork.</note>
+            <note xml:id="n15">Archaic word for encyclopedia.</note>
+            <note xml:id="n16">An acclaimed novel by William Makepeace Thackeray, published in 1847-48.</note>
+            <note xml:id="n17">The Edinburgh Review was a prestigious literary magazine that ran from 1802 to 1929.</note>
+            <note xml:id="n18">A royal warrant could be conferred upon a product to indicate its endorsement (and usage) by the Royal Family.</note>
+            <note xml:id="n19">The cowpox virus was used in Edward Jenner's pathbreaking smallpox innoculation method.</note>
+            <note xml:id="n20">A type of ornamental table ornamenet for holding flowers and fruit.</note>
          </div>
          <div type="biblio">
             <bibl xml:id="ebscobleakhouse"><title>Bleak House: Analysis of Major Characters.</title>
@@ -1369,8 +1390,7 @@
          </person>
          <person xml:id="sir-dedlock">
             <persName>Sir Leicester Dedlock</persName>
-            <note>A baronet, proud of his rank, unaware of his wife's (Lady Dedlock's)
-               secret.</note>
+            <note>A baronet, proud of his rank, unaware of his wife's (Lady Dedlock's) secret.</note>
          </person>
          <person xml:id="lady-dedlock">
             <persName>Lady Dedlock</persName>
@@ -1382,8 +1402,7 @@
          </person>
          <person xml:id="honoria">
             <persName>Honoria</persName>
-            <note>A women previously in a relationship with Captain Hawdon. She is revealed to be
-               Lady Dedlock in Chapter 29.</note>
+            <note>A women previously in a relationship with Captain Hawdon. She is revealed to be Lady Dedlock in Chapter 29.</note>
          </person>
          <person xml:id="lady-dedlock-sister">
             <persName>Miss Barbary</persName>
@@ -1391,8 +1410,7 @@
          </person>
          <person xml:id="george">
             <persName>George Rouncewell</persName>
-            <note>The son of Mrs. Rouncewell who is falsely arrested for Tulkinghorn's
-               murder.</note>
+            <note>The son of Mrs. Rouncewell who is falsely arrested for Tulkinghorn's murder.</note>
          </person>
          <person xml:id="captain-hawdon">
             <persName>Captain Hawdon</persName>
@@ -1436,41 +1454,41 @@
          </person>
          <person xml:id="tulkinghorn">
             <persName>Mr. Tulkinghorn</persName>
-            <note>A solicitor who threatened to expose a secret in Lady Dedlock's past and is
-               murdered.</note>
+            <note>A solicitor who threatened to expose a secret in Lady Dedlock's past and is murdered.</note>
          </person>
       </listPerson>
-
+      
       <!-- places index -->
       <listPlace>
          <place xml:id="library">
+            <placeName>Library</placeName>
             <note>The library in Bleak House, the Dedlock estate.</note>
          </place>
          <place xml:id="lincoln-inn-fields">
-            <note>Historic public square and garden located in the Holborn area of London, connected
-               to the Court of Chancery (legal institution).</note>
+            <placeName>Lincoln's Inn Fields</placeName>
+            <note>Historic public square and garden located in the Holborn area of London, connected to the Court of Chancery (legal institution).</note>
          </place>
          <place xml:id="precinct">
-            <note>A legal precinct, likely near Lincoln’s Inn Fields. </note>
+            <placeName>Precinct</placeName>
+            <note>A legal precinct, likely near Lincoln’s Inn Fields.
+            </note>
          </place>
-
+         
       </listPlace>
-
+      
       <!-- legal annotations -->
-      <list xml:id="legal">
+      <list>
          <item xml:id="reckon-up">
             <term>To reckon up</term>
             <note>To calculate the total amount owed by a creditor.</note>
          </item>
          <item xml:id="serjeant">
             <term>Serjeant</term>
-            <note>Short for serjeant-in-law, a member of an order of barristers at the English and
-               Irish Bar.</note>
+            <note>Short for serjeant-in-law, a member of an order of barristers at the English and Irish Bar.</note>
          </item>
          <item xml:id="stationer">
             <term>Stationer</term>
-            <note>A merchant who sells paper, forms, and stationery items used by lawyers and other
-               legal professionals.</note>
+            <note>A merchant who sells paper, forms, and stationery items used by lawyers and other legal professionals.</note>
          </item>
       </list>
    </standOff>
