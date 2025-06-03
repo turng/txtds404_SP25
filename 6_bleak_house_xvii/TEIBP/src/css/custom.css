@@ -59,6 +59,39 @@
     display: block;
 }
 
-body {
-    justify-content: center;
+
+#intro {
+    font-style: italic;
+}
+
+
+.note-ref {
+  position: relative;
+  cursor: pointer;
+  color: rgb(138, 54, 54);
+}
+
+.note-popup {
+  display: none;
+  position: absolute;
+  background: rgb(224, 224, 224);
+  color:black;
+  border: none;
+  padding: 6px;
+  font-size: 0.9em;
+  bottom: 1.5em; /* display the box above! */
+  left: 0;
+  z-index: 100;
+  max-width: 500px;
+  min-width: 200px;
+  font-style: normal;
+  border-radius: 6px;
+}
+
+.note-ref:hover .note-popup {
+  display: block;
+}
+
+div[type="endnotes"]{
+    display:none;
 }

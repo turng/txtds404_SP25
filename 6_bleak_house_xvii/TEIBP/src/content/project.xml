@@ -79,6 +79,9 @@
                culture and Bleak House as a larger text.</p>
          </div>
          <titlePage>
+            <figure>
+               <graphic url="../images/title.png" n="Image of Bleak House title page"/>
+            </figure>
             <docImprint>No. XVII. July. Price 1s</docImprint>
             <docTitle>
                <titlePart type="main" rend="caps">Bleak House</titlePart>
@@ -91,9 +94,6 @@
                M'Glacilan, Dublin. </docImprint>
             <docImprint>The Author of this Work notifies that it is his intention to reserve the
                right of translating it.</docImprint>
-            <figure>
-               <graphic url="../images/title.png" n="Image of Bleak House title page"/>
-            </figure>
          </titlePage>
       </front>
       <body>
@@ -206,7 +206,7 @@
                <!--has diamond in middle-->
 
                <div>
-                  <p><hi rend="dropcap">T</hi>he <hi rend="sc">"English <ref target="#15"
+                  <p><hi rend="dropcap">T</hi>he <hi rend="sc">"English <ref target="#n15"
                            >Cyclopædia</ref>"</hi> will be published in Four Divisions; each having
                      its own alphabetical arrangement, and each forming, when complete, four
                      disstinct volumes.</p>
@@ -348,7 +348,7 @@
 
                <div>
                   <p>Price 6s. in Cloth,</p>
-                  <p rend="bserif">A NEW EDITION OF <ref target="#16">VANITY FAIR</ref>.</p>
+                  <p rend="bserif">A NEW EDITION OF <ref target="#n16">VANITY FAIR</ref>.</p>
                   <!--bserif-->
                   <p>By W. M. THACKERAY.</p>
                   <p>"In forming our general estimate of this writer, we wish it to be understood as
@@ -361,7 +361,7 @@
                      channel, as if conscious that nothing mean or unworthy could fall from him. In
                      a word, the book is the work of a gentleman- one touch of nature makes the
                      whole world kin, and here are touches of nature by the dozen." -<hi rend="it"
-                           ><ref target="#17">Edinburgh Review</ref></hi>.</p>
+                           ><ref target="#n17">Edinburgh Review</ref></hi>.</p>
 
                   <!--sgline-->
                   <space type="sglinesh"/>
@@ -422,11 +422,11 @@
                   </figure>
                   <p><hi rend="dropcaps">T</hi>HE BEST MEDICINE IN THE WORLD for INFANTS AND YOUNG
                      CHILDREN IS ATKINSON AND BARKER'S ROYAL INFANTS' PRESERVATIVE-Under the <ref
-                        target="#18">Patronage of the Queen</ref>.-The high and universal celebrity
+                        target="#n18">Patronage of the Queen</ref>.-The high and universal celebrity
                      which this medicine continues to maintain for the prevention and cure of those
                      disorders incident to infants; affording instant relief in convulsions,
                      flatulency, affections of the bowels, difficult teething, the thrush, rickets,
-                     measles, whooping-cough, <ref target="#19">cow-pox</ref>, or vaccine
+                     measles, whooping-cough, <ref target="#n19">cow-pox</ref>, or vaccine
                      inoculation, and may be given with safety immediately after birth. It is no
                      misnomer cordial!-no stupefactive, deadly narcotic!- but a veritable preserver
                      of infants! Mothers would do well in always keeping it in the nursery. Many
@@ -701,7 +701,7 @@
                </div>
 
                <div rend="bold">
-                  <p>Superb <ref target="#20">Epergnes</ref>, Candelabra, Salad Stands, Wine
+                  <p>Superb <ref target="#n20">Epergnes</ref>, Candelabra, Salad Stands, Wine
                      Coolers, Waiters, Corner Dishes,</p>
                   <p>Meat and Venison Dishes, Dish Covers, Cruet Frames, Liqueur Stands, Spoons and
                      Forks,</p>
@@ -1477,7 +1477,7 @@
       </listPlace>
       
       <!-- legal annotations -->
-      <list>
+      <list xml:id="legal">
          <item xml:id="reckon-up">
             <term>To reckon up</term>
             <note>To calculate the total amount owed by a creditor.</note>

@@ -134,7 +134,21 @@
             </xsl:for-each>
         </section>
     </xsl:template>
-
-
-
+    
+    <xsl:template match="tei:bibl">
+        <p><xsl:apply-templates select="descendant::text()"/></p>
+    </xsl:template>
+    
+    <!-- fix notes formatting? -->
+    <xsl:key name="notesById" match="tei:note" use="@xml:id"/>
+    
+    <xsl:template match="tei:ref">
+        <xsl:variable name="noteId" select="substring-after(@target, '#')" />
+        <span class="note-ref">
+            <xsl:apply-templates/>
+            <span class="note-popup">
+                <xsl:apply-templates select="key('notesById', $noteId)/* | key('notesById', $noteId)/text()" />
+            </span>
+        </span>
+    </xsl:template>
 </xsl:stylesheet>
