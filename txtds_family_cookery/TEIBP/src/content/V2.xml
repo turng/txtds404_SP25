@@ -108,6 +108,7 @@
             </figure>
          </div>
          <div type="soups">
+		 <head rend="caps">Of Soups And Broths.</head>
             <pb n="18"/>
             <fw type="page_number" place="top left">18</fw>
             <fw type="running_header" place="top center" rend="caps">The Family Cookery.</fw>
@@ -190,6 +191,7 @@
             </div>
          </div>
          <div type="poultry">
+		 <head rend="caps">Game And Poultry.</head>
             <pb n="36"/>
             <fw type="page_number" place="top left">36</fw>
             <fw type="running_header" place="top center" rend="caps">The Family Cookery.</fw>
@@ -274,6 +276,7 @@
             </div>
          </div>
          <div type="pastry">
+		 <head rend="caps">Pastry.</head>
             <pb n="117"/>
             <fw type="page_number" place="top right">117</fw>
             <fw type="running_header" place="top center" rend="caps">The Family Cookery.</fw>
@@ -344,6 +347,7 @@
             </div>
          </div>
          <div type="recipes_for_the_sick">
+		 <head rend="caps">Recipes For The Sick.</head>
             <pb n="150"/>
             <fw type="page_number" place="top left">150</fw>
             <fw type="running_header" place="top center" rend="caps">The Family Cookery.</fw>
