@@ -51,24 +51,25 @@
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-            <p>We did not correct any errors as they did not detract from one's understanding of the text.</p>
+            <p>We did not correct any errors as they did not detract from one's understanding of the
+                text.</p>
             <tagsDecl>
                 <rendition xml:id="border" scheme="css"> border: 4px solid black; padding: 30px; </rendition>
-                <rendition xml:id="date" scheme="css">font-family: Papyrus, fantasy; text-align: right;
-                    font-style: italic; font-size: 20px;</rendition>
-                <rendition xml:id="title" scheme="css">font-family: Arial, sans-serif; font-size: 35px;
-                    font-weight: bold;</rendition>
+                <rendition xml:id="date" scheme="css">font-family: Papyrus, fantasy; text-align:
+                    right; font-style: italic; font-size: 20px;</rendition>
+                <rendition xml:id="title" scheme="css">font-family: Arial, sans-serif; font-size:
+                    35px; font-weight: bold;</rendition>
                 <rendition xml:id="subTitle" scheme="css">font-family: Arial, sans-serif; font-size:
                     35px; font-style: italic; font-weight: bold;</rendition>
                 <rendition xml:id="paper" scheme="css"> font-family: Papyrus, fantasy; text-align:
                     right; font-style: italic; font-size: 20px;</rendition>
-                <rendition xml:id="author" scheme="css">font-family: Arial, sans-serif; font-size: 20px;
-                    font-weight: bold;</rendition>
+                <rendition xml:id="author" scheme="css">font-family: Arial, sans-serif; font-size:
+                    20px; font-weight: bold;</rendition>
                 <rendition xml:id="description" scheme="css"> font-family: "Lucida Console Regular",
                     monospace; font-size: 20px; text-indent: 2em;</rendition>
                 <rendition xml:id="center" scheme="css">text-align: center;</rendition>
                 <rendition xml:id="titleIndent" scheme="css">padding-left: 1em;</rendition>
-                
+
             </tagsDecl>
         </encodingDesc>
     </teiHeader>
@@ -113,13 +114,15 @@
             <div type="annotations"> </div>
         </front>
         <body>
-            <div type="certificate" rend="gothic">
-                <head rend="caps">In Appreciation</head>
-                <head rend="caps">Presented to</head>
-                <head rend="caps"><name>Mr. Clarence T. Arai </name></head>
-                <p>On behalf of <name>Aiichiro Fujiyama</name>, Minister for Foreign Affairs of
-                    Japan, I convey to you the commendations of the Japanese Government for your
-                    exemplary citizenship and leadership in the affairs of your community</p>
+            <div type="certificate" style="gothic">
+                <head rend="caps" style="text-align: center">In Appreciation</head>
+                <head rend="caps" style="text-align: center">Presented to</head>
+                <head rend="caps" style="text-align: center"><name>Mr. Clarence T. Arai
+                    </name></head>
+                <p>On behalf of <ref target="#fujiyama">Aiichiro Fujiyama</ref>, Minister for
+                    Foreign Affairs of Japan, I convey to you the commendations of the Japanese
+                    Government for your exemplary citizenship and leadership in the affairs of your
+                    community</p>
                 <p>Your unremitting and dedicated endeavors have contributed greatly to the
                     development and strengthening of admirable relations between the United States
                     and Japan, as well as between Americans and Japanese within your own
@@ -135,24 +138,24 @@
                 <l>_______(signature)______ <name>Yoshiharu Takeno</name></l>
                 <!-- maybe we should add image of signature here?-->
             </div>
-            
+
             <pb/>
 
             <div type="certificate" rend="caps">
                 <head>Smithsonian Institution</head>
                 <head>Washington, D.C.</head>
                 <head>This·is·to·certify·that</head>
-                <head><ref type="name">Clarence T. Arai</ref></head>
+                <head><name>Clarence T. Arai</name></head>
                 <head>is·registered· in·the·archives·of·the·institution·as·a</head>
                 <head>patron</head>
                 <p>of·the·Smithsonian·Scientific·Series·in·recognition·of·his·aid·to·the·
                     Institution’s·program·for·the·diffusion·of·knowledge·among·men·
                     And·the·increase·of·its·financial·endowment·for·scientific·research</p>
                 <p>in·witness·whereof·the·seal·of·the·institution·and·the·signatures·of
-                    ·the·secretary ·and·the·administration·assistant·are·affixed·hereto</p>
+                    ·the·secretary·and·the·administration·assistant·are·affixed·hereto</p>
                 <signed>
                     <l>___________(signature)_________ Secretary</l>
-                <!-- maybe we should add images of signatures here?-->
+                    <!-- maybe we should add images of signatures here?-->
                     <l> __________(signature)_________ General</l>
                 </signed>
             </div>
@@ -187,42 +190,39 @@
                     <!-- add image of signature here?-->
                 </signed>
             </div>
-            
+
             <pb/>
 
             <div type="certificate">
-                <head rend="caps" style="text-align: center;">Registration Certificate<lb/>
-                    
-                    American Kennel Club AKC Incorporated <!-- this is the logo thingy, will encode properly later--><lb/>
-                    
-                    American Kennel Club Stud Book<lb/>
-                    American Kennel Club<lb/>
-                    New York, N.Y.
-                </head>
-                    
-                <l><hi rend="caps">Name of Dog</hi> Duke of Main Street</l> 
-                <l><hi rend="caps">Breed</hi> Cocker Spaniel   <hi rend="caps">Sex</hi> Male</l> 
-                <l><hi rend="caps">Sire</hi> Slicker Boy of Kitsop (934421)</l> 
-                <l><hi rend="caps">Dam</hi> Paul’s Queenie (898745)</l> 
+                <head rend="caps" style="text-align: center;">Registration Certificate<lb/> American
+                    Kennel Club AKC Incorporated
+                    <!-- this is the logo thingy, will encode properly later--><lb/> American Kennel
+                    Club Stud Book<lb/> American Kennel Club<lb/> New York, N.Y. </head>
+
+                <l><hi rend="caps">Name of Dog</hi> Duke of Main Street</l>
+                <l><hi rend="caps">Breed</hi> Cocker Spaniel <hi rend="caps">Sex</hi> Male</l>
+                <l><hi rend="caps">Sire</hi> Slicker Boy of Kitsop (934421)</l>
+                <l><hi rend="caps">Dam</hi> Paul’s Queenie (898745)</l>
                 <l><hi rend="caps">Whelped</hi> March 14, 1934</l>
-                <l><hi rend="caps">Color</hi> Red</l> 
+                <l><hi rend="caps">Color</hi> Red</l>
                 <l><hi rend="caps">Breeder</hi> M. Ellen Paul</l>
-                <l><hi rend="caps">Owner</hi> Clarence T. Arai</l> 
-                <l><hi rend="caps">Registered</hi> <date when="1934-06-15">June 15, 1934</date></l> 
-                <l><hi rend="caps">Assigned No</hi> 941308</l> 
+                <l><hi rend="caps">Owner</hi> Clarence T. Arai</l>
+                <l><hi rend="caps">Registered</hi>
+                    <date when="1934-06-15">June 15, 1934</date></l>
+                <l><hi rend="caps">Assigned No</hi> 941308</l>
                 <l><hi rend="caps">Volume</hi> 51</l>
                 <l>August <hi rend="caps">Issue</hi></l>
-                    
+
                 <signed>
-                    <name>Perry B Rice</name> <lb/>
-                    <hi rend="caps">Secretary</hi> gm
-                </signed>
+                    <name>Perry B Rice</name>
+                    <lb/>
+                    <hi rend="caps">Secretary</hi> gm </signed>
             </div>
-            
+
             <pb/>
 
             <div type="statement">
-                <head><hi rend="bold">Headquarters</hi></head>
+                <head><hi rend="bold" style="text-align:center">Headquarters</hi></head>
                 <head rend="bold">Western Defense Command</head>
                 <head><hi rend="bold">And Fourth Army</hi></head>
                 <head><hi rend="bold">Presidio of San Francisco, California</hi></head>
@@ -255,7 +255,7 @@
                     Japanese ancestry residing or being within the geographical limits of Military
                     Area No.1, or within any of the Zones</p>
             </div>
-            
+
             <pb/>
 
             <div type="statement">
@@ -265,41 +265,42 @@
                     California</hi></head>
                 <head><date when="1942-04-24">April 24th, 1942</date></head>
                 <head><hi rend="bold">Civilian Exclusion Order No.17</hi></head>
-                <p>Pursuant to the provisions of Public Proclamations Nos. 1 and 2, this
+                <p> 1. Pursuant to the provisions of Public Proclamations Nos. 1 and 2, this
                     Headquarters, dated <date when="1942-03-02">March 2, 1942</date>, and <date
                         when="1942-03-16">March 16, 1942</date>, respectively, it is hereby ordered
                     that from and after 12 o’clock noon, P.W.T., of Friday, <date when="1942-05-01"
                         >May 1, 1942</date>, all persons of Japanese ancestry, both alien and
                     non-aline, be excluded from that portion of Military Area No. 1 described as
                     follows:</p>
-                <p>All that portion of the City of Seattle, State of Washington, within that
-                    boundary beginning at the point at which the northerly limits of said city meet
-                    Shilshole Bay ; thence easterly and following the northerly limits of said city
-                    to Roosevelt Way ; thence southerly and following Roosevelt Way, Eastlake
-                    Avenue, fairview Avenue, Virginia Street, and Westlake Avenue to Fifth Avenue ;
-                    thence southeasterly on Fifth Avenue to Yesler Way ; thence easterly on Yesler
-                    Way to Maynard Avenue ; thence southerly on Maynard Avenue to Jackson Street ;
-                    thence westerly on jackson Street to Elliott Bay ; thence north-westerly and
-                    northerly, and following the westerly limits of the City of Seattle, to the
-                    point of beginning.</p>
-                <p>A responsible member of each family, and each individual living alone, in the
+                <p style="text-align:indent">All that portion of the City of Seattle, State of
+                    Washington, within that boundary beginning at the point at which the northerly
+                    limits of said city meet Shilshole Bay ; thence easterly and following the
+                    northerly limits of said city to Roosevelt Way ; thence southerly and following
+                    Roosevelt Way, Eastlake Avenue, fairview Avenue, Virginia Street, and Westlake
+                    Avenue to Fifth Avenue ; thence southeasterly on Fifth Avenue to Yesler Way ;
+                    thence easterly on Yesler Way to Maynard Avenue ; thence southerly on Maynard
+                    Avenue to Jackson Street ; thence westerly on jackson Street to Elliott Bay ;
+                    thence north-westerly and northerly, and following the westerly limits of the
+                    City of Seattle, to the point of beginning.</p>
+                <p> 2. A responsible member of each family, and each individual living alone, in the
                     above described area will report between the hours of 8:00 A.M. and 5:00 P.M.,
                     Saturday, <date when="1942-04-25">April 25, 1942</date>, or during the same
                     hours on Sunday, <date when="1942-04-26">April 26, 1942</date>, to the Civil
                     Control Station located at :</p>
                 <l>2100 Second Avenue,</l>
-                <l>Seattle, Washington.</l>
-                <p>Any person subject to this order who fails to comply with any of its provisions
-                    or with the provisions of published instructions pertaining herto or who is
-                    found in the above area after 12 o’clock noon, P.W.T., of Friday, May 1, 1942,
-                    will be liable to the criminal penalties provided by Public Law No.503, 77th
-                    Congress, approved March 21, 1942, entitled “An Act to Provide a Penalty for
-                    Violation of Restrictions or Orders with Respect to Persons Entering, Remaining
-                    in, Leaving, or Committing any Act in Military Areas or Zones,” and alien
-                    Japanese will be subject to immediate apprehension and internment.</p>
-                <l><ref type= "#Dewitt">James L. DeWitt</ref> Lieutenant General, U.S. Army Commanding</l>
+                <l> Seattle, Washington</l>
+                <p> 3. Any person subject to this order who fails to comply with any of its
+                    provisions or with the provisions of published instructions pertaining herto or
+                    who is found in the above area after 12 o’clock noon, P.W.T., of Friday, May 1,
+                    1942, will be liable to the criminal penalties provided by Public Law No.503,
+                    77th Congress, approved March 21, 1942, entitled “An Act to Provide a Penalty
+                    for Violation of Restrictions or Orders with Respect to Persons Entering,
+                    Remaining in, Leaving, or Committing any Act in Military Areas or Zones,” and
+                    alien Japanese will be subject to immediate apprehension and internment.</p>
+                <l><ref type="#Dewitt">James L. DeWitt</ref> Lieutenant General, U.S. Army
+                    Commanding</l>
             </div>
-            
+
             <pb/>
 
             <div xml:id="emptyStallsClipping" type="clipping" rendition="#border">
@@ -319,9 +320,9 @@
                     evacuation area, they are barred from the central business district by wartime
                     restrictions on movements of Japanese.</p>
             </div>
-            
+
             <pb/>
-            
+
             <div xml:id="halfOfCityClipping" type="clipping" rendition="#border">
                 <head rendition="#title">HALF OF CITY'S</head>
                 <head rendition="#title #titleIndent">JAPS HAVE GONE</head>
@@ -355,7 +356,7 @@
                 <p rendition="#description">No date has been set for removal of the Japanese from
                     there</p>
             </div>
-            
+
             <pb/>
 
             <div type="correspondence">
@@ -363,57 +364,53 @@
                     <name rend="caps">Seattle, Washington</name><l/>
                     <name ref="#jennings">Judson T. Jennings</name>, Librarian<l/>
                     <date when="1942-04-29">29 April 1942</date></ab>
-                
-                <ab type="toAddress"><address><addrLine>Mr Clarence T. Arai</addrLine>
-                <addrLine>452-12th Avenue</addrLine>
-                <addrLine>Seattle, Washington</addrLine></address></ab> 
-                
-               <p>Dear Mr Arai:</p>
-                
-               <p>Thank you kindly for the copies of “Our Times” by Mark Sullivan, and “The March of Democracy by Adams, which you sent to the library yesterday.</p> 
-            
-               <p> Both sets are being added to the Reference department.</p>
-            
+
+                <ab type="toAddress"><address>
+                        <addrLine>Mr Clarence T. Arai</addrLine>
+                        <addrLine>452-12th Avenue</addrLine>
+                        <addrLine>Seattle, Washington</addrLine>
+                    </address></ab>
+
+                <p>Dear Mr Arai:</p>
+
+                <p>Thank you kindly for the copies of “Our Times” by Mark Sullivan, and “The March
+                    of Democracy by Adams, which you sent to the library yesterday.</p>
+
+                <p> Both sets are being added to the Reference department.</p>
+
                 <signed>Cordially yours<l/>
                     <name ref="#jennings">J T Jennings</name><!-- image of signature?? --><l/>
-                    JTJ/FRP           Librarian
-                </signed> 
+                    JTJ/FRP Librarian </signed>
             </div>
-            
+
             <pb/>
 
             <div type="statement">
-                <ab type="letterhead" rend="caps">
-                    Headquarters<l/>
-                    NWS &amp; 44th Infantry Division<l/>
-                    Office of Acting Provost Marshal<l/> 
-                    State of Washington<l/> 
-                    Seattle, Washington
-                </ab>
-                    
-                <l style="text-align: right;"><date when="1942-05-02">May 2, 1942</date></l> 
-                
+                <ab type="letterhead" rend="caps"> Headquarters<l/> NWS &amp; 44th Infantry
+                    Division<l/> Office of Acting Provost Marshal<l/> State of Washington<l/>
+                    Seattle, Washington </ab>
+
+                <l style="text-align: right;"><date when="1942-05-02">May 2, 1942</date></l>
+
                 <p><hi rend="caps">To whom it may concern:</hi></p>
-                <p>The applicant named, <name rend="caps">Clarence Arai</name>, an American citizen of Japanese blood is hereby granted permission and authorized to travel without molestation or hindrance by the most direct route from 452 12th Avenue, Seattle, Washington to the <name ref="#spl">Seattle Public Library</name>, 4th and Madison Street and the Federal Reserve National Bank of Commerce Building, Seattle, Washington. Travel authorized will be effective <date when="1942-05-05">Tuesday, May 5, 1942</date> between the hours of 11:00 A.M. and 2:00 P.M.  <hi rend="caps">Nothing follows.</hi></p> 
-                
+                <p>The applicant named, <name rend="caps">Clarence Arai</name>, an American citizen
+                    of Japanese blood is hereby granted permission and authorized to travel without
+                    molestation or hindrance by the most direct route from 452 12th Avenue, Seattle,
+                    Washington to the <name ref="#spl">Seattle Public Library</name>, 4th and
+                    Madison Street and the Federal Reserve National Bank of Commerce Building,
+                    Seattle, Washington. Travel authorized will be effective <date when="1942-05-05"
+                        >Tuesday, May 5, 1942</date> between the hours of 11:00 A.M. and 2:00 P.M.
+                        <hi rend="caps">Nothing follows.</hi></p>
+
                 <signed>(signature)<!--image?--><lb/>
-                    <hi rend="caps">Michael A. Rivisto</hi><lb/>
-                    Captain Infantry <lb/>
-                    Acting Provost Marshal <lb/>
-                    State of Washington <lb/>
+                    <hi rend="caps">Michael A. Rivisto</hi><lb/> Captain Infantry <lb/> Acting
+                    Provost Marshal <lb/> State of Washington <lb/>
                     <seg type="stamped" style="color: blue;">
-                        <hi rend="caps">Michael A. Rivisto</hi><lb/> 
-                        Captain, Infantry<lb/>
-                        NWS. PCF
-                    </seg>
-                    
-                    <seg rend="caps" style="text-align: left;">
-                        MM<lb/>
-                        Temporary Permit #18
-                    </seg>
-                </signed> 
+                        <hi rend="caps">Michael A. Rivisto</hi><lb/> Captain, Infantry<lb/> NWS. PCF </seg>
+                    <seg rend="caps" style="text-align: left;"> MM<lb/> Temporary Permit #18 </seg>
+                </signed>
             </div>
-            
+
             <pb/>
 
             <div xml:id="moreJapaneseGetOrdersClipping" type="clipping" rendition="#border">
@@ -450,7 +447,7 @@
                     same hours on the same days, for the other area—one in the Bowers Building on
                     MainSt., Poulsbo, and the other</p>
             </div>
-            
+
             <pb/>
 
             <div xml:id="exclusionAreasClipping" type="clipping" rendition="#border">
@@ -470,7 +467,7 @@
                 <p rendition="#description"> UNDER BAN, TOO—The territory inside the heavy line is
                     covered by Exclusion Order No. 68, effective on Saturday.</p>
             </div>
-            
+
             <pb/>
 
             <div xml:id="registrationClipping" type="clipping" rendition="#border">
@@ -502,7 +499,7 @@
                     remaining Japanese in King County. They still remain in rural areas north and
                     east of Seattle, and a smaller portion of Southern King County.</p>
             </div>
-            
+
             <pb/>
 
             <div xml:id="campHarmonyJapsClipping" type="clipping" rendition="#border">
@@ -618,103 +615,144 @@
             <pb/>
 
             <div type="correspondence">
-                <l><date when="1942-06-02" style="text-align: right;">June 2, 1942</date></l> 
-                    
-                    <p>Mr. Clarence T. Arai<l/>
-                    Puyallup<l/>
-                    Washington</p> 
-                    
-                    <p>Dear Mr. Arai:</p>
-                    
-                    <p>The members of the Board of the <name ref="#spl">Seattle Public Library</name> wish to express to you our regret that you are unable to serve longer with them in the labor of sreving the citizens of Seattle in their library needs.</p>
-                   <p> We do wish, however, to let you know how much we have enjoyed your disinterested advice - your willingness to serve faithfully and your just approach to all problems that have come before the Board.</p> 
-                    <p>Your viewpoint has always been wholesome, un- prejudiced and eminently fair and we shall all miss your congenial companionship at our Board meetings, as well as the presence of Mrs. Arai and yourself at the annual banquet of the <name ref="#staff_association">Staff Association.</name></p> 
-                    <p>While we recognize that under present conditions many things arise that give much distress, we know that your sound philosophy and unfailing good humour will ever attend you.</p>
-                    
-                <signed>
-                    Sincerely yours<l/>
+                <l><date when="1942-06-02" style="text-align: right;">June 2, 1942</date></l>
+
+                <p>Mr. Clarence T. Arai<l/> Puyallup<l/> Washington</p>
+
+                <p>Dear Mr. Arai:</p>
+
+                <p>The members of the Board of the <name ref="#spl">Seattle Public Library</name>
+                    wish to express to you our regret that you are unable to serve longer with them
+                    in the labor of sreving the citizens of Seattle in their library needs.</p>
+                <p> We do wish, however, to let you know how much we have enjoyed your disinterested
+                    advice - your willingness to serve faithfully and your just approach to all
+                    problems that have come before the Board.</p>
+                <p>Your viewpoint has always been wholesome, un- prejudiced and eminently fair and
+                    we shall all miss your congenial companionship at our Board meetings, as well as
+                    the presence of Mrs. Arai and yourself at the annual banquet of the <name
+                        ref="#staff_association">Staff Association.</name></p>
+                <p>While we recognize that under present conditions many things arise that give much
+                    distress, we know that your sound philosophy and unfailing good humour will ever
+                    attend you.</p>
+
+                <signed> Sincerely yours<l/>
                     <name ref="#spl" rend="caps">Seattle Public Library Board</name><l/>
-                    <name>Josephine M. Quigley</name><l/>
-                    President<l/>
+                    <name>Josephine M. Quigley</name><l/> President<l/>
                     <name>Christine A. Neergaard</name><l/>
-                    (signature)<l/><!-- these are signatures i can't read-->
-                    (signature)<l/>
+                    (signature)<l/><!-- these are signatures i can't read--> (signature)<l/>
                 </signed>
             </div>
-            
+
             <pb/>
 
             <div type="correspondence">
                 <ab type="letterhead">
                     <address rend="caps">
-                        <addrLine><name ref="#staff_association">Seattle Public Library Staff Association</name></addrLine> 
-                        <addrLine>4th Ave. <hi rend="lowercase">and</hi> Madison St.</addrLine> 
+                        <addrLine><name ref="#staff_association">Seattle Public Library Staff
+                                Association</name></addrLine>
+                        <addrLine>4th Ave. <hi rend="lowercase">and</hi> Madison St.</addrLine>
                         <addrLine>Seattle, Washington</addrLine>
                     </address>
                 </ab>
-                    
-                <l style="text-align: center;"><date when="1942-05-25">25 May 1942</date></l> 
-                
-                <ab type="toAddress">Mr Clarence T. Arai 
-                (H/S)taff Headquarters, Camp Harmony
-                Section 2, no. 79 
-                Puyallup, Washington</ab> 
-                
-                <p>Dear Mr Arai:</p> 
-                
-                <p>Greetings from the Seventh Annual Banquet of the S(E/e)attle Public Library Staff Association to both you and Mrs Arai.</p>
-                
-                <p>We were so sorry not to have you with us Friday night. We tried to make it an especially nice affair since it was to be the last one before <name ref="#jennings">Mr Jennings</name> retired. As toastmistress, I read your letter and when the suggestion was made that greetings be sent to you, you should have heard the applause, so you can see what a place you hold in our minds and hearts.</p> 
-                
-                <p>The dining room at the Ranier Club looked very beautiful with the tables decorated with rhododendrons and iris and colorful programs, serving also as place cards. There were one hundred and forty-one present.</p> 
-                
-                <p>Between courses we sang the songs printed in the program and then we had a series of humorous book reviews supposedly suggestions for the book case in the new house <name ref="#jennings">Mr Jennings</name> is building across Lake Washington. After the last of these the group burst into the song “For He’s a Jolly Good Fellow.” Then we said we had a real book for him and Miss Andrus presented him with the portfolio of letters, one of which you wrote, - there were over a hundred altogether, and was he pleased!</p>
-                
-                <p>He made a little speech of appreciation and then it was Mrs. Quigley’s turn to add to the book-shelf. She presented him with a book containing a diploma saying that he had completed thirty-five years of successful service “summa cum laude”, and then she presented Mr Richards, the new librarian, with a schedule book such as they give Freshmen at the University, listing the courses he’d have to take such as Handling the Board, Pleasing the Staff, Balancing the Budget, etc. Mr Richards then said briefly how pleased he and Mrs Richards were to be included and how much he was looking forward to his work.</p> 
-                
-                <p>Last of all we said we thought the best books to have on our shelves were the master works that were standbys through thick and thin to guide and comfort us and then Miss Eberlin presented <name ref="#jennings">Mr Jennings</name> with a Columbia Master Works Album of Beethoven’s “Tempest” Sonata, first speaking of records and how librarians have always”kept</p> 
-                    
+
+                <l style="text-align: center;"><date when="1942-05-25">25 May 1942</date></l>
+
+                <ab type="toAddress">Mr Clarence T. Arai (H/S)taff Headquarters, Camp Harmony
+                    Section 2, no. 79 Puyallup, Washington</ab>
+
+                <p>Dear Mr Arai:</p>
+
+                <p>Greetings from the Seventh Annual Banquet of the S(E/e)attle Public Library Staff
+                    Association to both you and Mrs Arai.</p>
+
+                <p>We were so sorry not to have you with us Friday night. We tried to make it an
+                    especially nice affair since it was to be the last one before <name
+                        ref="#jennings">Mr Jennings</name> retired. As toastmistress, I read your
+                    letter and when the suggestion was made that greetings be sent to you, you
+                    should have heard the applause, so you can see what a place you hold in our
+                    minds and hearts.</p>
+
+                <p>The dining room at the Ranier Club looked very beautiful with the tables
+                    decorated with rhododendrons and iris and colorful programs, serving also as
+                    place cards. There were one hundred and forty-one present.</p>
+
+                <p>Between courses we sang the songs printed in the program and then we had a series
+                    of humorous book reviews supposedly suggestions for the book case in the new
+                    house <name ref="#jennings">Mr Jennings</name> is building across Lake
+                    Washington. After the last of these the group burst into the song “For He’s a
+                    Jolly Good Fellow.” Then we said we had a real book for him and Miss Andrus
+                    presented him with the portfolio of letters, one of which you wrote, - there
+                    were over a hundred altogether, and was he pleased!</p>
+
+                <p>He made a little speech of appreciation and then it was Mrs. Quigley’s turn to
+                    add to the book-shelf. She presented him with a book containing a diploma saying
+                    that he had completed thirty-five years of successful service “summa cum laude”,
+                    and then she presented Mr Richards, the new librarian, with a schedule book such
+                    as they give Freshmen at the University, listing the courses he’d have to take
+                    such as Handling the Board, Pleasing the Staff, Balancing the Budget, etc. Mr
+                    Richards then said briefly how pleased he and Mrs Richards were to be included
+                    and how much he was looking forward to his work.</p>
+
+                <p>Last of all we said we thought the best books to have on our shelves were the
+                    master works that were standbys through thick and thin to guide and comfort us
+                    and then Miss Eberlin presented <name ref="#jennings">Mr Jennings</name> with a
+                    Columbia Master Works Album of Beethoven’s “Tempest” Sonata, first speaking of
+                    records and how librarians have always”kept</p>
+
                 <pb/>
-                        
+
                 <ab type="letterhead">
                     <address rend="caps">
-                        <addrLine><name ref="#staff_association">Seattle Public Library Staff Association</name></addrLine> 
-                        <addrLine>4th Ave. <hi rend="lowercase">and</hi> Madison St.</addrLine> 
+                        <addrLine><name ref="#staff_association">Seattle Public Library Staff
+                                Association</name></addrLine>
+                        <addrLine>4th Ave. <hi rend="lowercase">and</hi> Madison St.</addrLine>
                         <addrLine>Seattle, Washington</addrLine>
                     </address>
                 </ab>
-                
-                 <ab type="pgNum" style="text-align: center;">-2-</ab>
-                
-                 <p>records” religiously. But she said that after we had gotten this record it occurred to us he would need something to play it on it on and so there was a companion volume to this. Covered with a cloth in the alcover back of the speakers table was an R.C.A. Radio-Victrola which Miss Eberlin then uncovered. <name ref="#jennings">Mr Jennings</name> was quite overcome. “I can’t say anything” was all he could say, so we joined hands around the table and sang Auld Lang Syne, and that was the end.</p> 
-                        
-                 <p>We surely wished many times during the evening that you and Mrs Arai might be with us and I know I am expressing the feeling of the whole group when I say that you have our very best wishes and that we hope this trying period through which you are passing may seem more bearable as time goes on. This morning’s P-I <!--maybe make a note saying this is probably the post intelligencer?--> carries your picture and tells of your new work. “You can’t keep a good man down”, you know.</p> 
-                        
-                  <signed>
-                    Sincerely your friend<l/>
-                    <name>Alice A. Frost</name> <!--signature--> <l/>
-                    (E/A)AF/FRP      President, Seattle Public Library <l/> Staff Association
-                </signed>
-                    
+
+                <ab type="pgNum" style="text-align: center;">-2-</ab>
+
+                <p>records” religiously. But she said that after we had gotten this record it
+                    occurred to us he would need something to play it on it on and so there was a
+                    companion volume to this. Covered with a cloth in the alcover back of the
+                    speakers table was an R.C.A. Radio-Victrola which Miss Eberlin then uncovered.
+                        <name ref="#jennings">Mr Jennings</name> was quite overcome. “I can’t say
+                    anything” was all he could say, so we joined hands around the table and sang
+                    Auld Lang Syne, and that was the end.</p>
+
+                <p>We surely wished many times during the evening that you and Mrs Arai might be
+                    with us and I know I am expressing the feeling of the whole group when I say
+                    that you have our very best wishes and that we hope this trying period through
+                    which you are passing may seem more bearable as time goes on. This morning’s P-I
+                    <!--maybe make a note saying this is probably the post intelligencer?--> carries
+                    your picture and tells of your new work. “You can’t keep a good man down”, you
+                    know.</p>
+
+                <signed> Sincerely your friend<l/>
+                    <name>Alice A. Frost</name>
+                    <!--signature-->
+                    <l/> (E/A)AF/FRP President, Seattle Public Library <l/> Staff Association </signed>
+
                 <postscript>
-                    <label>P.S.</label> 
-                    <p>Miss Calkins, head of our Reference department, is coming with a friend to Puyallup tomorrow and will be at the gate of the Camp at 5:30 and will be very happy to see you if you can be there.</p>
+                    <label>P.S.</label>
+                    <p>Miss Calkins, head of our Reference department, is coming with a friend to
+                        Puyallup tomorrow and will be at the gate of the Camp at 5:30 and will be
+                        very happy to see you if you can be there.</p>
                 </postscript>
             </div>
-            
+
         </body>
-        
+
         <back>
             <div type="annotations">
                 <note xml:id="spl"> During World War II, the Seattle Public Library continued to
                     serve incarcerated Japanese American patrons, sending almost 7,000 books to Camp
-                    Minidoka.<ref target="#spl_historylink_bib"/>
+                        Minidoka.<ref target="#spl_historylink_bib"/>
                 </note>
                 <!--marisa: make one for minidoka-->
                 <!--maybe we should make ones for exclusion orders 67 and/or 68 too?-->
-                <note xml:id="akc">
-                    The American Kennel Club is a nonprofit registry of purebred dog pedigrees.
-                    <ref target="#akc_bib"/>
+                <note xml:id="akc"> The American Kennel Club is a nonprofit registry of purebred dog
+                    pedigrees. <ref target="#akc_bib"/>
                 </note>
                 <note xml:id="jennings"> Librarian Judson T. Jennings (1873-1948) was the director
                     of the <name ref="#spl">Seattle Public Library</name> from 1907 to 1942. Upon
@@ -734,26 +772,29 @@
                 <note xml:id="dore"> John F. Dore (1881-1938) served as the Mayor of Seattle from
                     1932 to 1934 and from 1936 to 1938.</note>
                 <note xml:id="fujiyama"> Aiichiro Fujiyama was the Japanese Foreign Minister from
-                    1957-1960.<ref target="#fujiyama_bib"/>
+                        1957-1960.<ref target="#fujiyama_bib"/>
                 </note>
                 <note xml:id="DeWitt"> J.L. DeWitt was a United States general officer known for
                     overseeing the incarceration of over 110,000 Japanese Americans.<ref
                         target="#dewitt_bib"/>
-                <!--spl staff association 7th banquet program (is referenced in a letter i transcribed and is included in the scrapbook but i didn't transcribe it)-->
+                    <!--spl staff association 7th banquet program (is referenced in a letter i transcribed and is included in the scrapbook but i didn't transcribe it)-->
                 </note>
             </div>
             <div type="bibliography">
                 <listBibl>
-                    <bibl xml:id="arai_bib" type="webpage">
-                        "<title>Clarence Takeya Arai</title>."
-                        <author>Mary Schons</author>
+                    <bibl xml:id="arai_bib" type="webpage"> "<title>Clarence Takeya Arai</title>."
+                            <author>Mary Schons</author>
                         <publisher>EBSCO</publisher>
                         <date>2023</date>
-                        <ref target="https://www.ebsco.com/research-starters/history/clarence-takeya-arai">Clarence Takeya Arai</ref>
+                        <ref
+                            target="https://www.ebsco.com/research-starters/history/clarence-takeya-arai"
+                            >Clarence Takeya Arai</ref>
                     </bibl>
-                    <bibl xml:id="akc_bib" type="webpage"> “<title level="a">American Kennel Club</title>. <title level="m">Wikipedia</title>
+                    <bibl xml:id="akc_bib" type="webpage"> “<title level="a">American Kennel
+                            Club</title>. <title level="m">Wikipedia</title>
                         <publisher>Wikipedia.org</publisher>
-                        <ref target="https://en.wikipedia.org/wiki/American_Kennel_Club">American Kennel Club</ref>
+                        <ref target="https://en.wikipedia.org/wiki/American_Kennel_Club">American
+                            Kennel Club</ref>
                     </bibl>
                     <bibl xml:id="pike_place_market_bib" type="webpage"> “<title level="a">Pike
                             Place Market</title>. <title level="m">Wikipedia</title>
@@ -761,9 +802,9 @@
                         <ref target="https://en.wikipedia.org/
                             wiki/Pike_Place_Market">Pike Place Market</ref>
                     </bibl>
-                    <bibl xml:id="spl_historylink_bib" type="webpage"> 
-                        “<title>Central Library, 1906-1957, The Seattle Public Library</title>.” 
-                        <author>Paula Becker</author>
+                    <bibl xml:id="spl_historylink_bib" type="webpage"> “<title>Central Library,
+                            1906-1957, The Seattle Public Library</title>.” <author>Paula
+                            Becker</author>
                         <publisher>HistoryLink.org</publisher>
                         <date>7/01/2011</date>
                         <ref target="https://www.historylink.org/File/9869">Central Library,
@@ -772,14 +813,16 @@
                     <bibl xml:id="fujiyama_bib" type="webpage"> "<title level="a">Aiichiro Fujiyama,
                             87; Ex-Japanese Politician</title>." <publisher>New York
                             Times</publisher>
-                        <ref target="https://www.nytimes.com/1985/02/23/world/aiichiro-fujiyama-87-ex-japanese-politician.html"
+                        <ref
+                            target="https://www.nytimes.com/1985/02/23/world/aiichiro-fujiyama-87-ex-japanese-politician.html"
                             >Aiichiro Fujiyama, 87; Ex-Japanese Politician</ref>
                     </bibl>
                     <bibl xml:id="dewitt_bib" type="webpage">
                         <title level="a">John Lesene DeWitt</title>
                         <publisher>National Park Service</publisher>
                         <date>04/03/2024</date>
-                        <ref target="https://www.nps.gov/people/john-lesesne-dewitt.htm">John Lesesne DeWitt</ref>
+                        <ref target="https://www.nps.gov/people/john-lesesne-dewitt.htm">John
+                            Lesesne DeWitt</ref>
                     </bibl>
                 </listBibl>
             </div>
