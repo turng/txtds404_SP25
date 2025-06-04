@@ -58,7 +58,7 @@
                 <rendition xml:id="date" scheme="css">font-family: Papyrus, fantasy; text-align:
                     right; font-style: italic; font-size: 20px;</rendition>
                 <rendition xml:id="title" scheme="css">font-family: Arial, sans-serif; font-size:
-                    35px; font-weight: bold;</rendition>
+                    45px; font-weight: bold;</rendition>
                 <rendition xml:id="subTitle" scheme="css">font-family: Arial, sans-serif; font-size:
                     35px; font-style: italic; font-weight: bold;</rendition>
                 <rendition xml:id="paper" scheme="css"> font-family: Papyrus, fantasy; text-align:
