@@ -117,8 +117,7 @@
             <div type="clippings">
 
                 <div xml:id="emptyStallsClipping" type="clipping" rendition="#border">
-                    <head rendition="#date"><date when="1942-03-24">March 24, 1942</date>MAY 1,
-                        1942</head>
+                    <head rendition="#date"><date when="1942-03-24">MAY 24, 1942</date></head>
                     <head rendition="#title">EMPTY STALLS--EVACUATIONS</head>
                     <head rendition="#paper">SEATTLE TIMES</head>
                     <figure xml:id="emptyStallsImage">
