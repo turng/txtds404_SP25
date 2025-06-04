@@ -11,30 +11,183 @@
             <head>
                 <title>Kollege Kookery Kinks</title>
                 <style>
-                    .text{
-                        font-size: 14pt;
-                        width: 600px;
-                        margin: auto;
+                    body{
+                    font-family: 'Georgia', serif;
+                    background-color: #fdfcf9;
+                    color: #333;
+                    line-height: 1.6;
+                    margin: 0;
+                    padding: 2em;
+                    }
+                    
+                    .text {
+                    max-width: 750px;
+                    margin: auto;
+                    background-color: #ffffff;
+                    padding: 2em;
+                    box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+                    border-radius: 8px;
+                    }
+                    
+                    h1, h2 {
+                    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+                    color: #6b4d2f;
+                    border-bottom: 2px solid #ddd;
+                    padding-bottom: 0.2em;
+                    margin-top: 2em;
+                    }
+                    
+                    h3 {
+                    font-size: 1.3em;
+                    color: #4b3832;
+                    margin-top: 1.5em;
                     }
                     
                     .editorial_intro {
-                        margin-bottom: 2em;
-                        font-style: italic;
-                        padding: 1em;
-                        background-color: #f9f9f9;
-                        border-left: 4px solid #ccc;
+                    margin-bottom: 2em;
+                    padding: 1em 1.5em;
+                    background-color: #fff9f0;
+                    border-left: 5px solid #d4af7f;
+                    font-style: italic;
+                    border-radius: 4px;
+                    }
+                    
+                    .chapter {
+                    margin-top: 2em;
+                    }
+                    
+                    .recipe {
+                    background-color: #f9f9f9;
+                    border: 1px solid #e0e0e0;
+                    border-radius: 6px;
+                    padding: 1em 1.5em;
+                    margin-bottom: 1.5em;
+                    }
+                    
+                    ul.list {
+                    padding-left: 1.2em;
+                    }
+                    
+                    li.item {
+                    margin: 0.25em 0;
                     }
                     
                     .author {
-                        text-align: right;
+                    text-align: right;
+                    font-style: italic;
+                    color: #666;
+                    margin-top: 0.5em;
                     }
                     
+                    .endnotes {
+                    margin-top: 3em;
+                    border-top: 1px solid #ccc;
+                    padding-top: 2em;
+                    }
+                    
+                    .endnotes h2 {
+                    color: #444;
+                    }
+                    
+                    .note {
+                    margin-bottom: 1em;
+                    }
+                    
+                    img {
+                    display: block;
+                    margin: 1em auto;
+                    max-width: 80px;
+                    }
+                    
+                    .header {
+                    text-align: center;
+                    margin-bottom: 2em;
+                    }
+                    
+                    .header h1 {
+                    font-size: 2em;
+                    margin: 0;
+                    color: #6b4d2f;
+                    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+                    }
+                    
+                    .header h2 {
+                    font-size: 1em;
+                    font-weight: normal;
+                    color: #555;
+                    margin-top: 0.3em;
+                    }
+                    
+                    .toc {
+                    position: fixed;
+                    top: 140px;
+                    right: 20px;
+                    width: 140px;
+                    font-size: 0.8em;
+                    background-color: #fffef9;
+                    border: 1px solid #d9c9aa;
+                    padding: 0.7em;
+                    border-radius: 6px;
+                    box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
+                    z-index: 1000;
+                    opacity: 0.9;
+                    }
+                    
+                    .toc h3 {
+                    font-size: 0.9em;
+                    margin: 0 0 0.5em 0;
+                    color: #6b4d2f;
+                    text-align: center;
+                    }
+                    
+                    .toc ul {
+                    list-style: none;
+                    padding-left: 0;
+                    margin: 0;
+                    }
+                    
+                    .toc li {
+                    margin-bottom: 0.3em;
+                    line-height: 1.2;
+                    }
+                    
+                    .toc a {
+                    text-decoration: none;
+                    color: #4b3832;
+                    display: block;
+                    }
+                    
+                    .toc a:hover {
+                    text-decoration: underline;
+                    }
+                    
+                    
+                    
+
                 </style>
+                
             </head>
+            
             <body>
-                <div class="text"><xsl:apply-templates select="tei:text"/>
-                    <xsl:apply-templates select="//tei:note" mode="notes"/></div>
+                <div class="text">
+                    <div class="header">
+                        <h1>Kollege Kookery Kinks</h1>
+                        <h2>Edited by Demi, Stephanie, Xinyue</h2>
+                    </div>
+                    
+                    <div class="toc">
+                        <h3>Table of Contents</h3>
+                        <ul>
+                            <li><a href="#desserts">Dainty Desserts</a></li>
+                            <li><a href="#cakes">Cakes</a></li>
+                            <li><a href="#notes">Notes</a></li>
+                        </ul>
+                    </div>
+                    <xsl:apply-templates select="tei:text"/>
+                    <xsl:apply-templates select="//tei:note" mode="notes"/>
+                </div>
             </body>
+            
         </html>
     </xsl:template>
     
@@ -85,8 +238,19 @@
     </xsl:template>
     
     <xsl:template match="tei:div[@type='chapter']">
-        <div class="chapter"><xsl:apply-templates/></div>
+        <xsl:variable name="head-text" select="normalize-space(tei:head)"/>
+        <div class="chapter">
+            <xsl:attribute name="id">
+                <xsl:choose>
+                    <xsl:when test="contains($head-text, 'Dainty Desserts')">desserts</xsl:when>
+                    <xsl:when test="contains($head-text, 'Cakes')">cakes</xsl:when>
+                    <xsl:otherwise>chapter</xsl:otherwise>
+                </xsl:choose>
+            </xsl:attribute>
+            <xsl:apply-templates/>
+        </div>
     </xsl:template>
+    
     
     <xsl:template match="tei:div[@type='recipe']">
         <div class="recipe"><xsl:apply-templates/></div>
@@ -101,7 +265,7 @@
     </xsl:template>
     
     <xsl:template match="tei:div[@type='endnotes']">
-        <div class="endnotes">
+        <div class="endnotes" id="notes">
             <h2>Notes</h2>
             <ol>
                 <xsl:apply-templates select="//tei:note"/>
