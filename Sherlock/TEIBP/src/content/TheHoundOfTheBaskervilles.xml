@@ -117,7 +117,6 @@
                horse is dressed in an old-fashioned uniform, coat and hat.
                The illustration has a border around it, and the initials S P are inscribed in the
                bottom right corner. </figDesc>
-            <!-- I consider it acceptable not to include person references since the reader would not yet know to identify these people, but should be discussed-->
          </figure>
          <pb n="123"/>
          <head><title type="magazine" rend="titleFont"><lb/>The Strand Magazine. <lb/>Vol. xxii. <date when="1901-08"
@@ -627,7 +626,7 @@
                   fear that he could scarce speak, but at last he said that<lb break="yes"/>he had
                   indeed seen <persName ref="#theMaiden">the unhappy maiden</persName>,<lb
                      break="yes"/>with the hounds upon her track. 'But I<lb break="yes"/>have seen
-                  more than that,'<!-- what do we do about quotes in said? --> said he, 'for<lb
+                  more than that,' said he, 'for<lb
                      break="yes"/><persName>Hugo Baskerville</persName> passed me upon his black<lb
                      break="yes"/>mare, and there ran mute behind him such a<lb break="yes"/>hound
                   of hell as God forbid should ever be<lb break="yes"/>at my heels.' So the drunken
