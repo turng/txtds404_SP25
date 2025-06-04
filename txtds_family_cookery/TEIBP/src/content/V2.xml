@@ -108,6 +108,7 @@
             </figure>
          </div>
          <div type="soups">
+		 <head rend="caps">Of Soups And Broths.</head>
             <pb n="18"/>
             <fw type="page_number" place="top left">18</fw>
             <fw type="running_header" place="top center" rend="caps">The Family Cookery.</fw>
@@ -190,12 +191,13 @@
             </div>
          </div>
          <div type="poultry">
+		 <head rend="caps">Game And Poultry.</head>
             <pb n="36"/>
             <fw type="page_number" place="top left">36</fw>
             <fw type="running_header" place="top center" rend="caps">The Family Cookery.</fw>
             <lb/>
             <div type="recipe">
-               <head rend="align(center) format(italic)">Pigeons.</head>
+               <head rend="align(center) format(italic)"><ref target="#n1">Pigeons.</ref></head>
                <p>TAKE a little pepper and salt, a small piece of butter, and some parsley cut
                   small, mix these together, put them into the bellies of your pigeons, tying the
                   neck ends tight ;rumps, and the take another string, fasten one end of it to their
@@ -274,6 +276,7 @@
             </div>
          </div>
          <div type="pastry">
+		 <head rend="caps">Pastry.</head>
             <pb n="117"/>
             <fw type="page_number" place="top right">117</fw>
             <fw type="running_header" place="top center" rend="caps">The Family Cookery.</fw>
@@ -307,7 +310,7 @@
                   bake them a quarter of an hour.</p>
             </div>
             <div type="recipe">
-               <head rend="align(center) format(italic)">Shrewsbury Cakes.</head>
+               <head rend="align(center) format(italic)"><ref target="#n2">Shrewsbury Cakes.</ref></head>
                <p>TAKE one pound of sugar, three pounds of the finest flour, a nutmeg grated, and
                   some cinnamon well beaten; the sugar and spice must be sifted into the flour, wet
                   it with three eggs, and as much melted butter as will make it of a good thickness
@@ -335,7 +338,7 @@
                   to rise.</p>
             </div>
             <div type="recipe">
-               <head rend="align(center) format(italic)">Uxbridge Cakes.</head>
+               <head rend="align(center) format(italic)"><ref target="#n4">Uxbridge Cakes.</ref></head>
                <p>TAKE a pound of wheat flour, seven pounds of currants, half a nutmeg, and four
                   pounds of butter; rub your butter cold well among the meal. Dress the currants
                   very well in the flour, butter, and seasoning, and knead it with so much good new
@@ -344,6 +347,7 @@
             </div>
          </div>
          <div type="recipes_for_the_sick">
+		 <head rend="caps"><ref target="#n5">Recipes For The Sick.</ref></head>
             <pb n="150"/>
             <fw type="page_number" place="top left">150</fw>
             <fw type="running_header" place="top center" rend="caps">The Family Cookery.</fw>
@@ -403,7 +407,7 @@
                   effect. </p>
             </div>
             <div type="recipe">
-               <head rend="align(center) format(italic)">Isinglass.</head>
+               <head rend="align(center) format(italic)"><ref target="#n6">Isinglass.</ref></head>
                <p>BOIL an ounce of isinglass shavings with forty Jamaica peppercorns, and a crust of
                   bread in a quart of water, simmer to a pint, and strain it off. </p>
                <p>This makes a very pleasant jelly; it will keep well, and may be taken in wine and
@@ -441,7 +445,7 @@
                   white wine, and sweeten to taste.</p>
             </div>
             <div type="recipe">
-               <head rend="align(center) format(italic)">Caudle.</head>
+               <head rend="align(center) format(italic)"><ref target="#n7">Caudle.</ref></head>
                <p>MAKE A smooth gruel of half grits; when well boiled, strain, and stir it now and
                   then till cold. When to be used, add sugar, wine, lemon peel, and nutmeg. Some
                   like a spoonful of brandy besides the wine; others like lemon juice, but this
@@ -793,10 +797,8 @@
                recipe for Shrewsbury Cakes as the original; a recipe which was acquired from James
                Palin, who also owned a bakery in Shrewsbury. That said, the first known references
                to Shrewsbury Cakes date back to 1602 in several manuscripts and books.</note>
-            <!-- n3 and n4 still need research! I just haven't found any sources yet. I'm requesting a couple books from the library -Birdie (I'll also add @target to these) -->
-            <note xml:id="n3" type="editorial">Marlborough Cakes</note>
             <!-- n4/uxbridge will be on page 119 -->
-            <note xml:id="n4" type="editorial">Uxbridge Cakes</note>
+            <note xml:id="n4" type="editorial" target="#glasse">Uxbridge is a small town in west London, in the county of Middlesex, England. There is a reference to Uxbridge Cakes in the 1784 Edition of Hannah Glasse’s cookbook, <hi rend="italic">The Art of Cookery Made Plain and Easy</hi> in the Appendix. There is little other information available on the history of these cakes.</note>
             <!-- n5 is on page 150 and should be attached to the heading/Recipes for the Sick -->
             <note xml:id="n5" type="editorial" target="#smith-medicinal-food">It was common for
                cookbooks to include a section for the sick in and around the 19th century. There was
@@ -850,6 +852,15 @@
                   <ptr
                      target="https://books.google.com/books?id=ylJ2DQAAQBAJ&amp;source=gbs_navlinks_s"
                   />
+               </bibl>
+		    <bibl xml:id="glasse" type="book"> ---> n4 <author>
+                     <surname>Glasse</surname>
+                     <forename>Hannah</forename>
+               </author>
+                  <title level="m">The Art of Cookery Made Plain and Easy</title>
+                  <publisher>Printed for W. Strahan</publisher>
+                  <date>1784</date>
+                  <ptr target="#https://archive.org/details/artcookerymadep00glasgoog/page/n397/mode/2up"/>
                </bibl>
                <bibl xml:id="smith-medicinal-food" type="entry"> ---> n5 <title level="a">Medicinal
                      Food</title>

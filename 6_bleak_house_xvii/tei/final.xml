@@ -794,12 +794,15 @@
       <!-- places index -->
       <listPlace>
          <place xml:id="library">
+            <placeName>Library</placeName>
             <note>The library in Bleak House, the Dedlock estate.</note>
          </place>
          <place xml:id="lincoln-inn-fields">
+            <placeName>Lincoln's Inn Fields</placeName>
             <note>Historic public square and garden located in the Holborn area of London, connected to the Court of Chancery (legal institution).</note>
          </place>
          <place xml:id="precinct">
+            <placeName>Precinct</placeName>
             <note>A legal precinct, likely near Lincoln’s Inn Fields.
             </note>
          </place>

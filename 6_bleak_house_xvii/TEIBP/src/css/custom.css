@@ -1,39 +1,97 @@
 /* Place project-specific CSS here */
 
-/*  side bar logic :) */
-.sidebar {
+.topnav {
     position: fixed;
     top: 0;
     left: 0;
-    height: auto;
-    width: 150px;
-    background-color: white;
-    padding-top: 20px;
+    width: 100%;
+    background-color: rgb(67, 63, 58);
+    color: white;
+    padding: 10px 0;
+    z-index: 1000;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
-.sidebar ul {
+.topnav ul {
+    display: flex;
+    justify-content: center;
     list-style-type: none;
+    margin: 0;
     padding: 0;
 }
 
-.sidebar li {
-    margin: 20px 0;
+.topnav li {
+    position: relative;
+    margin: 0 15px;
 }
 
-.sidebar a {
-    color: black;
+.topnav a {
+    color: white;
     text-decoration: none;
     font-weight: bold;
-    padding: 10px;
+    padding: 10px 15px;
     display: block;
     transition: background 0.3s;
 }
 
-.sidebar a:hover {
+.topnav a:hover {
     background-color: black;
     color: white;
+    border-radius: 5px;
 }
 
-.novelcontent {
-    margin-left: 150px; /* offset the nav */
+
+.topnav .has-subnav > .subnav {
+    display: none;
+}
+
+.subnav li {
+    margin: 0;
+}
+
+.subnav a {
+    padding: 10px 15px;
+    white-space: nowrap;
+}
+
+/* Show submenu on hover */
+.has-subnav:hover .subnav {
+    display: block;
+}
+
+
+#intro {
+    font-style: italic;
+}
+
+
+.note-ref {
+  position: relative;
+  cursor: pointer;
+  color: rgb(138, 54, 54);
+}
+
+.note-popup {
+  display: none;
+  position: absolute;
+  background: rgb(224, 224, 224);
+  color:black;
+  border: none;
+  padding: 6px;
+  font-size: 0.9em;
+  bottom: 1.5em; /* display the box above! */
+  left: 0;
+  z-index: 100;
+  max-width: 500px;
+  min-width: 200px;
+  font-style: normal;
+  border-radius: 6px;
+}
+
+.note-ref:hover .note-popup {
+  display: block;
+}
+
+div[type="endnotes"]{
+    display:none;
 }
