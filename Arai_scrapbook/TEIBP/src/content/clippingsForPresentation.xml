@@ -59,6 +59,8 @@
                     right; font-style: italic; font-size: 20px;</rendition>
                 <rendition xml:id="title" scheme="css">font-family: Arial, sans-serif; font-size:
                     45px; font-weight: bold;</rendition>
+                <rendition xml:id="smallTitle" scheme="css">font-family: Arial, sans-serif; font-size:
+                    35px; font-weight: bold;</rendition>
                 <rendition xml:id="subTitle" scheme="css">font-family: Arial, sans-serif; font-size:
                     35px; font-style: italic; font-weight: bold;</rendition>
                 <rendition xml:id="paper" scheme="css"> font-family: Papyrus, fantasy; text-align:
@@ -118,7 +120,7 @@
 
                 <div xml:id="emptyStallsClipping" type="clipping" rendition="#border">
                     <head rendition="#date"><date when="1942-03-24">MAY 24, 1942</date></head>
-                    <head rendition="#title">EMPTY STALLS--EVACUATIONS</head>
+                    <head rendition="#smallTitle">EMPTY STALLS--EVACUATIONS</head>
                     <head rendition="#paper">SEATTLE TIMES</head>
                     <figure xml:id="emptyStallsImage">
                         <graphic url="../images/pikeplacenewTEIBP.jpg"/>
