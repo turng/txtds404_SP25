@@ -1857,7 +1857,7 @@
                         <cell role="label">Damping Boxes.</cell>
                      </row>
                      <row role="item">
-                        <cell role="item">Large 4to ......</cell>
+                        <cell role="item">Large 4to ...</cell>
                         <cell role="levelPrices">£1 10</cell>
                         <cell role="screwPrices">£2 10</cell>
                         <cell role="1stqualityscrewPrices">£3 3</cell>
@@ -1866,7 +1866,7 @@
                         <cell role="dampingboxPrices">11s.</cell>
                      </row>
                      <row role="item">
-                        <cell role="item">Foolscap Folio ..</cell>
+                        <cell role="item">Foolscap Folio ...</cell>
                         <cell role="levelPrices">2 0</cell>
                         <cell role="screwPrices">3 3</cell>
                         <cell role="1stqualityscrewPrices">4 10</cell>
@@ -1875,7 +1875,7 @@
                         <cell role="dampingboxPrices">12s.</cell>
                      </row>
                      <row role="item">
-                        <cell role="item">Post Folio ......</cell>
+                        <cell role="item">Post Folio ...</cell>
                         <cell role="levelPrices">--</cell>
                         <cell role="screwPrices">4 4</cell>
                         <cell role="1stqualityscrewPrices">6 0</cell>
@@ -1891,24 +1891,24 @@
                         <cell><hi rend="ital">Fittings for Folio Machine</hi></cell>
                      </row>
                      <row role="item">
-                        <cell>Cloth Pads, per pair ....2s. 6d.</cell>
-                        <cell>Cloth Pads, per pair ....3s. 6d.</cell>
-                        <cell>Cloth Pads, per pair ....4s. 6d.</cell>
+                        <cell>Cloth Pads, per pair ...2s. 6d.</cell>
+                        <cell>Cloth Pads, per pair ...3s. 6d.</cell>
+                        <cell>Cloth Pads, per pair ...4s. 6d.</cell>
                      </row>
                      <row role="item">
-                        <cell>Damping Brush ........1 6</cell>
-                        <cell>Damping Brush ........1 6</cell>
-                        <cell>Damping Brush ........1 6</cell>
+                        <cell>Damping Brush ...1 6</cell>
+                        <cell>Damping Brush ...1 6</cell>
+                        <cell>Damping Brush ...1 6</cell>
                      </row>
                      <row role="item">
-                        <cell>Drying Book or Sheets ..1 0</cell>
-                        <cell>Drying Book or Sheets ..2 0</cell>
-                        <cell>Drying Book or Sheets ..2 6</cell>
+                        <cell>Drying Book or Sheets ...1 0</cell>
+                        <cell>Drying Book or Sheets ...2 0</cell>
+                        <cell>Drying Book or Sheets ...2 6</cell>
                      </row>
                      <row role="item">
-                        <cell>6 Oiled Sheets ..........1 0</cell>
-                        <cell>6 Oiled Sheets ..........1 9</cell>
-                        <cell>6 Oiled Sheets ..........2 0</cell>
+                        <cell>6 Oiled Sheets ...1 0</cell>
+                        <cell>6 Oiled Sheets ...1 9</cell>
+                        <cell>6 Oiled Sheets ...2 0</cell>
                      </row>
                   </table><lb/>
                   <hi rend="medFont ac bold">Copying Books,</hi><lb/>
@@ -1921,17 +1921,17 @@
                         <cell>per dox.</cell>
                      </row>
                      <row role="item">
-                        <cell>500 <hi rend="ac">leaves</hi> .. ..</cell>
+                        <cell>500 <hi rend="ac">leaves</hi> ...</cell>
                         <cell>8s.</cell>
                         <cell>84s.</cell>
                      </row>
                      <row role="item">
-                        <cell>750 <hi rend="ac">leaves</hi> .. .</cell>
+                        <cell>750 <hi rend="ac">leaves</hi> ...</cell>
                         <cell>10s.</cell>
                         <cell>105s.</cell>
                      </row>
                      <row role="item">
-                        <cell>1000 <hi rend="ac">leaves</hi>.. ..</cell>
+                        <cell>1000 <hi rend="ac">leaves</hi> ...</cell>
                         <cell>12s.</cell>
                         <cell>126s.</cell>
                      </row>
@@ -1943,17 +1943,17 @@
                         <cell>per dox.</cell>
                      </row>
                      <row role="item">
-                        <cell>500 <hi rend="ac">leaves</hi> .. ..</cell>
+                        <cell>500 <hi rend="ac">leaves</hi> ...</cell>
                         <cell>10s.</cell>
                         <cell>102s.</cell>
                      </row>
                      <row role="item">
-                        <cell>750 <hi rend="ac">leaves</hi> .. .</cell>
+                        <cell>750 <hi rend="ac">leaves</hi> ...</cell>
                         <cell>13s.</cell>
                         <cell>138s.</cell>
                      </row>
                      <row role="item">
-                        <cell>1000 <hi rend="ac">leaves</hi>.. ..</cell>
+                        <cell>1000 <hi rend="ac">leaves</hi> ...</cell>
                         <cell>15s.</cell>
                         <cell>156s.</cell>
                      </row>
@@ -1966,17 +1966,17 @@
                         <cell>d.</cell>
                      </row>
                      <row role="item">
-                        <cell>Two Reams for ...............</cell>
+                        <cell>Two Reams for ...</cell>
                         <cell>16</cell>
                         <cell>0</cell>
                      </row>
                      <row role="item">
-                        <cell>Five Reams for ...... ........</cell>
+                        <cell>Five Reams for ...</cell>
                         <cell>35</cell>
                         <cell>0</cell>
                      </row>
                      <row role="item">
-                        <cell>Ten Reams for ...............</cell>
+                        <cell>Ten Reams for ...</cell>
                         <cell>60</cell>
                         <cell>0</cell>
                      </row>
@@ -1988,17 +1988,17 @@
                         <cell>d.</cell>
                      </row>
                      <row role="item">
-                        <cell>Two Reams for ...............</cell>
+                        <cell>Two Reams for ...</cell>
                         <cell>17</cell>
                         <cell>0</cell>
                      </row>
                      <row role="item">
-                        <cell>Five Reams for ...... ........</cell>
+                        <cell>Five Reams for ...</cell>
                         <cell>37</cell>
                         <cell>0</cell>
                      </row>
                      <row role="item">
-                        <cell>Ten Reams for ...............</cell>
+                        <cell>Ten Reams for ...</cell>
                         <cell>65</cell>
                         <cell>0</cell>
                      </row>
@@ -2022,7 +2022,316 @@
                </p>   
             </div>
          </div>
+         <div type="ad" xml:id="mayFlowers">
+            <pb n="74"/>
+            <head><hi rend="bigFont ac bold">May Flowers.</hi></head><lb/>
+            <p> 
+               <hi rend="bigFont ac">V</hi><hi rend="medFont"><hi rend="ac">ery pretty indeed</hi>, as they lift up their heads like injured innocence,</hi> but in claiming protection are frequently cut down, and sometimes they are trodden under foot by some careless or incautions little stranger, thus is their glory destroyed for a whole season. There are likewise other beautiful Plants, which, lifting their heads higher in the world, are not so easily crushed, some of them, may look well in the distance, though they serve but little purpose, and frequently become offensive when brought into immediate proximity with our senses.<lb/>
+               But the May <hi rend="sc">flowers</hi> of <hi rend="sc">art, taste, style, fashion,</hi> and <hi rend="sc">ingenuity</hi>, the efforts of the talented and the Industrious, without imperfections, and associated with every Gentleman's comfort, are the <hi rend="sc">spring fashions</hi> all ready at the universally celebrated Establishments of <hi rend="sc">E. Morrs &amp; Son</hi>. These Garments are rich as Nature's lovely Flowers: they are useful, light, and tasteful habiliments, uninjured by the Wet, and unfading in the Sun, cogenial to one's feelings as a Bleak House would be on a sultry day.<lb/>
+               The variety of May Flowers is one of the most cheering vestiges of the season. The thousands of forms tints, and colours, which they display is a source of endless gratification to admirers of natural productions. The variety displayed in the Spring Styles of Dress at <hi rend="sc">E. Moses &amp; Son</hi>'s is of the most ample and gratiftying character, exceeding all previous grand expositions, unequalled for elegance manifested in thousands of fabrics. of different colours, shades, and patterns, while the unparalleled skill for which <hi rend="sc">E. Moses &amp; Son</hi>'s <hi rend="sc">Establishments</hi> have been for many years so celebrated, has formed them with elevated taste into the most <hi rend="ital">novel, varied,</hi> and <hi rend="ital">fashionable</hi> Styles of <hi rend="sc">Dress</hi>, suitable for all classes, for young or aged, for nobility, clergy, gentry, tradesmen, or mechanics, in shapes and devices more pleasing, comfortable, and useful than ever presented before.<lb/>
+               <hi rend="medFont bold ac">List of Prices.</hi><lb/>
+               <table rows="7" cols="4">
+                  <row role="label">
+                     <cell><hi rend="ac sansSerif medFont">Winter Overcoats</hi></cell>
+                     <cell>£</cell>
+                     <cell>s.</cell>
+                     <cell>d.</cell>
+                  </row>
+                  <row role="item">
+                     <cell>The new Bequeme Overcoat, designed by <hi rend="sc">E. Moses &amp; Son</hi>...£1 5s. to</cell>
+                     <cell>4</cell>
+                     <cell>10</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row role="item">
+                     <cell>Pen Coats, from...</cell>
+                     <cell>0</cell>
+                     <cell>8</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row role="item">
+                     <cell>Coloured and Plain Witney Overcoats, in all shapes, from...15s. to</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row role="item">
+                     <cell>The Bulwer...</cell>
+                     <cell>1</cell>
+                     <cell>12</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row role="item">
+                     <cell>The Premier, expressly made for this establishment...12s. to</cell>
+                     <cell>1</cell>
+                     <cell>10</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row role="item">
+                     <cell>The Albert Cape, made in the most approved waterproof materials, including the Devonshire Kersey, lined throughout, and velvet collar...£1 5s. to</cell>
+                     <cell>3</cell>
+                     <cell>15</cell>
+                     <cell>0</cell>
+                  </row>
+               </table>
+               <table rows="10" cols="4">
+                  <row role="label">
+                     <cell><hi rend="ac sansSerif medFont">Boys' Winter Overcoats</hi></cell>
+                     <cell>£</cell>
+                     <cell>s.</cell>
+                     <cell>d.</cell>
+                  </row>
+                  <row role="item">
+                     <cell>Chesterfield, from...</cell>
+                     <cell>0</cell>
+                     <cell>9</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row role="item">
+                     <cell>The Byron Jacket and Overcoat, in all materials...</cell>
+                     <cell>0</cell>
+                     <cell>15</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row role="item">
+                     <cell>Prince of Wales' Wrapper, elegantly trimmed, and in various materials...</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row role="item">
+                     <cell>Dress Coats...</cell>
+                     <cell>0</cell>
+                     <cell>17</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row role="item">
+                     <cell>Super ditto...</cell>
+                     <cell>1</cell>
+                     <cell>12</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row role="item">
+                     <cell>Best manufactured...</cell>
+                     <cell>2</cell>
+                     <cell>15</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row role="item">
+                     <cell>Frock Coats...</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row role="item">
+                     <cell>Super ditto...</cell>
+                     <cell>1</cell>
+                     <cell>15</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row role="item">
+                     <cell>Best manufactured...</cell>
+                     <cell>3</cell>
+                     <cell>3</cell>
+                     <cell>0</cell>
+                  </row>
+               </table>
+               <table rows="7"  cols="4">
+                  <row role="label">
+                     <cell><hi rend="ac sansSerif medFont">Waistcoats.</hi></cell>
+                     <cell>£</cell>
+                     <cell>s.</cell>
+                     <cell>d.</cell>
+                  </row>
+                  <row role="item">
+                     <cell>Fancy Vest, from...</cell>
+                     <cell>0</cell>
+                     <cell>3</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row role="item">
+                     <cell>Witney and plain cloth...</cell>
+                     <cell>0</cell>
+                     <cell>4</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row role="item">
+                     <cell>Satin, plain and figure...</cell>
+                     <cell>0</cell>
+                     <cell>6</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row role="item">
+                     <cell>Black cloth...</cell>
+                     <cell>0</cell>
+                     <cell>4</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row role="item">
+                     <cell>Ditto, best manufactured...</cell>
+                     <cell>0</cell>
+                     <cell>13</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row role="item">
+                     <cell>White Marcella...4s. 6d. to</cell>
+                     <cell>0</cell>
+                     <cell>9</cell>
+                     <cell>6</cell>
+                  </row>
+               </table>
+               <table rows="7"  cols="4">
+                  <row role="label">
+                     <cell><hi rend="ac sansSerif medFont">Trousers.</hi></cell>
+                     <cell>£</cell>
+                     <cell>s.</cell>
+                     <cell>d.</cell>
+                  </row>
+                  <row role="item">
+                     <cell>Fancy Trousers, from...</cell>
+                     <cell>0</cell>
+                     <cell>6</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row role="item">
+                     <cell>Buckskin...</cell>
+                     <cell>0</cell>
+                     <cell>10</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row role="item">
+                     <cell>Black cloth...</cell>
+                     <cell>0</cell>
+                     <cell>12</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row role="item">
+                     <cell>Black and Fancy Doeskin...</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row role="item">
+                     <cell>Best Black Cassimere Trousers...</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row role="item">
+                     <cell>Boys' Hussar and Tunic Suits...13s. to.</cell>
+                     <cell>1</cell>
+                     <cell>15</cell>
+                     <cell>0</cell>
+                  </row>
+               </table>
+               <table rows="4"  cols="4">
+                  <row role="label">
+                     <cell><hi rend="ac sansSerif medFont">Ladies' Riding Habits.</hi></cell>
+                     <cell>£</cell>
+                     <cell>s.</cell>
+                     <cell>d.</cell>
+                  </row>
+                  <row role="item">
+                     <cell>Summer cloth, with 1/2 train...</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row role="item">
+                     <cell>Superior ditto...</cell>
+                     <cell>3</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row role="item">
+                     <cell>Superfine ditto...</cell>
+                     <cell>4</cell>
+                     <cell>10</cell>
+                     <cell>0</cell>
+                  </row>
+                  
+               </table>
+               <table rows="5"  cols="4">
+                  <row role="label">
+                     <cell><hi rend="ac sansSerif medFont">Liveries.</hi></cell>
+                     <cell>£</cell>
+                     <cell>s.</cell>
+                     <cell>d.</cell>
+                  </row>
+                  <row role="item">
+                     <cell>Page's suit...</cell>
+                     <cell>1</cell>
+                     <cell>8</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row role="item">
+                     <cell>Footman's...</cell>
+                     <cell>2</cell>
+                     <cell>15</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row role="item">
+                     <cell>Groom's...</cell>
+                     <cell>3</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row role="item">
+                     <cell>Coachman's...</cell>
+                     <cell>3</cell>
+                     <cell>10</cell>
+                     <cell>0</cell>
+                  </row>
                  
+               </table>
+               <table rows="3" cols="4">
+                  <row role="label">
+                     <cell><hi rend="ac bold medFont">Mourning.</hi></cell>
+                     <cell>£</cell>
+                     <cell>s.</cell>
+                     <cell>d.</cell>
+                  </row>
+                  <row role="item">
+                     <cell>Suit complete...</cell>
+                     <cell>1</cell>
+                     <cell>15</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row role="item">
+                     <cell>Boys' ditto...</cell>
+                     <cell>0</cell>
+                     <cell>18</cell>
+                     <cell>6</cell>
+                  </row>
+               </table><lb/>
+               Made to Measure in Five Hours.<lb/>
+               <hi rend="ac">Notice.</hi>--The Shawl and Fur Departments are now replete with every novelty of the season.<lb/>
+               A New Book, entitled "The Library of Elegance," containing full directions for self-measurement, can be had gratis on application or forwarded post free to any part of the kingdom.<lb/>
+               <hi rend="ac">Observe.</hi>--Any article purchased either ready made or made to measure, if not approved of, wil be exchanged or the money returned.<lb/>
+               <hi rend="ac">Caution.</hi>--<hi rend="sc">E. Moses &amp; Son</hi> have no connection with any other house, in or out of London, except the following:--<lb/>
+               <hi rend="bold">London City Establishments:--154, 155, 156, and 157, Minories; 83, 84, 85, 86, Aldgate, opposite the Church, all communicating.<lb/>London West End Branch:--506, 507, 508, New Oxford-street; 1, 2, 3, Hartstreet, all communicating.<lb/>Bradford, Yorkshire Branch, 19, Bridge-street.<lb/>Sheffield Branch, 36, Fargate.</hi><lb/>
+               <hi rend="ac">Tailors, Clothiers, Hatters, Hosiers, Furriers, Boot &amp; Shoe Makers, and General Outfitters for Ladies and Gentlement.</hi><lb/>
+               <hi rend="ital">The Establishments are closed from sunset, on Friday, till sunset, on Saturday, when business is resumed till 12 o'clock.</hi><lb/>
+            </p>
+         </div>        
+         <div type="ad" xml:id="healandsons">
+            <head><hi rend="ac bigFont sansSerif">Heal and Son's Illustrated Catalogue of Bedsteads,</hi></head><lb/>
+            <p>
+               Sent free by post.<lb/>
+               <graphic url="img/75graphic.png"/><lb/>
+                  <hi rend="medFont sideways right">It contains Designs and Prices of upwards of One Hundred Different Bedsteads, </hi><hi rend="medFont sideways left">In Iron, Brass, Japanned Wood, Polished Birch, Mahogany, Rosewood, and Walnut Tree Woods;</hi><lb/>
+                  Also their<lb/>
+                  <hi rend="ac bigFont bold">Priced List of Bedding.</hi><lb/>
+                  <hi rend="ital">Their New Waverooms enable them to keep one of each design fixed for inspection.</hi><lb/>
+                  They have also, in addition to their usual stock, a great variety of the best designs of<lb/>
+                  <hi rend="ac bigFont bold sansSerif">Parisan Bedsteads,</hi><lb/>
+                  <hi rend="sc">Both in wood and iron, which they have just imported.</hi><lb/>
+                  <hi rend="hugeFont ac bold">Heal &amp; Son,</hi><lb/>
+                  <hi rend="medFont sc">Bedstead and Bedding Manufacturers,</hi><lb/>
+                  <hi rend="medFont bold">196, (opposite the Chapel), Tottenham Court Road.</hi><lb/>
+                  <hi rend="sc">Bradbury and Evans, Printers, Whitefriars.</hi>
+            </p> 
+         </div>
       </body>
       <back>
          <div type="endnotes">
