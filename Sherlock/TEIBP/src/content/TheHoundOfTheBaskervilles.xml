@@ -109,7 +109,7 @@
          <pb n="122"/>
          <figure place="center">
             <graphic url="../images/BaskervillePage122.png"/>
-            <p rendition="bottom" rend="caps">
+            <p rend="caps bottom">
                The Hound of the Baskerville</p>
             <p rend="italics">(See page 128.)</p>
             <figDesc> In the full page illustration, a man on horseback speeds across a field while a
@@ -209,7 +209,7 @@
                   certainly one or two<lb break="yes"/>indications upon the stick. <figure
                      place="center">
                      <graphic url="../images/BaskervillePage124.png"/>
-                     <p rendition="bottom" rend="caps">"He looked over it again with a convex
+                     <p rend="caps bottom">"He looked over it again with a convex
                         lens."</p>
                      <figDesc><persName ref="#Holmes">Sherlock Holmes</persName>, stood by a window,
                         examines a walking stick with a magnifying glass. Holmes is wearing a light
@@ -320,7 +320,7 @@
                   man in this world who<lb break="yes"/>receives testimonials, only <figure
                      place="bottom right">
                      <graphic url="../images/BaskervillePage125.png"/>
-                     <p rendition="bottom" rend="caps">"His eyes fell upon the stick in Holme's
+                     <p rend="caps bottom">"His eyes fell upon the stick in Holme's
                         hand."</p>
                      <figDesc>
                         <persName ref="#Mortimer">Mortimer</persName> is holding the door to the
@@ -509,7 +509,7 @@
                figures: "<date when="1742">1742</date>."</p>
             <figure place="center">
                <graphic url="../images/BaskervillePage127.png"/>
-               <p rendition="bottom" rend="caps"> "<persName ref="#Mortimer">Dr. Mortimer</persName>
+               <p rend="caps bottom"> "<persName ref="#Mortimer">Dr. Mortimer</persName>
                   turned the manuscript to the light and read."</p>
                <figDesc><persName ref="#Mortimer">Mortimer</persName> and <persName ref="#Holmes"
                      >Holmes</persName> sit in chairs across from each other while Watson stands
@@ -657,7 +657,7 @@
                   where she had <pb n="129"/>
                   <figure place="top left">
                      <graphic url="../images/BaskervillePage129.png"/>
-                     <p rendition="bottom" rend="caps"> "There in the centre lay the unhappy maid
+                     <p rend="caps bottom"> "There in the centre lay the unhappy maid
                         where she had fallen."</p>
                      <figDesc> A man and woman, <persName ref="#HuBaskerville">Hugo
                            Baskerville</persName> and <persName ref="#theMaiden">the
@@ -773,7 +773,7 @@
                      openly-<lb break="maybe"/>expressed desire that the whole <lb break="yes"
                   />countryside should, within his own <figure place="center">
                      <graphic url="../images/BaskervillePage130.png"/>
-                     <p rendition="bottom" rend="caps"> "His body was discovered."</p>
+                     <p rend="caps bottom"> "His body was discovered."</p>
                      <figDesc> A man, <persName ref="#CBaskerville">Charles Baskerville</persName>,
                         is laid on his stomach and is unresponsive to another man standing behind
                         him holding a lamp with a shocked expression. Both men are dressed in suits.
@@ -976,7 +976,7 @@
             <fw type="RunningHead">132 The Strand Magazine</fw>
             <figure place="top left">
                <graphic url="../images/BaskervillePage132.png"/>
-               <p rendition="bottom" rend="caps"> "I saw his eyes fix themselves over my shoulder."</p>
+               <p rend="caps bottom"> "I saw his eyes fix themselves over my shoulder."</p>
                <figDesc>
                   <persName ref="#Watson">Watson</persName> and <persName ref="#Mortimer"
                      >Mortimer</persName> stand at the entrance to a building, Mortimer outside near
