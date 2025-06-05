@@ -101,7 +101,4 @@
     <xsl:template match="tei:cell">
         <td><xsl:apply-templates/></td>
     </xsl:template>
-    <xsl:template match="tei:hi">
-        <hi><xsl:apply-templates/></hi>
-    </xsl:template>
 </xsl:stylesheet>
