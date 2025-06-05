@@ -231,7 +231,6 @@
          <div type="advertisement">
             <p>CHEAP EDITION OF THE</p>
             <p>Novels &amp; Tales of <persName key="Lytton"><addName type="honorific">Sir</addName> E. Bulwer Lytton</persName>.</p>
-            <!-- Insert note about Lytton -->
             <p><hi rend="italic">Uniformly printed in crown 8vo, Corrected and Revised throughout, 
                with new Prefaces by the <name key="Lytton">Author</name>, and Frontispiece to
                each volume, handsomely bound in cloth.</hi></p>
@@ -308,8 +307,8 @@
          </div>
          <div type="advertisement">
             <head>VI.</head>
-            <p><title>WILLIAM PENN</title>. An Historical Biography, From New Sources. By <persName key="Dixon"><hi rend="dropcap">Hep-Worth Dixon</hi></persName>.
-               Second Edition.</p>
+            <p><title>WILLIAM PENN</title>. An Historical Biography, From New Sources. By 
+               <persName key="Dixon"><hi rend="dropcap">Hep-Worth Dixon</hi></persName>. Second Edition.</p>
             <p>Small 8vo, cloth, 7s., with a Portrait.</p>
          </div>
          <div type="advertisement">
@@ -327,8 +326,8 @@
          </div>
          <div type="advertisement">
             <head>XI.</head>
-            <p><title>THE ERNE, ITS LEGENDS AND ITS FLY-FISHING</title>. By <persName key="Newland"><addName type="honorific">Rev</addName>.
-               <hi rend="dropcap">H. Newland</hi></persName>.</p>
+            <p><title>THE ERNE, ITS LEGENDS AND ITS FLY-FISHING</title>. By 
+               <persName key="Newland"><addName type="honorific">Rev</addName>. <hi rend="dropcap">H. Newland</hi></persName>.</p>
             <p>Post 8vo, cloth, with Plates and Map, 12s.</p>
          </div>
          <div type="advertisement">
@@ -337,22 +336,21 @@
                <persName key="Craik"><hi rend="dropcap">George Lillie Craik</hi>, <addName type="honorific">Esq</addName>.</persName>,
                <addName type="honorific">Professor</addName> of History in <orgName>Queen's College</orgName>, <placeName>Belfast</placeName>.</p>
             <p>4 vols., with Portraits, post 8vo, 10s. 6d. each</p>
-            <p><placeName>LONDON</placeName>: <orgName>CHAPMAN AND HALL</orgName>, <address><addrLine>193, PICCADILLY</addrLine>
-               <!-- Insert Chapman & Hall note --></address>.</p>
+            <p><placeName>LONDON</placeName>: <orgName>CHAPMAN AND HALL</orgName>, <address><addrLine>193, PICCADILLY</addrLine></address>.</p>
          </div>
          <div type="advertisement">
             <head>NEW AND POPULAR BOOKS FOR THE YOUNG.</head>
                <figure>
                   <figDesc>Three men standing in a room leaning into speak to each other,
                      encompassed in a decorative frame.</figDesc>
-                  <caption><persName key="Goldsmith">Goldsmith</persName> introduced to <persName key="Newbery"
-                        >Newbery</persName> by <persName key="Johnson">Dr. Johnson</persName>.</caption>
+                  <caption><persName key="Goldsmith">Goldsmith</persName> introduced to 
+                     <persName key="Newbery">Newbery</persName> by 
+                     <persName key="Johnson">Dr. Johnson</persName>.</caption>
                </figure>
                <p>PUBLISHED BY</p>
                <p><hi rend="sans"><orgName>GRANT &amp; GRIFFITH</orgName>,</hi></p>
                <p>SUCCESSORS TO</p>
                <p><orgName>NEWBERY &amp; HARRIS</orgName>,</p>
-               <!-- Insert note about Newbery & Harris (John Harris and John Newbery) -->
                <p>CORNER OF</p>
                <p><placeName>SAINT PAUL'S CHURCH-YARD</placeName>.</p>
             <div rend="left column">
@@ -360,475 +358,375 @@
                   <item>
                      <title>MARK SEAWORTH: a Tale of the Indian Ocean</title>. By the Author of
                         <q><title>Peter the Whaler</title>.</q> With Illustraions. Fcap. 8vo, 6s. cloth.</item>
-                  <item><title>ANECDOTES OF THE HABITS AND INSTINCT OF ANIMALS</title>. By <persName
-                        key="Lee">MRS. LEE</persName>. With Illustrations by <persName key="Weir">H.
-                        Weir</persName>. Fcap. 8vo, 6s. cloth.</item>
-                  <item><title>THE DOLL AND HER FRIENDS</title>. By the Author of <q><title>Letters
-                           from Madras</title>.</q> With Illustrations by <name key="Phiz"><hi
-                           rend="dropcap">Phiz</hi></name>. Small 4to, 2s. 6d. cloth; 3s. 6d.
-                     coloured.</item>
-                  <item><title>GOOD IN EVERYTHING; or, the Early History of Gilbert Harland</title>.
-                     By <persName key="Barwell"><hi rend="dropcap">Mrs. Barwell</hi></persName>. With
-                     Illustrations. Royal 16mo, 3s. 6d. cloth; 4s. 6d. coloured.</item>
-                  <item><title>STORIES OF JULIAN AND HIS PLAYFELLOWS</title>. With Illustrations.
-                     Small 4to, 2s. 6d. plain; 3s. 6d. coloured.</item>
-                  <item><title>TALES FROM CATLAND</title>. Written for Young Kittens. By an <hi
-                        rend="dropcap">Old Tabby</hi>. With Illustrations by <persName key="Weir"><hi
-                           rend="dropcap">H. Weir</hi></persName>. Small 4to, 2s. 6d. plain; 3s. 6d.
-                     coloured.</item>
-                  <item><title>ADVENTURES IN AUSTRALIA; or, The Wanderings of Captain Spencer in the
-                        Bush and the Wilds</title>. By <persName key="Lee">Mrs. <hi rend="dropcap">R.
-                           Lee</hi></persName>, Author of <q><title>The African Wanderers</title>.</q>
-                     With Illustrations by <persName key="Prout"><hi rend="dropcap">J.S.
-                        Prout</hi></persName>. Fcap. 8vo, 6s. cloth.</item>
-                  <item><title>PETER THE WHALER: his Early Life and Adventures in the Arctic
-                        Regions</title>. By <persName key="Kingston"><hi rend="dropcap">W. H. G.
-                              Kingston</hi>, <addName type="honorific">Esq</addName></persName>. With Illustrations. Fcap. 8vo, 6s.
-                     cloth.</item>
-                  <item><title>TALES OF SCHOOL LIFE</title>. By <persName key="Loudon"><hi
-                           rend="dropcap">Agnes Loudon</hi></persName>.
-                     <!-- Insert note about Agnes Loudon --> Illustrated by <persName key="Absolon"><hi
-                           rend="dropcap">J. Absolon</hi></persName>. Royal 16mo, 3s. 6d. plain; 4s. 6d.
-                     coloured.</item>
-                  <!-- Insert note about John Absolon -->
-                  <item><title>THE WONDERS OF HOME; in Eleven Stories</title>. By <persName key="Grey"
-                           ><hi rend="dropcap">Grandfather Grey</hi></persName>. Second Edition. With
-                     Engravings. Royal 16mo, 3s. 6d. plain; 4s. 6d. coloured.</item>
-                  <item><title>THE MODERN BRITISH PLUTARCH; or, Lives of Men distinguished in the
-                        recent History of our Country</title>. By the late <persName key="Taylor">Dr.
-                           <hi rend="dropcap">W. C. Taylor</hi></persName>. Second Thousand, with a new
-                     Steel Frontispiece. 12mo, price 6s. cloth.</item>
-                  <item><title>THE AFRICAN WANDERERS: or, The Adventures of Carlos and Antonio among
-                        the Western Tribes</title>. By <persName key="Lee">Mrs. <hi rend="dropcap">R.
-                           Lee</hi></persName> (formerly Mrs. <hi rend="dropcap">T. E. Bowdich</hi>).
+                  <item>
+                     <title>ANECDOTES OF THE HABITS AND INSTINCT OF ANIMALS</title>. By <persName key="Lee">MRS. LEE</persName>.
+                     With Illustrations by <persName key="Weir">H. Weir</persName>. Fcap. 8vo, 6s. cloth.</item>
+                  <item>
+                     <title>THE DOLL AND HER FRIENDS</title>. By the Author of <q><title>Letters from Madras</title>.</q> 
+                     With Illustrations by <name key="Phiz"><hi rend="dropcap">Phiz</hi></name>. Small 4to, 2s. 6d. cloth; 
+                     3s. 6d. coloured.</item>
+                  <item>
+                     <title>GOOD IN EVERYTHING; or, the Early History of Gilbert Harland</title>.
+                     By <persName key="Barwell"><hi rend="dropcap">Mrs. Barwell</hi></persName>. With Illustrations. Royal 16mo, 3s. 6d. 
+                     cloth; 4s. 6d. coloured.</item>
+                  <item>
+                     <title>STORIES OF JULIAN AND HIS PLAYFELLOWS</title>. With Illustrations. Small 4to, 2s. 6d. plain; 3s. 6d. coloured.</item>
+                  <item>
+                     <title>TALES FROM CATLAND</title>. Written for Young Kittens. By an <hi rend="dropcap">Old Tabby</hi>. With Illustrations 
+                     by <persName key="Weir"><hi rend="dropcap">H. Weir</hi></persName>. Small 4to, 2s. 6d. plain; 3s. 6d.coloured.</item>
+                  <item>
+                     <title>ADVENTURES IN AUSTRALIA; or, The Wanderings of Captain Spencer in the Bush and the Wilds</title>. By 
+                     <persName key="Lee">Mrs. <hi rend="dropcap">R. Lee</hi></persName>, Author of <q><title>The African Wanderers</title>.</q>
+                     With Illustrations by <persName key="Prout"><hi rend="dropcap">J.S. Prout</hi></persName>. Fcap. 8vo, 6s. cloth.</item>
+                  <item>
+                     <title>PETER THE WHALER: his Early Life and Adventures in the Arctic Regions</title>. By <persName key="Kingston">
+                     <hi rend="dropcap">W. H. G. Kingston</hi>, <addName type="honorific">Esq</addName></persName>. With Illustrations. Fcap. 8vo, 
+                     6s. cloth.</item>
+                  <item>
+                     <title>TALES OF SCHOOL LIFE</title>. By 
+                     <persName key="Loudon"><hi rend="dropcap">Agnes Loudon</hi></persName>. Illustrated by 
+                     <persName key="Absolon"><hi rend="dropcap">J. Absolon</hi></persName>. Royal 16mo, 3s. 6d. plain; 4s. 6d. coloured.</item>
+                  <note type="editorial">John Absolon, a British painter of the nineteenth century, is noted as illustrating both works that 
+                     Agnes Loudon authored in this advertisement; as there is little information available on Absolon's work in book 
+                     illustrations, it's not clear whether he worked with Loudon directly or was hired by the publishing company.</note>
+                  <item>
+                     <title>THE WONDERS OF HOME; in Eleven Stories</title>. By <persName key="Grey"><hi rend="dropcap">Grandfather Grey</hi></persName>. 
+                     Second Edition. With Engravings. Royal 16mo, 3s. 6d. plain; 4s. 6d. coloured.</item>
+                  <item>
+                     <title>THE MODERN BRITISH PLUTARCH; or, Lives of Men distinguished in the recent History of our Country</title>. By the late 
+                     <persName key="Taylor">Dr. <hi rend="dropcap">W. C. Taylor</hi></persName>. Second Thousand, with a new Steel Frontispiece. 
+                     12mo, price 6s. cloth.</item>
+                  <item>
+                     <title>THE AFRICAN WANDERERS: or, The Adventures of Carlos and Antonio among the Western Tribes</title>. By 
+                     <persName key="Lee">Mrs. <hi rend="dropcap">R. Lee</hi></persName> (formerly Mrs. <hi rend="dropcap">T. E. Bowdich</hi>). 
                      Second Edition. Fcap. 8vo, with Engravings, price 6s. cloth.</item>
-                  <item><title>THE WONDER-SEEKER; or, The History of Charles Douglas</title>. By
-                        <persName key="Tytles"><hi rend="dropcap">M. F. Tytles</hi></persName>. Illustrated
-                     by <persName key="Absolon"><hi rend="dropcap">Absolon</hi></persName>. Second Edition.
-                     Fcap. 8vo, 4s. 6d. cloth.</item>
-                  <item><title>FACTS FROM THE WORLD OF NATURE, Animate and Inanimate</title>. By
-                        <persName key="Loudon">Mrs. <hi rend="dropcap">Loudon</hi></persName>. With numerous
-                     Engravings. Fcap. 8vo, 6s. cloth, gilt edges.</item>
+                  <item>
+                     <title>THE WONDER-SEEKER; or, The History of Charles Douglas</title>. By 
+                     <persName key="Tytles"><hi rend="dropcap">M. F. Tytles</hi></persName>. Illustrated by 
+                     <persName key="Absolon"><hi rend="dropcap">Absolon</hi></persName>. Second Edition. Fcap. 8vo, 4s. 6d. cloth.</item>
+                  <item>
+                     <title>FACTS FROM THE WORLD OF NATURE, Animate and Inanimate</title>. By
+                     <persName key="Loudon">Mrs. <hi rend="dropcap">Loudon</hi></persName>. With numerous Engravings. Fcap. 8vo, 6s. 
+                     cloth, gilt edges.</item>
                </list>
             </div>
             <cb/>
-            <div type="columnR">
-               <div>
-                  <list>
-                     <item><p><title>HANS ANDERSEN'S TALES FROM DENMARK</title>. Translated by <persName
-                              key="Boner"><hi rend="dropcap">C. Boner</hi></persName>. With 50
-                           Illustrations by <persName key="Pocci"><hi rend="dropcap"><addName type="honorific">Count</addName>
-                              Pocci</hi></persName>. Small 4to, 6s. plain; 7s. 6d. coloured.</p>
-                        <p><q>We prophesy for these Tales an immortality in the nursery.</q>—<hi
-                              rend="italic"><orgName>Blackwood</orgName>.</hi></p></item>
-                     <item><p><title>TRUES STORIES FROM ANCIENT HISTORY, chronologically arranged
-                              from the Creation of the World to the Death of Charlemagne</title>.
-                           Tenth Edition, with 24 Steel Engravings. 5s. cloth.</p></item>
-                     <item><title>TRUE STORIES FROM MODERN HISTORY, from the Death of Charlemagne to
-                           the Year 1849</title>. 7th Edition, with 24 Steel Engravings. 5s.
-                        cloth.</item>
-                     <item><title>TRUE STORIES FROM ENGLISH HISTORY, from the Invasion of the Romans
-                           to the Close of the Great Exhibition</title>. Sixth Edition. 36 Steel
-                        Engravings. 5s. cloth.</item>
-                     <item><title>EARLY DAYS OF ENGLISH PRINCES</title>. By <persName key="Gray">Mrs.
-                              <hi rend="dropcap">Russell Gray</hi></persName>. Illustrated by <persName
-                           key="Franklin"><hi rend="dropcap">John Franklin</hi></persName>. Royal 16mo,
-                        4s. plain; 5s. coloured.</item>
-                     <item><title>GLIMPSES OF NATURE AND OBJECTS OF INTEREST, described during a
-                           Visit to the Isle of Wight</title>. By <persName key="Loudon">Mrs. <hi
-                              rend="dropcap">Loudon</hi></persName>. Second Edition, with 41
-                        Illustrations. Square 16mo, 3s. 6d. cloth.</item>
-                     <item><title>THE MINE; or, Subterranean Wonders: an Account of the Operations
-                           of the Miner, and the Products of his Labour</title>. Sixth Edition. With
-                        45 new Woodcuts, and 16 Steel Engravings. Price 4s. cloth.</item>
-                     <item><title>THE SHIP: a Description of various kinds of Vessels, the origin of
-                           Ship-Building, Steamboats, &amp;c</title>. With numerous Illustrative
-                        Engravings. Fifth Edition, revised by <persName key="Barker"><hi rend="dropcap"
-                              >M. H. Barker</hi>, Esq.</persName>, <q>The Old Sailor.</q> Price 4s.
-                        cloth.</item>
-                  </list>
-               </div>
-               <div>
-                  <head><hi rend="sans">THE FAVOURITE LIBRARY.</hi></head>
-                  <p>A Series of Works for the Young, each with an Illustration by a Well-known
-                     Artist. Complete in 12 Volumes, 1s. each; fancy boards or in Six double
-                     Volumes, cloth, gilt edges, at 2s. 6d.</p>
-                  <list>
-                     <item>1. <title>THE ESKDALE HERD-BOY</title>. By <persName key="Stoddart"><addName type="honorific">Lady</addName> <hi
-                              rend="dropcap">Stoddart</hi></persName>.</item>
-                     <!-- Insert note about Isabella Moncrieff -->
-                     <item>2. <title>MRS. LEICESTER'S SCHOOL</title>. By <persName key="LambC"><hi
-                              rend="dropcap">Charles</hi></persName> and <persName key="LambM"><hi
-                              rend="dropcap">Mary Lamb</hi></persName>.</item>
-                     <item>3. <title>THE HISTORY OF THE ROBINS</title>. By <persName key="Trimmer">Mrs.
-                              <hi rend="dropcap">Trimmer</hi></persName>.</item>
-                     <!-- Insert note about Sarah Trimmer -->
-                     <item>4. <title>MEMOIRS OF BOB, THE SPOTTED TERRIER</title>.</item>
-                     <item>5. <title>KEEPER'S TRAVELS IN SEARCH OF HIS MASTER</title>.</item>
-                     <item>6. <title>THE SCOTTISH ORPHANS</title>. By <persName key="Stoddart"><addName type="honorific">Lady</addName> <hi
-                              rend="dropcap">STODDART</hi></persName>.</item>
-                     <item>7. <title>NEVER WRONG; or, The Young Disputant</title>.</item>
-                     <item>8. <title>THE LIFE AND PERAMBULATIONS OF A MOUSE</title>.</item>
-                     <item>9. <title><name key="Trimmer">TRIMMER</name>'S INTRODUCTION TO THE
-                           KNOWLEDGE OF NATURE</title>.</item>
-                     <item>10. <title>RIGHT AND WRONG</title>. By the Author of <q><title>Always
-                              Happy</title>.</q></item>
-                     <item>11. <title>HARRY'S HOLIDAY</title>. By <persName key="Taylor"><hi
-                              rend="dropcap">Jeffreys Taylor</hi></persName>.</item>
-                     <item>12. <title>SHORT POEMS AND HYMNS</title>.</item>
-                  </list>
-               </div>
+            <div rend="right column">
+               <list>
+                  <item>
+                     <title>HANS ANDERSEN'S TALES FROM DENMARK</title>. 
+                     <seg>Translated by <persName key="Boner"><hi rend="dropcap">C. Boner</hi></persName>. 
+                     With 50 Illustrations by <persName key="Pocci"><hi rend="dropcap"><addName type="honorific">Count</addName>Pocci</hi></persName>. 
+                     Small 4to, 6s. plain; 7s. 6d. coloured.</seg>
+                     <seg><q>We prophesy for these Tales an immortality in the nursery.</q>
+                     —<hi rend="italic"><orgName>Blackwood</orgName>.</hi></seg></item>
+                  <item>
+                     <title>TRUES STORIES FROM ANCIENT HISTORY, chronologically arranged from the Creation of the World to the Death of Charlemagne</title>. 
+                     Tenth Edition, with 24 Steel Engravings. 5s. cloth.</item>
+                  <item>
+                     <title>TRUE STORIES FROM MODERN HISTORY, from the Death of Charlemagne to the Year 1849</title>. 
+                     7th Edition, with 24 Steel Engravings. 5s. cloth.</item>
+                  <item>
+                     <title>TRUE STORIES FROM ENGLISH HISTORY, from the Invasion of the Romans to the Close of the Great Exhibition</title>.
+                     Sixth Edition. 36 Steel Engravings. 5s. cloth.</item>
+                  <item>
+                     <title>EARLY DAYS OF ENGLISH PRINCES</title>. By 
+                     <persName key="Gray">Mrs. <hi rend="dropcap">Russell Gray</hi></persName>. Illustrated by 
+                     <persName key="Franklin"><hi rend="dropcap">John Franklin</hi></persName>. Royal 16mo, 4s. plain; 5s. coloured.</item>
+                  <item>
+                     <title>GLIMPSES OF NATURE AND OBJECTS OF INTEREST, described during a Visit to the Isle of Wight</title>. By 
+                     <persName key="Loudon">Mrs. <hi rend="dropcap">Loudon</hi></persName>. Second Edition, with 41 Illustrations. Square 16mo, 
+                     3s. 6d. cloth.</item>
+                  <item>
+                     <title>THE MINE; or, Subterranean Wonders: an Account of the Operationsof the Miner, and the Products of his Labour</title>. 
+                     Sixth Edition. With 45 new Woodcuts, and 16 Steel Engravings. Price 4s. cloth.</item>
+                  <item>
+                     <title>THE SHIP: a Description of various kinds of Vessels, the origin of Ship-Building, Steamboats, &amp;c</title>. 
+                     With numerous Illustrative Engravings. Fifth Edition, revised by 
+                     <persName key="Barker"><hi rend="dropcap">M. H. Barker</hi>, Esq.</persName>, <q>The Old Sailor.</q> Price 4s. cloth.</item>
+               </list>
+            </div>
+            <div>
+               <head><hi rend="sans">THE FAVOURITE LIBRARY.</hi></head>
+               <p>A Series of Works for the Young, each with an Illustration by a Well-known
+                  Artist. Complete in 12 Volumes, 1s. each; fancy boards or in Six double
+                  Volumes, cloth, gilt edges, at 2s. 6d.</p>
+               <list>
+                  <item>1. 
+                     <title>THE ESKDALE HERD-BOY</title>. By <persName key="Stoddart"><addName type="honorific">Lady</addName> 
+                        <hi rend="dropcap">Stoddart</hi></persName>.</item>
+                  <item>2. 
+                     <title>MRS. LEICESTER'S SCHOOL</title>. By 
+                     <persName key="LambC"><hi rend="dropcap">Charles</hi></persName> and 
+                     <persName key="LambM"><hi rend="dropcap">Mary Lamb</hi></persName>.</item>
+                  <item>3. 
+                     <title>THE HISTORY OF THE ROBINS</title>. By 
+                     <persName key="Trimmer">Mrs. <hi rend="dropcap">Trimmer</hi></persName>.</item>
+                  <item>4. 
+                     <title>MEMOIRS OF BOB, THE SPOTTED TERRIER</title>.</item>
+                  <item>5. 
+                     <title>KEEPER'S TRAVELS IN SEARCH OF HIS MASTER</title>.</item>
+                  <item>6. 
+                     <title>THE SCOTTISH ORPHANS</title>. By 
+                     <persName key="Stoddart"><addName type="honorific">Lady</addName> <hi rend="dropcap">STODDART</hi></persName>.</item>
+                  <item>7. 
+                     <title>NEVER WRONG; or, The Young Disputant</title>.</item>
+                  <item>8. 
+                     <title>THE LIFE AND PERAMBULATIONS OF A MOUSE</title>.</item>
+                  <item>9. 
+                     <title><name key="Trimmer">TRIMMER</name>'S INTRODUCTION TO THE KNOWLEDGE OF NATURE</title>.</item>
+                  <item>10. 
+                     <title>RIGHT AND WRONG</title>. By the Author of <q><title>Always Happy</title>.</q></item>
+                  <item>11. 
+                     <title>HARRY'S HOLIDAY</title>. By 
+                     <persName key="Taylor"><hi rend="dropcap">Jeffreys Taylor</hi></persName>.</item>
+                  <item>12. 
+                     <title>SHORT POEMS AND HYMNS</title>.</item>
+               </list>
             </div>
          </div>
          <div type="advertisement">
             <head rend="bold">THE FRENCH IN <placeName>ENGLAND:</placeName></head>
-            <p rend="caps">OR BOTH SIDES OF THE QUESTION ON BOTH SIDES OF THE CHANNEL<lb/> BEING THE
-               STORY OF THE <persName><addName type="honorific">EMPEROR</addName>
-                  NAPOLEON'S</persName> PROJECTED INVASION.</p>
+            <p>OR BOTH SIDES OF THE QUESTION ON BOTH SIDES OF THE CHANNEL BEING THE STORY OF THE 
+               <persName><addName type="honorific">EMPEROR</addName> NAPOLEON'S</persName> PROJECTED INVASION.</p>
          </div>
          <div type="advertisement">
-            <head rend="bold"><hi rend="caps"><persName>MR. SPONGE'S</persName> SPORTING
-               TOUR</hi></head>
-            <p rend="italic">Number I. to III. (to be completed in Twelve Monthly Parts, price 1s.
-               each) of [Mr. Sponge's Sporting Tour]</p>
+            <head rend="bold"><hi rend="caps"><persName>MR. SPONGE'S</persName> SPORTING TOUR</hi></head>
+            <p rend="italic">Number I. to III. (to be completed in Twelve Monthly Parts, price 1s. each) of [Mr. Sponge's Sporting Tour]</p>
             <note type="editorial">originally the line above appears before the header, but for
                transcription purposes the head appears first, since the brackets being added in the
-               transcription</note>
-            <p>By the Author of <name type="product">"Handley Cross," "Jorrocks Jaunts,"</name>
-               &amp;c., &amp;c.<lb/>
-               <hi rend="caps">EACH NUMBER CONTAINS ONE COLOURED ENGRAVING AND NUMEROUS WOODCUTS BY
-                     <persName>JOHN LEECH</persName></hi></p>
+               transcription.</note>
+            <p>By the Author of <name type="product">"Handley Cross," "Jorrocks Jaunts,"</name> &amp;c., &amp;c.</p>
+            <p><hi rend="caps">EACH NUMBER CONTAINS ONE COLOURED ENGRAVING AND NUMEROUS WOODCUTS BY 
+               <persName>JOHN LEECH</persName></hi></p>
          </div>
          <div type="advertisement">
             <head>Works on Gardening and Botany.</head>
             <div>
-               <head rend="caps"><title>Paxton's Flower-Garden</title></head>
-               <p rend="indent">Edited by <hi rend="caps"><persName><addName type="honorific"
-                           >SIR</addName> JOSEPH PAXTON</persName></hi> and <persName><addName
-                        type="Honorific">Dr.</addName>
-                     <hi rend="caps">LINDLEY</hi></persName>.<lb/> Each Volume is Illustrated by 36
-                  highly-finished Plates, and more than 200 beautiful Wood Engravings.<lb/> Volumes
-                  I. and II. Price 33s. each, elegantly bound<lb/> in cloth.<lb/></p>
-               <p rend="indent">*** Numbers 1 to 24 may be procured by order of any<lb/> Bookseller,
-                  price <hi rend="italic">2s. 6d.</hi> each.<lb/></p>
+               <head><title>PAXTON'S FLOWER-GARDEN</title></head>
+               <p rend="indent">Edited by <persName><addName type="honorific">SIR</addName> JOSEPH PAXTON</persName> and 
+                  <persName><addName type="Honorific">Dr.</addName> <hi rend="caps">LINDLEY</hi></persName>.</p> 
+               <p>Each Volume is Illustrated by 36 highly-finished Plates, and more than 200 beautiful Wood Engravings.</p> 
+               <p>Volumes I. and II. Price 33s. each, elegantly bound in cloth.</p>
+               <p rend="indent">*** Numbers 1 to 24 may be procured by order of any Bookseller,
+                  price <hi rend="italic">2s. 6d.</hi> each.</p>
             </div>
             <div>
-               <head rend="caps"><title>PAXTON'S BOTANICAL DIC-<lb/> TIONARY.</title></head>
-               <p rend="indent">Comprising the Names, History,<lb/>and Culture of all Plants known
-                  in <placeName>Britain</placeName>; with a full<lb/> Explanation of Technical
-                  Terms. Crown 8vo, 16s.</p>
-               <p rend="indent"><hi rend="caps">THE SUPPLEMENT</hi>, containing all the New<lb/>
-                  Plants since the First Edition, may be had separately,<lb/> price 5s.<lb/></p>
+               <head><title>PAXTON'S BOTANICAL DICTIONARY</title></head>
+               <p rend="indent">Comprising the Names, History,and Culture of all Plants known in <placeName>Britain</placeName>; 
+                  with a full Explanation of Technical Terms. Crown 8vo, 16s.</p>
+               <p rend="indent">THE SUPPLEMENT, containing all the New Plants since the First Edition, may be had 
+                  separately, price 5s.</p>
             </div>
          </div>
          <div type="advertisement">
-            <head rend="bold">Works by <persName><addName type="honorific">Professor</addName>
-                  Lindley</persName></head>
+            <head rend="bold">Works by <persName><addName type="honorific">Professor</addName> Lindley</persName></head>
             <p rend="italic">Preparing for Publication, a New Edition, Enlarged and Improved, of</p>
             <div>
-               <head rend="caps"><title>THE VEGETABLE KINGDOM;</title></head>
-               <p rend="indent"><hi rend="caps">OR, THE STRUCTURE, CLASSIFICATION, AND USES<lb/> OF
-                     PLANTS</hi>. Illustrated upon the Natural System.</p>
+               <head><title>THE VEGETABLE KINGDOM;</title></head>
+               <p rend="indent">OR, THE STRUCTURE, CLASSIFICATION, AND USES OF PLANTS. Illustrated upon the 
+                  Natural System.</p>
             </div>
             <div>
-               <head rend="caps"><title>THE ELEMENTS OF BOTANY, STRUCTURAL AND
-                     PHYSIOLOGICAL.</title></head>
-               <p> With a Glossary<lb/> of Technical Terms, and Numerous Illustrations, 12s. cl.<lb/>
-                  <hi rend="italic">***The Glossary may be had separately, price 5s.
-                  cloth.</hi><lb/></p>
+               <head><title>THE ELEMENTS OF BOTANY, STRUCTURAL AND PHYSIOLOGICAL.</title></head>
+               <p>With a Glossary of Technical Terms, and Numerous Illustrations, 12s. cl. <hi rend="italic">***The Glossary may be 
+                  had separately, price 5s. cloth.</hi></p>
             </div>
             <div>
-               <head rend="caps"><title>THE ELEMENTS OF MEDICAL AND ECONOMICAL
-                  BOTANY.</title></head>
-               <p> With Numerous<lb/> Illustrations. 8vo, price 14s. cloth.<lb/></p>
+               <head><title>THE ELEMENTS OF MEDICAL AND ECONOMICAL BOTANY.</title></head>
+               <p> With Numerous Illustrations. 8vo, price 14s. cloth.</p>
             </div>
             <div>
-               <head rend="caps"><title>school botany; OR, THE RUDI-<lb/> MENTS OF BOTANICAL
-                     SCIENCE.</title></head>
-               <p> With nearly 400<lb/> Illustrations. New Edition. 8vo, price 5s. 6d.
-                  half-bound.<lb/></p>
+               <head><title>SCHOOL BOTANY; OR, THE RUDI- MENTS OF BOTANICAL SCIENCE.</title></head>
+               <p> With nearly 400 Illustrations. New Edition. 8vo, price 5s. 6d. half-bound.</p>
             </div>
          </div>
          <div type="advertisement">
-            <head rend="caps"><name type="product">THE FIFTH EDITION OF<lb/>
-                  <title>THE LADIES' COMPANION TO THE FLOWER GARDEN.</title></name></head>
-            <p rend="italic">Price 7s. cloth, with numerous Woodcuts representing the Process of
-               Grafting, Budding, Layering, &amp;c.</p>
-            <note type="editorial">The second line shown appears before the heading in the original
-               edition, but due to limitations of the transcription, it is shown second</note>
-            <p rend="caps">BEING AN ALPHABETICAL ARRANGEMENT OF ALL THE ORNAMENTAL PLANTS GROWN IN
-               HARDENS AND<lb/> SHRUBBERIES; WITH FULL DIRECTIONS FOR THEIR CULTURE<lb/>
-               <persName>BY MRS. LOUDON.</persName><lb/>
-               <address>
-                  <addrLine>BRADBURY &amp; EVANS, 11, BOUVERIE STREET.</addrLine>
-               </address><lb/></p>
+            <head><name type="product">THE FIFTH EDITION OF <title>THE LADIES' COMPANION TO THE FLOWER GARDEN.</title></name></head>
+            <p rend="italic">Price 7s. cloth, with numerous Woodcuts representing the Process of Grafting, Budding, Layering, &amp;c.</p>
+            <note type="editorial">The second line shown appears before the heading in the original edition, but due to limitations 
+               of the transcription, it is shown second</note>
+            <p>BEING AN ALPHABETICAL ARRANGEMENT OF ALL THE ORNAMENTAL PLANTS GROWN IN GARDENS AND SHRUBBERIES; WITH FULL DIRECTIONS FOR 
+               THEIR CULTURE BY <persName>MRS. LOUDON.</persName> <address><addrLine>BRADBURY &amp; EVANS, 11, BOUVERIE 
+               STREET.</addrLine></address></p>
          </div>
          <div type="advertisement">
-            <head rend="bold"><hi rend="caps">MUDIE'S SELECT LIBRARY</hi></head>
-            <p>is removed from <address>
-                  <addrLine>No.28, upper King-street,<lb/> Bloomsbury</addrLine>
-               </address>, to</p>
-            <p rend="caps"><address>
-                  <addrLine>510, NEW OXFORD-STREET,<lb/> AND 20, MUSEUM-STREET.</addrLine>
-               </address></p>
-            <p><hi rend="dropcap">A</hi>N ample supply is provided at this<lb/> Library of all the
-               principle New Works as they<lb/> appear. The prefence is given to works of
-               History,<lb/> Biography, Religion, Philosophy, and Travel. The<lb/>
-               <hi rend="italic">best</hi> works of Fiction are also freely added.<lb/></p>
-            <p rend="indent">Single Subscription one guinea per annum, First<lb/> Class Country
-               Subscription two guineas and upwards,<lb/> according to the number of volumes
-               required.<lb/></p>
-            <p rend="indent">Literary institutions and Book societies supplied<lb/> on liberal
-               terms.<lb/></p>
-            <p rend="indent">The Addena for 1850-1 is now ready, and will<lb/> be sent in answer to
-               all applications including 12 stands.<lb/>
-               <hi rend="caps"><persName>CHARLES EDWARD MUDIE</persName></hi>, <address>
-                  <addrLine>510, New Oxford-st.</addrLine>
-               </address>
-               <lb/></p>
+            <head rend="bold">MUDIE'S SELECT LIBRARY</head>
+            <p>is removed from <address><addrLine>No.28, upper King-street, Bloomsbury</addrLine></address>, to</p>
+            <p><address><addrLine>510, NEW OXFORD-STREET, AND 20, MUSEUM-STREET.</addrLine></address></p>
+            <p><hi rend="dropcap">A</hi>N ample supply is provided at this Library of all the principle New Works as they appear. 
+               The prefence is given to works of History, Biography, Religion, Philosophy, and Travel. The <hi rend="italic">best</hi> 
+               works of Fiction are also freely added.</p>
+            <p rend="indent">Single Subscription one guinea per annum, First Class Country Subscription two guineas and upwards, 
+               according to the number of volumes required.</p>
+            <p rend="indent">Literary institutions and Book societies supplied on liberal terms.</p>
+            <p rend="indent">The Addena for 1850-1 is now ready, and will be sent in answer to all applications including 12 stands.
+               <persName>CHARLES EDWARD MUDIE</persName>, <address><addrLine>510, New Oxford-st.</addrLine></address></p>
          </div>
          <div type="advertisement">
-            <head rend="caps"><hi rend="bold">CHARACTER FROM HAND WRITING.</hi></head>
-            <p><hi rend="caps"><persName><hi rend="dropcap">M</hi>R. WARREN</persName></hi>, of 9, <address>
-                  <addrLine>Great College-<lb/> street, Westminster</addrLine>
-               </address>, continues with great<lb/> success to delineate the Character of
-               Individuals from<lb/> their Handwriting.-All persons desirous of testing<lb/> his art
-               are invited to forward a specimen of their<lb/> ordinary writing, together with 13
-               postage-stamps, and<lb/> a mention of their sex and age, to the above
-               address.<lb/></p>
+            <head><hi rend="bold">CHARACTER FROM HAND WRITING.</hi></head>
+            <p><persName><hi rend="dropcap">M</hi>R. WARREN</persName>, of 9, <address><addrLine>Great College- street, Westminster</addrLine></address>,
+               continues with great success to delineate the Character of Individuals from their Handwriting.-All persons desirous of testing his art 
+               are invited to forward a specimen of their ordinary writing, together with 13 postage-stamps, and a mention of their sex and age, to the 
+               above address.</p>
          </div>
          <div type="advertisement">
-            <head rend="caps"><hi rend="dropcap">T</hi>HE TOILET OF BEAUTY</head>
-            <p>furnishes innumerable proofs of the high<lb/> estimation in which <name
-                  type="product"><hi rend="caps">GOWLAND'S LOTION</hi></name> is held<lb/> by the
-               most distinguished possessors of brilliant com-<lb/> plexions. This elegant
-               preparation comprehends the<lb/> preservation of the complexion both from the
-               effects<lb/> of cutaneous malady and the operation of variable<lb/> temperature, by
-               refreshing its delicacy and sustain-<lb/> ing the brightest tints with which beauty
-               is adorned.<lb/> '<persName>Robert Shaw</persName>, <placeName>London</placeName>,"
-               is in white letters on the<lb/> Government stamp of the genuine. Prices, 2s. 9d.<lb/>
-               and 5s. 6d.; quarts, 8s. 6d.<lb/></p>
+            <head><hi rend="dropcap">T</hi>HE TOILET OF BEAUTY</head>
+            <p>furnishes innumerable proofs of the high estimation in which <name type="product"><hi rend="caps">GOWLAND'S LOTION</hi></name> 
+               is held by the most distinguished possessors of brilliant com- plexions. This elegant preparation comprehends the preservation 
+               of the complexion both from the effects of cutaneous malady and the operation of variable temperature, by refreshing its 
+               delicacy and sustain- ing the brightest tints with which beauty is adorned. '<persName>Robert Shaw</persName>, 
+               <placeName>London</placeName>,"is in white letters on the Government stamp of the genuine. Prices, 2s. 9d. and 5s. 6d.; quarts, 
+               8s. 6d.</p>
          </div>
          <div type="advertisement">
-            <head rend="caps"><hi rend="bold">WRITING RAPIDLY IMPROVED</hi></head>
-            <p><hi rend="caps"><persName><hi rend="dropcap">M</hi>R. CARSTAIRS</persName></hi> (Son
-               of the<lb/> inventor of the celebrated system of Writing),<lb/> continues to give
-                  <name type="service"><hi rend="caps">LESSONS</hi> to <hi rend="caps">LADIES</hi>
-                  and <hi rend="caps">GEN-<lb/> TLEMEN</hi>of all ages, in his highly improved
-                  method,<lb/> which will impart a command and fluency of the hand<lb/> and pen
-               </name>seldom, if ever, equalled, in every size and<lb/> variety of penmanship, even
-               to the worst writer, in<lb/> the shortest possible time. Arithmetic and Book-<lb/>
-               keeping taught practically.-<hi rend="caps">PROSPECTUSES</hi> of terms,<lb/> &amp;c.,
-               may be had at his establishment, <address>
-                  <addrLine>81, <hi rend="caps">LOMBARD-<lb/> STREET, CITY.</hi></addrLine>
-               </address><lb/></p>
+            <head><hi rend="bold">WRITING RAPIDLY IMPROVED</hi></head>
+            <p><persName><hi rend="dropcap">M</hi>R. CARSTAIRS</persName> (Son of the inventor of the celebrated system of Writing), 
+               continues to give <name type="service">LESSONS to LADIES and GENTLEMEN of all ages, in his highly improved method, which 
+               will impart a command and fluency of the hand and pen</name> seldom, if ever, equalled, in every size and variety of 
+               penmanship, even to the worst writer, in the shortest possible time. Arithmetic and Book-keeping taught practically.
+               -PROSPECTUSES of terms, &amp;c., may be had at his establishment, 
+               <address><addrLine>81, LOMBARD- STREET, CITY.</addrLine></address></p>
          </div>
          <div type="advertisement">
-            <head><persName><addName type="honorific">SIR</addName> JAMES MURRAY'S</persName>
-               FLUID<lb/> MAGNESIA.</head>
-            <p><hi rend="caps"><hi rend="dropcap">P</hi>REPARED</hi> under the immediate<lb/> care
-               of the Inventor, and established for upwards<lb/> of thirty years, by the <hi
-                  rend="caps">PROFESSION</hi>, for removing<lb/>
-               <hi rend="caps">BILE, ACIDITIES,</hi> and <hi rend="caps">INDEGESTION</hi>, restoring<lb/>
-               <hi rend="caps">APPETITE</hi>, preserving a moderate state of the<lb/> bowels, and
-               dissolving uric acid in <hi rend="caps">GRAVEL</hi> and<lb/> GOUT; also as an easy
-               remedy for <hi rend="caps">SEA-SICKNESS</hi>,<lb/> and for the febrile affection
-               incident to childhood it is<lb/> invaluable.-On the value of <name type="product"
-                  >Magnesia</name> as a remedial<lb/> agent it is unnecessary to enlarge; but the
-               Fluid<lb/> Preparation of <persName><addName type="honorific">Sir</addName> James
-                  Murray</persName> is now the most<lb/> valued by the profession as it entirely
-               avoids the<lb/> possibility of those dangerous concretions usually<lb/> resulting
-               from the use of the article in powder.<lb/></p>
-            <p rend="indent">Sold by the sole consignee, <persName>Mr. <hi rend="caps">WILLIAM
-                     BAILEY</hi></persName>, of <placeName>Wolverhampton</placeName>; and by all
-               wholesale and retail Druggists and Medicine Agents throughout the <placeName>British
-                  Empire</placeName>, in bottles, 1s., 2s.6s., 3s.6d., 5s.6d., 1ls., and 21s.
-               each.</p>
+            <head><persName><addName type="honorific">SIR</addName> JAMES MURRAY'S</persName> FLUID MAGNESIA.</head>
+            <p><hi rend="dropcap">P</hi>REPARED under the immediate care of the Inventor, and established for upwards of thirty years, 
+               by the PROFESSION, for removing BILE, ACIDITIES, and INDEGESTION, restoring APPETITE, preserving a moderate state of the 
+               bowels, and dissolving uric acid in GRAVEL and GOUT; also as an easy remedy for SEA-SICKNESS, and for the febrile 
+               affection incident to childhood it is invaluable.-On the value of <name type="product">Magnesia</name> as a remedial 
+               agent it is unnecessary to enlarge; but the Fluid Preparation of 
+               <persName><addName type="honorific">Sir</addName> James Murray</persName> is now the most valued by the profession as it 
+               entirely avoids the possibility of those dangerous concretions usually resulting from the use of the article in powder.</p>
+            <p rend="indent">Sold by the sole consignee, <persName>Mr. WILLIAM BAILEY</persName>, of <placeName>Wolverhampton</placeName>; 
+               and by all wholesale and retail Druggists and Medicine Agents throughout the <placeName>British Empire</placeName>, in 
+               bottles, 1s., 2s.6s., 3s.6d., 5s.6d., 1ls., and 21s. each.</p>
             <p rend="indent">The Acidulates Syrup, in Bottles 2s. each. N.B.-Be sure to ask for
-                  <name type="product">"<persName><addName type="honorific">Sir</addName> James
-                     Murray's</persName> Preparation,"</name> and to see that his name is stamped on
-               each label in green ink, as follows:-"<persName>James Murray</persName>, physician to
+               <name type="product">"<persName><addName type="honorific">Sir</addName> James Murray's</persName> Preparation,"</name> 
+               and to see that his name is stamped on each label in green ink, as follows:-"<persName>James Murray</persName>, physician to
                the Lord Lieutenant."</p>
          </div>
          <div type="advertisement">
             <div>
-               <head><hi rend="caps"><hi rend="dropcap">T</hi>HE PUBLISHERS</hi> of "<hi rend="caps"
-                        ><name type="product">The Parlour Library,</name></hi>"</head>
-               <p>encouraged by the striking<lb/> success which has attended their efforts to
-                  popularise works of the highest merit in the department<lb/> of Fiction, beg to
-                  announce, that they have now completed their arrangements for the issue of a
-                  New<lb/> Series, to be entitled,<lb/></p>
+               <head><hi rend="dropcap">T</hi>HE PUBLISHERS of "<name type="product">The Parlour Library,</name>"</head>
+               <p>encouraged by the striking success which has attended their efforts to popularise works of the highest merit 
+                  in the department of Fiction, beg to announce, that they have now completed their arrangements for the issue 
+                  of a New Series, to be entitled,</p>
             </div>
             <div>
                <p rend="bold"><title>THE BOOKCASE,</title></p>
                <p>and to consist of the most valuable and attractive works of</p>
-               <p rend="caps"><hi rend="bold">TRAVELS, HISTORY, BIOGRAPHY, ETC., ETC.</hi>
-               </p>
+               <p rend="bold">TRAVELS, HISTORY, BIOGRAPHY, ETC., ETC.</p>
             </div>
             <div>
-               <p rend="caps">THE FIRST VOLUME IS NOW READY.</p>
+               <p>THE FIRST VOLUME IS NOW READY.</p>
                <p>In post 8vo, price 1s. 6d., with Enamelled Cover,</p>
-               <p rend="caps"><hi rend="bold"><title>ACROSS THE ROCKY MOUNTAINS,</title></hi></p>
-               <p rend="caps">FROM <placeName>NEW YORK</placeName> TO
-                     <placeName>CALIFORNIA</placeName>, WITH A VISIT TO THE CELEBRATED<lb/>
-                  <rs type="religion">MORMON</rs> COLONY, AT <placeName>THE GREAT SALT
-                     LAKE</placeName>.</p>
-               <p rend="caps"><hi rend="bold">BY <persName>WILLIAM KELLY</persName>, <addName
-                        type="honorific">ESQ.</addName></hi></p>
-               <p><hi rend="italic">*** A Volume will appear on the 1st of each month with <name
-                        type="product">the Parlour Library</name>. </hi></p>
+               <p rend="bold"><title>ACROSS THE ROCKY MOUNTAINS,</title></p>
+               <p>FROM <placeName>NEW YORK</placeName> TO <placeName>CALIFORNIA</placeName>, WITH A VISIT TO THE CELEBRATED
+                  <rs type="religion">MORMON</rs> COLONY, AT <placeName>THE GREAT SALT LAKE</placeName>.</p>
+               <p rend="bold">BY <persName>WILLIAM KELLY</persName>, <addName type="honorific">ESQ.</addName></p>
+               <p rend="italic">*** A Volume will appear on the 1st of each month with <name type="product">the Parlour Library</name>.</p>
             </div>
             <div>
                <p>Also Just Published,</p>
-               <p rend="caps"><hi rend="bold"><title>MARGARET CATCHPOLE.</title></hi></p>
-               <p rend="caps"><hi rend="bold">BY THE <persName><addName type="honorific"
-                           >REV.</addName> R. COBBOLD.</persName></hi></p>
-               <p rend="caps">FORMING THE 74TH VOLUME OF THE <name type="product">PARLOUR
-                     LIBRARY.</name></p>
+               <p rend="bold"><title>MARGARET CATCHPOLE.</title></p>
+               <p rend="bold">BY THE <persName><addName type="honorific">REV.</addName> R. COBBOLD.</persName></p>
+               <p>FORMING THE 74TH VOLUME OF THE <name type="product">PARLOUR LIBRARY.</name></p>
                <p>Price 1s. 6d. boards, 2s. cloth.</p>
-               <p><hi rend="italic">*** Lists free by post on application.</hi></p>
+               <p rend="italic">*** Lists free by post on application.</p>
             </div>
             <div>
-               <p><address>
-                     <addrLine><hi rend="caps"><hi rend="bold">SIMMS AND M'INTYRE,</hi></hi><lb/>13,
-                        Paternoster Row, London, and Belfast.</addrLine>
-                  </address></p>
+               <p><address><addrLine><hi rend="bold">SIMMS AND M'INTYRE,</hi>13, Paternoster Row, London, and Belfast.</addrLine></address></p>
             </div>
          </div>
          <div type="advertisement">
             <div>
-               <head rend="caps"><hi rend="bold"><orgName key="Nissen and Parker">NISSEN AND
-                        PARKER,</orgName></hi></head>
-               <p rend="caps">STATIONERS, ENGRAVERS, PRINTERS AND PUBLISHERS, ACCOUNT-BOOK<lb/>
-                  MANUFACTURES, &amp;c.</p>
-               <p rend="caps"><hi rend="bold"><address>
-                        <addrLine>NO. 43, MARK LANE, GREAT TOWER STREET, LONDON.</addrLine>
-                     </address></hi></p>
-               <p><hi rend="caps">RESPECTFULLY</hi> direct the attention of Bankers, Merchants, and
-                  Public Companies to their Establishment<lb/> for the supply of</p>
-               <p rend="caps"><hi rend="bold">EVERY ARTICLE FOR THE COUNTING-HOUSE.</hi></p>
-               <p>Experience, extending over twenty years, enables them to offer many advantages in
-                  quality and price. In large<lb/> Mercantile Establishments, the Stationery
-                  Department, Whilst it involves a considerable outlay, seldom<lb/> receives the
-                  attention which its importance demands, from the fact of few Stationers having
-                  combined under<lb/> one Establishment, <name type="service">printing in <hi
-                        rend="caps">LETTER-PRESS, LITHOGRAPHY</hi> and <hi rend="caps"
-                        >COPPER-PLATE</hi></name>, the Manufacture<lb/> of <hi rend="caps"
-                     >ACCOUNT-BOOKS</hi>, and the supply of more minute articles for the office, in
-                  addition to the various<lb/> descriptions of Paper.<lb/></p>
-               <p><orgName key="Nissen and Parker">NISSEN &amp; PARKER</orgName>, executing every
-                  branch on the Premises, beg to state, that all business entrusted to<lb/> their
-                  care will receive (for the smallest order) the most strict attention; any article
-                  not thoroughly approved<lb/> is immediately exchanges, and in all cases the utmost
-                  exertion used to give satisfaction. The extraordinary<lb/> fact, that upwards of
-                  Two Thousand Banking and Mercantile Firms have opened accounts with this
-                  Establishment<lb/> in the short space of seven years, is submitted as a guarantee
-                  for the mode in which the business is carried out.<lb/></p>
+               <head><hi rend="bold"><orgName key="Nissen and Parker">NISSEN AND PARKER,</orgName></hi></head>
+               <p>STATIONERS, ENGRAVERS, PRINTERS AND PUBLISHERS, ACCOUNT-BOOK MANUFACTURES, &amp;c.</p>
+               <p rend="bold"><address><addrLine>NO. 43, MARK LANE, GREAT TOWER STREET, LONDON.</addrLine></address></p>
+               <p>RESPECTFULLY direct the attention of Bankers, Merchants, and Public Companies to their Establishment 
+                  for the supply of</p>
+               <p rend="bold">EVERY ARTICLE FOR THE COUNTING-HOUSE.</p>
+               <p>Experience, extending over twenty years, enables them to offer many advantages in quality and price. In large Mercantile 
+                  Establishments, the Stationery Department, Whilst it involves a considerable outlay, seldom receives the attention which 
+                  its importance demands, from the fact of few Stationers having combined under one Establishment, 
+                  <name type="service">printing in LETTER-PRESS, LITHOGRAPHY and COPPER-PLATE</name>, the Manufacture of ACCOUNT-BOOKS, 
+                  and the supply of more minute articles for the office, in addition to the various descriptions of Paper.</p>
+               <p><orgName key="Nissen and Parker">NISSEN &amp; PARKER</orgName>, executing every branch on the Premises, beg to state, 
+                  that all business entrusted to their care will receive (for the smallest order) the most strict attention; any article
+                  not thoroughly approved is immediately exchanges, and in all cases the utmost exertion used to give satisfaction. The 
+                  extraordinary fact, that upwards of Two Thousand Banking and Mercantile Firms have opened accounts with this Establishment 
+                  in the short space of seven years, is submitted as a guarantee for the mode in which the business is carried out.</p>
             </div>
             <div>
-               <head rend="caps"><hi rend="bold"><name type="product"
-                  >ACCOUNT-BOOKS</name></hi></head>
-               <p>of the finest Papers, bound with loose backs, in forril, calf, vellum, and russia,
-                  with bands for extra strength,<lb/> with or without bress edging, locks or bolt
-                  clasps, upon a <hi rend="caps">NEW AND IMPROVED PRINCIPLE, UNITING EVERY<lb/>
-                     SHEET OF PAPER MORE CLOSELY AND PERMANENTLY TOGETHER THAN COULD POSSIBLY BE
-                     EFFECTED BY<lb/> THE OLD SYSTEM OF ACCOUNT-BOOK BINDING.<lb/></hi></p>
-               <p rend="indent">An extensive assortment of Account-Books, always ready for immediate
-                  despatch, rules to all the usual<lb/> mercantile patterns</p>
-               <p>Books for the <placeName>East Indies</placeName>, prepared especially for
-                  protection from the destructiveness of the <hi rend="italic">White Ant.</hi></p>
-               <p rend="caps">BANKERS, MERCHANTS, MEMBERS OF PARLIAMENT, AND OTHERS REQUIRING
-                  STATIONARY,<lb/> WILL FIND AT THIS ADDRESS,</p>
-               <p rend="caps"><hi rend="bold">EVERY ARTICLE FOR THE COUNTING HOUSE OR
-                  LIBRARY,</hi></p>
-               <p>of the finest quality.-Letter and Note Papers, Envelopes (with or without stamped
-                  address), Foreign<lb/> Copying Papers, <name type="product">India Letter Papers,
-                     Despatch and Deed Boxes</name>, Cloth Envelopes, &amp;c., &amp;c.,
-                  &amp;c.<lb/></p>
-               <p rend="caps">SHIPPING ORDERS TO ANY EXTENT, ON THE SHORTEST NOTICE.</p>
+               <head rend="bold"><name type="product">ACCOUNT-BOOKS</name></head>
+               <p>of the finest Papers, bound with loose backs, in forril, calf, vellum, and russia, with bands for extra strength, with 
+                  or without bress edging, locks or bolt clasps, upon a NEW AND IMPROVED PRINCIPLE, UNITING EVERY SHEET OF PAPER MORE 
+                  CLOSELY AND PERMANENTLY TOGETHER THAN COULD POSSIBLY BE EFFECTED BY THE OLD SYSTEM OF ACCOUNT-BOOK BINDING.</p>
+               <p rend="indent">An extensive assortment of Account-Books, always ready for immediate despatch, rules to all the usual 
+                  mercantile patterns</p>
+               <p>Books for the <placeName>East Indies</placeName>, prepared especially for protection from the destructiveness of the 
+                  <hi rend="italic">White Ant.</hi></p>
+               <p>BANKERS, MERCHANTS, MEMBERS OF PARLIAMENT, AND OTHERS REQUIRING STATIONARY, WILL FIND AT THIS ADDRESS,</p>
+               <p rend="bold">EVERY ARTICLE FOR THE COUNTING HOUSE OR LIBRARY, </p>
+               <p>of the finest quality.-Letter and Note Papers, Envelopes (with or without stamped address), Foreign Copying Papers, 
+                  <name type="product">India Letter Papers, Despatch and Deed Boxes</name>, Cloth Envelopes, &amp;c., &amp;c., &amp;c.</p>
+               <p>SHIPPING ORDERS TO ANY EXTENT, ON THE SHORTEST NOTICE.</p>
             </div>
          </div>
          <div type="advertisement">
-            <head><hi rend="bold">Newspaper for the Farming and Gardening Interest.</hi></head>
-            <p><hi rend="italic">Published every Saturday, price Sixpence, free by post, each Volume
-                  complete in itself,</hi></p>
-            <p rend="caps"><hi rend="bold">ENLARGED TO TWENTY-FOUR FOLIO PAGES,</hi></p>
-            <p rend="caps"><hi rend="bold"><name type="product">THE GARDENERS'
-               CHRONICLE</name></hi><lb/> AND<lb/>
-               <hi rend="bold"><name type="product">AGRICULTURAL GAZETTE</name>;</hi><lb/>
-               <hi rend="bold">A Weekly Record of Rural Economy and General News.</hi><lb/></p>
-            <p rend="caps">THE HORTICULTURAL PART EDITED BY <persName><addName type="honorific"
-                     >PROFESSOR</addName> LINDLEY.</persName></p>
-            <p rend="indent">
-               <hi rend="bold">The Farming Part</hi> under the Editorship of a practical Farmer.</p>
-            <p rend="indent">Reports are regularly given of the <orgName><rs type="ethnonym"
-                     >English</rs>, <rs type="ethnonym">Scotch</rs>, and <rs type="ethnonym"
-                     >Irish</rs> Agricultural Societies</orgName> and<lb/>
-               <orgName>Farmers' Clubs-London</orgName> Market Prices of Corn, Hay, Cattle, Seeds,
-               Hops, Potatoes, Wool,<lb/> Coal, Timber, Bark, &amp;c., and the >Weekly
-               Averages.<lb/></p>
-            <p rend="indent"><hi rend="bold">As regards the Gardening Part</hi> (under the
-               Editorship of <persName><addName type="honorific">Dr.</addName> Lindley</persName>),
-               the principle is to<lb/> make it a weekly record of everything that bears upon
-               Horticulture, Floriculture, Arboriculture,<lb/> or Garden Botany, and such National
-               History as has a relation to Gardening, With Notices and<lb/> Criticisms of all Works
-               on such subjects. Connected with this part are<lb/></p>
-            <p rend="caps">WEEKLY CALENDARS OF GARDENING OPERATIONS</p>
-            <p rend="indent"><hi rend="bold">Replies to Questions</hi> connected with the object of
-               the Paper are also furnished weekly.</p>
-            <p rend="indent">Lastly, that description of <hi rend="bold">Domestic and Political
-                  News</hi> is introduced which is usually<lb/> found in a Weekly
-               Newspaper.<lb/></p>
-            <p rend="indent"><hi rend="caps">A PROSPECTUS, WITH LIST OF CONTRIBUTERS</hi>, may be
-               had on application, or by letter, at the<lb/> Office, <address>
-                  <addrLine>5, Upper Wellington Street, Covent Garden, London.</addrLine>
-               </address><lb/></p>
-            <p><hi rend="bold">Parties intending to Commense with the New Volume has better give
-                  their<lb/> Orders at once to any Newsvender.</hi></p>
+            <head rend="bold">Newspaper for the Farming and Gardening Interest.</head>
+            <p rend="italic">Published every Saturday, price Sixpence, free by post, each Volume complete in itself,</p>
+            <p rend="bold">ENLARGED TO TWENTY-FOUR FOLIO PAGES,</p>
+            <p><hi rend="bold"><name type="product">THE GARDENERS' CHRONICLE</name></hi> AND 
+               <hi rend="bold"><name type="product">AGRICULTURAL GAZETTE</name>;</hi>
+               <hi rend="bold">A Weekly Record of Rural Economy and General News.</hi></p>
+            <p>THE HORTICULTURAL PART EDITED BY <persName><addName type="honorific">PROFESSOR</addName> LINDLEY.</persName></p>
+            <p rend="indent"><hi rend="bold">The Farming Part</hi> under the Editorship of a practical Farmer.</p>
+            <p rend="indent">Reports are regularly given of the <orgName><rs type="ethnonym">English</rs>, 
+               <rs type="ethnonym">Scotch</rs>, and <rs type="ethnonym">Irish</rs> Agricultural Societies</orgName> 
+               and <orgName>Farmers' Clubs-London</orgName> Market Prices of Corn, Hay, Cattle, Seeds, Hops, Potatoes, Wool, Coal, 
+               Timber, Bark, &amp;c., and the >Weekly Averages.</p>
+            <p rend="indent"><hi rend="bold">As regards the Gardening Part</hi> (under the Editorship of 
+               <persName><addName type="honorific">Dr.</addName> Lindley</persName>), the principle is to make it a weekly record 
+               of everything that bears upon Horticulture, Floriculture, Arboriculture, or Garden Botany, and such National History as has a 
+               relation to Gardening, With Notices and Criticisms of all Works on such subjects. Connected with this part are</p>
+            <p>WEEKLY CALENDARS OF GARDENING OPERATIONS</p>
+            <p rend="indent"><hi rend="bold">Replies to Questions</hi> connected with the object of the Paper are also furnished weekly.</p>
+            <p rend="indent">Lastly, that description of <hi rend="bold">Domestic and Political News</hi> is introduced which is usually found 
+               in a Weekly Newspaper.</p>
+            <p rend="indent">A PROSPECTUS, WITH LIST OF CONTRIBUTERS, may be had on application, or by letter, at the Office, 
+               <address><addrLine>5, Upper Wellington Street, Covent Garden, London.</addrLine></address></p>
+            <p rend="bold">Parties intending to Commense with the New Volume has better give their Orders at once to any Newsvender.</p>
          </div>
          <div type="advertisement">
-            <head><hi rend="bold">Every Saturday Price Fourpence of any Bookseller</hi></head>
-            <p><hi rend="italic">Twenty-four and occasionally Thirty-two Large Quarto
-               Pages.</hi></p>
-            <p rend="caps"><title><hi rend="bold">THE ATHENÆUM,</hi><lb/>JOURNAL OF LITERATURE,
+            <head rend="bold">Every Saturday Price Fourpence of any Bookseller</head>
+            <p rend="italic">Twenty-four and occasionally Thirty-two Large Quarto
+               Pages.</p>
+            <p><title><hi rend="bold">THE ATHENÆUM,</hi>JOURNAL OF LITERATURE,
                   SCIENCE, AND ART.</title></p>
             <p>(Stamped to go free by post, 5d.)</p>
-            <p rend="caps">CONTAINS:-</p>
+            <p>CONTAINS:-</p>
             <p><hi rend="bold">Reviews,</hi> with copious extracts, of every important New English
-               Book, and of the more<lb/> imortant foreign works.<lb/></p>
-
+               Book, and of the more imortant foreign works.</p>
             <p><hi rend="bold">List of Works</hi> published each week.</p>
-
-            <p><hi rend="bold">Reports</hi> of the Proceedings of the Learned and Scientific
-               Societies, with Abstracts of all Papers<lb/> of Interest.<lb/>
-            </p>
-            <p><hi rend="bold">Authentic Accounts</hi> of all Scientific Voyages and Expeditions. </p>
-            <p><hi rend="bold">Foreign Correspondence</hi> on Subjects relating to Literature,
-               Science, and Art.</p>
-            <p><hi rend="bold">Criticisms on Art,</hi> with Critical Notices of Exhibitions, Picture
-               Collections, New Prints, &amp;c.</p>
-            <p><hi rend="bold">Music and Drama,</hi> including Reports on the Opera, Concerts,
-               Theatres, New Music, &amp;c. </p>
-            <p><hi rend="bold">Biographical Notices</hi> of Men distinguished in Literature, Science
-               and Art. </p>
-            <p><hi rend="bold">Original Papers and Poems.</hi></p>
-            <p><hi rend="bold">Weekly Gossip.</hi></p>
-            <p><hi rend="bold">Miscellanea,</hi> including all that is likely to interest the
-               informed and intelligent</p>
-            <p><hi rend="caps"><hi rend="bold"><title>THE ATHENÆUM,</title></hi></hi><lb/>Is so
-               conducted that the reader, however far distant, is, in respect to Literature,
-               Science, and the<lb/> Arts, on an equality in point of information with the
-               best-informed circles of the Metropolis.</p>
-            <p rend="indent">*** <title>The ANTHENÆUM</title> is published every Saturday, but is
-               re-issued each Month, stitches in a wrapper.</p>
-            <p>Wholesale Agents : for <placeName>SCOTLAND</placeName>, <orgName>
-                  <addName type="honorific">Messrs.</addName> Bell &amp; Bradfute</orgName>,
-                  <placeName>Edinburgh</placeName> ; for <placeName>IRELAND</placeName>,
-                     <persName><addName type="honorific">Messrs.</addName><lb/>
-               Robertson</persName>, <placeName>Dublin</placeName> ; for
-                  <placeName>France</placeName>, <address>
-                  <addrLine>M. Baudry, 3, Quai Malaquais, Paris.</addrLine>
-               </address></p>
+            <p><hi rend="bold">Reports</hi> of the Proceedings of the Learned and Scientific Societies, with Abstracts of all Papers of 
+               Interest.</p>
+            <p><hi rend="bold">Authentic Accounts</hi> of all Scientific Voyages and Expeditions.</p>
+            <p><hi rend="bold">Foreign Correspondence</hi> on Subjects relating to Literature, Science, and Art.</p>
+            <p><hi rend="bold">Criticisms on Art,</hi> with Critical Notices of Exhibitions, Picture Collections, New Prints, &amp;c.</p>
+            <p><hi rend="bold">Music and Drama,</hi> including Reports on the Opera, Concerts, Theatres, New Music, &amp;c.</p>
+            <p><hi rend="bold">Biographical Notices</hi> of Men distinguished in Literature, Science and Art.</p>
+            <p rend="bold">Original Papers and Poems.</p>
+            <p rend="bold">Weekly Gossip.</p>
+            <p><hi rend="bold">Miscellanea,</hi> including all that is likely to interest the informed and intelligent</p>
+            <p><hi rend="bold"><title>THE ATHENÆUM,</title></hi>Is so conducted that the reader, however far distant, is, in respect to 
+               Literature, Science, and the Arts, on an equality in point of information with the best-informed circles of the Metropolis.</p>
+            <p rend="indent">*** <title>The ANTHENÆUM</title> is published every Saturday, but is re-issued each Month, stitches in a wrapper.</p>
+            <p>Wholesale Agents : for <placeName>SCOTLAND</placeName>, 
+               <orgName><addName type="honorific">Messrs.</addName> Bell &amp; Bradfute</orgName>, <placeName>Edinburgh</placeName> ; for 
+               <placeName>IRELAND</placeName>, <persName><addName type="honorific">Messrs.</addName> Robertson</persName>, 
+               <placeName>Dublin</placeName> ; for <placeName>France</placeName>, 
+               <address><addrLine>M. Baudry, 3, Quai Malaquais, Paris.</addrLine></address></p>
          </div>
          <div type="advertisement">
             <head><name type="product"><orgName key="A.R. and Sons">ROWLANDS'</orgName> MACASSAR OIL</name>.</head>
@@ -838,66 +736,39 @@
             </figure>
             <p><hi rend="dropcap">T</hi>HIS ELEGANT, FRAGRANT, and PELLUCID OIL, in its <hi rend="italic">preservative,
                   restorative,</hi> and <hi rend="italic">beautifying</hi> qualities for the Human Hair, is unequalled over the whole world. It
-               <hi rend="italic">preserves</hi> and <hi rend="italic">reproduces</hi> the <hi rend="italic">hair</hi>, even at a late period of life: prevents it from <hi rend="italic">turning grey</hi>. or if so changed, 
-               <hi rend="italic">restores it to its original colour</hi>; frees it from <hi rend="italic">scurf</hi> and <hi rend="italic">impurity</hi>, and renders it
+               <hi rend="italic">preserves</hi> and <hi rend="italic">reproduces</hi> the <hi rend="italic">hair</hi>, even at a late period of 
+               life: prevents it from <hi rend="italic">turning grey</hi>. or if so changed, <hi rend="italic">restores it to its original 
+               colour</hi>; frees it from <hi rend="italic">scurf</hi> and <hi rend="italic">impurity</hi>, and renders it 
                <hi rend="italic">soft, silky, curly, glossy.</hi></p>
-            <p>CAUTION.--<orgName key="A.R. and Sons">A.R. and Sons</orgName> have com
-               -plaints repeatedly from parties who have 
-               materially suffered from the use of spurious 
-               imitations; and to frustrate to some extent 
-               such impositions, they here add a small 
-               copy in outline of their genuine label from 
-               the burin of <orgName>MESSRS. PERKINS, BACON 
-                  &amp; PETCH</orgName>, the eminent engravers of 
-               London, on which will be seen the names 
-               and address of the Proprietors in full (these 
-               are in red ink on the label), any deviation 
-               from which will always prove a spurious 
-               article.</p>
+            <p>CAUTION.--<orgName key="A.R. and Sons">A.R. and Sons</orgName> have complaints repeatedly from parties who have materially suffered 
+               from the use of spurious imitations; and to frustrate to some extent such impositions, they here add a small copy in outline of 
+               their genuine label from the burin of <orgName>MESSRS. PERKINS, BACON &amp; PETCH</orgName>, the eminent engravers of London, on 
+               which will be seen the names and address of the Proprietors in full (these are in red ink on the label), any deviation from which 
+               will always prove a spurious article.</p>
             <p>The Prices are 3s. 6d.; 7s.; family bottles (equal to four small) 10s.6d.; and double that size 21s. Sold by 
                <orgName key="A.R. and Sons">the Proprietors</orgName>, and by Chemists and Perfumers.</p>
          </div>
          <div type="advertisement">
-            <head><orgName key="RODGER'S &amp; Co.">Rodger's</orgName> Improved Shirts, 26s.,31s. 6d.,
-               and 37s. 6d. the half dozen,</head>
-            <p><hi rend="dropcap">A</hi>RE cut upon a New Improved
-               Principle, which insures the most perfect fit,
-               and combines the highest degree of excellence at the 
-               smallest cost.--Satisfaction is (as usual) guaranteed 
-               or the money returned.</p>
-            <p>Printed priced lists, with full particulars and directions 
-               for self-measurement, and, if required, patterns 
-               of the New <hi rend="italic">Coloured</hi> Shirts for 1852 at 26s. the half-dozen, 
-               gratis and post free to all parts of the Kingdom.</p>
+            <head><orgName key="RODGER'S &amp; Co.">Rodger's</orgName> Improved Shirts, 26s.,31s. 6d., and 37s. 6d. the half dozen,</head>
+            <p><hi rend="dropcap">A</hi>RE cut upon a New Improved Principle, which insures the most perfect fit, and combines the highest degree 
+               of excellence at the smallest cost.--Satisfaction is (as usual) guaranteed or the money returned.</p>
+            <p>Printed priced lists, with full particulars and directions for self-measurement, and, if required, patterns of the New 
+               <hi rend="italic">Coloured</hi> Shirts for 1852 at 26s. the half-dozen, gratis and post free to all parts of the Kingdom.</p>
             <p><orgName key="RODGER'S &amp; Co.">RODGER'S &amp; Co.</orgName>, Improved Shirt Makers, 
-               <address>
-                  <addrLine>59, St. Martin's-lane, Charing-cross</addrLine>
-               </address> and 
-               <address>
-                  <addrLine>29, New-street, Covent-garden, London.</addrLine>
-               </address> (Established 60 years.)-- 
-               N.B. Boys' Shirts in all sizes at exceedingly moderate 
-               prices.</p>
+               <address><addrLine>59, St. Martin's-lane, Charing-cross</addrLine></address> and 
+               <address><addrLine>29, New-street, Covent-garden, London.</addrLine></address> (Established 60 years.)-- N.B. Boys' Shirts in all 
+               sizes at exceedingly moderate prices.</p>
          </div>
          <div type="advertisement">
-            <p><persName key="Professor Holloway"><hi rend="dropcap">H</hi>OLLOWAY</persName>'S OINTMENT and 
-               PILLS have AGAIN been MOST EFFICACIOUS 
-               in CURING a SORE LEG.--<persName>John Thomas</persName>, a 
-               labourer, far advanced in years, residing at <placeName>Pemaen Back</placeName>, 
-               near <placeName>Conway</placeName>, had suffered for a very considerable 
-               time from a dreadfully sore leg, and was for 
-               many months under the care of most eminent medical 
-               men, but their remedies appeared perfectly useless. 
-               He then commenced using Holloway's Ointment and 
-               Pills, and after giving them a fair trial, his leg was 
-               completely cured, and the wounds soundly healed. 
-               These medicines excel all others in the cure of 
-               scrofula or king's evil, glandular and other unnatural 
-               swellings, scurvy, leprosy, and all diseases of the 
-               skin.--Sold by all Druggists, and at <persName key="Professor Holloway">Professor Holloway</persName>'s Establishment, 
-               <address>
-                  <addrLine>244, Strand, London</addrLine>
-               </address>.</p>
+            <p><persName key="Professor Holloway"><hi rend="dropcap">H</hi>OLLOWAY</persName>'S OINTMENT and PILLS have AGAIN been MOST EFFICACIOUS 
+               in CURING a SORE LEG.--<persName>John Thomas</persName>, a labourer, far advanced in years, residing at 
+               <placeName>Pemaen Back</placeName>, near <placeName>Conway</placeName>, had suffered for a very considerable time from a dreadfully 
+               sore leg, and was for many months under the care of most eminent medical men, but their remedies appeared perfectly useless. 
+               He then commenced using Holloway's Ointment and Pills, and after giving them a fair trial, his leg was completely cured, and the 
+               wounds soundly healed. These medicines excel all others in the cure of scrofula or king's evil, glandular and other unnatural 
+               swellings, scurvy, leprosy, and all diseases of the skin.--Sold by all Druggists, and at 
+               <persName key="Professor Holloway"><addName type="honorific">Professor</addName> Holloway</persName>'s Establishment, 
+               <address><addrLine>244, Strand, London</addrLine></address>.</p>
          </div>
          <div type="advertisement">
             <head>CHILDREN'S FROCKS, COATS, AND PELISSES;</head>
@@ -913,87 +784,68 @@
             <figure>
                <figDesc>Two illustrations of children's hoods/bonnets.</figDesc>
             </figure>
-            <p>In all the new Materials and prevailing styles, a large 
-               portion of which are expressly adapted for School Wear, at 
+            <p>In all the new Materials and prevailing styles, a large portion of which are expressly adapted for School Wear, at 
                <orgName key="Shearman's">SHEARMAN'S</orgName>,
-               <address>
-                  <street><num>5</num>, FINSBURY PAVEMENT</street>
-                  <name>London</name>
-               </address>, (between the Bank and <placeName>Finsbury Square</placeName>).</p>
+               <address><street><num>5</num>, FINSBURY PAVEMENT</street><name>London</name></address>, (between the Bank and 
+               <placeName>Finsbury Square</placeName>).</p>
             <p>SEVERAL HUNDREDS constantly on view, from the useful dress at 1s. 11d., 2s. 6d., 3s. 6d.; medium, 5s. 6d., 
-               7s. 6d., 10s. 6d., 12s. 6d.; handsome, 15s. 6d., 18s. 6d., 
-               21s. 6d.. up to the richest goods made in Silk Velvets, 
+               7s. 6d., 10s. 6d., 12s. 6d.; handsome, 15s. 6d., 18s. 6d., 21s. 6d.. up to the richest goods made in Silk Velvets, 
                Three, Four, and Five Guineas.</p>
-            <p>HOLLAND DRESSES of all kinds. Pinafores, 10[1/2]d.; 
-               Frocks, 1s. 6d., 1s. 9d.; ditto, long sleeves, 2s. 9d., 3s.6d.; 
+            <p>HOLLAND DRESSES of all kinds. Pinafores, 10[1/2]d.; Frocks, 1s. 6d., 1s. 9d.; ditto, long sleeves, 2s. 9d., 3s.6d.; 
                Blouses, 3s. 6d., 5s. 6d.</p>
             <p>MANTLES, PALETOTS, CLOAKS, JACKETS, and SPENCERS, in great variety, adapted for all ages, two 
                years and upwards.</p>
-            <p>INFANTS' CLOAKS, HOODS, HATS, and BONNETS, 
-               LONG and SHORT ROBES, French Cambric Caps, Day and 
-               Night Gowns, Robe Blankets and Squares, Lawn and Cambric 
-               Night Caps, Open and Round Shirts, Trimmed Nursery Baskets, 
-               and Bassinets, with a general Stock of BABY LINEN, together 
-               with every article usually required for a YOUNG FAMILY; 
-               thus obviating the trouble and inconvenience (so long complained 
-               of) in going to various shops when JUVENILE CLOTHING is 
-               required.
-               *** An illustrated Pamphlet, affording additional information, 
-               sent free on the receipt of a paid Letter.</p>
+            <p>INFANTS' CLOAKS, HOODS, HATS, and BONNETS, LONG and SHORT ROBES, French Cambric Caps, Day and Night Gowns, Robe Blankets 
+               and Squares, Lawn and Cambric Night Caps, Open and Round Shirts, Trimmed Nursery Baskets, and Bassinets, with a general 
+               Stock of BABY LINEN, together with every article usually required for a YOUNG FAMILY; thus obviating the trouble and 
+               inconvenience (so long complained of) in going to various shops when JUVENILE CLOTHING is required.
+               *** An illustrated Pamphlet, affording additional information, sent free on the receipt of a paid Letter.</p>
          </div>
          <div type="advertisement">
-            <head><hi rend="bold">STRAKER'S NEW &amp; IMPROVED SIDE &amp; UPRIGHT LEVER PRESSES,</hi></head>
+            <head rend="bold">STRAKER'S NEW &amp; IMPROVED SIDE &amp; UPRIGHT LEVER PRESSES,</head>
             <p>which for every character of work stands unrivalled; in sizes from 15 by 20 inches upwards.</p>
-            <p><hi rend="bold">IMPORTER OF LITHOGRAPHIC STONES,</hi></p>
+            <p rend="bold">IMPORTER OF LITHOGRAPHIC STONES,</p>
             <p>The most extensive Stocks of which are constantly on hand and at the lowest current rates.</p>
-            <p><hi rend="bold">DETAILED PRICE LISTS</hi></p>
+            <p rend="bold">DETAILED PRICE LISTS</p>
             <p>Of presses, and every Material and Instrument in the art, together with Designs, forwarded on application.</p>
-            <p><hi rend="bold">Instruction in the Art afforded to Amateurs and Public Institutions.</hi></p>
+            <p rend="bold">Instruction in the Art afforded to Amateurs and Public Institutions.</p>
          </div>
          <div type="advertisement">
-            <head><hi rend="bold">PRIZE MEDAL.</hi></head>
+            <head rend="bold">PRIZE MEDAL.</head>
             <p><orgName key="Watherston &amp; Brogden"><hi rend="dropcap">W</hi>ATHERSTON &amp; BROGDEN</orgName>, Manufacturing
-               Goldsmiths, Established A.D. 1798, began to announce to the 
-               Nobility, Gentry, and Public in general, that in obedience to the 
-               numerous calls made upon them since the Great Exhibition, they have 
-               resolved to throw open their Manufactory to the public at <hi rend="italic">Manufacturers' Prices</hi>, 
-               a closer connexion than has hitherto existed between 
-               the real worker in the precious metals and the Public, being obviously 
-               an advantage to both parties.</p>
-            <p><orgName key="Watherston &amp; Brogden">WATHERSTON &amp; BROGDEN</orgName>'S dealings will be principally to 
-               establish confidence in the gold employed in the manufacture of 
-               chains, where at present the greatest uncertainty exists, owing to the 
-               prevalence of electro-gilt articles, and weighing chains, frequently as 
-               low as 11 carats fine=38s. 11<num type="fraction" rend="horizontal">1/4</num>d., against sovereigns of 22 carats fine
-               =77s. 10<num type="fraction" rend="horizontal">1/2</num>. per oz., when there is no analogy between one and the 
-               other; a chain weighing 5 sovereigns being intrinsically worth only 
-               50s. The object of the vendor is wholly to conceal the remaining 50s.</p>
-            <p>Gold is capable of being alloyed to any extent, and in order to 
-               protect the public, <orgName key="Watherston &amp; Brogden">WATHERSTON &amp; BROGDEN</orgName> will make the Mint. 
-               price of 77s. 10<num type="fraction" rend="horizontal">1/2</num>. per oz. for British standard, the basis of all their 
-               operations, and make their profit on the workmanship alone, will 
-               charge the bullion in their chains at its intrinsic value, undertaking 
+               Goldsmiths, Established A.D. 1798, began to announce to the Nobility, Gentry, and Public in general, that in obedience to 
+               the numerous calls made upon them since the Great Exhibition, they have resolved to throw open their Manufactory to the 
+               public at <hi rend="italic">Manufacturers' Prices</hi>, a closer connexion than has hitherto existed between the real worker 
+               in the precious metals and the Public, being obviously an advantage to both parties.</p>
+            <p><orgName key="Watherston &amp; Brogden">WATHERSTON &amp; BROGDEN</orgName>'S dealings will be principally to establish 
+               confidence in the gold employed in the manufacture of chains, where at present the greatest uncertainty exists, owing to 
+               the prevalence of electro-gilt articles, and weighing chains, frequently as low as 11 carats fine=38s. 11
+               <num type="fraction" rend="horizontal">1/4</num>d., against sovereigns of 22 carats fine=77s. 10
+               <num type="fraction" rend="horizontal">1/2</num>. per oz., when there is no analogy between one and the other; a chain 
+               weighing 5 sovereigns being intrinsically worth only 50s. The object of the vendor is wholly to conceal the remaining 50s.</p>
+            <p>Gold is capable of being alloyed to any extent, and in order to protect the public, 
+               <orgName key="Watherston &amp; Brogden">WATHERSTON &amp; BROGDEN</orgName> will make the Mint. price of 77s. 10
+               <num type="fraction" rend="horizontal">1/2</num>. per oz. for British standard, the basis of all their operations, and 
+               make their profit on the workmanship alone, will charge the bullion in their chains at its intrinsic value, undertaking 
                to repurchase it at any time at the same price: thus--</p>
             <p>per oz.</p>
             <p>15 Carat Gold will be charged and will realise ............53s. 1d.</p>
             <p>18 Carat ditto     ditto     ditto ........................63s. 8<num type="fraction" rend="horizontal">1/8</num>d.</p>
             <p>22 Carat ditto     ditto     ditto the Mint price of.......77s. 10<num type="fraction" rend="horizontal">1/2</num>d.</p>
-            <p>The price for workmanship will be charged according to the intricacy 
-               or simplicity of the pattern. For example--</p>
+            <p>The price for workmanship will be charged according to the intricacy or simplicity of the pattern. For example--</p>
             <p>A Chain weighing 2 oz. of 15 Carat <hi rend="italic">&#163;</hi> s. d.</p>
             <p>Gold is worth, at 53. 1d. per oz...5 6 2 intrinsic value.</p>
             <p>Supposing the Workmanship to be ...2 0 0</p>
             <p>                                   _____</p>
             <p>                           Total..&#163;7 6 2</p>
-            <p>By this arrangement the purchaser will see at a glance the proportion 
-            charged for <hi rend="italic">labour</hi> compared with the <hi rend="italic">bullion</hi> in a gold chain, 
-            and being always able to realise the one, will have only to decide on 
-            the value of the other.</p>
-            <p><orgName key="Watherston &amp; Brogden">WATHERSTON &amp; BROGDEN</orgName>'S Stock consists of Gold Guard Chains, Albert Chains, Seals, Keys, Rings, 
-            Brooches, Bracelets, Diamond Setting, and every description of Goldsmith's and Jeweller's Work, all made on 
-            the premises.</p>
+            <p>By this arrangement the purchaser will see at a glance the proportion charged for <hi rend="italic">labour</hi> compared with the 
+               <hi rend="italic">bullion</hi> in a gold chain, and being always able to realise the one, will have only to decide on the value of 
+               the other.</p>
+            <p><orgName key="Watherston &amp; Brogden">WATHERSTON &amp; BROGDEN</orgName>'S Stock consists of Gold Guard Chains, Albert Chains, 
+               Seals, Keys, Rings, Brooches, Bracelets, Diamond Setting, and every description of Goldsmith's and Jeweller's Work, all made on 
+               the premises.</p>
             <p>MANUFACTORY, <address><addrLine>No. 16, Henrietta-street, Covent-garden, London</addrLine></address>; where the processes of manipulation 
-            may be seen by those who are interested in the subject.</p>
+               may be seen by those who are interested in the subject.</p>
          </div>
       </body>
       <back>
