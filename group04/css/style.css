@@ -91,6 +91,28 @@ img {
   box-shadow: 2px 2px 5px rgba(60, 40, 20, 0.15);
 }
 
+table {
+  width: 90%;
+  margin: 2em auto;
+  border-collapse: collapse;
+  background-color: #fdfaf4; /* parchment tone */
+  color: #3e2f1c;
+  box-shadow: 2px 2px 8px rgba(60, 40, 20, 0.15);
+  border: 2px solid #8b5e3c;
+}
+
+tr:nth-child(even) {
+  background-color: #f5ecdc; /* alternating parchment rows */
+}
+
+td{
+  border: 1px solid #8b5e3c;
+  padding: 0.25em 0.5em;
+  text-align: left;
+  vertical-align: top;
+}
+
+
 hr {
   border: none;
   height: 2px;

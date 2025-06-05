@@ -131,4 +131,26 @@
         </img>
     </xsl:template>
     
+    <!-- Match the TEI table -->
+    <xsl:template match="tei:table">
+        <table border="1">
+            <xsl:apply-templates/>
+        </table>
+    </xsl:template>
+    
+    <!-- Match each row -->
+    <xsl:template match="tei:row">
+        <tr>
+            <xsl:apply-templates/>
+        </tr>
+    </xsl:template>
+    
+    <!-- Match each cell -->
+    <xsl:template match="tei:cell">
+        <td>
+            <xsl:apply-templates/>
+        </td>
+    </xsl:template>
+    
+    
 </xsl:stylesheet>
