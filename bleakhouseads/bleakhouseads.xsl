@@ -101,4 +101,7 @@
     <xsl:template match="tei:cell">
         <td><xsl:apply-templates/></td>
     </xsl:template>
+    <xsl:template match="tei:div[@type='rule']">
+        <hr/>
+    </xsl:template>
 </xsl:stylesheet>
