@@ -334,7 +334,8 @@
             <table>
                <row style="font-size:10px;class:allcaps">
                   <cell>Chap.</cell>
-                  <cell>Page</cell>
+                  <cell/>
+		  <cell>Page</cell>
                </row>
                <row>
                   <cell>I.</cell>
