@@ -8,7 +8,9 @@
       <fileDesc>
          <titleStmt>
             <title>Assorted Front Matter of Volume 1 of Dickens' Bleak House, as Serialized</title>
-            <editor>Paige Morris, Megan Piccirillo, and Kenneth Zacher </editor>
+            <editor>Paige Morris</editor>
+            <editor>Megan Piccirillo</editor>
+            <editor>Kenneth Zacher</editor>
          </titleStmt>
          <publicationStmt>
             <p>Published for the course requirements of "Texts, Publics and Publication: Digital
@@ -86,69 +88,59 @@
          </div>
       </front>
       <body>
-                  <div type="advertisement">
+         <div type="advertisement">
             <head><hi rend="bold">TO SPORTSMEN, TOURISTS, &amp; TRAVELLERS.</hi></head>
             <figure>
                <figDesc>A dead fox and birds hung over a rifle and a net, tied in ropes and belts.
-                  The fox wears an alarmed expression.</figDesc>
+               The fox wears an alarmed expression.</figDesc>
             </figure>
-            <div>
-               <head><orgName key="Edmiston &amp; Son">EDMISTON'S</orgName> <name type="product">POCKET SIPHONIA</name>,</head>
-               <p><hi rend="sans">OR <sic>WATERFROOF</sic> OVERCOAT.</hi></p>
-               <p>WEIGHT 10 oz.</p>
-            </div>
+            <head><orgName key="Edmiston &amp; Son">EDMISTON'S</orgName> <name type="product">POCKET SIPHONIA</name>,</head>
+            <p><hi rend="sans">OR <sic>WATERFROOF</sic> OVERCOAT.</hi></p>
+            <p>WEIGHT 10 oz.</p>
             <figure>
-               <figDesc>A man in a tailcoat and a top hat holds his umbrella, turned inside out by
+               <figDesc>A man in a tailcoat and a top hat holds his umbrella, turned inside out by 
                   the wind, amidst a rainstorm.</figDesc>
             </figure>
-            <div>
-               <p><orgName key="Edmiston &amp; Son">Sole Manufacturers</orgName> of the celebrated
-                  <name type="product">Pocket Siphonia</name>, remarkable for its lightness and softness of texture, adapted for
-                  Sportsmen, Travellers, and Tourists, easily folded to carry in the Pocket or on
-                  Saddle ; the most <hi rend="italic">important</hi> feature in this <hi
-                     rend="italic">Waterproofing</hi> is being mineralised, which effectually
-                  resists the powerful heat of the sun and the most violent rains, also obviating
-                  the stickiness and unpleasant smell peculiar to all other Waterproofs.—Price
-                  according to size, 40s. to 55s.; all silk throughout, 50s. to 65s. Measurement,
-                  length of coat, and size round the chest over the coast.</p>
-            </div>
+            <p><orgName key="Edmiston &amp; Son">Sole Manufacturers</orgName> of the celebrated
+               <name type="product">Pocket Siphonia</name>, remarkable for its lightness and softness of texture, adapted for 
+               Sportsmen, Travellers, and Tourists, easily folded to carry in the Pocket or on 
+               Saddle ; the most <hi rend="italic">important</hi> feature in this <hi rend="italic">Waterproofing</hi> 
+               is being mineralised, which effectually resists the powerful heat of the sun and the 
+               most violent rains, also obviating the stickiness and unpleasant smell peculiar to 
+               all other Waterproofs.—Price according to size, 40s. to 55s.; all silk throughout, 
+               50s. to 65s. Measurement, length of coat, and size round the chest over the coast.</p>
             <figure>
                <figDesc>A man standing upright in the rain in a buttoned topcoat and a top
                   hat.</figDesc>
                <caption><hi rend="sans">NO UMBRELLA REQUIRED</hi></caption>
             </figure>
-            <div>
-               <p>NOTICE.—NAME &amp; ADDRESS STAMPED INSIDE. NONE OTHERS ARE GENUINE.</p>
-               <p><orgName key="Edmiston &amp; Son">EDMISTON &amp; SON</orgName>, <address>
-                     <addrLine>416 &amp; 69, STRAND</addrLine>
-                  </address>,</p>
-               <p>Near the <placeName>Adelphi Theatre</placeName>.</p>
-            </div>
+            <p>NOTICE.—NAME &amp; ADDRESS STAMPED INSIDE. NONE OTHERS ARE GENUINE.</p>
+            <p><orgName key="Edmiston &amp; Son">EDMISTON &amp; SON</orgName>, 
+               <address><addrLine>416 &amp; 69, STRAND</addrLine></address>,</p>
+            <p>Near the <placeName>Adelphi Theatre</placeName>.</p>
             <div>
                <head>OPINIONS OF THE PRESS.</head>
-               <p><hi rend="dropcap">Waterproof</hi>—<q>The lightest and most effectual is the <hi
-                        rend="dropcap"><name type="product">Siphonia</name></hi>, made by <hi rend="dropcap">Edmiston &amp;
-                        Son</hi>, of 69, Strand; they can be carried in the hat or pocket; and for
-                     the summer we hear they are about to have light coloured
-                        Siphonias.</q>—<title><hi rend="italic">Bell's Life</hi></title>, <date><hi
-                        rend="italic">April 29th</hi>, 1851</date>.</p>
+               <p><hi rend="dropcap">Waterproof</hi>—<q>The lightest and most effectual is the 
+                  <hi rend="dropcap"><name type="product">Siphonia</name></hi>, made by <hi rend="dropcap">Edmiston &amp; Son</hi>
+                  , of 69, Strand; they can be carried in the hat or pocket; and for the summer we 
+                  hear they are about to have light coloured Siphonias.</q>—<title><hi rend="italic">Bell's Life</hi></title>, 
+                  <date><hi rend="italic">April 29th</hi>, 1851</date>.</p>
                <p><q><hi rend="dropcap">New Invention</hi>—A newly invented waterproof garment has
-                     been manufactured by <hi rend="dropcap">Edmiston &amp; Son</hi>, 69 Strand, and
-                     its lightness and softness of texture exceeds all other fabrics that have been
-                     brought before the notice of the public; on that account well adapted for
-                     riding or walking; can easily be carried in the pocket or hat, and the most
-                     important feature respecting it is the process of mineralisation, which
-                     effectually resists the powerful heat of the sun—a desideratum so much
-                     required, to prevent the unpleasant smell, and sticking observable in all
-                     hitherto waterproof garments.</q>—<title><hi rend="italic">British Army
-                        Despatch</hi></title>, <date><hi rend="italic">May 9th</hi>,
-                  1851</date>.</p>
+                  been manufactured by <hi rend="dropcap">Edmiston &amp; Son</hi>, 69 Strand, and
+                  its lightness and softness of texture exceeds all other fabrics that have been
+                  brought before the notice of the public; on that account well adapted for
+                  riding or walking; can easily be carried in the pocket or hat, and the most
+                  important feature respecting it is the process of mineralisation, which
+                  effectually resists the powerful heat of the sun—a desideratum so much
+                  required, to prevent the unpleasant smell, and sticking observable in all
+                  hitherto waterproof garments.</q>—<title><hi rend="italic">British Army Despatch</hi></title>, 
+                  <date><hi rend="italic">May 9th</hi>, 1851</date>.</p>
                <p><q>A new waterproof garment adapted to the very changeable weather of the season,
-                     has been manufactured by <hi rend="dropcap">Edmiston &amp; Son</hi>. It is
-                     remarkably light and soft, and may be carried in the pocket. This is really an
-                     ingenious substitute for the cumbersome great coat or the troublesome
-                     umbrella.</q>—<title><hi rend="italic">Home News</hi></title>, <date><hi
-                        rend="italic">May 24th</hi>, 1851</date>.</p>
+                  has been manufactured by <hi rend="dropcap">Edmiston &amp; Son</hi>. It is
+                  remarkably light and soft, and may be carried in the pocket. This is really an
+                  ingenious substitute for the cumbersome great coat or the troublesome
+                  umbrella.</q>—<title><hi rend="italic">Home News</hi></title>, <date><hi rend="italic">May 24th</hi>, 
+                  1851</date>.</p>
             </div>
             <figure>
                <figDesc>A shaded leg, wearing one of a pair of goloshes.</figDesc>
@@ -197,98 +189,109 @@
                <p><hi rend="sans">AGENTS APPOINTED.</hi></p>
             </div>
             <div type="companyFooter">
-               <p><placeName>LONDON</placeName>: <orgName key="Edmiston &amp; Son">EDMISTON &amp;
-                     SON</orgName>, <address>
-                     <addrLine>416 &amp; 69, STRAND</addrLine>
-                  </address>, near the <placeName>Adelphi</placeName>.</p>
+               <p><placeName>LONDON</placeName>: <orgName key="Edmiston &amp; Son">EDMISTON &amp; 
+                  SON</orgName>, <address><addrLine>416 &amp; 69, STRAND</addrLine></address>, near the 
+                  <placeName>Adelphi</placeName>.</p>
             </div>
          </div>
-
          <div type="advertisement">
-            <div>
-               <head><hi rend="sans">NEW PUBLICATIONS.</hi></head>
-            </div>
-            <div>
-               <head>CHEAP <sic>EDITION</sic> OF THE</head>
-               <p>Works of <persName key="Dickens">Mr. Charles Dickens</persName>.</p>
-               <p><hi rend="italic">Uniformly printed in crown 8vo, Corrected and Revised
-                     throughout, with new Prefaces by the <name key="Dickens">Author</name>, and
-                     Frontispieces to each volume, handsomely bound in cloth.</hi></p>
-               <list>
-                  <item><p><title>THE PICKWICK PAPERS</title>.</p>
-                     <p>Price 5s.</p></item>
-                  <item><p><title>NICHOLAS NICKLEBY</title>.</p>
-                     <p>Price 5s.</p></item>
-                  <item><p><title>THE OLD CURIOSITY SHOP</title>.</p>
-                     <p>Price 4s.</p></item>
-                  <item><p><title>BARNABY RUDGE</title>.</p>
-                     <p>Price 4s.</p></item>
-                  <item><p><title>MARTIN CHUZZLEWIT</title>.</p>
-                     <p>Price 5s.</p></item>
-                  <item><p><title>OLIVER TWIST</title>.</p>
-                     <p>Price 3s. 6d.</p></item>
-                  <item><p><title>SKETCHES BY BOZ</title>.</p>
-                     <p>Price 3s. 6d.</p></item>
-                  <item><p><title>AMERICAN NOTES</title>.</p>
-                     <p>Price 2s. 6d.</p></item>
-               </list>
-            </div>
+            <head><hi rend="sans">NEW PUBLICATIONS.</hi></head>
+            <head>CHEAP <sic>EDITION</sic> OF THE</head>
+            <p>Works of <persName key="Dickens">Mr. Charles Dickens</persName>.</p>
+            <p><hi rend="italic">Uniformly printed in crown 8vo, Corrected and Revised 
+               throughout, with new Prefaces by the <name key="Dickens">Author</name>, and
+               Frontispieces to each volume, handsomely bound in cloth.</hi></p>
+            <list>
+               <item>
+                  <title>THE PICKWICK PAPERS.</title>
+                  <seg>Price 5s.</seg></item>
+               <item>
+                  <title>NICHOLAS NICKLEBY.</title>
+                  <seg>Price 5s.</seg></item>
+               <item>
+                  <title>THE OLD CURIOSITY SHOP.</title>
+                  <seg>Price 4s.</seg></item>
+               <item>
+                  <title>BARNABY RUDGE.</title>
+                  <seg>Price 4s.</seg></item>
+               <item>
+                  <title>MARTIN CHUZZLEWIT.</title>
+                  <seg>Price 5s.</seg></item>
+               <item>
+                  <title>OLIVER TWIST.</title>
+                  <seg>Price 3s. 6d.</seg></item>
+               <item>
+                  <title>SKETCHES BY BOZ.</title>
+                  <seg>Price 3s. 6d.</seg></item>
+               <item>
+                  <title>AMERICAN NOTES.</title>
+                  <seg>Price 2s. 6d.</seg></item>
+            </list>
          </div>
          <div type="advertisement">
             <p>CHEAP EDITION OF THE</p>
             <p>Novels &amp; Tales of <persName key="Lytton"><addName type="honorific">Sir</addName> E. Bulwer Lytton</persName>.</p>
             <!-- Insert note about Lytton -->
-            <p><hi rend="italic">Uniformly printed in crown 8vo, Corrected and Revised throughout,
-                  with new Prefaces by the <name key="Lytton">Author</name>, and Frontispiece to
-                  each volume, handsomely bound in cloth.</hi></p>
+            <p><hi rend="italic">Uniformly printed in crown 8vo, Corrected and Revised throughout, 
+               with new Prefaces by the <name key="Lytton">Author</name>, and Frontispiece to
+               each volume, handsomely bound in cloth.</hi></p>
             <list>
-               <item><p><title>RIENZI; the Last of the Tribunes</title>.</p>
-                  <p>Price 3s. 6d.</p></item>
-               <item><p><title>PAUL CLIFFORD</title>.</p>
-                  <p>Price 3s. 6d.</p></item>
-               <item><p><title>PELHAM; or, The Adventures of a Gentleman</title>.</p>
-                  <p>Price 3s. 6d.</p></item>
-               <item><p><title>EUGENE ARAM</title>. A Tale.</p>
-                  <p>Price 3s. 6d.</p></item>
-               <item><p><title>THE LAST OF THE BARONS</title>.</p>
-                  <p>Price 5s.</p></item>
-               <item><p><title>THE LAST DAYS OF POMPEII</title>.</p>
-                  <p>Price 3s. 6d.</p></item>
-               <item><p><title>PILGRIMS OF THE RHINE</title>.</p>
-                  <p>Price 2s. 6d.</p></item>
-               <item><p><title>GODOLPHIN</title>.</p>
-                  <p>Price 3s.</p></item>
-               <item><p><title>NIGHT AND MORNING</title>.</p>
-                  <p>Price 4s.</p></item>
-               <item><p><title>ERNEST MALTRAVERS</title>.</p>
-                  <p>Price 3s. 6d.</p></item>
-               <item><p><title>ERNEST MALTRAVERS. PART II</title>.</p>
-                  <p>(ALICE.)</p>
-                  <p>Price 3s. 6d.</p></item>
+               <item>
+                  <title>RIENZI; the Last of the Tribunes.</title>
+                  <seg>Price 3s. 6d.</seg></item>
+               <item>
+                  <title>PAUL CLIFFORD.</title>
+                  <seg>Price 3s. 6d.</seg></item>
+               <item>
+                  <title>PELHAM; or, The Adventures of a Gentleman.</title>
+                  <seg>Price 3s. 6d.</seg></item>
+               <item>
+                  <title>EUGENE ARAM, A Tale.</title>
+                  <seg>Price 3s. 6d.</seg></item>
+               <item>
+                  <title>THE LAST OF THE BARONS.</title>
+                  <seg>Price 5s.</seg></item>
+               <item>
+                  <title>THE LAST DAYS OF POMPEII.</title>
+                  <seg>Price 3s. 6d.</seg></item>
+               <item>
+                  <title>PILGRIMS OF THE RHINE.</title>
+                  <seg>Price 2s. 6d.</seg></item>
+               <item>
+                  <title>GODOLPHIN.</title>
+                  <seg>Price 3s.</seg></item>
+               <item>
+                  <title>NIGHT AND MORNING.</title>
+                  <seg>Price 4s.</seg></item>
+               <item>
+                  <title>ERNEST MALTRAVERS.</title>
+                  <seg>Price 3s. 6d.</seg></item>
+               <item>
+                  <title>ERNEST MALTRAVERS. PART II.</title>
+                  <seg>(ALICE.)</seg>
+                  <seg>Price 3s. 6d.</seg></item>
             </list>
          </div>
          <div type="advertisement">
             <head>I.</head>
             <p><title>THE HISTORY OF THE BRITISH EMPIRE, from the Accession of James the
-                  First</title>. To which is prefixed a review of the Progress of
-                  <placeName>England</placeName> from the Saxon Period to the Last Year of the Reign
-               of <persName><addName type="honorific">Queen</addName> Elizabeth</persName>, <date>1603</date>. By <persName key="Macgregor"><hi
-                     rend="dropcap">John Macgregor, M.P.</hi></persName></p>
+               First</title>. To which is prefixed a review of the Progress of <placeName>England</placeName> 
+               from the Saxon Period to the Last Year of the Reign of <persName><addName type="honorific">Queen</addName> Elizabeth</persName>, 
+               <date>1603</date>. By <persName key="Macgregor"><hi rend="dropcap">John Macgregor, M.P.</hi></persName></p>
             <p>2 vols. 8vo, cloth, 36s.</p>
          </div>
          <div type="advertisement">
             <head>II.</head>
             <p><title>THE LIFE AND LETTERS OF BARTHOLD GEORGE NIEBUHR</title>. From the German. With
-               Essays on his Character and Influence. By the <persName key="Bunsen">Chevalier <hi
-                     rend="dropcap">Bunsen</hi></persName> and <persName key="Brandis"><addName type="honorific">Professors</addName> <hi
-                     rend="dropcap">Brandis</hi></persName> and <persName key="Loebell"><hi rend="dropcap"
-                     >Loebell</hi></persName>.</p>
+               Essays on his Character and Influence. By the <persName key="Bunsen">Chevalier <hi rend="dropcap">Bunsen</hi></persName> 
+               and <persName key="Brandis"><addName type="honorific">Professors</addName> <hi rend="dropcap">Brandis</hi></persName>
+               and <persName key="Loebell"><hi rend="dropcap">Loebell</hi></persName>.</p>
             <p>2 vols. 8vo, 32s.</p>
          </div>
          <div type="advertisement">
             <head>III.</head>
             <p><title>THE POETICAL and DRAMATIC WORKS OF <persName key="Lytton"><addName type="honorific">SIR</addName> E. BULWER
-                     LYTTON</persName></title>, Bart.</p>
+               LYTTON</persName></title>, Bart.</p>
             <p>8vo. Vol. I., with a Portrait and Vignette, 8s.</p>
          </div>
          <div type="advertisement">
@@ -299,53 +302,46 @@
          </div>
          <div type="advertisement">
             <head>V.</head>
-            <p><title>THE LIFE OF JOHN STERLING</title>. BY <persName key="Carlyle"><hi rend="dropcap"
-                     >Thomas Carlyle</hi></persName>. Second Edition.</p>
+            <p><title>THE LIFE OF JOHN STERLING</title>. BY <persName key="Carlyle"><hi rend="dropcap">Thomas Carlyle</hi></persName>.
+               Second Edition.</p>
             <p>Post 8vo, 10s. 6d.</p>
          </div>
          <div type="advertisement">
             <head>VI.</head>
-            <p><title>WILLIAM PENN</title>. An Historical Biography, From New Sources. By <persName
-                  key="Dixon"><hi rend="dropcap">Hep-Worth Dixon</hi></persName>. Second Edition.</p>
+            <p><title>WILLIAM PENN</title>. An Historical Biography, From New Sources. By <persName key="Dixon"><hi rend="dropcap">Hep-Worth Dixon</hi></persName>.
+               Second Edition.</p>
             <p>Small 8vo, cloth, 7s., with a Portrait.</p>
          </div>
          <div type="advertisement">
             <head>VII.</head>
-            <p><title>THE PASSIONS OF ANIMALS</title>. By <persName key="Thompson"><hi rend="dropcap"
-                     >Edward P. Thompson</hi></persName>, Author of "Note-Book of a Naturalist,"
-               &amp;c.</p>
+            <p><title>THE PASSIONS OF ANIMALS</title>. By <persName key="Thompson"><hi rend="dropcap">Edward P. Thompson</hi></persName>
+               , Author of "Note-Book of a Naturalist," &amp; c.</p>
             <p>Post 8vo, 10s. 6d.</p>
          </div>
          <div type="advertisement">
             <head>VIII.</head>
-            <p><title>EXCURSION TO CALIFORNIA, OVER THE PRAIRIE, ROCKY MOUNTAINS, AND GREAT SIERRA
-                  NEVADA; with a Stroll through the Diggings and Ranches of that Country</title>. By
-                  <persName key="Kelly"><hi rend="dropcap">William Kelly, J.P.</hi></persName></p>
+            <p><title>EXCURSION TO CALIFORNIA, OVER THE PRAIRIE, ROCKY MOUNTAINS, AND GREAT SIERRA NEVADA; with a Stroll through 
+               the Diggings and Ranches of that Country</title>. By 
+               <persName key="Kelly"><hi rend="dropcap">William Kelly, J.P.</hi></persName></p>
             <p>2 vols. 8vo, 21s.</p>
          </div>
          <div type="advertisement">
             <head>XI.</head>
             <p><title>THE ERNE, ITS LEGENDS AND ITS FLY-FISHING</title>. By <persName key="Newland"><addName type="honorific">Rev</addName>.
-                     <hi rend="dropcap">H. Newland</hi></persName>.</p>
+               <hi rend="dropcap">H. Newland</hi></persName>.</p>
             <p>Post 8vo, cloth, with Plates and Map, 12s.</p>
          </div>
          <div type="advertisement">
             <head>X.</head>
-            <p><title>ROMANCE OF THE PEERAGE; OR, CURIOSITIES OF FAMILY HISTORY</title>. By <persName
-                  key="Craik"><hi rend="dropcap">George Lillie Craik</hi>, <addName type="honorific">Esq</addName>.</persName>, <addName type="honorific">Professor</addName> of
-               History in <orgName>Queen's College</orgName>, <placeName>Belfast</placeName>.</p>
+            <p><title>ROMANCE OF THE PEERAGE; OR, CURIOSITIES OF FAMILY HISTORY</title>. By 
+               <persName key="Craik"><hi rend="dropcap">George Lillie Craik</hi>, <addName type="honorific">Esq</addName>.</persName>,
+               <addName type="honorific">Professor</addName> of History in <orgName>Queen's College</orgName>, <placeName>Belfast</placeName>.</p>
             <p>4 vols., with Portraits, post 8vo, 10s. 6d. each</p>
-         </div>
-         <cb/>
-         <div type="companyFooter">
-            <p><placeName>LONDON</placeName>: <orgName>CHAPMAN AND HALL</orgName>, <address>
-                  <addrLine>193, PICCADILLY</addrLine>
-                  <!-- Insert Chapman & Hall note -->
-               </address>.</p>
+            <p><placeName>LONDON</placeName>: <orgName>CHAPMAN AND HALL</orgName>, <address><addrLine>193, PICCADILLY</addrLine>
+               <!-- Insert Chapman & Hall note --></address>.</p>
          </div>
          <div type="advertisement">
-            <div type="header">
-               <head>NEW AND POPULAR BOOKS FOR THE YOUNG.</head>
+            <head>NEW AND POPULAR BOOKS FOR THE YOUNG.</head>
                <figure>
                   <figDesc>Three men standing in a room leaning into speak to each other,
                      encompassed in a decorative frame.</figDesc>
@@ -359,13 +355,11 @@
                <!-- Insert note about Newbery & Harris (John Harris and John Newbery) -->
                <p>CORNER OF</p>
                <p><placeName>SAINT PAUL'S CHURCH-YARD</placeName>.</p>
-            </div>
-            <cb/>
-            <div type="columnL">
+            <div rend="left column">
                <list>
-                  <item><title>MARK SEAWORTH: a Tale of the Indian Ocean</title>. By the Author of
-                           <q><title>Peter the Whaler</title>.</q> With Illustraions. Fcap. 8vo, 6s.
-                     cloth.</item>
+                  <item>
+                     <title>MARK SEAWORTH: a Tale of the Indian Ocean</title>. By the Author of
+                        <q><title>Peter the Whaler</title>.</q> With Illustraions. Fcap. 8vo, 6s. cloth.</item>
                   <item><title>ANECDOTES OF THE HABITS AND INSTINCT OF ANIMALS</title>. By <persName
                         key="Lee">MRS. LEE</persName>. With Illustrations by <persName key="Weir">H.
                         Weir</persName>. Fcap. 8vo, 6s. cloth.</item>
