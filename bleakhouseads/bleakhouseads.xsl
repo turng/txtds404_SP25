@@ -14,9 +14,6 @@
                     .contentblock{
                     padding:1%;
                     }
-                    .allcaps{
-                    text-transform:uppercase;
-                    {
                 </style>
             </head>
             <body>
@@ -75,7 +72,7 @@
         </div>
     </xsl:template>
     <xsl:template match="tei:head">
-        <h4 style="font-weight:normal;"><xsl:apply-templates/></h4>
+        <h4><xsl:apply-templates/></h4>
     </xsl:template>
     <xsl:template match="tei:body/tei:div">
         <hr></hr>
