@@ -123,12 +123,12 @@
         </a>
     </xsl:template>
     
-    <!-- <xsl:template match="tei:graphic">
+    <xsl:template match="tei:graphic">
         <img>
             <xsl:attribute name="src">
                 <xsl:value-of select="@url"/>
             </xsl:attribute>
         </img>
-    </xsl:template> -->
+    </xsl:template>
     
 </xsl:stylesheet>
