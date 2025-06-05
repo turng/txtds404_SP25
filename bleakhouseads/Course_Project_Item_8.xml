@@ -113,9 +113,9 @@
    <text>
       <body>
          <div xml:id="Bleak_House_Ad">
-            <head rend="allcaps"><hi rend="bold">Bleak House Advertisers.</hi></head>
+            <head rend="allcaps"><hi style="bold">Bleak House Advertisers.</hi></head>
             <lb/>
-            <p rend="bold" style="font-size:20px">Completion of Bleak House.</p>
+            <p style="font-size:20px bold">Completion of Bleak House.</p>
             <lb/>
             <p>On Monday, 12th September will be published,</p>
             <p><hi rend="italics">Complete in One thick Volume, 8vo, with Forty Illustrations
