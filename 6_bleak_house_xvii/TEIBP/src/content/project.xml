@@ -189,7 +189,7 @@
             <!--pg 3 of ads-->
             <pb/>
             <div>
-               <div type="header">
+               <div type="sgcol">
                   <head rend="sc">advertisements.</head>
 
                   <space type="dbline"/>
@@ -216,14 +216,18 @@
                      forming, when complete, four disstinct volumes.</p>
                </div>
 
-               <div type="col">
+               <div type="dbcol">
+                  <div type="col-l">
                   <p><hi rend="sc">Geography</hi> . . . . . 4 Vols</p>
                   <p><hi rend="sc">Natural History</hi> . . . . 4 Vols.</p>
+                  </div>
                   <!-- line between cols-->
                   <!--right column-->
                   <cb n="2"/>
-                  <p><hi rend="sc">Sciences and Arts</hi> . . . 4 Vols.</p>
-                  <p><hi rend="sc">History, Biography, Literature</hi> &amp;c. 4 Vols.</p>
+                  <div type="col-r">
+                     <p><hi rend="sc">Sciences and Arts</hi> . . . 4 Vols.</p>
+                     <p><hi rend="sc">History, Biography, Literature</hi> &amp;c. 4 Vols.</p>
+                  </div>
                </div>
 
                <div>
@@ -245,55 +249,59 @@
 
                <space type="dblinesh"/>
 
-               <div type="col">
+               <div type="dbcol">
                   <head rend="sans">
                      <hi rend="bold"><hi rend="caps">Opinions of the Press</hi></hi>
                   </head>
                   <!--// two columns-->
 
                   <!--left column-->
-                  <p rend="sc">leader.</p>
-                  <p>"Amount serials, the most important in our eyes is the new edition of the <hi
-                        rend="it">Penny Cyclopædia</hi>, issued in seperate divisions, under the
-                     name of the <hi rend="it">English Cyclopædia</hi>. The first monthly part
-                     contains the com- mencement of the two divisions, <hi rend="it">Natural History
-                        and Geography</hi>, beautifully printed. It is a new work, although based
-                     upon the old, and those who desire to possess the Natural History, for example,
-                     without encumbering themselves with a whole cyclopædia, may do so by the
-                     present admirable arrangement. The excellence of the articles, and the
-                     profusion of wood- cuts illustrating the Natural History, make us desire to
-                     call the particular attention of our readers to this re-issue."</p>
-
-                  <p rend="sc">weekly news and chronicle.</p>
-                  <p>"We do not feel that it is employing the language of exaggeration to say that
-                     the issue in a cheap and greatly improved form of the <hi rend="it">English
-                        Cyclopædia</hi>, under the ediorship of Mr. Charles Knight, and with the
-                     co-operation of Messrs. Brandbury &amp; Evans, par- takes of the character of a
-                     national undertaking. It is the product of the widest and deepest learning of
-                     our country, and must be ranked amonst the proudest achievements of the
-                     time."</p>
+                  <div type="col-l">
+                     <p rend="sc">leader.</p>
+                   <p>"Amount serials, the most important in our eyes is the new edition of the <hi
+                         rend="it">Penny Cyclopædia</hi>, issued in seperate divisions, under the
+                      name of the <hi rend="it">English Cyclopædia</hi>. The first monthly part
+                      contains the com- mencement of the two divisions, <hi rend="it">Natural History
+                         and Geography</hi>, beautifully printed. It is a new work, although based
+                      upon the old, and those who desire to possess the Natural History, for example,
+                      without encumbering themselves with a whole cyclopædia, may do so by the
+                      present admirable arrangement. The excellence of the articles, and the
+                      profusion of wood- cuts illustrating the Natural History, make us desire to
+                      call the particular attention of our readers to this re-issue."</p>
+ 
+                   <p rend="sc">weekly news and chronicle.</p>
+                   <p>"We do not feel that it is employing the language of exaggeration to say that
+                      the issue in a cheap and greatly improved form of the <hi rend="it">English
+                         Cyclopædia</hi>, under the ediorship of Mr. Charles Knight, and with the
+                      co-operation of Messrs. Brandbury &amp; Evans, par- takes of the character of a
+                      national undertaking. It is the product of the widest and deepest learning of
+                      our country, and must be ranked amonst the proudest achievements of the
+                      time."</p>
+                  </div>
 
                   <!--right column-->
-                  <cb n="2"/>
-                  <p rend="sc">examiner.</p>
-                  <p>"One of the very first labourers in the great and fruitful field of cheap and
-                     instructive publication, bestowing time, and toil, and patience upon
-                     enterprises that were often not less hazardous to the pocket of the undertaker
-                     than they were useful for the education of the public, -- Mr. Charles Knight
-                     has never flagged in industry. The <hi rend="it">Penny Cylopædia</hi>, is now,
-                     under his care and editorship, rising from its ashes, revived and completely
-                     modernised. This also is to be henceforth, under its new title of the <hi
-                        rend="it">English Cylopædia</hi>, classi- fied. Of the First Part we have at
-                     present to speak, and from the specimen before us, we most conscien- tiously
-                     and emphatically recommend these ample dic- tionaries upon special subjects of
-                     almost universal interest, as by far the best that are likely to be pro-
-                     curable for many years, equally full--and published for a price which, at the
-                     present cost of production, after allowing for a most extensive sale, can be
-                     taken strictly as the <hi rend="it">minimum</hi> of cheapness possible in our
-                     day. If we did not hope that Mr. Charles Knight's ser- vices were to be yet for
-                     many years devoted to the profit of the public, we should be satisfied to take
-                     this <hi rend="it">English Cyclopædia</hi>, when completed, as the worthy close
-                     of a long series of most noble endeavours and successes."</p>
+                  <div type="col-r">
+                     <cb n="2"/>
+                     <p rend="sc">examiner.</p>
+                     <p>"One of the very first labourers in the great and fruitful field of cheap and
+                        instructive publication, bestowing time, and toil, and patience upon
+                        enterprises that were often not less hazardous to the pocket of the undertaker
+                        than they were useful for the education of the public, -- Mr. Charles Knight
+                        has never flagged in industry. The <hi rend="it">Penny Cylopædia</hi>, is now,
+                        under his care and editorship, rising from its ashes, revived and completely
+                        modernised. This also is to be henceforth, under its new title of the <hi
+                           rend="it">English Cylopædia</hi>, classi- fied. Of the First Part we have at
+                        present to speak, and from the specimen before us, we most conscien- tiously
+                        and emphatically recommend these ample dic- tionaries upon special subjects of
+                        almost universal interest, as by far the best that are likely to be pro-
+                        curable for many years, equally full--and published for a price which, at the
+                        present cost of production, after allowing for a most extensive sale, can be
+                        taken strictly as the <hi rend="it">minimum</hi> of cheapness possible in our
+                        day. If we did not hope that Mr. Charles Knight's ser- vices were to be yet for
+                        many years devoted to the profit of the public, we should be satisfied to take
+                        this <hi rend="it">English Cyclopædia</hi>, when completed, as the worthy close
+                        of a long series of most noble endeavours and successes."</p>
+                  </div>
                </div>
 
                <space type="sglinesh"/>
@@ -448,16 +456,16 @@
                      thousands of children are annually saved by this much-esteemed medicine, which
                      is an immediate remedy, and the infants rather like it than otherwise.</p>
                   <!--indent-->
-                  <p><space unit="chars" quantity="4"/>Prepared only by <hi rend="caps">Robert Barker</hi>, Ollerenshaw
+                  <p rend="indent">Prepared only by <hi rend="caps">Robert Barker</hi>, Ollerenshaw
                      Hall, Chapel-en-le-Frith, Derbyshire, late of Manchester,</p>
                   <p>(Chemist to Her most Gracious Majesty Queen Victoria), in bottles at 1s. 1?d.,
                      2s.9d., 4s. 6d., and 11s. each.</p>
                   <!--indent-->
-                  <p><space unit="chars" quantity="4"/>Sold by all druggists and medicine vendors
+                  <p rend="indent">Sold by all druggists and medicine vendors
                      throughout the United Kingdom.</p>
                   <!--indent-->
-                  <p><space unit="chars" quantity="4"/><hi rend="caps">Caution</hi>.-Observe the name of <hi rend="sc"
-                        >"atkinson &amp; barker,"</hi> on the Government Stamp. Established in</p>
+                  <p rend="indent"><hi rend="caps">Caution</hi>.-Observe the name of <hi rend="sc">
+                        "atkinson &amp; barker,"</hi> on the Government Stamp. Established in</p>
                   <p>the year 1793.</p>
                </div>
             </div>
@@ -475,7 +483,7 @@
                   <p>from which is cannot be distinguished; at a fifth of the cost.</p>
                </div>
                <!--table of spoon and fork prices-->
-               <div rend="serif">
+               <div rend="serif" type="table">
                   <table rows="9" cols="6">
                      <head rend="sans"><hi rend="caps">Spoons and forks</hi>.</head>
                      <figure>
@@ -485,55 +493,46 @@
                      </figure>
                      <row>
                         <cell role="label">Table Spoons</cell>
-                        <!-- four rows of '...' -->
                         <cell cols="4" rend="placeholder">...</cell>
                         <cell>per dozen</cell>
                      </row>
                      <row>
                         <cell role="label">Table Forks</cell>
-                        <!-- four rows of '...' -->
                         <cell cols="4" rend="placeholder">...</cell>
                         <cell>"</cell>
                      </row>
                      <row>
                         <cell role="label">Dessert Spoons</cell>
-                        <!-- four rows of '...' -->
                         <cell cols="4" rend="placeholder">...</cell>
                         <cell>"</cell>
                      </row>
                      <row>
                         <cell role="label">Dessert Forks</cell>
-                        <!-- four rows of '...' -->
                         <cell cols="4" rend="placeholder">...</cell>
                         <cell>"</cell>
                      </row>
                      <row>
                         <cell role="label">Tea Spoons</cell>
-                        <!-- four rows of '...' -->
                         <cell cols="4" rend="placeholder">...</cell>
                         <cell>"</cell>
                      </row>
                      <row>
                         <cell role="label">Gravy Spoons</cell>
-                        <!-- four rows of '...' -->
                         <cell cols="4" rend="placeholder">...</cell>
                         <cell>per pair</cell>
                      </row>
                      <row>
                         <cell role="label">Sauce Ladles</cell>
-                        <!-- four rows of '...' -->
                         <cell cols="4" rend="placeholder">...</cell>
                         <cell>"</cell>
                      </row>
                      <row>
                         <cell role="label">Soup Ladles</cell>
-                        <!-- four rows of '...' -->
                         <cell cols="4" rend="placeholder">...</cell>
                         <cell>each</cell>
                      </row>
                      <row>
                         <cell role="label">Salt Spoons</cell>
-                        <!-- four rows of '...' -->
                         <cell cols="4" rend="placeholder">...</cell>
                         <cell>per pair</cell>
                      </row>
