@@ -16,7 +16,7 @@
             <editor>Rowan Herron</editor>
          </titleStmt>
          <publicationStmt>
-            <p>We plan to publish this edition of The Hound of the Baskervilles in June 2025.</p>
+            <p>We published this edition of The Hound of the Baskervilles in June 2025.</p>
          </publicationStmt>
          <sourceDesc>
             <bibl>
@@ -66,6 +66,8 @@
          <listChange>
             <change when="2025-05-11">Began creating draft TEI Header</change>
             <change when="2025-05-12">Finish draft TEI Header</change>
+            <change when="2025-05-30">Finish draft of TEI publishing method</change>
+            <change when="2025-06-02">Finish draft XML encoding</change>
          </listChange>
       </revisionDesc>
    </teiHeader>
@@ -103,28 +105,26 @@
                serialized magazine publication format we are closely recreating. </p>
          </div>
       </front>
-      <body xml:lang="en">
+      <body xml:lang="en" rend="bodyFont">
          <pb n="122"/>
          <figure place="center">
             <graphic url="../images/BaskervillePage122.png"/>
-            <p rendition="bottom" rend="caps"
-               ><!-- in places where we need to have two rendition attribtes, can we we do rendition and rend?-->
+            <p rend="caps bottom">
                The Hound of the Baskerville</p>
             <p rend="italics">(See page 128.)</p>
-            <figDesc> In the full page illustration, a man on horseback speed across a field while a
-               hound pursues closely behind. In the background stands a shepherd. The man on the
-               horse is dressed in an old-fashioned coat and hat. Both the horse and hound are dark.
+            <figDesc> In the full page illustration, a man on horseback speeds across a field while a
+               dark hound pursues closely behind. In the background stands a shepherd. The man on the
+               horse is dressed in an old-fashioned uniform, coat and hat.
                The illustration has a border around it, and the initials S P are inscribed in the
                bottom right corner. </figDesc>
-            <!-- I consider it acceptable not to include person references since the reader would not yet know to identify these people, but should be discussed-->
          </figure>
          <pb n="123"/>
-         <head><title type="magazine"><lb/>The Strand Magazine. <lb/>Vol. xxii. <date when="1901-08"
+         <head><title type="magazine" rend="titleFont"><lb/>The Strand Magazine. <lb/>Vol. xxii. <date when="1901-08"
                   >August, 1901.</date> No. 128.<lb/></title>
-            <title type="novel">The Hound of the Baskervilles.* <lb/>ANOTHER ADVENTURE
+            <title type="novel" rend="titleFont">The Hound of the Baskervilles.* <lb/>ANOTHER ADVENTURE
                OF<lb/>SHERLOCK HOLMES.</title>
-            <title type="author">By Conan
-            Doyle.</title><!-- cannot add a rend font in this author section--></head>
+            <title type="author" rend="authorFont">By Conan
+            Doyle.</title></head>
          <cb/>
          <div type="chapter" n="1" rend="title">
             <ab rend="caps">Chapter I.</ab>
@@ -158,12 +158,11 @@
                   the man by an examination of it."</s></p>
             <p><said>"I think," said I, following as far as I could<lb break="yes"/>the methods of
                   my companion, "that <persName ref="#Mortimer">Dr.<lb break="yes"
-                     />Mortimer</persName> is a successful elderly medical man, <fw
-                     type="authorsNote">
-                     <!--what should we call this? Would author's note be sufficient?-->* This story
+                     />Mortimer</persName> is a successful elderly medical man, <seg
+                     type="authorsNote">* This story
                      owes its inception to my friend, Mr. Fletcher<lb break="yes"/>Robinson, who has
                      helped me both in the general plot and in<lb break="yes"/>the local details.—A.
-                     C. D.</fw>
+                     C. D.</seg>
                   <cb/><lb break="yes"/>well-esteemed, since those who know him<lb break="yes"/>give
                   him this mark of their appreciation."</said></p>
             <p><said>"Good!"</said> said <persName ref="#Holmes">Holmes</persName>.
@@ -199,10 +198,9 @@
                which I had made to give publicity <lb break="yes"/>to his methods. I was proud too
                to think <lb break="yes"/>that I had so far mastered his system as to <lb break="yes"
                />apply it in a way which earned his approval. <lb break="yes"/>He now took the stick
-               from my hands<fw type="--------------------">Vol. xxii.-16.</fw>
-               <!-- what type would this fw be? Does this appear at anothe rpart of the text?-->
+               from my hands<seg type="volume">Vol. xxii.-16.</seg>
                <pb n="124"/><fw type="RunnningHead" rend="caps"> 124 The Strand Magazine.</fw>
-               <cb/>and examined it for a few minutes with his<lb break="yes"/>naked eyes. Then with
+               <cb/><lb break="yes"/>and examined it for a few minutes with his<lb break="yes"/>naked eyes. Then with
                an expression of<lb break="yes"/>interest he laid down his cigarette and, carry-<lb
                   break="no"/>ing the cane to the window, he looked over<lb break="yes"/>it again
                with a convex lens.</p>
@@ -211,7 +209,7 @@
                   certainly one or two<lb break="yes"/>indications upon the stick. <figure
                      place="center">
                      <graphic url="../images/BaskervillePage124.png"/>
-                     <p rendition="bottom" rend="caps">"He looked over it again with a convex
+                     <p rend="caps bottom">"He looked over it again with a convex
                         lens."</p>
                      <figDesc><persName ref="#Holmes">Sherlock Holmes</persName>, stood by a window,
                         examines a walking stick with a magnifying glass. Holmes is wearing a light
@@ -295,7 +293,7 @@
                      break="no"/>sional career."</said> From my small medical<lb break="yes"/>shelf
                I took down the Medical Directory and<lb break="yes"/>turned up the name. There were
                several <pb n="125"/><fw type="RunningHead" rend="caps">The Hound of the Baskervilles
-                  125</fw> Mortimers, but only one who could be our<lb break="yes"/>visitor. I read
+                  125</fw><cb/><lb break="yes"/>Mortimers, but only one who could be our<lb break="yes"/>visitor. I read
                his record aloud.</p>
             <p><said>"<persName ref="#Mortimer">Mortimer, James, <abbr>M.R.C.S.</abbr></persName>,
                      1882,<lb break="yes"/><placeName ref="#Grimpen">Grimpen</placeName>, <placeName
@@ -322,7 +320,7 @@
                   man in this world who<lb break="yes"/>receives testimonials, only <figure
                      place="bottom right">
                      <graphic url="../images/BaskervillePage125.png"/>
-                     <p rendition="bottom" rend="caps">"His eyes fell upon the stick in Holme's
+                     <p rend="caps bottom">"His eyes fell upon the stick in Holme's
                         hand."</p>
                      <figDesc>
                         <persName ref="#Mortimer">Mortimer</persName> is holding the door to the
@@ -355,7 +353,7 @@
             <p><said>"My dear fellow, how<lb break="yes"/>can you possibly be so<lb break="yes"
                   />sure of that?"</said></p>
             <p><said>"For the very simple<lb break="yes"/>reason that I see the dog<lb break="yes"
-                  />himself on our very door-<lb break="maybe"/>step, and there is the ring <cb/>of
+            />himself on our very door-<lb break="maybe"/>step, and there is the ring <cb/><lb break="yes"/>of
                   its owner. Don't move, I beg you, <persName ref="#Watson">Watson</persName>.<lb
                      break="yes"/>He is a professional brother of yours, and your<lb break="yes"
                   />presence may be of assistance to me. Now is<lb break="yes"/>the dramatic moment
@@ -375,8 +373,8 @@
                long back was<lb break="yes"/>already bowed, and he walked with a forward<lb
                   break="yes"/>thrust of his head and a general air of peering<lb break="yes"
                />benevolence. As he entered his eyes fell upon <pb n="126"/>
-               <fw type="RunnningHead" rend="caps">126 THE STRAND MAGAZINE</fw>
-               <cb/>the stick in <persName ref="#Holmes">Holmes</persName>'s hand, and he ran<lb
+               <fw type="RunnningHead" rend="caps">126 The Strand Magazine</fw>
+               <cb/><lb break="yes"/>the stick in <persName ref="#Holmes">Holmes</persName>'s hand, and he ran<lb
                   break="yes"/>towards it with an exclamation of joy. <said>"I am<lb break="yes"/>so
                   very glad,"</said> said he. <said>"I was not sure<lb break="yes"/>whether I had
                   left it here or in the <placeName ref="ShippingOffice">Shipping<lb break="yes"
@@ -467,8 +465,8 @@
          </div>
          <div type="chapter" n="2">
             <ab><g ref="#ChapterLine"/></ab>
-            <ab rend="caps">CHAPTER II.</ab>
-            <ab rend="caps">THE CURSE OF THE BASKERVILLES.</ab>
+            <ab rend="caps">Chapter II.</ab>
+            <ab rend="caps">The Curse of the Baskervilles.</ab>
             <p><said>"I have in my pocket a manuscript,"</said> said<lb break="yes"/><persName
                   ref="#Mortimer">Dr. James Mortimer</persName>.</p>
             <p><said>"I observed it as you entered the room,"</said><lb break="yes"/>said <persName
@@ -496,7 +494,7 @@
                   did even-<lb break="no"/>tually overtake him."</said></p>
 
             <pb n="127"/>
-            <fw type="RunnningHead" rend="caps">THE HOUND OF THE BASKERVILLES 127</fw>
+            <fw type="RunnningHead" rend="caps">The Hound of the Baskervilles 127</fw>
 
             <cb/>
             <p><persName ref="#Holmes">Holmes</persName> stretched out his hand for the<lb
@@ -511,8 +509,8 @@
                figures: "<date when="1742">1742</date>."</p>
             <figure place="center">
                <graphic url="../images/BaskervillePage127.png"/>
-               <p rendition="bottom" rend="caps"> "<persName ref="#Mortimer">DR. MORTIMER</persName>
-                  TURNED THE MANUSCRIPT TO THE LIGHT AND READ."</p>
+               <p rend="caps bottom"> "<persName ref="#Mortimer">Dr. Mortimer</persName>
+                  turned the manuscript to the light and read."</p>
                <figDesc><persName ref="#Mortimer">Mortimer</persName> and <persName ref="#Holmes"
                      >Holmes</persName> sit in chairs across from each other while Watson stands
                   nearby. Mortimer is holding and looking at a written material, and Holmes leaning
@@ -529,7 +527,7 @@
                   decided within<lb break="yes"/> twenty-four hours. But the manuscript is<lb
                      break="yes"/>short and is intimately connected with the<lb break="yes"/>affair.
                   With your permission I will read it<lb break="yes"/>to you."</said></p>
-            <p>Holmes leaned back in his chair, placed<cb/>his finger-tips together, and closed his
+            <p>Holmes leaned back in his chair, placed<cb/><lb break="yes"/>his finger-tips together, and closed his
                   eyes,<lb break="yes"/>with an air of resignation. <persName ref="#Mortimer">Dr.
                   Mortimer</persName><lb break="yes"/>turned the manuscript to the light and read<lb
                   break="yes"/>in a high, crackling voice the following<lb break="yes"/>curious,
@@ -549,9 +547,8 @@
                   />suffered so grievously may not again be loosed to our undoing.</said></p>
             <p><said>"Know then that in the time of the <ref>Great<lb break="yes"/>Rebellion</ref>
                   (the history of which by the learned<pb n="128"/>
-                  <fw type="RunnningHead" rend="caps">128 THE STRAND MAGAZINE</fw>
-                  <!-- what to do if these things are within saids and ps -->
-                  <cb/><ref>Lord Clarendon<!-- This is a real guy apparently --></ref> I most
+                  <fw type="RunnningHead" rend="caps">128 The Strand Magazine</fw>
+                  <cb/><lb break="yes"/>Lord Clarendon I most
                   earnestly commend<lb break="yes"/>to your attention) this <placeName
                      ref="#BaskervilleHall">Manor of Baskerville</placeName><lb break="yes"/>was
                   held by <persName ref="#HuBaskerville">Hugo</persName> of that name, nor can it<lb
@@ -606,7 +603,7 @@
                   put the<lb break="yes"/>hounds upon her. Whereat <persName ref="#HuBaskerville"
                      >Hugo</persName> ran from<lb break="yes"/>the house, crying to his grooms that
                      they<lb break="yes"/>should saddle his mare and unkennel the<lb break="yes"
-                  />pack, and giving the hounds a kerchief of<cb/>the maid's, he swung them to the
+                     />pack, and giving the hounds a kerchief of<cb/><lb break="yes"/>the maid's, he swung them to the
                   line, and so<lb break="yes"/>off full cry in the moonlight over <placeName
                      ref="#theMoor">the moor</placeName>.</said></p>
             <p><said>"Now, for some space the revelers stood<lb break="yes"/>agape, unable to
@@ -629,7 +626,7 @@
                   fear that he could scarce speak, but at last he said that<lb break="yes"/>he had
                   indeed seen <persName ref="#theMaiden">the unhappy maiden</persName>,<lb
                      break="yes"/>with the hounds upon her track. 'But I<lb break="yes"/>have seen
-                  more than that,'<!-- what do we do about quotes in said? --> said he, 'for<lb
+                  more than that,' said he, 'for<lb
                      break="yes"/><persName>Hugo Baskerville</persName> passed me upon his black<lb
                      break="yes"/>mare, and there ran mute behind him such a<lb break="yes"/>hound
                   of hell as God forbid should ever be<lb break="yes"/>at my heels.' So the drunken
@@ -660,8 +657,8 @@
                   where she had <pb n="129"/>
                   <figure place="top left">
                      <graphic url="../images/BaskervillePage129.png"/>
-                     <p rendition="bottom" rend="caps"> "There in the centre lay the unhappy maid
-                        where she had fallen." </p>
+                     <p rend="caps bottom"> "There in the centre lay the unhappy maid
+                        where she had fallen."</p>
                      <figDesc> A man and woman, <persName ref="#HuBaskerville">Hugo
                            Baskerville</persName> and <persName ref="#theMaiden">the
                            maiden</persName>, lay still on <placeName ref="#theMoors">a
@@ -697,12 +694,10 @@
                   is said to have plagued <lb break="yes"/>the family so sorely ever since. If I
                   have <lb break="yes"/>set it down it is because that which is clearly <lb
                      break="yes"/>known hath less terror than that which is but <lb break="yes"
-                  />hinted at and guessed. Nor can it be denied</said>
-            </p>
-            <ab>Vol. xxii,—17</ab>
+                  />hinted at and guessed. Nor can it be denied
             <cb/>
             <lb break="yes"/>
-            <p><said>that many of the family have <lb break="yes"/>been unhappy in their deaths, <lb
+               that many of the family have <lb break="yes"/>been unhappy in their deaths, <lb
                      break="yes"/>which have been sudden, <lb break="yes"/>bloody, and mysterious.
                   Yet <lb break="yes"/>may we shelter ourselves in the <lb break="yes"/>infinite
                   goodness of Providence, <lb break="yes"/>which would not for ever punish <lb
@@ -759,12 +754,12 @@
                      break="yes"/>days of <foreign rend="italics">nouveaux riches</foreign> it is
                   refreshing to <lb break="yes"/>find a case where the scion of an old county <lb
                      break="yes"/>family which has fallen upon evil days is able <lb break="yes"/>to
-                  make his own fortune and to bring it back</said></p>
+                  make his own fortune and to bring it back <seg type="volume">Vol. xxii,—17</seg>
             <pb n="130"/>
-            <fw type="RunningHead">130 THE STRAND MAGAZINE</fw>
+            <fw type="RunningHead">130 The Strand Magazine</fw>
             <cb/>
             <lb break="yes"/>
-            <p><said>with him to restore the fallen grandeur of his <lb break="yes"/>line. <persName
+               with him to restore the fallen grandeur of his <lb break="yes"/>line. <persName
                      ref="#CBaskerville">Sir Charles</persName>, as is well known, made <lb
                      break="yes"/>large sums of money in South African <lb break="yes"/>speculation.
                   More wise than those who go <lb break="yes"/>on until the wheel turns against
@@ -778,7 +773,7 @@
                      openly-<lb break="maybe"/>expressed desire that the whole <lb break="yes"
                   />countryside should, within his own <figure place="center">
                      <graphic url="../images/BaskervillePage130.png"/>
-                     <p rendition="bottom" rend="caps"> "His body was discovered." </p>
+                     <p rend="caps bottom"> "His body was discovered."</p>
                      <figDesc> A man, <persName ref="#CBaskerville">Charles Baskerville</persName>,
                         is laid on his stomach and is unresponsive to another man standing behind
                         him holding a lamp with a shocked expression. Both men are dressed in suits.
@@ -858,12 +853,12 @@
                   he appeared from thence <lb break="yes"/>onwards to have been walking upon his
                   toes. <lb break="yes"/>One <persName ref="#Murphy">Murphy</persName>, a gipsy
                   horse-dealer, was on the <lb break="yes"/>moor at no great distance at the time,
-                  but</said></p>
+                  but
             <pb n="131"/>
-            <fw type="RunningHead">THE HOUND OF THE BASKERVILLES 131</fw>
+            <fw type="RunningHead">The Hound of the Baskervilles 131</fw>
             <cb/>
             <lb break="yes"/>
-            <p><said>he appears by his own confession to have <lb break="yes"/>been the worse for
+               he appears by his own confession to have <lb break="yes"/>been the worse for
                   drink. He declares that <lb break="yes"/>he heard cries, but is unable to state
                   from <lb break="yes"/>what direction they came. No signs of <lb break="yes"
                   />violence were to be discovered upon <persName ref="#CBaskerville">Sir <lb
@@ -976,12 +971,12 @@
                      break="yes"/>most dreadful horror. I whisked round and <lb break="yes"/>had
                   just time to catch a glimpse of some-<lb break="yes"/>thing which I took to be a
                   large black calf <lb break="yes"/>passing at the head of the drive. So excited <lb
-                     break="yes"/>and alarmed was he that I was compelled to</said></p>
+                     break="yes"/>and alarmed was he that I was compelled to
             <pb n="132"/>
-            <fw type="RunningHead">132 THE STRAND MAGAZINE</fw>
+            <fw type="RunningHead">132 The Strand Magazine</fw>
             <figure place="top left">
                <graphic url="../images/BaskervillePage132.png"/>
-               <p rendition="bottom" rend="caps"> "I saw his eyes fix themselves over my shoulder." </p>
+               <p rend="caps bottom"> "I saw his eyes fix themselves over my shoulder."</p>
                <figDesc>
                   <persName ref="#Watson">Watson</persName> and <persName ref="#Mortimer"
                      >Mortimer</persName> stand at the entrance to a building, Mortimer outside near
@@ -992,7 +987,7 @@
             </figure>
             <cb/>
             <lb break="yes"/>
-            <p><said>go down to the spot where the animal had <lb break="yes"/>been and look around
+               go down to the spot where the animal had <lb break="yes"/>been and look around
                   for it. It was gone, <lb break="yes"/>however, and the incident appeared to make
                      <lb break="yes"/>the worst impression upon his mind. I <lb break="yes"/>stayed
                   with him all the evening, and it was on <lb break="yes"/>that occasion, to explain

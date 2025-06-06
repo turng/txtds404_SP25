@@ -4,24 +4,176 @@
       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
       <title>Kollege Kookery Kinks</title>
       <style>
-                    .text{
-                    front-size: 14pt;
-                    width: 600px;
+                    body{
+                    font-family: 'Georgia', serif;
+                    background-color: #fdfcf9;
+                    color: #333;
+                    line-height: 1.6;
+                    margin: 0;
+                    padding: 2em;
+                    }
+                    
+                    .text {
+                    max-width: 750px;
                     margin: auto;
+                    background-color: #ffffff;
+                    padding: 2em;
+                    box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+                    border-radius: 8px;
+                    }
+                    
+                    h1, h2 {
+                    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+                    color: #6b4d2f;
+                    border-bottom: 2px solid #ddd;
+                    padding-bottom: 0.2em;
+                    margin-top: 2em;
+                    }
+                    
+                    h3 {
+                    font-size: 1.3em;
+                    color: #4b3832;
+                    margin-top: 1.5em;
                     }
                     
                     .editorial_intro {
                     margin-bottom: 2em;
+                    padding: 1em 1.5em;
+                    background-color: #fff9f0;
+                    border-left: 5px solid #d4af7f;
                     font-style: italic;
-                    padding: 1em;
-                    background-color: #f9f9f9;
-                    border-left: 4px solid #ccc;
+                    border-radius: 4px;
                     }
                     
+                    .chapter {
+                    margin-top: 2em;
+                    }
+                    
+                    .recipe {
+                    background-color: #f9f9f9;
+                    border: 1px solid #e0e0e0;
+                    border-radius: 6px;
+                    padding: 1em 1.5em;
+                    margin-bottom: 1.5em;
+                    }
+                    
+                    ul.list {
+                    padding-left: 1.2em;
+                    }
+                    
+                    li.item {
+                    margin: 0.25em 0;
+                    }
+                    
+                    .author {
+                    text-align: right;
+                    font-style: italic;
+                    color: #666;
+                    margin-top: 0.5em;
+                    }
+                    
+                    .endnotes {
+                    margin-top: 3em;
+                    border-top: 1px solid #ccc;
+                    padding-top: 2em;
+                    }
+                    
+                    .endnotes h2 {
+                    color: #444;
+                    }
+                    
+                    .note {
+                    margin-bottom: 1em;
+                    }
+                    
+                    img {
+                    display: block;
+                    margin: 1em auto;
+                    max-width: 80px;
+                    }
+                    
+                    .header {
+                    text-align: center;
+                    margin-bottom: 2em;
+                    }
+                    
+                    .header h1 {
+                    font-size: 2em;
+                    margin: 0;
+                    color: #6b4d2f;
+                    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+                    }
+                    
+                    .header h2 {
+                    font-size: 1em;
+                    font-weight: normal;
+                    color: #555;
+                    margin-top: 0.3em;
+                    }
+                    
+                    .toc {
+                    position: fixed;
+                    top: 140px;
+                    right: 20px;
+                    width: 140px;
+                    font-size: 0.8em;
+                    background-color: #fffef9;
+                    border: 1px solid #d9c9aa;
+                    padding: 0.7em;
+                    border-radius: 6px;
+                    box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
+                    z-index: 1000;
+                    opacity: 0.9;
+                    }
+                    
+                    .toc h3 {
+                    font-size: 0.9em;
+                    margin: 0 0 0.5em 0;
+                    color: #6b4d2f;
+                    text-align: center;
+                    }
+                    
+                    .toc ul {
+                    list-style: none;
+                    padding-left: 0;
+                    margin: 0;
+                    }
+                    
+                    .toc li {
+                    margin-bottom: 0.3em;
+                    line-height: 1.2;
+                    }
+                    
+                    .toc a {
+                    text-decoration: none;
+                    color: #4b3832;
+                    display: block;
+                    }
+                    
+                    .toc a:hover {
+                    text-decoration: underline;
+                    }
+                    
+                    
+                    
+
                 </style>
    </head>
    <body>
       <div class="text">
+         <div class="header">
+            <h1>Kollege Kookery Kinks</h1>
+            <h2>Edited by Demi, Stephanie, Xinyue</h2>
+         </div>
+         <div class="toc">
+            <h3>Table of Contents</h3>
+            <ul>
+               <li><a href="#desserts">Dainty Desserts</a></li>
+               <li><a href="#cakes">Cakes</a></li>
+               <li><a href="#notes">Notes</a></li>
+            </ul>
+         </div>
+         
          
          
          <div class="editorial_intro">
@@ -62,7 +214,7 @@
          
          
          
-         <div class="chapter">
+         <div class="chapter" id="desserts">
             
             
             <h2>Dainty Desserts</h2>
@@ -96,7 +248,8 @@
                   </ul>
                
                <p>Bake in moderate oven. Serve with whipped cream.</p>
-               Gertrude Elliott
+               
+               <p class="author">Gertrude Elliott</p>
                </div>
             
             
@@ -119,8 +272,9 @@
                
                <p>Beat cream until thick. Cut marshmallows into small pieces with scissors and add
                   to cream. Add cherries and nuts and all juice of cherries. Sweeten to taste.</p>
-               Mrs. J. Allen
-               Smith.
+               
+               <p class="author">Mrs. J. Allen
+                  Smith.</p>
                </div>
             
             
@@ -132,7 +286,8 @@
                   dates, nuts and figs, and then bake them. Serve with whipped cream and a big
                   cherry on top of each. These make a most delicious dessert served with lady
                   fingers.</p>
-               Helen Spaulding.
+               
+               <p class="author">Helen Spaulding.</p>
                </div>
             
             
@@ -152,7 +307,8 @@
                
                <p>Heat syrup to boiling point; pour into beaten egg yolks and the whipped cream;
                   turn into mould and freeze. Serve with chopped brown almonds.</p>
-               Mrs. Wingate.
+               
+               <p class="author">Mrs. Wingate.</p>
                </div>
             
             
@@ -165,7 +321,8 @@
                   in a mould and pack with cracked ice and salt. Change the packing three
                   times and at the end of four hours the mousse will be frozen. Any kind of fresh
                   fruit may be substituted.</p>
-               Elizabeth Daulton.
+               
+               <p class="author">Elizabeth Daulton.</p>
                </div>
             
             
@@ -175,7 +332,8 @@
                
                <p>Slice oranges and bananas, sprinkle with cocoanut, squeeze lemon juice over it,
                   serve with whipped cream.</p>
-               Alice Smith.
+               
+               <p class="author">Alice Smith.</p>
                </div>
             
             
@@ -201,7 +359,8 @@
                   </ul>
                
                <p>Boil and put into crust.</p>
-               Ruth Pepper.
+               
+               <p class="author">Ruth Pepper.</p>
                </div>
             
             
@@ -237,7 +396,8 @@
                <p>Dissolve sugar in water and bring to a boil. Add cornstarch dissolved in a little
                   water; boil three minutes (or until clear). Remove from fire, add vanilla and nuts
                   and put in moulds until firm. Serve with whipped cream.</p>
-               Blanche Troutman
+               
+               <p class="author">Blanche Troutman</p>
                </div>
             
             
@@ -259,7 +419,8 @@
                <p>Cut marshmallows in small pieces and soak in pineapple juice for three or four
                   hours. Cut pineapple in small pieces, mix marshmallows, pineapple, nuts and dates
                   together. Serve with whipped cream.</p>
-               Lillian Everett.
+               
+               <p class="author">Lillian Everett.</p>
                </div>
             
             
@@ -335,7 +496,8 @@
                <p>Melt 2 squares chocolate and ½ cup butter. Add 2 beaten eggs, 1 cup sugar, little
                   vanilla and ½ cup flour, 1 pound of nuts. Spread as you do ginger bread and bake
                   for 30 minutes. When cool cut in squares.</p>
-               M. Southard.
+               
+               <p class="author">M. Southard.</p>
                </div>
             
             
@@ -358,7 +520,8 @@
                   off the stove. Mix in two eggs well beaten. Stir this until it is smooth. Put in
                   buttered muffin pans; about two tablespoons batter to one puff. Bake in a moderate
                   oven. Fill with whipped cream, sweetened or cream custard.</p>
-               Esther R. Palmer.
+               
+               <p class="author">Esther R. Palmer.</p>
                </div>
             
             
@@ -425,7 +588,8 @@
                   bake in oven which is only slightly warm for 1¼ hours. The baking is very
                   important. They should rise and then brown. Cut tops and fill with whipped cream
                   and sliced bananas or fruit in season.</p>
-               Roszelle Milburn.
+               
+               <p class="author">Roszelle Milburn.</p>
                </div>
             
             
@@ -484,7 +648,7 @@
          
          
          
-         <div class="chapter">
+         <div class="chapter" id="cakes">
             
             <h2>Cakes</h2>
             
@@ -520,7 +684,8 @@
                   
                   <li class="item">Spices of all kinds</li>
                   </ul>
-               Alice Smith
+               
+               <p class="author">Alice Smith</p>
                </div>
             
             
@@ -542,7 +707,8 @@
                   beat thoroughly, then stir in enough cocoanut to make the mixture very stiff. Mold
                   into balls about an inch thick. Bake on a buttered pan in a hot oven until a light
                   brown.</p>
-               Dorothy Wade
+               
+               <p class="author">Dorothy Wade</p>
                </div>
             
             
@@ -553,7 +719,8 @@
                <p>To two well beaten eggs, add 1 cup of sugar, ½ cup sifted flour. Stir well, then
                   add another ½ cup of flour with a teaspoonful of baking powder. Just before
                   putting in pan, add ½ cup of boiling water and flavor.</p>
-               Ione Holmes
+               
+               <p class="author">Ione Holmes</p>
                </div>
             
             
@@ -615,7 +782,8 @@
                   flour, and the soda dissolved in a little hot water. Fold in the whites of eggs
                   and add spices and nuts. Bake in sheets and cut in triangles. Ice with thin
                   frosting made of sugar and water.</p>
-               Mamie Cameron
+               
+               <p class="author">Mamie Cameron</p>
                </div>
             
             
@@ -641,7 +809,8 @@
                   </ul>
                
                <p>Cream the butter and sugar. Add beaten egg, mix in milk and flour slowly.</p>
-               Catherine Baxter
+               
+               <p class="author">Catherine Baxter</p>
                </div>
             
             
@@ -697,7 +866,8 @@
                
                <p>Beat eggs until very stiff. Add sugar gradually; then chocolate and nuts. Drop in
                   small teaspoonfuls on buttered paper. Bake in a moderate oven.</p>
-               Martha Davis
+               
+               <p class="author">Martha Davis</p>
                </div>
             
             
@@ -727,7 +897,8 @@
                <p>Cream butter, add sugar gradually–yolks of eggs beaten light, melt chocolate and
                   cocoa, milk and flour (sifted with baking powder alternately) —whites of eggs
                   beaten stiff and vanilla. Bake one hour in moderate oven. </p>
-               Miss E. I. Raitt
+               
+               <p class="author">Miss E. I. Raitt</p>
                </div>
             
             
@@ -870,7 +1041,8 @@
                   when well mixed stir in the juice of one lemon and whip very light, then stir in
                   alternately the stiffened whites of six eggs and four even cupfuls flour, sifted
                   twice, with a round tsp. baking powder.</p>
-               Mrs. H. Landes.
+               
+               <p class="author">Mrs. H. Landes.</p>
                </div>
             
             
@@ -896,7 +1068,8 @@
                   Add this to the beaten whites of eggs, stirring as little as possible. Put in
                   ungreased cake pan, and cook 40 minutes in a slow oven. Turn the pan upside down
                   when the cake is down, and let it remain until cold.</p>
-               Cassie Lawrence
+               
+               <p class="author">Cassie Lawrence</p>
                </div>
             
             
@@ -910,14 +1083,15 @@
                   dough while syrup is hot, beat well. Icing—1 c. sugar mixed with ½ of burned
                   sugar, 5 tbsp. Water, boil until it threads, pour over well beaten white of 1 egg
                   and whip well.</p>
-               Isabella Austin.
+               
+               <p class="author">Isabella Austin.</p>
                </div>
             </div>
          
          
          
          
-         <div class="endnotes">
+         <div class="endnotes" id="notes">
             <h2>Notes</h2>
             <ol>
                <li class="note" style="margin-bottom:1em;">The University of Washington Young Women’s Christian Association

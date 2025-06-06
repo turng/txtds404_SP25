@@ -123,12 +123,34 @@
         </a>
     </xsl:template>
     
-    <!-- <xsl:template match="tei:graphic">
+    <xsl:template match="tei:graphic">
         <img>
             <xsl:attribute name="src">
                 <xsl:value-of select="@url"/>
             </xsl:attribute>
         </img>
-    </xsl:template> -->
+    </xsl:template>
+    
+    <!-- Match the TEI table -->
+    <xsl:template match="tei:table">
+        <table border="1">
+            <xsl:apply-templates/>
+        </table>
+    </xsl:template>
+    
+    <!-- Match each row -->
+    <xsl:template match="tei:row">
+        <tr>
+            <xsl:apply-templates/>
+        </tr>
+    </xsl:template>
+    
+    <!-- Match each cell -->
+    <xsl:template match="tei:cell">
+        <td>
+            <xsl:apply-templates/>
+        </td>
+    </xsl:template>
+    
     
 </xsl:stylesheet>
