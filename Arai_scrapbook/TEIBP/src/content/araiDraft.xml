@@ -162,20 +162,24 @@
 
             <pb/>
 
-            <div type="correspondence">
-                <ab type="letterhead">
+            <div type="correspondence" xml:id="buttsLetter">
+                <opener>
+                    <seg type="letterhead">
+                        <address>
+                            <addrLine rend="caps">The Butts' Parole League</addrLine>
+                            <addrLine>Box 70, Nippon Station</addrLine>
+                            <addrLine>Seattle, Washington</addrLine>
+                        </address>
+                        <date when="1937-04-02">April 2, 1937</date>
+                    </seg>
+                
                     <address>
-                        <addrLine rend="caps">The Butts' Parole League</addrLine>
-                        <addrLine>Box 70, Nippon Station</addrLine>
-                        <addrLine>Seattle, Washington</addrLine>
+                        <addrLine><name>Clarence T. Arai</name>, Esq.,</addrLine>
+                        <addrLine>Seattle, Wn.</addrLine>
                     </address>
-                    <date when="1937-04-02">April 2, 1937</date>
-                </ab>
 
-                <p><name>Clarence T. Arai</name>, Esq.,</p>
-                <p>Seattle, Wn.</p>
-
-                <p>Sir;-</p>
+                    <salute>Sir;-</salute>
+                </opener>
 
                 <p>Permit us to offer our congratulations and best wishes toward your future as a
                     trustee of the <name ref="#spl">Seattle Public Library</name>. Mayor <name
@@ -184,39 +188,41 @@
                     represent, we know made a selection which will undoubtedly redound to his and
                     your credit.</p>
 
-                <signed>
-                    <l rend="caps">The Butts' Parole League</l>
-                    <l>by <name>Frank O. Murphy</name></l>
+                <closer>
+                    <signed rend="caps">The Butts' Parole League</signed>
+                    <signed>by <name>Frank O. Murphy</name></signed>
                     <!-- add image of signature here?-->
-                </signed>
+                </closer>
             </div>
 
             <pb/>
 
-            <div type="certificate">
-                <head rend="caps" style="text-align: center;">Registration Certificate<lb/> American
-                    Kennel Club AKC Incorporated
-                    <!-- this is the logo thingy, will encode properly later--><lb/> American Kennel
-                    Club Stud Book<lb/> American Kennel Club<lb/> New York, N.Y. </head>
+            <div type="certificate" xml:id="akcCertificate">
+                <head rend="caps" style="text-align: center;">Registration Certificate</head>
+                <head rend="caps" style="text-align: center;">American Kennel Club AKC Incorporated
+                    <!-- this is the logo thingy, will encode properly later--></head> 
+                <head rend="caps" style="text-align: center;">American Kennel Club Stud Book</head> 
+                <head rend="caps" style="text-align: center;">American Kennel Club</head> 
+                <head rend="caps" style="text-align: center;">New York, N.Y.</head>
 
-                <l><hi rend="caps">Name of Dog</hi> Duke of Main Street</l>
-                <l><hi rend="caps">Breed</hi> Cocker Spaniel <hi rend="caps">Sex</hi> Male</l>
-                <l><hi rend="caps">Sire</hi> Slicker Boy of Kitsop (934421)</l>
-                <l><hi rend="caps">Dam</hi> Paul’s Queenie (898745)</l>
-                <l><hi rend="caps">Whelped</hi> March 14, 1934</l>
-                <l><hi rend="caps">Color</hi> Red</l>
-                <l><hi rend="caps">Breeder</hi> M. Ellen Paul</l>
-                <l><hi rend="caps">Owner</hi> Clarence T. Arai</l>
-                <l><hi rend="caps">Registered</hi>
-                    <date when="1934-06-15">June 15, 1934</date></l>
-                <l><hi rend="caps">Assigned No</hi> 941308</l>
-                <l><hi rend="caps">Volume</hi> 51</l>
-                <l>August <hi rend="caps">Issue</hi></l>
+                <ab><hi rend="caps">Name of Dog</hi> Duke of Main Street</ab>
+                <ab><hi rend="caps">Breed</hi> Cocker Spaniel <hi rend="caps">Sex</hi> Male</ab>
+                <ab><hi rend="caps">Sire</hi> Slicker Boy of Kitsop (934421)</ab>
+                <ab><hi rend="caps">Dam</hi> Paul’s Queenie (898745)</ab>
+                <ab><hi rend="caps">Whelped</hi> March 14, 1934</ab>
+                <ab><hi rend="caps">Color</hi> Red</ab>
+                <ab><hi rend="caps">Breeder</hi> M. Ellen Paul</ab>
+                <ab><hi rend="caps">Owner</hi> Clarence T. Arai</ab>
+                <ab><hi rend="caps">Registered</hi>
+                    <date when="1934-06-15">June 15, 1934</date></ab>
+                <ab><hi rend="caps">Assigned No</hi> 941308</ab>
+                <ab><hi rend="caps">Volume</hi> 51</ab>
+                <ab>August <hi rend="caps">Issue</hi></ab>
 
                 <signed>
-                    <name>Perry B Rice</name>
-                    <lb/>
-                    <hi rend="caps">Secretary</hi> gm </signed>
+                    <name>Perry B Rice</name> <lb/>
+                    <hi rend="caps">Secretary</hi> gm 
+                </signed>
             </div>
 
             <pb/>
@@ -359,28 +365,34 @@
 
             <pb/>
 
-            <div type="correspondence">
-                <ab type="letterhead"><name ref="#spl" rend="caps">Seattle Public Library</name><l/>
-                    <name rend="caps">Seattle, Washington</name><l/>
-                    <name ref="#jennings">Judson T. Jennings</name>, Librarian<l/>
-                    <date when="1942-04-29">29 April 1942</date></ab>
+            <div type="correspondence" xml:id="jenningsLetter">
+                <opener>
+                    <seg type="letterhead">
+                        <name ref="#spl" rend="caps">Seattle Public Library</name><l/>
+                        <name rend="caps">Seattle, Washington</name><l/>
+                        <name ref="#jennings">Judson T. Jennings</name>, Librarian<l/>
+                        <date when="1942-04-29">29 April 1942</date>
+                    </seg>
 
-                <ab type="toAddress"><address>
-                        <addrLine>Mr Clarence T. Arai</addrLine>
-                        <addrLine>452-12th Avenue</addrLine>
-                        <addrLine>Seattle, Washington</addrLine>
-                    </address></ab>
-
-                <p>Dear Mr Arai:</p>
+                    <address>
+                         <addrLine>Mr Clarence T. Arai</addrLine>
+                         <addrLine>452-12th Avenue</addrLine>
+                         <addrLine>Seattle, Washington</addrLine>
+                    </address>
+     
+                    <salute>Dear Mr Arai:</salute>
+                </opener>
 
                 <p>Thank you kindly for the copies of “Our Times” by Mark Sullivan, and “The March
                     of Democracy by Adams, which you sent to the library yesterday.</p>
 
                 <p> Both sets are being added to the Reference department.</p>
 
-                <signed>Cordially yours<l/>
-                    <name ref="#jennings">J T Jennings</name><!-- image of signature?? --><l/>
-                    JTJ/FRP Librarian </signed>
+                <closer>
+                    <salute>Cordially yours</salute>
+                    <signed><name ref="#jennings">J T Jennings</name><lb/><!-- image of signature?? --><l/>
+                    JTJ/FRP Librarian</signed>
+                </closer>
             </div>
 
             <pb/>
@@ -614,12 +626,18 @@
 
             <pb/>
 
-            <div type="correspondence">
-                <l><date when="1942-06-02" style="text-align: right;">June 2, 1942</date></l>
+            <div type="correspondence" xml:id="quigleyLetter">
+                <opener>
+                    <dateline><date when="1942-06-02" style="text-align: right;">June 2, 1942</date></dateline>
 
-                <p>Mr. Clarence T. Arai<l/> Puyallup<l/> Washington</p>
+                    <address>
+                        <addrLine>Mr. Clarence T. Arai</addrLine> 
+                        <addrLine>Puyallup</addrLine>
+                        <addrLine>Washington</addrLine>
+                    </address>
 
-                <p>Dear Mr. Arai:</p>
+                    <salute>Dear Mr. Arai:</salute>
+                </opener>
 
                 <p>The members of the Board of the <name ref="#spl">Seattle Public Library</name>
                     wish to express to you our regret that you are unable to serve longer with them
@@ -635,33 +653,43 @@
                     distress, we know that your sound philosophy and unfailing good humour will ever
                     attend you.</p>
 
-                <signed> Sincerely yours<l/>
-                    <name ref="#spl" rend="caps">Seattle Public Library Board</name><l/>
-                    <name>Josephine M. Quigley</name><l/> President<l/>
-                    <name>Christine A. Neergaard</name><l/>
-                    (signature)<l/><!-- these are signatures i can't read--> (signature)<l/>
-                </signed>
+                <closer> 
+                    <salute>Sincerely yours</salute>
+                    <name ref="#spl" rend="caps">Seattle Public Library Board</name>
+                    <signed><name>Josephine M. Quigley</name><lb/> 
+                    President</signed>
+                    <signed><name>Christine A. Neergaard</name></signed>
+                    <signed></signed><!-- these are signatures i can't read-->
+                    <signed></signed>
+                </closer>
             </div>
 
             <pb/>
 
-            <div type="correspondence">
-                <ab type="letterhead">
-                    <address rend="caps">
-                        <addrLine><name ref="#staff_association">Seattle Public Library Staff
-                                Association</name></addrLine>
-                        <addrLine>4th Ave. <hi rend="lowercase">and</hi> Madison St.</addrLine>
-                        <addrLine>Seattle, Washington</addrLine>
-                    </address>
-                </ab>
+            <div type="correspondence" xml:id="frostLetter">
+                <opener>
+                    <seg type="letterhead">
+                        <address rend="caps">
+                            <addrLine><name ref="#staff_association">Seattle Public Library Staff
+                                    Association</name></addrLine>
+                            <addrLine>4th Ave. <hi rend="lowercase">and</hi> Madison St.</addrLine>
+                            <addrLine>Seattle, Washington</addrLine>
+                        </address>
+                    </seg>
 
-                <l style="text-align: center;"><date when="1942-05-25">25 May 1942</date></l>
-
-                <ab type="toAddress">Mr Clarence T. Arai (H/S)taff Headquarters, Camp Harmony
-                    Section 2, no. 79 Puyallup, Washington</ab>
-
-                <p>Dear Mr Arai:</p>
-
+                     <dateline style="text-align: center;"><date when="1942-05-25">25 May 1942</date></dateline>
+     
+                     <address>
+                         <addrLine>Mr Clarence T. Arai</addrLine>
+                         <addrLine>(H/S)taff Headquarters, Camp Harmony</addrLine>
+                         <!--note to self: fix corrections like above-->
+                         <addrLine>Section 2, no. 79</addrLine>
+                         <addrLine>Puyallup, Washington</addrLine>
+                     </address>
+     
+                     <salute>Dear Mr Arai:</salute>
+                 </opener>
+                
                 <p>Greetings from the Seventh Annual Banquet of the S(E/e)attle Public Library Staff
                     Association to both you and Mrs Arai.</p>
 
@@ -685,7 +713,7 @@
                     were over a hundred altogether, and was he pleased!</p>
 
                 <p>He made a little speech of appreciation and then it was Mrs. Quigley’s turn to
-                    add to the book-shelf. She presented him with a book containing a diploma saying
+                    add to the book-shelf. She presented him with a book containing a diploma saying <!--note to self: address weird thingy here?-->
                     that he had completed thirty-five years of successful service “summa cum laude”,
                     and then she presented Mr Richards, the new librarian, with a schedule book such
                     as they give Freshmen at the University, listing the courses he’d have to take
