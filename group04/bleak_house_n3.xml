@@ -1174,10 +1174,10 @@
                </p>
             </div>
             <div type="ad" xml:id="gleanings">
+               <head><hi rend="ac medFont">Gleanings, Antiquarian and Pictorial,</hi>
+                  <hi rend="medFont">on</hi><lb/> the <hi rend="sc">Overland Route</hi>,</head>
                <p> 2.<lb/> Second Edition, in super-royal 8vo, price 16s. handsomely bound in cloth
                   gilt, or 28s. Morocco elegant, <lb/>
-                  <hi rend="ac medFont">Gleanings, Antiquarian and Pictorial,</hi>
-                  <hi rend="medFont">on</hi><lb/> the <hi rend="sc">Overland Route</hi>,
                   illustrated with 28 Steel Plates and Maps, and 23 Woodcuts.<lb/> "The present work
                   is as excellent as his former productions, for its lively and picturesque
                   narrative, and for the exquisite engravings by which it is illustrated."-Athenaeum
@@ -1190,10 +1190,11 @@
                </p>
             </div>
             <div type="ad" xml:id="nileBoat">
+               <head><hi rend="ac medFont">The Nile Boat;</hi>
+                  <hi rend="medFont">or, Glimpses of the Land of Egypt.</hi></head>
                <p> 3.<lb/> Third Edition, in super-royal 8vo, price 16s. cloth gilt; 28s. morocco
                   gilt, <lb/>
-                  <hi rend="ac medFont">The Nile Boat;</hi>
-                  <hi rend="medFont">or, Glimpses of the Land of Egypt.</hi><lb/> Illustrated by
+                  <lb/> Illustrated by
                   35 Steel Engravings and Maps, with numerous Cuts.<lb/> "Of Mr.Bartlett's merit as
                   a pictorial traveler we have frequently had occasion to speak in terms of high
                   commendation. In the present work he has been eminently
@@ -1201,18 +1202,19 @@
                </p>
             </div>
             <div type="ad" xml:id="fortyDays">
-               <p> 4.<lb/> Forth Edition, in super-royal 8vo, price 12s. cloth gilt; Morocco gilt, 21s.,<lb/>
-                  <hi rend="ac medFont">Forty Days in the Desert</hi>
+               <head><hi rend="ac medFont">Forty Days in the Desert</hi>
                   <hi rend="medFont">on the Track of the</hi><lb/> Israelites; or A Journey from
-                  Cairo by Wady Feiran to Mount Sinai and Petra. With 27 Engravings on Steel, a Map
+                  Cairo by Wady Feiran to Mount Sinai and Petra.</head>
+               <p> 4.<lb/> Forth Edition, in super-royal 8vo, price 12s. cloth gilt; Morocco gilt, 21s.,<lb/>
+                  With 27 Engravings on Steel, a Map
                   and numerous Woodcuts.<lb/> "The author presents, in this volume, one of the most
                   picturesque accounts of the route across the wilderness of sand we have ever
                   read." -Morning Herald.<lb/>
                </p>
             </div>
             <div type="ad" xml:id="walksJerusalem">
+               <head><hi rend="ac medFont">Walks about Jerusalem and its Environs.</hi></head>
                <p> 5.<lb/> New Edition, in super-royal 8vo, cloth gilt, 12s.; Morocco gilt, 21s.,<lb/>
-                  <hi rend="ac medFont">Walks about Jerusalem and its Environs.</hi><lb/>
                   Illustrated by 24 Steel Engravings, 2 Maps, and many superior Woodcuts.<lb/> "The
                   volume is well got up in point of embellishments, and contains much valuable
                   matter, with illustrations beautifully executed." -Church of England
@@ -1225,10 +1227,11 @@
                </p>
             </div>
             <div type="ad" xml:id="scriptureSites">
+               <head><hi rend="medFont">from actual Survey,</hi><lb/> in Egypt, Arabia, and
+                  Palestine.</head>
                <p> 6.<lb/> Now ready, price 4s. cloth gilt, post 8vo,<lb/>
                   <hi rend="ac medFont">Scripture Sites and Scenes</hi>
-                  <hi rend="medFont">from actual Survey,</hi><lb/> in Egypt, Arabia, and
-                  Palestine. Illustrated by 17 Steel Engravings, 3 Maps, and 37 Woodcuts.<lb/>
+                  Illustrated by 17 Steel Engravings, 3 Maps, and 37 Woodcuts.<lb/>
                </p>
             </div>
             <closer>
@@ -1238,113 +1241,120 @@
          <div type="ad-group" xml:id="johnCumming">
             <pb n="64"/>
             <head><hi rend="fancyFont medFont">Works by the <ref type="note" target="#n3"
-                           ><persName><roleName>Rev</roleName>. <forename>John</forename>
+                     ><persName><roleName>Rev</roleName>. <forename>John</forename>
                         <surname>Cumming</surname>
                         <roleName>D. D.</roleName></persName></ref></hi></head>
             <lb/>
             <div type="ad" xml:id="foreshadows">
+               <head><hi rend="sc medFont">Forshadows;</hi> <hi rend="medFont">or, Lecutres on our Lord's Miracles</hi><lb/> and <hi
+                     rend="sc">parables</hi> as Earnests of the Age to Come.<lb/></head>
                <p> Fifth Thousand, in 2 vols. fcap 8vo, price 9s, cloth, full gilt,<lb/>
-                  <hi rend="sc medFont">Forshadows;</hi>
-                  <hi rend="medFont">or, Lecutres on our Lord's Miracles</hi><lb/> and <hi
-                     rend="sc">parables</hi> as Earnests of the Age to Come.<lb/>
                </p>
             </div>
             <div type="ad" xml:id="propheticStudies">
+               <head><hi rend="sc medFont">Prophetic Studies;</hi>
+                  <hi rend="medFont">or, Lectures on the Book of</hi></head>
                <p> 2.<lb/>
-                  <hi rend="sc medFont">Prophetic Studies;</hi>
-                  <hi rend="medFont">or, Lectures on the Book of</hi><lb/> Daniel. Sixth
+                  Daniel. Sixth
                   Thousand, in fcap 8vo, 9s. cloth, elegantly gilt; or 13s. Morocco.<lb/>
                </p>
             </div>
             <div type="ad" xml:id="apocalyptic">
+               <head><hi rend="sc medFont">Apocalyptic Sketches;</hi>
+                  <hi rend="medFont">or, Lecutres on the Book</hi><lb/> of Revelation.</head>
                <p> 3.<lb/>
-                  <hi rend="sc medFont">Apocalyptic Sketches;</hi>
-                  <hi rend="medFont">or, Lecutres on the Book</hi><lb/> of Revelation. Delivered
-                  at Exter Hall, and Crown Court Church. New Editions, revised and corrected, with
+                  Delivered at Exter Hall, and Crown Court Church. New Editions, revised and corrected, with
                   Two Indiees. Eleventh Thousand, in two vols. price 9s. each, cloth gilt, or 26s.
                   Morocco.<lb/>
                </p>
             </div>
             <div type="ad" xml:id="apocalypticThird">
+               <head><hi rend="sc medFont">Apocalyptic Sketches-</hi><hi rend="medFont">Third
+                     Series. Or, Lectures</hi><lb/> on the Seven Churches of Asian Minor.</head>
                <p> 4.<lb/>
-                  <hi rend="sc medFont">Apocalyptic Sketches-</hi><hi rend="medFont">Third
-                     Series. Or, Lectures</hi><lb/> on the Seven Churches of Asian Minor.
                   Illustrated by Wood Engravings, representing the present state of the Apostolic
                   Churches. Eight Thousand, uniform with the above.<lb/>
                </p>
             </div>
             <div type="ad" xml:id="isChristianity">
-               <p> 5.<lb/>
-                  <hi rend="sc medFont">"Is Christianity from God?"</hi>
+               <head><hi rend="sc medFont">"Is Christianity from God?"</hi>
                   <hi rend="medFont">a Manual of</hi><lb/> Christian Evidences for Scripture
-                  Readers, Sunday School Teachers, City Missionaries, and Young Persons. Eighth
-                  Edition, fcap 8vo, cloth, price 3s.<lb/>
+                  Readers, Sunday School Teachers, City Missionaries, and Young Persons.</head>
+               <p> 5.<lb/>
+                  EighthEdition, fcap 8vo, cloth, price 3s.<lb/>
                </p>
             </div>
             <div type="ad" xml:id="ourFather">
-               <p> 6.<lb/>
-                  <hi rend="sc medFont">Our Father;</hi>
+               <head><hi rend="sc medFont">Our Father;</hi>
                   <hi rend="medFont">a Manual of Family Prayers for General</hi><lb/> and
                   Special Occasions, with Short Prayers for Spare Minutes, and Passages for
-                  Reflection. Fifth Edition, fcap 8vo, price 3s. cloth, gilt edges.<lb/>
+                  Reflection.</head>
+               <p> 6.<lb/>
+                  Fifth Edition, fcap 8vo, price 3s. cloth, gilt edges.<lb/>
                </p>
             </div>
             <div type="ad" xml:id="communionTable">
-               <p> 7.<lb/>
-                  <hi rend="sc medFont">The Communion Table;</hi>
+               <head><hi rend="sc medFont">The Communion Table;</hi>
                   <hi rend="medFont">or, Communicant's Manual:</hi><lb/> a Plain and Practical
-                  Exposition of the Lord's Supper. New Eidtion, fcap 8vo, price 3s. cloth,<lb/>
+                  Exposition of the Lord's Supper.</head>
+               <p> 7.<lb/>
+                  New Eidtion, fcap 8vo, price 3s. cloth,<lb/>
                </p>
             </div>
             <div type="ad" xml:id="romish">
+               <head><hi rend="sc medFont">Romish Miracles:</hi>
+                  <hi rend="medFont">a Lecture delivered in the Town</hi><lb/> Hall, Birmingham,</head>
                <p> 8.<lb/>
-                  <hi rend="sc medFont">Romish Miracles:</hi>
-                  <hi rend="medFont">a Lecture delivered in the Town</hi><lb/> Hall, Birmingham,
                   Third Thousand, price 1s.<lb/>
                </p>
             </div>
             <div type="ad" xml:id="celebratedProtestant">
-               <p> 9.<lb/>
-                  <hi rend="sc medFont">The Celebrated Protestant Discussion</hi>
+               <head><hi rend="sc medFont">The Celebrated Protestant Discussion</hi>
                   <hi rend="medFont">be-</hi><lb/> tween the Rev. John Cumming, D.D. and Daniel
-                  French, Esq., held at Hammersmith, in 1839, Cheap Edition, Price 6s. cloth
+                  French, Esq.</head>
+               <p> 9.<lb/>
+                  held at Hammersmith, in 1839, Cheap Edition, Price 6s. cloth
                   lettered.<lb/>
                </p>
             </div>
             <div type="ad" xml:id="lectures">
-               <p> 10.<lb/>
-                  <hi rend="sc medFont">Lecutres for the times;</hi>
+               <head><hi rend="sc medFont">Lecutres for the times;</hi>
                   <hi rend="medFont">or Iluustrations and</hi><lb/> Refutations of the Errors of
-                  Romanism and Tractarianism. New Edition, Revised, with Additions, price 6s. in
+                  Romanism and Tractarianism.</head>
+               <p> 10.<lb/>
+                  New Edition, Revised, with Additions, price 6s. in
                   cloth.<lb/>
                </p>
             </div>
             <div type="ad" xml:id="infantSalv">
-               <p> 11.<lb/>
-                  <hi rend="sc medFont">Infant Salvation;</hi>
+               <head><hi rend="sc medFont">Infant Salvation;</hi>
                   <hi rend="medFont">or, All Saved who Die in Infancy.</hi><lb/> Specially
-                  addressed to Mothers mourning the loss of Infants and Children. Fourth Edition,
+                  addressed to Mothers mourning the loss of Infants and Children.</head>
+               <p> 11.<lb/>
+                  Fourth Edition,
                   fcap 8vo, cloth, gilt edges, price 2s.<lb/>
                </p>
             </div>
             <div type="ad" xml:id="bapFront">
-               <p> 12.<lb/>
-                  <hi rend="sc medFont">The Baptismal Font;</hi>
+               <head><hi rend="sc medFont">The Baptismal Font;</hi>
                   <hi rend="medFont">an Exposition of the Nature</hi><lb/> and Obligations of
-                  Christian Baptism. With an Appendix. Third Eddition, fcap 8vo, gilt edges, price
+                  Christian Baptism.</head>
+               <p> 12.<lb/>
+                  With an Appendix. Third Eddition, fcap 8vo, gilt edges, price
                   2s.<lb/>
                </p>
             </div>
             <div type="ad" xml:id="messageGod">
+               <head><hi rend="sc medFont">A Message from God;</hi>
+                  <hi rend="medFont">or, Thoughts on Religion for</hi><lb/> Thinking Men.</head>
                <p> 13.<lb/>
-                  <hi rend="sc medFont">A Message from God;</hi>
-                  <hi rend="medFont">or, Thoughts on Religion for</hi><lb/> Thinking Men. Fourth
+                  Fourth
                   Edition, fcap 8vo, cloth, gilt edges, 2s.<lb/>
                </p>
             </div>
             <div type="ad" xml:id="discourses">
+               <head><hi rend="sc medFont">Occasional Discourses.</hi></head>
                <p> 14.<lb/>
-                  <hi rend="sc medFont">Occasional Discourses.</hi>
                   <hi rend="medFont">Two vols., price 4s. each,</hi><lb/> cloth. Contents:-1,
                   Liberty. 2. Equality. 3. Fraternity. 4. The Revolutionists. 5. The True Charter.
                   6. The True Succession. 7. Psalm for the Day. 8. Thanksgiving. 9. Salvation. 10.
