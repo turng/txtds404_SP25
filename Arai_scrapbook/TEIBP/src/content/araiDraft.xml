@@ -191,7 +191,10 @@
                 <closer>
                     <signed rend="caps">The Butts' Parole League</signed>
                     <signed>by <name>Frank O. Murphy</name></signed>
-                    <!-- add image of signature here?-->
+                    <figure xml:id="somethinghere">
+                        <graphic url="..Frank's_signature.jpeg"/>
+                        <figDesc>something else here</figDesc>
+                    </figure>
                 </closer>
             </div>
 
@@ -827,6 +830,7 @@
                         target="#dewitt_bib"/>
                 </note>
                 <!--spl staff association 7th banquet program (is referenced in a letter i transcribed and is included in the scrapbook but i didn't transcribe it)-->
+                <!--seattle post intelligencer?-->
             </div>
             <div type="bibliography">
                 <listBibl>
