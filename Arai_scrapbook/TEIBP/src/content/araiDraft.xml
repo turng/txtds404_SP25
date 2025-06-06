@@ -397,14 +397,23 @@
 
             <pb/>
 
-            <div type="statement">
-                <ab type="letterhead" rend="caps"> Headquarters<l/> NWS &amp; 44th Infantry
-                    Division<l/> Office of Acting Provost Marshal<l/> State of Washington<l/>
-                    Seattle, Washington </ab>
+            <div type="statement" xml:id="travelPermit">
+                <opener>
+                    <seg type="letterhead" rend="caps"> 
+                        <address>
+                            <addrLine>Headquarters</addrLine> 
+                            <addrLine>NWS &amp; 44th Infantry Division</addrLine>
+                            <addrLine>Office of Acting Provost Marshal</addrLine>
+                            <addrLine>State of Washington</addrLine>
+                            <addrLine>Seattle, Washington</addrLine>
+                        </address>
+                    </seg>
 
-                <l style="text-align: right;"><date when="1942-05-02">May 2, 1942</date></l>
+                    <dateline style="text-align: right;"><date when="1942-05-02">May 2, 1942</date></dateline>
 
-                <p><hi rend="caps">To whom it may concern:</hi></p>
+                    <salute rend="caps">To whom it may concern:</salute>
+                </opener>
+                
                 <p>The applicant named, <name rend="caps">Clarence Arai</name>, an American citizen
                     of Japanese blood is hereby granted permission and authorized to travel without
                     molestation or hindrance by the most direct route from 452 12th Avenue, Seattle,
@@ -415,11 +424,19 @@
                         <hi rend="caps">Nothing follows.</hi></p>
 
                 <signed>(signature)<!--image?--><lb/>
-                    <hi rend="caps">Michael A. Rivisto</hi><lb/> Captain Infantry <lb/> Acting
-                    Provost Marshal <lb/> State of Washington <lb/>
+                    <hi rend="caps">Michael A. Rivisto</hi><lb/>
+                    Captain Infantry<lb/>
+                    Acting Provost Marshal<lb/>
+                    State of Washington<lb/>
                     <seg type="stamped" style="color: blue;">
-                        <hi rend="caps">Michael A. Rivisto</hi><lb/> Captain, Infantry<lb/> NWS. PCF </seg>
-                    <seg rend="caps" style="text-align: left;"> MM<lb/> Temporary Permit #18 </seg>
+                        <hi rend="caps">Michael A. Rivisto</hi><lb/>
+                        Captain, Infantry<lb/>
+                        NWS. PCF
+                    </seg>
+                    <seg rend="caps" style="text-align: left;">
+                        MM<lb/>
+                        Temporary Permit #18
+                    </seg>
                 </signed>
             </div>
 
@@ -694,8 +711,7 @@
                     Association to both you and Mrs Arai.</p>
 
                 <p>We were so sorry not to have you with us Friday night. We tried to make it an
-                    especially nice affair since it was to be the last one before <name
-                        ref="#jennings">Mr Jennings</name> retired. As toastmistress, I read your
+                    especially nice affair since it was to be the last one before <name ref="#jennings">Mr Jennings</name> retired. As toastmistress, I read your
                     letter and when the suggestion was made that greetings be sent to you, you
                     should have heard the applause, so you can see what a place you hold in our
                     minds and hearts.</p>
@@ -756,10 +772,14 @@
                     your picture and tells of your new work. “You can’t keep a good man down”, you
                     know.</p>
 
-                <signed> Sincerely your friend<l/>
-                    <name>Alice A. Frost</name>
-                    <!--signature-->
-                    <l/> (E/A)AF/FRP President, Seattle Public Library <l/> Staff Association </signed>
+                <closer> 
+                    <salute>Sincerely your friend</salute>
+                    <signed>
+                        <name>Alice A. Frost</name><lb/> <!--signature-->
+                        (E/A)AF/FRP       President, <name ref="#staff_association">Seattle Public Library<lb/>
+                        Staff Association</name>
+                    </signed>
+                </closer>
 
                 <postscript>
                     <label>P.S.</label>
@@ -805,8 +825,8 @@
                 <note xml:id="DeWitt"> J.L. DeWitt was a United States general officer known for
                     overseeing the incarceration of over 110,000 Japanese Americans.<ref
                         target="#dewitt_bib"/>
-                    <!--spl staff association 7th banquet program (is referenced in a letter i transcribed and is included in the scrapbook but i didn't transcribe it)-->
                 </note>
+                <!--spl staff association 7th banquet program (is referenced in a letter i transcribed and is included in the scrapbook but i didn't transcribe it)-->
             </div>
             <div type="bibliography">
                 <listBibl>
