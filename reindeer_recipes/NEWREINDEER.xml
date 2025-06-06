@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Reindeer Recipes</title>
+                <author>The Great Northern Dining Car Department</author>
+                <editor>Priyanka Kannan, Preyal Garg, Ryan Gottlieb, Zooey Whang</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>This edition was prepared for educational purposes as part of TXTDTS 404 A:
+                    Digital Textual Editing, at the University of Washington. It is a final class
+                    project and is not intended for commercial publication.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Reindeer Recipes</title>
+                    <author>Great Northern Dining Car Department</author>
+                    <publisher>Great Northern Railway Dining Car Department</publisher>
+                    <date notBefore="1889" notAfter="1970">[between 1889 and 1970]</date>
+                    <idno type="callNumber">SCPNW TX749.5.R45 1910z</idno>
+                    <extent>Approximately 6 pages</extent>
+                    <note>Held at University of Washington Special Collections Library.</note>
+                    <note>Printed booklet on cream-colored paper with a green border. The cover art
+                        depicts a reindeer with its herd on a snowy hill at sunset, an orange sun,
+                        and a few barren trees.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Introduction</head>
+                <p>This text is a Reindeer Recipe cookbook that was created by the Great Northern
+                    Dining Car Department in the early 20th century. The Great Northern Dining Car
+                    Department is a part of the Great Northern Railway company, which was an
+                    American Class I railroad that was created in the 19th century by James J. Hill,
+                    a Canadian-American rail entrepreneur. This rail ran from Saint Paul, Minnesota
+                    to Seattle, Washington, and was wildly successful for a majority of its
+                    existence. But since 1970, it has undergone mergers and acquisitions and has
+                    essentially been erased, or it’s at least not as visible as it once was.</p>
+                <p>That’s why we think this text is so important. It’s so far from common thought,
+                    why would you ever be thinking about the Great Northern Railroad’s Reindeer
+                    Recipe from a century ago? Even though it’s in our archives, even though we can
+                    access it with an appointment and a librarian, we still thought there was value
+                    in republishing it, in breathing some new life into it. We just made it go that
+                    much farther from being forgotten. Now we talk about it with our friends at
+                    dinner, how we’re working on a reindeer recipe cookbook, now we research the
+                    Great Northern Railroad, we read about the origins and progression of the entire
+                    company. It’s these little, personal things that keep texts alive, it doesn’t
+                    have to be on a widespread level.</p>
+            </div>
+            <div>
+                <head>Notes</head>
+                <list>
+                    <item><label>James J. Hill:</label> He was born in Canada on September 16, 1838
+                        and died in Minnesota on May 29, 1916. He was a rail entrepreneur
+                        responsible for the entirety of the Great Northern Railroad and he amassed a
+                        wealth of $63 million by the time he died.</item>
+                    <item><label>Reindeer:</label> Reindeer are endogenous to subarctic regions,
+                        much like some parts of North America. With this being said, the nearby
+                        areas of the rail itself would’ve been close to reindeer populations, making
+                        reindeer an extremely viable source of food, hence the entire cookbook.
+                        Reindeer meat is high in protein, healthy fats, and vitamins.</item>
+                    <item><label>Great Northern Railroad:</label> Now known as the Burlington
+                        Northern and Santa Fe Railway</item>
+                </list>
+            </div>
+            <div>
+                <head>Bibliography</head>
+                <listBibl>
+                    <bibl>“Great Northern Empire - Then and Now.” Greatnorthernempire.net, 2025,
+                        www.greatnorthernempire.net/index2.htm?GNEPreservedGNPassengerCars_Diners.htm.
+                        Accessed 19 May 2025.</bibl>
+                    <bibl>“Recipes.” Gngoat.org, 2025, www.gngoat.org/recipes.htm. Accessed 19 May
+                        2025.</bibl>
+                    <bibl>University of Washington. “Reindeer Recipes.” Exlibrisgroup.com, 2025,
+                        orbiscascade-washington.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma99162019554401452&amp;context=L&amp;vid=01ALLIANCE_UW:UW&amp;lang=en&amp;search_scope=UW_EVERYTHING&amp;adaptor=Local%20Search%20Engine&amp;tab=UW_default&amp;query=any.
+                        Accessed 19 May 2025.</bibl>
+                    <bibl>Wikipedia Contributors. “Great Northern Railway (U.S.).” Wikipedia,
+                        Wikimedia Foundation, 11 Nov. 2019,
+                        en.wikipedia.org/wiki/Great_Northern_Railway_(U.S.).</bibl>
+                </listBibl>
+            </div>
+            <div type="preface">
+                <head>Preface</head>
+                <p>
+                    <hi rend="dropcap">A</hi> NEW discovery from Alaska—nourishment—not
+                    gold—something to add to the enjoyment of life—something that with a final
+                    analysis is found more precious than gold—something to delight the inner
+                    man—Reindeer meat.</p>
+                <p>The Great Northern Dining Car Department, ever on the alert to discover new and
+                    better foods to offer its patrons, believes that Reindeer meat will be approved
+                    by all who crave something different.</p>
+                <p>The Reindeer, as now raised in Alaska, is a domesticated animal; has nothing of
+                    the wild animal taste—the meat is finer in texture than beef and decidedly more
+                    tender—this is explained by the fact that the Reindeer is a docile animal,
+                    seldom exerting itself to the extent of providing ordinary exercise—therefore he
+                    grows fat and soft. Reindeer meat has juiciness of beef with delicacy of flavor
+                    unequalled by beef or venison. Reindeer meat is a happy medium between wild game
+                    and domestic meats. </p>
+                <p>Reindeer meat is Alaska's latest and most promising contribution to its mother
+                    country, and Great Northern Dining cars are happy in their ro le of introducing
+                    it. We confidently predict a hearty reception. </p>
+                <p> Order from the menu prepared as per one or more of the recipes mentioned in this
+                    booklet. </p>
+            </div>
+            <div>
+                <head>Recipes</head>
+                <div type="recipe" xml:id="hunter-soup">
+                    <head rend="center bold">Reindeer Hunter Soup</head>
+                    <p>Cut two pounds of <rs type="ingredient">Reindeer meat</rs> in small pieces
+                        and put it into the soup pot (casserole), add two quarts of <rs
+                            type="ingredient">water</rs>. Chop one <rs type="ingredient">onion</rs>,
+                        pinch of <rs type="ingredient">mace</rs> and one <rs type="ingredient">bay
+                            leaf</rs>, add to the meat, let it simmer until the meat is tender, add
+                        one cup of <rs type="ingredient">rice</rs>, <rs type="ingredient">salt</rs>
+                        and <rs type="ingredient">pepper</rs> and let it cook until the rice is
+                        done. Pour into the tureen over <rs type="ingredient">French croutons</rs>
+                        and serve.</p>
+                </div>
+                <div type="recipe" xml:id="stew-creole">
+                    <head rend="center bold">Reindeer Stew Creole Style</head>
+                    <p>Cut the <rs type="ingredient">meat</rs> into two-inch square pieces, <rs
+                            type="ingredient">salt</rs> and <rs type="ingredient">pepper</rs> well.
+                        Chop a couple <rs type="ingredient">onions</rs> very fine, brown them in a
+                        pan in a little <rs type="ingredient">butter</rs>, then add the <rs
+                            type="ingredient">meat</rs>, let it brown slightly and add a little <rs
+                            type="ingredient">flour</rs>. Let this brown a little. Chop a piece of
+                            <rs type="ingredient">cold ham</rs> very fine, then add a few <rs
+                            type="ingredient">cloves</rs> and <rs type="ingredient">garlic</rs>, a
+                        sprig of <rs type="ingredient">thyme</rs>, a sprig of <rs type="ingredient"
+                            >parsley</rs> and a <rs type="ingredient">bay leaf</rs>, all minced
+                        fine. Pour <rs type="ingredient">soup stock</rs> or <rs type="ingredient"
+                            >water</rs> over it, let it cook for thirty minutes, add fresh <rs
+                            type="ingredient">mushrooms</rs> and cook for another twenty minutes.
+                        Serve very hot.</p>
+                </div>
+                <div type="recipe" xml:id="ragout">
+                    <head rend="center bold">Ragout of Reindeer</head>
+                    <p>Take the <rs type="ingredient">breast</rs> and the <rs type="ingredient"
+                            >neck</rs>, cut it up into neat pieces, put it into a jar, cut up some
+                            <rs type="ingredient">carrots</rs>, <rs type="ingredient">onions</rs>
+                        and <rs type="ingredient">celery</rs>, a few <rs type="ingredient">bay
+                            leaves</rs>, whole <rs type="ingredient">cloves</rs>, whole <rs
+                            type="ingredient">allspice</rs>, whole <rs type="ingredient"
+                        >pepper</rs>, put all together in <rs type="ingredient">vinegar</rs>, let it
+                        stand for two or three days, then take it out and braise it to a light brown
+                        color, sprinkle it with <rs type="ingredient">flour</rs> and some <rs
+                            type="ingredient">stock</rs>, some <rs type="ingredient">tomato
+                            juice</rs>. Let it simmer until done, season it with <rs
+                            type="ingredient">salt</rs>, <rs type="ingredient">paprika</rs>, <rs
+                            type="ingredient">pepper</rs>, <rs type="ingredient">thyme</rs>, a
+                        little chopped <rs type="ingredient">garlic</rs>, chopped <rs
+                            type="ingredient">parsley</rs>, a little <rs type="ingredient"
+                            >sugar</rs>, <rs type="ingredient">tomato catsup</rs>, <rs
+                            type="ingredient">Worcestershire sauce</rs>, finish it with a little <rs
+                            type="ingredient">sour cream</rs>.</p>
+                </div>
+                <div type="recipe" xml:id="roast-leg">
+                    <head rend="center bold">Roast Leg of Reindeer Meat</head>
+                    <p>Wipe <rs type="ingredient">meat</rs>, sprinkle with <rs type="ingredient"
+                            >salt</rs> and <rs type="ingredient">pepper</rs>, place on rack in
+                        dripping pan and dredge <rs type="ingredient">meat</rs> and bottom of pan
+                        with <rs type="ingredient">flour</rs>. Place in not too hot oven and baste
+                        as soon as <rs type="ingredient">flour</rs> in pan is brown, and every
+                        fifteen minutes thereafter, until <rs type="ingredient">meat</rs> is done,
+                        which should be cooked rare. It may be necessary to put a small quantity of
+                            <rs type="ingredient">water</rs> in pan while <rs type="ingredient"
+                            >meat</rs> is cooking.</p>
+                </div>
+                <div type="recipe" xml:id="reindeer-stew">
+                    <head rend="center bold">Reindeer Stew</head>
+                    <p>Take a piece of the <rs type="ingredient">preserved venison</rs>, place in
+                        kettle, add some of the <rs type="ingredient">spices</rs> in which the meat
+                        has been lying, also a piece of <rs type="ingredient">butter</rs>, cover
+                        well and stew until tender. When ready to serve add a generous portion of
+                            <rs type="ingredient">sweet cream</rs> thickened with <rs
+                            type="ingredient">browned flour</rs> and a little <rs type="ingredient"
+                            >sugar</rs>.</p>
+                    <p>Cuts from the flank, breast, neck or ribs are best suited for this dish. Cut
+                        meat in pieces desired, fry in <rs type="ingredient">butter</rs> and <rs
+                            type="ingredient">bacon fat</rs> to a rich golden-brown, add boiling <rs
+                            type="ingredient">water</rs> and cover. After a few minutes remove scum
+                        and add following: <rs type="ingredient">grated bread</rs> or <rs
+                            type="ingredient">flour</rs> browned in <rs type="ingredient"
+                            >butter</rs>, grated rind of a <rs type="ingredient">lemon</rs>, <rs
+                            type="ingredient">pepper</rs>, <rs type="ingredient">cloves</rs>, few
+                            <rs type="ingredient">bay leaves</rs>, liberal quantity of cubed <rs
+                            type="ingredient">onions</rs>, several <rs type="ingredient"
+                            >cucumbers</rs> cut lengthwise and <rs type="ingredient">vinegar</rs>.
+                        When nearly done add a very little <rs type="ingredient">apple jam</rs> or
+                            <rs type="ingredient">sugar</rs> to lessen sharpness of vinegar.</p>
+                    <p>The sauce in which meat is served must be of creamy consistency and generous
+                        in quantity.</p>
+                </div>
+                <div type="recipe" xml:id="chops-steaks">
+                    <head rend="center bold">Reindeer Chops or Steaks</head>
+                    <p><rs type="ingredient">Chops</rs> or <rs type="ingredient">steaks</rs> should
+                        be broiled, or fried, on a quick fire, well seasoned and served with <rs
+                            type="ingredient">jelly</rs>.</p>
+                </div>
+                <div type="recipe" xml:id="mulligan">
+                    <head rend="center bold">Reindeer Mulligan—Hunter Style</head>
+                    <note rend="italic">This recipe was furnished by an old hunter.</note>
+                    <p>Take <rs type="ingredient">neck</rs> and <rs type="ingredient">shanks</rs>
+                        and parts of <rs type="ingredient">shoulder</rs>, cut in uniform pieces
+                        about two inches square, place in large wide kettle, cover with water and
+                        let simmer about half hour, add <rs type="ingredient">rutabagas</rs>, cut in
+                        uniform pieces about two inches square, fifteen minutes later add <rs
+                            type="ingredient">carrots</rs> and <rs type="ingredient">potatoes</rs>
+                        cut the same way. Vegetables should be equal parts, and the three together
+                        the same quantity as meat, also add several large <rs type="ingredient"
+                            >onions</rs>, cut in quarters, then season with <rs type="ingredient"
+                            >salt</rs> and <rs type="ingredient">whole black peppers</rs>; place
+                        peppers in small cheese-cloth bag and a few <rs type="ingredient">bay
+                            leaves</rs>, let simmer until done. Serve with <rs type="ingredient"
+                            >dill pickles</rs> or <rs type="ingredient">sour pickles</rs>, according
+                        to taste.</p>
+                </div>
+                <div type="recipe" xml:id="broiled-steak">
+                    <head rend="center bold">Broiled Reindeer Meat Steak</head>
+                    <p>Wipe <rs type="ingredient">steak</rs>, sprinkle with <rs type="ingredient"
+                            >salt</rs> and <rs type="ingredient">pepper</rs>, place on greased
+                        boiler and broil five minutes. Remove to hot platter and pour over <rs
+                            type="ingredient">Chestnut sauce</rs> or <rs type="ingredient">Maitre d'
+                            Hotel butter</rs>.</p>
+                </div>
+                <div type="recipe" xml:id="roast-loin">
+                    <head rend="center bold">Roast Loin of Reindeer Meat</head>
+                    <p><rs type="ingredient">Meat</rs> should be well skinned, neatly larded and pan
+                        closely covered during first part of roasting, as this will help retain
+                        juices and also insure a milder flavor. Heat liberal quantity of <rs
+                            type="ingredient">cubed bacon</rs> in roasting pan, add piece of <rs
+                            type="ingredient">butter</rs>, place <rs type="ingredient">loin
+                            roast</rs> in pan, larded side up and cook, well covered, for one hour.
+                        During this time and afterwards, baste frequently and as often as necessary
+                        add half cup boiling <rs type="ingredient">water</rs>. But during last half
+                        hour of cooking use thick <rs type="ingredient">sour cream</rs> in place of
+                        water. Roast, according to size of meat, from 2–2:30 hours, without turning.
+                        Must be cooked rare. Stir up gravy with <rs type="ingredient">cold
+                            water</rs> and if not sufficiently creamy stiffen with some <rs
+                            type="ingredient">flour</rs>.</p>
+                </div>
+                <div type="recipe" xml:id="saddle">
+                    <head rend="center bold">Saddle of Reindeer—Larded</head>
+                    <p>Take the <rs type="ingredient">saddle</rs> and <rs type="ingredient"
+                            >lard</rs> it, season it with <rs type="ingredient">salt</rs> and <rs
+                            type="ingredient">pepper</rs>, <rs type="ingredient">thyme</rs>, fry it
+                        on a quick fire in a saute pan, a few <rs type="ingredient">spices</rs>, add
+                        some <rs type="ingredient">Espagnole</rs>, a little <rs type="ingredient"
+                            >jelly</rs>, <rs type="ingredient">lemon juice</rs>. Do not cook it too
+                        much—it should be medium cooked. When done finish the sauce with a little
+                        chopped <rs type="ingredient">garlic</rs>, chopped <rs type="ingredient"
+                            >parsley</rs> and a little <rs type="ingredient">cream</rs> and <rs
+                            type="ingredient">nutmeg</rs>.</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>
