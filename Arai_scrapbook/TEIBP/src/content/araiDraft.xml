@@ -242,14 +242,14 @@
                     Zones requires as a matter of military necessity the establishment of certain
                     regulations pertaining to all enemy aliens and all persons of Japanese ancestry
                     within said Military Areas and Zones thereof:</p>
-                <p>Now, <hi rend="sc">THEREFORE</hi>, I, J.L. DEWITT, Lieutenant General, U.S. Army,
-                    by virtue of the authority vested in me by the President of the United States
-                    and by the Secretary of War and my powers and prerogatives as Commanding
-                    General, Western Defense Command, do hereby declare and establish the following
-                    regulations covering the conduct to be observed by all alien Japanese, all alien
-                    Germans, all alien Italians, and all persons of Japanese ancestry residing or
-                    being within the Military Areas above described, or such portions thereof as are
-                    hereinafter mentioned: </p>
+                <p>Now, <hi rend="sc">THEREFORE</hi>, I, <ref type="#Dewitt">J.L. DEWITT</ref>,
+                    Lieutenant General, U.S. Army, by virtue of the authority vested in me by the
+                    President of the United States and by the Secretary of War and my powers and
+                    prerogatives as Commanding General, Western Defense Command, do hereby declare
+                    and establish the following regulations covering the conduct to be observed by
+                    all alien Japanese, all alien Germans, all alien Italians, and all persons of
+                    Japanese ancestry residing or being within the Military Areas above described,
+                    or such portions thereof as are hereinafter mentioned: </p>
                 <p>From and after 6:00 A.M., <date when="1942-03-27">March 27, 1942</date>, all
                     alien Japanese, all alien Germans, all alien Italians, and all persons of
                     Japanese ancestry residing or being within the geographical limits of Military
@@ -287,8 +287,12 @@
                     Saturday, <date when="1942-04-25">April 25, 1942</date>, or during the same
                     hours on Sunday, <date when="1942-04-26">April 26, 1942</date>, to the Civil
                     Control Station located at :</p>
-                <l>2100 Second Avenue,</l>
-                <l> Seattle, Washington</l>
+                <p>
+                    <address style='text-align:center'>
+                        <addrLine>2100 Second Avenue</addrLine>
+                        <addrLine>Seattle, Washington</addrLine>
+                    </address>
+                </p>
                 <p> 3. Any person subject to this order who fails to comply with any of its
                     provisions or with the provisions of published instructions pertaining herto or
                     who is found in the above area after 12 o’clock noon, P.W.T., of Friday, May 1,
