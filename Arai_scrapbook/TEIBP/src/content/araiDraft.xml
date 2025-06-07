@@ -152,8 +152,7 @@
                 <head rend="bold" style="text-align:center"><name>Clarence T. Arai</name></head>
                 <head>is·registered· in·the·archives·of·the·institution·as·a</head>
                 <head rend="bold" style="text-align:center">patron</head>
-                <p style="text-align:justify"
-                    >of·the·Smithsonian·Scientific·Series·in·recognition·of·his·aid·to·the·
+                <p style="text-align:justify">of·the·Smithsonian·Scientific·Series·in·recognition·of·his·aid·to·the·
                     Institution’s·program·for·the·diffusion·of·knowledge·among·men·
                     And·the·increase·of·its·financial·endowment·for·scientific·research</p>
                 <p style="text-align:right"
@@ -161,7 +160,7 @@
                     ·the·secretary·and·the·administration·assistant·are·affixed·hereto</p>
                 <closer>
                     <signed>
-                        <name rend="right">Secretary</name>
+                       <name rend="right">Secretary</name>
                         <!-- maybe we should add images of signatures here?-->
                         <name rend="left">Administrative Assistant</name>
                     </signed>
@@ -309,8 +308,13 @@
                     for Violation of Restrictions or Orders with Respect to Persons Entering,
                     Remaining in, Leaving, or Committing any Act in Military Areas or Zones,” and
                     alien Japanese will be subject to immediate apprehension and internment.</p>
-                <signed><ref type="#Dewitt">James L. DeWitt</ref> Lieutenant General, U.S. Army
-                    Commanding</signed>
+                
+               <closer> 
+                   <signed>
+                       <ref type="#Dewitt">James L. DeWitt</ref> 
+                      <title> Lieutenant General, U.S. Army Commanding</title>
+                   </signed>
+               </closer>
             </div>
 
             <pb/>
