@@ -88,17 +88,27 @@
             <pb n="0"/>
             <head rend="ac">Edmiston's pocket siphonia</head>
             <p><hi rend="ac">To sportsmen, tourist, &amp; travelers.</hi>
-               <graphic url="img/p0_1.png"/>
+		<figure type="image">
+                     <figDesc>Various hunting tools, including a net and a rifle, cross beneath a fox head</figDesc>
+                     <graphic url="img/p0_1.png"/>
+                  </figure>
                <hi rend="ac">Edmiston's pocket siphonia</hi>, or waterproof overcoat. weight 10
-                  oz.<graphic url="img/p0_2.png"/>Sole Manufacturer of the celebrated Pocket
+                  oz.<figure type="image">
+                     <figDesc>A man struggling in the rain with an umbrella</figDesc>
+                     <graphic url="img/p0_2.png"/>
+                  </figure>
+		    Sole Manufacturer of the celebrated Pocket
                Siphonia, remarkable for its lightness and softness of texture, adapted for
                Sportsmen, Travellers, and Tourists, easily folded to carry in the Pocket or on
                Saddle ; the most important feature in this Waterproofing is being mineralised, which
                effectually resists the powerful heat of the sun and the most violent rains, also
                obviating the stickiness and unpleasant smell peculiar to all other Waterproofs.--
                Price according to size, 40s. to 55s. ; all silk throughout, 50s. to 65s.
-               Measurement, length of coat, and size round the chest over the coat <graphic
-                  url="img/p0_3.png"/>Notice--Name &amp; address stamped inside. None others are
+               Measurement, length of coat, and size round the chest over the coat <figure type="image">
+                     <figDesc>A man in the rain</figDesc>
+		     <caption>No Umbrella Required</caption>
+                     <graphic url="img/p0_3.png"/>
+                  </figure>Notice--Name &amp; address stamped inside. None others are
                genuine. Edmiston &amp; Son, 416 &amp; 69, Strand Near the Adelphi Theatre.</p>
             <p><hi rend="ac">Opinions of the press.</hi>Waterproof--<q type="testimony">The lightest
                   and most effectual, is the Siphonia, made by Edmiston &amp; Son, of 69, Strand ;
@@ -108,11 +118,17 @@
                   and soft, and may be carried in the pocket. This is really an ingenious substitute
                   for the cumbersome great coat or the troublesome umbrella.</q>--Home News, May
                24th, 1851.</p>
-            <p><graphic url="img/p0_4.png"/>Leggings or Overall. Yacht Jackets. Fishing and Shooting
+            <p><figure  type="image">
+                     <figDesc>A single leg clothed in leggings</figDesc>
+                     <graphic url="img/p0_4.png"/>
+                  </figure>Leggings or Overall. Yacht Jackets. Fishing and Shooting
                Hats or Caps Driving Gloves. Cricketing do. Gun Covers. Gig Aprons. Sou-Westers.
                Goloshes.</p><p>Ladies' Capes, with Hoods. Do. Paletots. Air
                Cushions. Do. Pillows. Do. Beds. India Rubber Portable Folding Baths. Nursing Aprons.
-               Crib Sheets.<graphic url="img/p0_6.png"/></p>
+               Crib Sheets.<figure  type="image">
+                     <figDesc>A hat above a man's side profile. The man appears to be wearing some headware</figDesc>
+                     <graphic url="img/p0_6.png"/>
+                  </figure></p>
             <p>The newly invented Swimming Gloves, Of great propelling power. <hi rend="ac"
                   >Edmiston's life-belts none should be without.</hi>Fishing and shooting boots,
                soft and pliable, require no dressing, and every description of India Rubber and
@@ -641,7 +657,11 @@
                   >scurf</hi> and <hi rend="italics">impurity</hi> and renders it <hi
                   rend="italics">soft, silky, curly</hi>, and <hi rend="italics"
                >glossy</hi>.</p>
-            <p><graphic url="img/p10_1.png"/><hi rend="ac">Caution.</hi>- A. R. and Sons have
+            <p><figure type="image">
+                     <figDesc>A box of Rowland's Macassar Oil priced at three shillings and six pence</figDesc>
+		     <caption><hi rend="ac">A Copy in the outline of the Genuine Label</hi></caption>
+                     <graphic url="img/p10_1.png"/>
+                  </figure><hi rend="ac">Caution.</hi>- A. R. and Sons have
                complaints repeatedly from parties who have materially suffered from the use of
                spurious imitations; and to frusterate to some extent such impositions, they here
                added a small copy in outline of their genuine label from the burin of <hi rend="ac"
@@ -1523,6 +1543,7 @@
                <hi rend="ac">Origin of the Stocking-Loom</hi>, <hi rend="sc">the size of which
                   is 22in, by 16 1/2in</hi>.<lb/>
                <figure type="image" place="center">
+		  <figDesc>A man leaning against a desk while a woman holds a baby</figDesc>
                   <graphic url="img/66graphic.png"
                   />
                </figure><lb/>
@@ -1615,7 +1636,10 @@
             <pb n="68"/>
             <head><hi rend="hugeFont ac">Crochet Cotton</hi></head>
             <p>
-               <hi rend="medFont ac sansSerif">For the</hi><graphic url="img/68graphic.png"/><hi rend="medFont ac sansSerif">Million.</hi><lb/>
+               <hi rend="medFont ac sansSerif">For the</hi><figure type="image">
+		  <figDesc>A red seal in the shape of a crest featuring four lions and a ribon</figDesc>
+                  <graphic url="img/68graphic.png"/>
+		    </figure><hi rend="medFont ac sansSerif">Million.</hi><lb/>
                <hi rend="hugeFont ac">Marsland, Son, &amp; Co.</hi><lb/>
                Beg to present the annexed <hi rend="ac bold">Crochet Pattern</hi>, and solicit and recommend a trial of their <hi rend="ac sansSerif">cotton</hi>, which is superior to any other in use.<lb/>
                Their <hi rend="ac sansSerif">Crochet Cotton</hi> is made of a peculiar material, which renders it exceedingly pleasant to work with; it has a soft, yet cabled surface, is extremely free from fibre, is warranted not to wtist or curl in the working, or to shrink in the washing, and has an extraordinary silkiness of finish, which causes the pattern, when crocheted and washed, to possess a beautiful pearly appearance never before attained by an other manufacture.<lb/>
@@ -1630,7 +1654,11 @@
                <hi rend="medFont ac">Crests &amp; Centres for Doyleys</hi><hi rend="medFont">&amp;c.</hi><lb/>
                <hi rend="sc">Marsland, Son,</hi> and Co's. Crochet Thread, No. 24;<lb/>
                Penelope Crochet Hook, No. 3.  Work the ground in open, and design in close squares. <hi rend="italics">Vide "<orgName>Ladies' Newspaper</orgName>,"</hi> page 182, March 27th, 1852; Edited by <persName>Madlle. <hi rend="sc">Dufour</hi></persName><lb/>
-               <graphic url="img/69graphic.png"/><lb/>
+               <figure type="image">
+		  <figDesc>A red crhochet pattern featuring a vine border and centerpiece</figDesc>
+                  <graphic url="img/69graphic.png"/>
+		</figure>
+		<lb/>
                <hi rend="bold">Manufactory, Bridge Mills, Blackfriars, Manchester.</hi><lb/>
             </p>
          </div>
@@ -1639,7 +1667,10 @@
             <div type="ad" xml:id="autographicPress">
                <head><hi rend="medFont ac">Waterlow's</hi><lb/><hi rend="medFont ac bold">Patent Improved Autographic Press,</hi><lb/></head>
                <p>
-                  <graphic url="img/70graphic.png"/><lb/>
+		  <figure type="image">
+		  	<figDesc>The autobiographic press on an end-table</figDesc>
+                  	<graphic url="img/70graphic.png"/>
+		  </figure><lb/>
                   <hi rend="sc">Or Portable</hi><lb/>
                   <hi rend="medFont sansSerif bold">Printing Machine,</hi><lb/>
                   <hi rend="medFont ac">For the Counting-House, Office, or Library,<lb/> by means of which<lb/>
@@ -1681,14 +1712,20 @@
                         </row>
                      </table>
                   </hi><lb/>
-                  <hi rend="medFont ac bold">Patent Autographic Press for Travellers,</hi><lb/> <graphic url="img/70graphic2.png"/><lb/>
+                  <hi rend="medFont ac bold">Patent Autographic Press for Travellers,</hi><lb/> <figure type="image">
+		  	<figDesc>The autobiographic press</figDesc>
+                  	<graphic url="img/70graphic2.png"/>
+		  </figure><lb/>
                   <hi rend="ac">Which from its compact form is recommended for use on</hi><lb/>
                   <hi rend="medFont ac bold"> Voyages and Foreign Missions.</hi><lb/>
                   <hi rend="bold">To Print a Subject 11 x 9 Price complete £9 9 0.</hi><lb/>
                   <hi rend="ac">Patenters--Waterlow &amp; Sons, Manufacturing Stationers</hi>,
                   &amp;c.<lb/> 65 to 68, <hi rend="ac">London Wall, London</hi>.<lb/>
                   <hi rend="italics">For Notices of the Press, see other side.</hi><lb/>
-                  <pb n="71"/><graphic url="img/71graphic.png"/><lb/>
+                  <pb n="71"/><figure type="image">
+		  	<figDesc>A man using the autobiographic press on a table</figDesc>
+                  	<graphic url="img/71graphic.png"/>
+		  </figure><lb/>
                   <hi rend="sc">The</hi><lb/>
                   <hi rend="hugeFont bold ac">Patent Autographic Press,</hi><lb/>
                   <hi rend="sc">(Hand Power),</hi><lb/>
@@ -1851,8 +1888,20 @@
                <head><hi rend="medFont ac bold">Patent Letter Copying Presses</hi><lb/></head>
                <p>
                   <pb n="73"/>
-                  <graphic url="img/73graphic1.png"/>Lever Press.<lb/>
-                  <graphic url="img/73graphic2.png"/>Screw Press.<lb/><graphic url="img/73graphic3.png"/>First Quality Screw Press.<lb/><graphic url="img/73graphic4.png"/>Wrought Iron Beam Screw
+		  <figure type="image">
+		  	<figDesc>The Lever Press</figDesc>
+                  	<graphic url="img/73graphic1.png"/>
+		  </figure>Lever Press.<lb/>
+                  <figure type="image">
+		  	<figDesc>The Screw Press</figDesc>
+                  	<graphic url="img/73graphic2.png"/>
+		  </figure>Screw Press.<lb/><figure type="image">
+		  	<figDesc>The First Quality Screw Press Press</figDesc>
+                  	<graphic url="img/73graphic3.png"/>
+		  </figure>First Quality Screw Press.<lb/><figure type="image">
+		  	<figDesc>The Wrought Iron Beam Screw Press</figDesc>
+                  	<graphic url="img/73graphic1.png"/>
+		  </figure>Wrought Iron Beam Screw
                   Press.<lb/>These Machines, although <hi rend="italics">lower in price than those of any
                      other manufacturer</hi>, are all <hi rend="italics">warranted</hi>, and will be
                   immediately exchanged, or the money returned, if any fault is discovered.<lb/>
@@ -2023,7 +2072,10 @@
                         <hi rend="sc">Half-Gallon</hi>, packed for the Country, 6s. 6d. Per <hi
                         rend="sc">Gallon</hi>, do., do., 12s.</hi><lb/>
                   <hi rend="medFont ac bold">Portable Copying Machine for Travellers,</hi><lb/> 
-                  <graphic url="img/73graphic5.png"/><lb/>
+                  <figure type="image">
+		  	<figDesc>The First Quality Screw Press partially in its packaging</figDesc>
+                  	<graphic url="img/73graphic5.png"/>
+		  </figure><lb/>
                   Highly finished and fitted complete, £6 6 0<lb/> Do. do. Polished Steel, £7 7 0<lb/>
                   <hi rend="medFont ac sanSerif">Waterlow &amp; Sons,</hi><lb/>
                   <hi rend="medFont fancyFont">Manufacturing Stationers, Printers, Lithographers, and
@@ -2328,7 +2380,10 @@
             <head><hi rend="ac bigFont sansSerif">Heal and Son's Illustrated Catalogue of Bedsteads,</hi></head><lb/>
             <p>
                Sent free by post.<lb/>
-               <graphic url="img/75graphic.png"/><lb/>
+               <figure type="image">
+		  	<figDesc>A fancy beadstead for a twin bed including curtains, a mirror, and intricate carvings</figDesc>
+                  	<graphic url="img/75graphic.png"/>
+		  </figure><lb/>
                   <hi rend="medFont sideways right">It contains Designs and Prices of upwards of One Hundred Different Bedsteads, </hi><hi rend="medFont sideways left">In Iron, Brass, Japanned Wood, Polished Birch, Mahogany, Rosewood, and Walnut Tree Woods;</hi><lb/>
                   Also their<lb/>
                   <hi rend="ac bigFont bold">Priced List of Bedding.</hi><lb/>
