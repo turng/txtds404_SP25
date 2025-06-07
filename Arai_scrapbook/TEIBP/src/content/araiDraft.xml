@@ -134,8 +134,12 @@
                     understanding between our two countries.</p>
                 <p>Presented at Seattle, Washington this <date when="1960-05-22">22nd day of May,
                         1960</date>.</p>
-                <l>Consul-General of Japan</l>
-                <l>_______(signature)______ <name>Yoshiharu Takeno</name></l>
+                <closer style='text-align:right'>
+                    <signed>
+                        <title>Consul-General of Japan</title>
+                        <name>Yoshiharu Takeno</name>
+                    </signed>
+                </closer>
                 <!-- maybe we should add image of signature here?-->
             </div>
 
