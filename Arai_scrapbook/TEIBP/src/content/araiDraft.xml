@@ -96,7 +96,7 @@
             <div type="annotations"> </div>
         </front>
         <body>
-            <div type="certificate" style="gothic">
+            <div xml:id="arai-commendations" type="certificate"> 
                 <head rend="caps" style="text-align: center">In Appreciation</head>
                 <head rend="caps" style="text-align: center">Presented to</head>
                 <head rend="caps" style="text-align: center"><name>Mr. Clarence T. Arai
@@ -127,7 +127,7 @@
 
             <pb/>
 
-            <div type="certificate" rend="caps">
+            <div xml:id="smithsonian-recognition" type="certificate" rend="caps">
                 <head rend="bold" style="text-align:center">Smithsonian Institution</head>
                 <head style="text-align:center">Washington, D.C.</head>
                 <head style="text-align:center">This·is·to·certify·that</head>
@@ -211,7 +211,7 @@
 
             <pb/>
 
-            <div type="statement">
+            <div xml:id="public-proclamation-17" type="statement">
                 <head><hi rend="bold" style="text-align:center">Headquarters</hi></head>
                 <head rend="bold">Western Defense Command</head>
                 <head><hi rend="bold">And Fourth Army</hi></head>
@@ -248,7 +248,7 @@
 
             <pb/>
 
-            <div type="statement">
+            <div xml:id="exlusion-order-17" type="statement">
                 <head><hi rend="bold">Headquarters</hi></head>
                 <head><hi rend="bold">Western Defense Command</hi></head>
                 <head><hi rend="bold">And Fourth Army Presidio of San Francisco,
