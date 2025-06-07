@@ -142,22 +142,26 @@
             <pb/>
 
             <div type="certificate" rend="caps">
-                <head>Smithsonian Institution</head>
-                <head>Washington, D.C.</head>
-                <head>This·is·to·certify·that</head>
-                <head><name>Clarence T. Arai</name></head>
+                <head rend="bold" style="text-align:center">Smithsonian Institution</head>
+                <head style="text-align:center">Washington, D.C.</head>
+                <head style="text-align:center">This·is·to·certify·that</head>
+                <head rend="bold" style="text-align:center"><name>Clarence T. Arai</name></head>
                 <head>is·registered· in·the·archives·of·the·institution·as·a</head>
-                <head>patron</head>
-                <p>of·the·Smithsonian·Scientific·Series·in·recognition·of·his·aid·to·the·
+                <head rend="bold" style="text-align:center">patron</head>
+                <p style="text-align:justify"
+                    >of·the·Smithsonian·Scientific·Series·in·recognition·of·his·aid·to·the·
                     Institution’s·program·for·the·diffusion·of·knowledge·among·men·
                     And·the·increase·of·its·financial·endowment·for·scientific·research</p>
-                <p>in·witness·whereof·the·seal·of·the·institution·and·the·signatures·of
+                <p style="text-align:right"
+                    >in·witness·whereof·the·seal·of·the·institution·and·the·signatures·of
                     ·the·secretary·and·the·administration·assistant·are·affixed·hereto</p>
-                <signed>
-                    <l>___________(signature)_________ Secretary</l>
-                    <!-- maybe we should add images of signatures here?-->
-                    <l> __________(signature)_________ General</l>
-                </signed>
+                <closer>
+                    <signed>
+                        <name rend="right">Secretary</name>
+                        <!-- maybe we should add images of signatures here?-->
+                        <name rend="left">Administrative Assistant</name>
+                    </signed>
+                </closer>
             </div>
 
             <pb/>
@@ -265,7 +269,7 @@
                     California</hi></head>
                 <head><date when="1942-04-24">April 24th, 1942</date></head>
                 <head><hi rend="bold">Civilian Exclusion Order No.17</hi></head>
-                <p> 1. Pursuant to the provisions of Public Proclamations Nos. 1 and 2, this
+                <p>1. Pursuant to the provisions of Public Proclamations Nos. 1 and 2, this
                     Headquarters, dated <date when="1942-03-02">March 2, 1942</date>, and <date
                         when="1942-03-16">March 16, 1942</date>, respectively, it is hereby ordered
                     that from and after 12 o’clock noon, P.W.T., of Friday, <date when="1942-05-01"
@@ -288,12 +292,12 @@
                     hours on Sunday, <date when="1942-04-26">April 26, 1942</date>, to the Civil
                     Control Station located at :</p>
                 <p>
-                    <address style='text-align:center'>
+                    <address style="text-align:center">
                         <addrLine>2100 Second Avenue</addrLine>
                         <addrLine>Seattle, Washington</addrLine>
                     </address>
                 </p>
-                <p> 3. Any person subject to this order who fails to comply with any of its
+                <p>3. Any person subject to this order who fails to comply with any of its
                     provisions or with the provisions of published instructions pertaining herto or
                     who is found in the above area after 12 o’clock noon, P.W.T., of Friday, May 1,
                     1942, will be liable to the criminal penalties provided by Public Law No.503,
@@ -301,8 +305,8 @@
                     for Violation of Restrictions or Orders with Respect to Persons Entering,
                     Remaining in, Leaving, or Committing any Act in Military Areas or Zones,” and
                     alien Japanese will be subject to immediate apprehension and internment.</p>
-                <l><ref type="#Dewitt">James L. DeWitt</ref> Lieutenant General, U.S. Army
-                    Commanding</l>
+                <signed><ref type="#Dewitt">James L. DeWitt</ref> Lieutenant General, U.S. Army
+                    Commanding</signed>
             </div>
 
             <pb/>
@@ -755,6 +759,7 @@
                 </note>
                 <!--marisa: make one for minidoka-->
                 <!--maybe we should make ones for exclusion orders 67 and/or 68 too?-->
+                <note xml:id="excl.67"> </note>
                 <note xml:id="akc"> The American Kennel Club is a nonprofit registry of purebred dog
                     pedigrees. <ref target="#akc_bib"/>
                 </note>
