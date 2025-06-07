@@ -182,19 +182,21 @@
                 </opener>
 
                 <p>Permit us to offer our congratulations and best wishes toward your future as a
-                    trustee of the <name ref="#spl">Seattle Public Library</name>. Mayor <name
-                        ref="#dore">John F. Dore</name>, in choosing you, thus for the first time in
-                    the history of Seattle according recognition to the people you so ably
-                    represent, we know made a selection which will undoubtedly redound to his and
-                    your credit.</p>
+                    trustee of the <name ref="#spl">Seattle Public Library</name>.</p> 
+                    
+                <p>Mayor <name ref="#dore">John F. Dore</name>, in choosing you, thus for the first time in
+                the history of Seattle according recognition to the people you so ably
+                represent, we know made a selection which will undoubtedly redound to his and
+                your credit.</p>
 
                 <closer>
                     <signed rend="caps">The Butts' Parole League</signed>
-                    <signed>by <name>Frank O. Murphy</name></signed>
-                    <figure xml:id="somethinghere">
-                        <graphic url="../images/Frank's_signature.jpeg"/>
-                        <figDesc>something else here</figDesc>
-                    </figure>
+                    <signed>
+                        <figure xml:id="FrankOMurphySignature">
+                            <graphic url="../images/Frank's_signature.jpeg"/>
+                            <figDesc>by <name>Frank O. Murphy</name></figDesc>
+                        </figure>
+                    </signed>
                 </closer>
             </div>
 
@@ -202,8 +204,12 @@
 
             <div type="certificate" xml:id="akcCertificate">
                 <head rend="caps" style="text-align: center;">Registration Certificate</head>
-                <head rend="caps" style="text-align: center;">American Kennel Club AKC Incorporated
-                    <!-- this is the logo thingy, will encode properly later--></head> 
+                <figure xml:id="akcLogo">
+                    <graphic url="../images/akcLogo.jpeg"/>
+                    <figDesc rend="caps">American Kennel Club</figDesc>
+                    <figDesc rend="caps">AKC</figDesc>
+                    <figDesc rend="caps">Incorporated</figDesc>
+                </figure>
                 <head rend="caps" style="text-align: center;">American Kennel Club Stud Book</head> 
                 <head rend="caps" style="text-align: center;">American Kennel Club</head> 
                 <head rend="caps" style="text-align: center;">New York, N.Y.</head>
@@ -223,8 +229,12 @@
                 <ab>August <hi rend="caps">Issue</hi></ab>
 
                 <signed>
-                    <name>Perry B Rice</name> <lb/>
-                    <hi rend="caps">Secretary</hi> gm 
+                    <figure xml:id="PercyBRiceSignature">
+                        <graphic url="../images/percySignature.jpeg"/>
+                        <figDesc><name>Perry B Rice</name></figDesc>
+                        <figDesc rend="caps">Secretary</figDesc>
+                    </figure>
+                    gm 
                 </signed>
             </div>
 
@@ -393,8 +403,14 @@
 
                 <closer>
                     <salute>Cordially yours</salute>
-                    <signed><name ref="#jennings">J T Jennings</name><lb/><!-- image of signature?? --><l/>
-                    JTJ/FRP Librarian</signed>
+                    <signed>
+                        <figure xml:id="JTJenningsSignature">
+                            <graphic url="../images/jenningsSignature.jpeg"/>
+                            <figDesc><name ref="#jennings">J T Jennings</name></figDesc>
+                            <figDesc>Librarian</figDesc>
+                        </figure>
+                        JTJ/FRP
+                    </signed>
                 </closer>
             </div>
 
@@ -426,7 +442,11 @@
                         >Tuesday, May 5, 1942</date> between the hours of 11:00 A.M. and 2:00 P.M.
                         <hi rend="caps">Nothing follows.</hi></p>
 
-                <signed>(signature)<!--image?--><lb/>
+                <signed>
+                    <figure xml:id="MichaelARivistoSignature">
+                        <graphic url="../images/rivistoSignature.jpeg"/>
+                        <figDesc>Illegible signature</figDesc>
+                    </figure>
                     <hi rend="caps">Michael A. Rivisto</hi><lb/>
                     Captain Infantry<lb/>
                     Acting Provost Marshal<lb/>
