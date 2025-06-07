@@ -134,7 +134,7 @@
                     understanding between our two countries.</p>
                 <p>Presented at Seattle, Washington this <date when="1960-05-22">22nd day of May,
                         1960</date>.</p>
-                <closer style='text-align:right'>
+                <closer style="text-align:right">
                     <signed>
                         <title>Consul-General of Japan</title>
                         <name>Yoshiharu Takeno</name>
@@ -152,7 +152,8 @@
                 <head rend="bold" style="text-align:center"><name>Clarence T. Arai</name></head>
                 <head>is·registered· in·the·archives·of·the·institution·as·a</head>
                 <head rend="bold" style="text-align:center">patron</head>
-                <p style="text-align:justify">of·the·Smithsonian·Scientific·Series·in·recognition·of·his·aid·to·the·
+                <p style="text-align:justify"
+                    >of·the·Smithsonian·Scientific·Series·in·recognition·of·his·aid·to·the·
                     Institution’s·program·for·the·diffusion·of·knowledge·among·men·
                     And·the·increase·of·its·financial·endowment·for·scientific·research</p>
                 <p style="text-align:right"
@@ -160,7 +161,7 @@
                     ·the·secretary·and·the·administration·assistant·are·affixed·hereto</p>
                 <closer>
                     <signed>
-                       <name rend="right">Secretary</name>
+                        <name rend="right">Secretary</name>
                         <!-- maybe we should add images of signatures here?-->
                         <name rend="left">Administrative Assistant</name>
                     </signed>
@@ -308,69 +309,66 @@
                     for Violation of Restrictions or Orders with Respect to Persons Entering,
                     Remaining in, Leaving, or Committing any Act in Military Areas or Zones,” and
                     alien Japanese will be subject to immediate apprehension and internment.</p>
-                
-               <closer> 
-                   <signed>
-                       <ref type="#Dewitt">James L. DeWitt</ref> 
-                      <title> Lieutenant General, U.S. Army Commanding</title>
-                   </signed>
-               </closer>
+
+                <closer>
+                    <signed>
+                        <ref type="#Dewitt">James L. DeWitt</ref>
+                        <title> Lieutenant General, U.S. Army Commanding</title>
+                    </signed>
+                </closer>
             </div>
 
             <pb/>
 
-            <div xml:id="emptyStallsClipping" type="clipping" rendition="#border">
-                <head rendition="#date"><date when="1942-03-24">March 24, 1942</date>MAY 1,
-                    1942</head>
-                <head rendition="#title">EMPTY STALLS--EVACUATIONS</head>
-                <head rendition="#paper">SEATTLE TIMES</head>
-                <figure xml:id="emptyStallsImage">
+            <div xml:id="emptyStallsClipping" type="clipping">
+                <head rend="caps" type="date"><date when="1942-05-01">May 1, 1942</date></head>
+                <head type="title" style="text-align:center">>EMPTY STALLS--EVACUATIONS</head>
+                <head type="paper">SEATTLE TIMES</head>
+                <figure xml:id="emptyStallsImage" type="image">
                     <graphic url="../images/pikeplacenewTEIBP.jpg"/>
                     <figDesc>black and white vacant stalls at Pike Place Public Market</figDesc>
                 </figure>
-                <p rendition="#description">Vacant stalls like these at <placeName ref="#pike_place"
-                        >Pike Place Public Markets</placeName>, Inc., confronted shoppers at
-                    numerous Seattle markets today. The Japanese operators of many of the stalls
-                    have been evacuated. Japanese farmers who formerly took their produce to the
-                    markets to sell it also were absent. Even though they live outside the
-                    evacuation area, they are barred from the central business district by wartime
-                    restrictions on movements of Japanese.</p>
+                <p>Vacant stalls like these at <placeName ref="#pike_place">Pike Place Public
+                        Markets</placeName>, Inc., confronted shoppers at numerous Seattle markets
+                    today. The Japanese operators of many of the stalls have been evacuated.
+                    Japanese farmers who formerly took their produce to the markets to sell it also
+                    were absent. Even though they live outside the evacuation area, they are barred
+                    from the central business district by wartime restrictions on movements of
+                    Japanese.</p>
             </div>
 
             <pb/>
 
-            <div xml:id="halfOfCityClipping" type="clipping" rendition="#border">
-                <head rendition="#title">HALF OF CITY'S</head>
-                <head rendition="#title #titleIndent">JAPS HAVE GONE</head>
-                <head rendition="#center">____________</head>
-                <p rendition="#description">Seattle's central business district gave the appearance
-                    of a city without Japanese today as the last of them from Zones No. 1 and 2, or
-                    population, departed for the assembly center in Puyallup.</p>
-                <p rendition="#description"> And the <placeName ref="#pike_place">Pike Place
-                        Markets</placeName> for the first time in their years of operation, did
-                    business without their myriad of Japanese-operated stalls. </p>
-                <p rendition="#description"> It is estimated that only about half the Japanese of
-                    the city have been removed but those who have gone were from areas in which many
-                    were engaged in business and where they most often met public. </p>
-                <p rendition="#description"> Those Japanese remaining in the city are restricted to
-                    movement within the area in which they live. Beginning at noon, they and all
-                    others of the Japanese race were banned from going to the central business
-                    district, the waterfront or any place in the area to the north of the city that
-                    lies west of Eastlake Avenue and Roosevelt Way, any place west of Fifth Avenue
-                    in the central area, or any place south of Jackson Street in the southern area,
-                    except for one small locality between Jackson and Dearborn Streets. </p>
-                <p rendition="#description">This ban prevents any Japanese in the farming community
-                    surrounding the city from delivering produce to Seattle firms personally, as
-                    Produce Row and the markets cannot be reached without passing through a
-                    restricted area.</p>
-                <p rendition="#description"> The market master of the municipal market said that not
-                    a single Japanese merchant appeared this morning, although the ban did not go
-                    into effect until noon. </p>
-                <p rendition="#description"> Operators of private markets said several Japanese
-                    renters of stalls came early this morning with produce but brought Filipinos
-                    with them to tend the stalls and left before noon. </p>
-                <p rendition="#description">No date has been set for removal of the Japanese from
-                    there</p>
+            <div xml:id="halfOfCityClipping" type="clipping">
+                <head rend="caps" type="title" style="text-align:center">Half Of City's</head>
+                <head rend="caps" type="title" style="text-align:center">Japs Have Gone</head>
+                <head style="text-align:center">____________</head>
+                <p>Seattle's central business district gave the appearance of a city without
+                    Japanese today as the last of them from Zones No. 1 and 2, or population,
+                    departed for the assembly center in Puyallup.</p>
+                <p> And the <placeName ref="#pike_place">Pike Place Markets</placeName> for the
+                    first time in their years of operation, did business without their myriad of
+                    Japanese-operated stalls. </p>
+                <p> It is estimated that only about half the Japanese of the city have been removed
+                    but those who have gone were from areas in which many were engaged in business
+                    and where they most often met public. </p>
+                <p> Those Japanese remaining in the city are restricted to movement within the area
+                    in which they live. Beginning at noon, they and all others of the Japanese race
+                    were banned from going to the central business district, the waterfront or any
+                    place in the area to the north of the city that lies west of Eastlake Avenue and
+                    Roosevelt Way, any place west of Fifth Avenue in the central area, or any place
+                    south of Jackson Street in the southern area, except for one small locality
+                    between Jackson and Dearborn Streets. </p>
+                <p>This ban prevents any Japanese in the farming community surrounding the city from
+                    delivering produce to Seattle firms personally, as Produce Row and the markets
+                    cannot be reached without passing through a restricted area.</p>
+                <p> The market master of the municipal market said that not a single Japanese
+                    merchant appeared this morning, although the ban did not go into effect until
+                    noon. </p>
+                <p> Operators of private markets said several Japanese renters of stalls came early
+                    this morning with produce but brought Filipinos with them to tend the stalls and
+                    left before noon. </p>
+                <p>No date has been set for removal of the Japanese from there</p>
             </div>
 
             <pb/>
@@ -429,203 +427,194 @@
 
             <pb/>
 
-            <div xml:id="moreJapaneseGetOrdersClipping" type="clipping" rendition="#border">
-                <head rendition="#title">More Japanese Get</head>
-                <head rendition="#title #titleIndent">Evacuation Orders</head>
-                <head rendition="#center">____________</head>
-                <head rendition="#author #center">By R. B. Bermann</head>
+            <div xml:id="moreJapaneseGetOrdersClipping" type="clipping">
+                <head type="author" style="text-align:center">More Japanese Get</head>
+                <head type="title" style="text-align:center">Evacuation Orders</head>
+                <head style="text-align:center">____________</head>
+                <head type="author" style="text-align:center">By R. B. Bermann</head>
 
-                <p rendition="#description">Evacuation of all Japanese from Kitsap County, western
-                    Pierce County and the southwestern tip of King County was decreed yesterday in
-                    orders by <name ref="#DeWitt">Lieut. Gen. John L. DeWitt</name> commanding the
-                    Western Defense Command and Fourth Army.</p>
-                <p rendition="#description">One order, No. 67, takes in Tacoma, Fort Lewis, McChord
-                    Field, Steilacoom and that portion of King County west of Highway 99 and south
-                    of Des Moines. The 1,100 Japanese living in this area are to be evacuated by
-                    noon Monday.</p>
-                <p rendition="#description">OTHER AREAS</p>
-                <p rendition="#description">The other order, No. 68, takes in the Puget Sound Navy
-                    Yard at Bremerton and all the rest of Kitsap County, except Bainbridge Island
-                    which was evacuated earlier; Vashon Island in King County and the island and
-                    Olympic Peninsula sections of Pierce County. The 200 Japanese living in this
-                    area are to be evacuated by noon Saturday.</p>
-                <p rendition="#description">The destination of the Japanese affected by these orders
-                    was not announced, but the fact that they were advised they would not be
-                    permitted to use private automobiles was constructed as an indication that they
-                    will not be sent to the assembly center in Puyallup.</p>
-                <p rendition="#description">It was considered probable that they would be sent to
-                    the assembly center at Pinedale, Calif., to join evacuees from the rural
-                    districts of King and Pierce counties who have already been moved there.</p>
-                <p rendition="#description">Prospective evacuees in the area covered by Order No. 67
-                    will register between 8 a.m. and 5 p. m. today and tomorrow at a civil control
-                    station at 1715 S. Tacoma Ave., Tacoma.</p>
-                <p rendition="#description">There will be two registration points, open during the
-                    same hours on the same days, for the other area—one in the Bowers Building on
-                    MainSt., Poulsbo, and the other</p>
+                <p>Evacuation of all Japanese from Kitsap County, western Pierce County and the
+                    southwestern tip of King County was decreed yesterday in orders by <name
+                        ref="#DeWitt">Lieut. Gen. John L. DeWitt</name> commanding the Western
+                    Defense Command and Fourth Army.</p>
+                <p>One order, No. 67, takes in Tacoma, Fort Lewis, McChord Field, Steilacoom and
+                    that portion of King County west of Highway 99 and south of Des Moines. The
+                    1,100 Japanese living in this area are to be evacuated by noon Monday.</p>
+                <p>OTHER AREAS</p>
+                <p>The other order, No. 68, takes in the Puget Sound Navy Yard at Bremerton and all
+                    the rest of Kitsap County, except Bainbridge Island which was evacuated earlier;
+                    Vashon Island in King County and the island and Olympic Peninsula sections of
+                    Pierce County. The 200 Japanese living in this area are to be evacuated by noon
+                    Saturday.</p>
+                <p>The destination of the Japanese affected by these orders was not announced, but
+                    the fact that they were advised they would not be permitted to use private
+                    automobiles was constructed as an indication that they will not be sent to the
+                    assembly center in Puyallup.</p>
+                <p>It was considered probable that they would be sent to the assembly center at
+                    Pinedale, Calif., to join evacuees from the rural districts of King and Pierce
+                    counties who have already been moved there.</p>
+                <p>Prospective evacuees in the area covered by Order No. 67 will register between 8
+                    a.m. and 5 p. m. today and tomorrow at a civil control station at 1715 S. Tacoma
+                    Ave., Tacoma.</p>
+                <p>There will be two registration points, open during the same hours on the same
+                    days, for the other area—one in the Bowers Building on MainSt., Poulsbo, and the
+                    other</p>
             </div>
 
             <pb/>
 
-            <div xml:id="exclusionAreasClipping" type="clipping" rendition="#border">
-                <head rendition="#paper">SEATTLE POST-INTELLIGENCER, WEDNESDAY, MAY 18, 1942</head>
-                <head rendition="#title">NEW EXCLUSION AREAS</head>
-                <head rendition="#date">P.1 5/13/42</head>
-                <figure xml:id="firstExclusionAreaImage">
+            <div xml:id="exclusionAreasClipping" type="clipping">
+                <head rend="caps" type="paper">Seattle Post-Intelligencer, Wednesday, <date
+                        when="1942-05-18">May 18, 1942</date></head>
+                <head rend="caps" type="title">New Exclusion Areas</head>
+                <head>P.1 <date when="1942-05-13">5/13/42</date></head>
+                <figure xml:id="firstExclusionAreaImage" type="image">
                     <graphic url="../images/firstExclusionAreaTEIPB.jpg"/>
                     <figDesc>Camp Harmony Bedroom</figDesc>
                 </figure>
-                <p rendition="#description">PROHIBITED ZONE—Map of the area covered by Exclusion
-                    Order No. 67, from which Japanese will be cleared by Monday. </p>
-                <figure xml:id="secondExclusionAreaImage">
+                <p>PROHIBITED ZONE—Map of the area covered by Exclusion Order No. 67, from which
+                    Japanese will be cleared by Monday. </p>
+                <figure xml:id="secondExclusionAreaImage" type="image">
                     <graphic url="../images/secondExclusionAreaTEIBP.jpg"/>
                     <figDesc>Camp Harmony Bedroom</figDesc>
                 </figure>
-                <p rendition="#description"> UNDER BAN, TOO—The territory inside the heavy line is
-                    covered by Exclusion Order No. 68, effective on Saturday.</p>
+                <p> UNDER BAN, TOO—The territory inside the heavy line is covered by Exclusion Order
+                    No. 68, effective on Saturday.</p>
             </div>
 
             <pb/>
 
-            <div xml:id="registrationClipping" type="clipping" rendition="#border">
-                <head rendition="#date">TUESDAY</head>
-                <head rendition="#date"><date when="1942-05-12"/>P.1 5/12/42</head>
-                <head rendition="#title">REGISTRATION</head>
-                <head rendition="#title #titleIndent">OF REMAINING</head>
-                <head rendition="#title #titleIndent #titleIndent">JAPS STARTS</head>
-                <head rendition="#subTitle #center">All Left in Seattle to Get</head>
-                <head rendition="#subTitle #center">Assignments by Tonight;</head>
-                <head rendition="#subTitle #center">New County Orders Seen</head>
-                <head rendition="#center">____________</head>
-                <p rendition="#description">Registration of all Japanese remaining in Seattle
-                    started yesterday and will continue today at the newest civil control station,
-                    2203 E. Madison St.</p>
-                <p rendition="#description">Like the registrations which preceded it, everything was
-                    varied out in an orderly manner with a minimum of confusion. It is expected that
-                    1,098 Japanese remain in the last Seattle district to be evacuated, and all will
-                    be registered and get their Puyallup center assignments by 5 o’clock this
-                    evening.</p>
-                <p rendition="#description">PUYALLUP, TOO</p>
-                <p rendition="#description">At the same time, registration was proceeding in
-                    Puyallup of some 1,000 Japanese living in Eastern Pierce County. They are to be
-                    sent to an evacuation center at Pinedale, Calif., where Japanese from rural King
-                    County south of Seattle are also going.</p>
-                <p rendition="#description">Among those who registered yesterday were a number of
-                    Japanese who are married to men or women of other races.</p>
-                <p rendition="#description">Orders are expected this week to evacuate all of the
-                    remaining Japanese in King County. They still remain in rural areas north and
-                    east of Seattle, and a smaller portion of Southern King County.</p>
+            <div xml:id="registrationClipping" type="clipping">
+                <head>TUESDAY</head>
+                <head><date when="1942-05-12"/>P.1 5/12/42</head>
+                <head rend="caps" type="title" style="text-align: center;">Registration</head>
+                <head rend="caps" type="title" style="text-align: center;">Of Remaining</head>
+                <head rend="caps" type="title" style="text-align: center;">Japs Starts</head>
+                <head type="subTitle" style="text-align: center;">All Left in Seattle to Get</head>
+                <head type="subTitle" style="text-align: center;">Assignments by Tonight;</head>
+                <head type="subTitle" style="text-align: center;">New County Orders Seen</head>
+                <head style="text-align: center;">____________</head>
+                <p>Registration of all Japanese remaining in Seattle started yesterday and will
+                    continue today at the newest civil control station, 2203 E. Madison St.</p>
+                <p>Like the registrations which preceded it, everything was varied out in an orderly
+                    manner with a minimum of confusion. It is expected that 1,098 Japanese remain in
+                    the last Seattle district to be evacuated, and all will be registered and get
+                    their Puyallup center assignments by 5 o’clock this evening.</p>
+                <p rend="caps">Puyallup, too</p>
+                <p>At the same time, registration was proceeding in Puyallup of some 1,000 Japanese
+                    living in Eastern Pierce County. They are to be sent to an evacuation center at
+                    Pinedale, Calif., where Japanese from rural King County south of Seattle are
+                    also going.</p>
+                <p>Among those who registered yesterday were a number of Japanese who are married to
+                    men or women of other races.</p>
+                <p>Orders are expected this week to evacuate all of the remaining Japanese in King
+                    County. They still remain in rural areas north and east of Seattle, and a
+                    smaller portion of Southern King County.</p>
             </div>
 
             <pb/>
 
-            <div xml:id="campHarmonyJapsClipping" type="clipping" rendition="#border">
-                <head rendition="#title #center">Camp Harmony Japs</head>
-                <head rendition="#title #center">Living Up to Name</head>
-                <head rendition="#center">___________</head>
-                <head rendition="#subTitle #center">Seattle Evacuees Making Best of</head>
-                <head rendition="#subTitle #center">Site, Despite New Conditions</head>
-                <head rendition="#date">SEATTLE, <date when="1942-05-25">MAY 25, 1942</date></head>
-                <head rendition="#center">___________</head>
-                <head rendition="#author #center">By R. B. Bermann</head>
-                <head rendition="#author #center">Post-Intelligencer Staff Correspondent</head>
+            <div xml:id="campHarmonyJapsClipping" type="clipping">
+                <head type="title" style="text-align: center;">Camp Harmony Japs</head>
+                <head type="title" style="text-align: center;">Living Up to Name</head>
+                <head style="text-align: center;">___________</head>
+                <head type="subTitle" style="text-align: center;">Seattle Evacuees Making Best
+                    of</head>
+                <head type="subTitle" style="text-align: center;">Site, Despite New
+                    Conditions</head>
+                <head rend="caps">Seattle, <date when="1942-05-25">May 25, 1942</date></head>
+                <head style="text-align: center;">___________</head>
+                <head type="author" style="text-align: center;">By R. B. Bermann</head>
+                <head type="author" style="text-align: center;">Post-Intelligencer Staff
+                    Correspondent</head>
 
-                <p rendition="#description">CAMP HARMONY, Puyallup, May 24—Although some of them
-                    have been here scarcely a week, Seattle Japanese are adjusting themselves
-                    rapidly to conditions at this assembly center, and the camp is really living up
-                    to its name.</p>
-                <p rendition="#description">Life is very different from anything to which they had
-                    been accustomed, but they are making the best of things as they found them, and
-                    remarkably few complaints are heard.</p>
-                <p rendition="#description">Maybe the secret lies in the fact that they have so
-                    little idle time on their hands. If they are not just before the travel of all
-                    Japanese was restricted. </p>
-                <p rendition="#description">Her husband build a wardrobe, a linen closet, a vanity
-                    and bench and other bedroom furniture out of scrap lumber and she supplied the
-                    feminine touch with draperies that give the room a really homelike
-                    appearance.</p>
-                <p rendition="#description">A completely democratic spirit prevails in the camp,
-                    because practically everyone is on the same economic status.</p>
-                <p rendition="#description">This is because there is so little difference in scales
-                    of pay. A common laborer receives $8 a month,</p>
-                <p rendition="#description #center">__________________________________</p>
-                <figure xml:id="campHarmonyImage">
+                <p>CAMP HARMONY, Puyallup, May 24—Although some of them have been here scarcely a
+                    week, Seattle Japanese are adjusting themselves rapidly to conditions at this
+                    assembly center, and the camp is really living up to its name.</p>
+                <p>Life is very different from anything to which they had been accustomed, but they
+                    are making the best of things as they found them, and remarkably few complaints
+                    are heard.</p>
+                <p>Maybe the secret lies in the fact that they have so little idle time on their
+                    hands. If they are not just before the travel of all Japanese was restricted. </p>
+                <p>Her husband build a wardrobe, a linen closet, a vanity and bench and other
+                    bedroom furniture out of scrap lumber and she supplied the feminine touch with
+                    draperies that give the room a really homelike appearance.</p>
+                <p>A completely democratic spirit prevails in the camp, because practically everyone
+                    is on the same economic status.</p>
+                <p>This is because there is so little difference in scales of pay. A common laborer
+                    receives $8 a month,</p>
+                <p>__________________________________</p>
+                <figure xml:id="campHarmonyImage" type="image">
                     <graphic url="../images/campHarmonyBedroomTEIBP.jpg"/>
                     <figDesc>Camp Harmony Bedroom</figDesc>
                 </figure>
 
-                <p rendition="#description">COMFORT OF HOME—Mrs. Robert Hosokawa, recent Willamette
-                    coed, laying out a new apron in the cozy apartment which she and her husband
-                    have contrived to make out of their bare barracks. Her husband constructed the
-                    furniture out of scrap lumber and his drive of two months achieved the rest with
-                    a few draperies.</p>
-                <p rendition="#description #center">__________________________________</p>
+                <p>COMFORT OF HOME—Mrs. Robert Hosokawa, recent Willamette coed, laying out a new
+                    apron in the cozy apartment which she and her husband have contrived to make out
+                    of their bare barracks. Her husband constructed the furniture out of scrap
+                    lumber and his drive of two months achieved the rest with a few draperies.</p>
+                <p>__________________________________</p>
 
-                <p rendition="#description">busy on work details or administrative duties, there is
-                    always something to do around their temporary homes — because the army didn’t
-                    have time to indulge in any of the niceties of interior decoration in
-                    constructing their barracks. </p>
-                <p rendition="#description">And, as if that weren’t enough, many of them have put in
-                    tiny Victory Gardens. For instance, Clarence Arai, for years a prominent Seattle
-                    attorney, has put in radishes, beets, Chinese lettuce and onions — and his
-                    little plot is as meticulously neat as if he were a professional gardener. </p>
-                <p rendition="#description">They take pride in the amount of ingenuity they can show
-                    in making their primitive quarters look more like the homes they left behind
-                    them.</p>
-                <p rendition="#description">An outstanding example in this respect is furnished by
-                    the apartment where <name>Robert Hosokawa</name>, formerly a furniture salesman
-                    in Seattle, is spending his honeymoon. His brider, the former <name>Yoshi
-                        Yoshizawa</name>, twenty, was a junior in Willamette University when the
-                    first evacuation orders were issued. She hurried to Seattle to be married [...]
-                    a skilled laborer $12 and a professional man or woman $16. This pay, of course,
-                    is in addition to their board and lodging and medical and dental attention.</p>
-                <p rendition="#description">The dental clinic is one of the busiest centers in the
-                    camp, with as many as eighteen or twenty patients in a single morning — which
-                    isn’t excessive in view of the fact that the center has an estimated population
-                    of 7,500.</p>
-                <p rendition="#description">Six former Seattle dentists are on duty there —
-                        <name>Dr. S. Higashida</name> and his son, Robert; <name>Dr. H.
-                        Mitsumori</name>, <name>Dr. F. Kinemori</name>, <name>Dr. G. Y.
-                        Nomura</name> and <name>Dr. S. Ishihashi</name>.</p>
-                <p rendition="#description">A paper has been started, with <name>Dick
-                        Takeuchi</name>, former editor of the Great Northern Daily News, in charge.
-                    Takeuchi, who was a journalism senior at the University of Washington, has
-                    tentatively called the paper the Camp Harmony News Letter, but he isn’t
-                    satisfied and has asked his readers to suggest other names. </p>
-                <p rendition="#description"><name>Dyke Miyagawa</name>, another University of
-                    Washington senior, is his managing editor, and Taka Oka, a sophomore, is
-                    assistant managing editor. </p>
-                <p rendition="#description"><name>Keith Oka</name>, formerly employed at the
-                    Craftsmen’s Press, is art editor, and <name>Tad Kuniyuki</name>, formerly sports
-                    editor for the Japanese American Courier, has a similar job there. </p>
-                <p rendition="#description"><name>James Y. Sakamoto</name>, former publisher of the
-                    Japanese American Courier and now chief Japanese supervisor of the camp, has set
-                    up his headquarters underneath the grandstand on the fairgrounds and keeps busy
-                    from morning to night consulting with members of his staff. </p>
-                <p rendition="#description"><name>Bill Hosokawa</name>, University of Washington
-                    graduate and former editor of a newspaper in Singapore, is his chief adjutant.
-                    The headquarters staff is divided into five general sections, with <name>George
-                        Ishihara</name>, produce shipper, in charge of personnel; <name>Jack
-                        Maki</name>, associate in the Far Eastern department at the University of
-                    Washington, in charge of information; <name>Dick Setsuda</name>, beer
-                    distributor, in charge of operations; <name>Thomas Iseri</name>, Auburn produce
-                    shipper, in charge of supply, and <name>Julius Fujihara</name>, in charge of
-                    police, fire, postal and other services.</p>
-                <p rendition="#description">Leaders of the four areas into which the center is
-                    divided are <name>William Mimbu</name>, attorney; <name>Yakeo Nogaki</name> and
-                        <name>Teruji Umino</name>, both bank clerks, and <name>Hiroyuki (“Lefty”)
-                        Ichihara</name>, who had a fishing tackle store in Seattle.</p>
-                <p rendition="#description">All of these executives, incidentally, are American-born
-                    Japanese. </p>
-                <p rendition="#description">Life in the camp is by no means all work and no play. </p>
-                <p rendition="#description">Churches have supplied a piano for each of the four
-                    areas and there is plenty of community singing and choir practice.</p>
-                <p rendition="#description">There are athletic facilities for all ages, and a number
-                    of soft ball and ping pong tournaments are already in progress. </p>
-                <p rendition="#description">There are recreational rooms in each area. </p>
-                <p rendition="#description"><name>Jack Maki</name>, the former University faculty
-                    member, summed up the attitude of the evacuees when he said: </p>
-                <p rendition="#description">“We aren’t being mistreated, but, on the other hand, we
-                    aren’t being pampered — I think everybody’s doing a swell job.</p>
+                <p>busy on work details or administrative duties, there is always something to do
+                    around their temporary homes — because the army didn’t have time to indulge in
+                    any of the niceties of interior decoration in constructing their barracks. </p>
+                <p>And, as if that weren’t enough, many of them have put in tiny Victory Gardens.
+                    For instance, Clarence Arai, for years a prominent Seattle attorney, has put in
+                    radishes, beets, Chinese lettuce and onions — and his little plot is as
+                    meticulously neat as if he were a professional gardener. </p>
+                <p>They take pride in the amount of ingenuity they can show in making their
+                    primitive quarters look more like the homes they left behind them.</p>
+                <p>An outstanding example in this respect is furnished by the apartment where
+                        <name>Robert Hosokawa</name>, formerly a furniture salesman in Seattle, is
+                    spending his honeymoon. His brider, the former <name>Yoshi Yoshizawa</name>,
+                    twenty, was a junior in Willamette University when the first evacuation orders
+                    were issued. She hurried to Seattle to be married [...] a skilled laborer $12
+                    and a professional man or woman $16. This pay, of course, is in addition to
+                    their board and lodging and medical and dental attention.</p>
+                <p>The dental clinic is one of the busiest centers in the camp, with as many as
+                    eighteen or twenty patients in a single morning — which isn’t excessive in view
+                    of the fact that the center has an estimated population of 7,500.</p>
+                <p>Six former Seattle dentists are on duty there — <name>Dr. S. Higashida</name> and
+                    his son, Robert; <name>Dr. H. Mitsumori</name>, <name>Dr. F. Kinemori</name>,
+                        <name>Dr. G. Y. Nomura</name> and <name>Dr. S. Ishihashi</name>.</p>
+                <p>A paper has been started, with <name>Dick Takeuchi</name>, former editor of the
+                    Great Northern Daily News, in charge. Takeuchi, who was a journalism senior at
+                    the University of Washington, has tentatively called the paper the Camp Harmony
+                    News Letter, but he isn’t satisfied and has asked his readers to suggest other
+                    names. </p>
+                <p><name>Dyke Miyagawa</name>, another University of Washington senior, is his
+                    managing editor, and Taka Oka, a sophomore, is assistant managing editor. </p>
+                <p><name>Keith Oka</name>, formerly employed at the Craftsmen’s Press, is art
+                    editor, and <name>Tad Kuniyuki</name>, formerly sports editor for the Japanese
+                    American Courier, has a similar job there. </p>
+                <p><name>James Y. Sakamoto</name>, former publisher of the Japanese American Courier
+                    and now chief Japanese supervisor of the camp, has set up his headquarters
+                    underneath the grandstand on the fairgrounds and keeps busy from morning to
+                    night consulting with members of his staff. </p>
+                <p><name>Bill Hosokawa</name>, University of Washington graduate and former editor
+                    of a newspaper in Singapore, is his chief adjutant. The headquarters staff is
+                    divided into five general sections, with <name>George Ishihara</name>, produce
+                    shipper, in charge of personnel; <name>Jack Maki</name>, associate in the Far
+                    Eastern department at the University of Washington, in charge of information;
+                        <name>Dick Setsuda</name>, beer distributor, in charge of operations;
+                        <name>Thomas Iseri</name>, Auburn produce shipper, in charge of supply, and
+                        <name>Julius Fujihara</name>, in charge of police, fire, postal and other
+                    services.</p>
+                <p>Leaders of the four areas into which the center is divided are <name>William
+                        Mimbu</name>, attorney; <name>Yakeo Nogaki</name> and <name>Teruji
+                        Umino</name>, both bank clerks, and <name>Hiroyuki (“Lefty”)
+                    Ichihara</name>, who had a fishing tackle store in Seattle.</p>
+                <p>All of these executives, incidentally, are American-born Japanese. </p>
+                <p>Life in the camp is by no means all work and no play. </p>
+                <p>Churches have supplied a piano for each of the four areas and there is plenty of
+                    community singing and choir practice.</p>
+                <p>There are athletic facilities for all ages, and a number of soft ball and ping
+                    pong tournaments are already in progress. </p>
+                <p>There are recreational rooms in each area. </p>
+                <p><name>Jack Maki</name>, the former University faculty member, summed up the
+                    attitude of the evacuees when he said: </p>
+                <p>“We aren’t being mistreated, but, on the other hand, we aren’t being pampered — I
+                    think everybody’s doing a swell job.</p>
             </div>
 
             <pb/>
