@@ -272,7 +272,8 @@
                 <head><hi rend="bold">And Fourth Army Presidio of San Francisco,
                     California</hi></head>
                 <head><date when="1942-04-24">April 24th, 1942</date></head>
-                <head><hi rend="bold">Civilian Exclusion Order No.17</hi></head>
+                <head><hi rend="bold">Civilian <ref type="general_exclusion_order">Exclusion Order
+                            No.17</ref></hi></head>
                 <p>1. Pursuant to the provisions of Public Proclamations Nos. 1 and 2, this
                     Headquarters, dated <date when="1942-03-02">March 2, 1942</date>, and <date
                         when="1942-03-16">March 16, 1942</date>, respectively, it is hereby ordered
@@ -472,14 +473,16 @@
                     <graphic url="../images/firstExclusionAreaTEIPB.jpg"/>
                     <figDesc>Camp Harmony Bedroom</figDesc>
                 </figure>
-                <p>PROHIBITED ZONE—Map of the area covered by Exclusion Order No. 67, from which
-                    Japanese will be cleared by Monday. </p>
+                <p>PROHIBITED ZONE—Map of the area covered by <ref type="general_exclusion_order"
+                        >Exclusion Order No. 67</ref>, from which Japanese will be cleared by
+                    Monday. </p>
                 <figure xml:id="secondExclusionAreaImage" type="image">
                     <graphic url="../images/secondExclusionAreaTEIBP.jpg"/>
                     <figDesc>Camp Harmony Bedroom</figDesc>
                 </figure>
-                <p> UNDER BAN, TOO—The territory inside the heavy line is covered by Exclusion Order
-                    No. 68, effective on Saturday.</p>
+                <p> UNDER BAN, TOO—The territory inside the heavy line is covered by <ref
+                        type="general_exclusion_order">Exclusion Order No. 68</ref>, effective on
+                    Saturday.</p>
             </div>
 
             <pb/>
@@ -754,9 +757,9 @@
                     serve incarcerated Japanese American patrons, sending almost 7,000 books to Camp
                         Minidoka.<ref target="#spl_historylink_bib"/>
                 </note>
-                <!--marisa: make one for minidoka-->
-                <!--maybe we should make ones for exclusion orders 67 and/or 68 too?-->
-                <note xml:id="excl.67"> </note>
+                <note xml:id="general_exclusion_order"> During World War II, anti-Japanese sentiment
+                    in Washington state intensified as President Roosevelt authorized military
+                    commanders to designate exclusion zones. <ref target="#exclusion_order"/></note>
                 <note xml:id="akc"> The American Kennel Club is a nonprofit registry of purebred dog
                     pedigrees. <ref target="#akc_bib"/>
                 </note>
@@ -829,6 +832,14 @@
                         <date>04/03/2024</date>
                         <ref target="https://www.nps.gov/people/john-lesesne-dewitt.htm">John
                             Lesesne DeWitt</ref>
+                    </bibl>
+                    <bibl xml:id="exclusion_order_bib" type="webpage">
+                        <title level="a">World War II Internment of Japanese Americans in
+                            Washington</title>
+                        <publisher>History Link.org</publisher>
+                        <date>05/20/2024</date>
+                        <ref target="https://www.historylink.org/File/22995">World War II Internment
+                            of Japanese Americans in Washington</ref>
                     </bibl>
                 </listBibl>
             </div>
