@@ -8,7 +8,8 @@
          <titleStmt>
             <title>Various Ways of Cooking Apples</title>
             <author>Georgiana Hill</author>
-            <editor>Ainsley Lin, Isabelle Bowman</editor>
+            <editor>Ainsley Lin</editor>
+            <editor>Isabelle Bowman</editor>
          </titleStmt>
          <publicationStmt>
             <p>Our goal for our text edition is that it will be an edition incredibly similar to the
@@ -50,23 +51,23 @@
    <text>
       <front>
          <titlePage>
-            <titlePart>...</titlePart>
+            <titlePart>How to Cooke Potatoes, Apples, Eggs, Fish, Four Hundred Different Ways: Various Ways of Cooking Apples</titlePart>
          </titlePage>
          <div type="editorial_intro">
             <p>We chose to transcribe “How to Cook Potatoes, Apples, Eggs, Fish, Four Hundred
                Different Ways” by Georgiana Hill, because we were interested in the history and how
                women used to use cookbooks as a form of expression. <ref type="bibliography"
-                  target="rich1">Georgiana Hill was a Victorian-era cookery writer, historian, and
+                  target="#rich1">Georgiana Hill was a Victorian-era cookery writer, historian, and
                   suffragist.</ref> While Georgiana Hill’s life story is not known extensively, her
                impact is illustrated in at least 21 known works, often about cooking, historical
                dress, and the life of women in Victorian England. Not only was Hill known for
                connecting women via her writing, but she also altered the role of women as writers.
-                  <ref type="bibliography" target="rich2">Her writing painted herself as a
+                  <ref type="bibliography" target="#rich2">Her writing painted herself as a
                   gastronomer, often a role held only by men, when women were expected to only see
                   cooking as a form of kitchen management.</ref>For the book we are working on, the
                casual composition of the text and recipes illustrated how Georgiana Hill wrote this
                cookbook to reach out to other women and build a sense of community through the
-               knowledge of cooking. </p>
+               knowledge of cooking.</p>
             <p>Considering the historical context, we decided to leave the text as untouched as
                possible. Changing historical spelling would change the sense of time of the text,
                and altering the casual form of the recipes would hide what we perceive as Hill’s
@@ -94,7 +95,7 @@
             <p>The Evil One, who first offered apples to our universal mother, exemplified his
                serpent-like sapience by tempting her to try them off the tree: this, notwithstanding
                the enthusiasm we entertain for the culinary art, is unquestionably the <note
-                  place="foot" n="1" rend="italic">ne plus ultra</note> of epicurism in
+                 n="1" rend="italic">ne plus ultra</note> of epicurism in
                apple-eating. </p>
             <p>The learned tell us that apples, by keeping, become mellow; that time turns their
                natural acids into sugar; but there is a season for the perfection of apples, as for
@@ -134,7 +135,7 @@
          </div>
          <div type="recipe" n="117">
             <head type="rcp" rend="smallcaps">117. Apple Ginger.</head>
-            <p>Take three pounds of <note place="foot" n="2">Spitzenbergen</note> apples, cut them
+            <p>Take three pounds of <note n="2">Spitzenbergen</note> apples, cut them
                into small pieces, put them into a dish, and pour boiling water upon them, then cover
                them up; clarify weight for weight of white sugar, and boil it to almost a candy
                height, throw in the apples, draining them from the water, and, without boiling, put
@@ -177,7 +178,7 @@
          <div type="recipe" n="121">
             <head type="rcp" rend="smallcaps">121. Pippin Tarts.</head>
             <p>Take three large oranges, peel them very thin, boil the peel until it becomes soft,
-               then take it up and chop it small; pare and core four dozen <note place="foot" n="3"
+               then take it up and chop it small; pare and core four dozen <note n="3"
                   >golden pippins</note>, boil them with only enough water to cover them; when
                nearly done, add a pound and a half of brown sugar, the shred orange peel, and the
                juice of the oranges; boil it all together until smooth, and let it get cold; line
@@ -251,7 +252,7 @@
          <div type="recipe" n="129">
             <head type="rcp" rend="smallcaps">129. Gélatine De Pommes.</head>
             <p>In a pint of water boil one pound and a half of white sugar until it is reduced to a
-               very thick syrup; then add two pounds of <note place="foot" n="4">Newtown
+               very thick syrup; then add two pounds of <note n="4">Newtown
                   pippins</note>, pared, cored, and cut into slices; squeeze in the juice of three
                lemons, and simmer gently until it is almost a paste; then pour it into a mould and,
                when cold, it will turn out a solid jelly. Serve it surrounded with scaled cream in a
@@ -292,7 +293,7 @@
          </div>
          <div type="recipe" n="134">
             <head type="rcp" rend="smallcaps">134. Preserved Apples.</head>
-            <p>Cut up a quantity of <note place="foot" n="5">lemon pippins</note>, take the parings
+            <p>Cut up a quantity of <note n="5">lemon pippins</note>, take the parings
                and the cores and boil them, by themselves, for an hour; strain the water from them
                and add it to the sliced fruit, put it into an enamelled saucepan upon a slow fire,
                and let it simmer until the apples are done, then weigh a pound and a-half of sugar
@@ -303,7 +304,7 @@
          </div>
          <div type="recipe" n="135">
             <head type="rcp" rend="smallcaps">135. Scalded Codlins.</head>
-            <p>Take some small <note place="foot" n="6">codlins</note>, wrap each in a vine leaf,
+            <p>Take some small <note n="6">codlins</note>, wrap each in a vine leaf,
                and pack them closely in a stewpan; pour in as much cold water as will barely cover
                them, put them on the fire and let them simmer very slowly until sufficiently tender
                to take their skins off when cold enough to <choice>
@@ -366,7 +367,7 @@
          </div>
          <div type="recipe" n="142">
             <head type="rcp" rend="smallcaps">142. Apple Tart.</head>
-            <p>Pare some good dressing apples, <note place="foot" n="7">winter russetings</note> are
+            <p>Pare some good dressing apples, <note n="7">winter russetings</note> are
                the best, cut them into long slices, scald them until quite soft, but use very little
                water; when tender enough, mash them smoothly with the liquor; add two ounces of
                fresh butter, a gill of cream, the grated rind of a lemon, and some white sugar; mix
