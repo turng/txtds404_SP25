@@ -83,8 +83,8 @@
                     founder and the first president of the Japanese American Citizens League, the
                     oldest Asian American civil rights organization, as well as a Republican
                     precinct committee member and delegate to the Washington State Republican
-                    Convention. On paper, Arai and his family were sent to the Puyallup Fairgrounds,
-                    and then to a concentration camp in Minidoka, Idaho, when over a hundred
+                    Convention. On paper, Arai and his family were sent to <name ref="#camp_harmony">the Puyallup Fairgrounds</name>,
+                    and then to a <name ref="#minidoka">concentration camp in Minidoka, Idaho</name>, when over a hundred
                     thousand innocent Japanese Americans were incarcerated during World War II. His
                     health deteriorated there, but he continued to advocate for Japanese Americans'
                     legal rights within the camp. Three months after the war ended, his son Ken died
@@ -348,7 +348,7 @@
                 <head rendition="#center">____________</head>
                 <p rendition="#description">Seattle's central business district gave the appearance
                     of a city without Japanese today as the last of them from Zones No. 1 and 2, or
-                    population, departed for the assembly center in Puyallup.</p>
+                    population, departed for <name ref="#camp_harmony">the assembly center in Puyallup.</name></p>
                 <p rendition="#description"> And the <placeName ref="#pike_place">Pike Place
                         Markets</placeName> for the first time in their years of operation, did
                     business without their myriad of Japanese-operated stalls. </p>
@@ -488,7 +488,7 @@
                 <p rendition="#description">The destination of the Japanese affected by these orders
                     was not announced, but the fact that they were advised they would not be
                     permitted to use private automobiles was constructed as an indication that they
-                    will not be sent to the assembly center in Puyallup.</p>
+                    will not be sent to <name ref="#camp_harmony">the assembly center in Puyallup.</name></p>
                 <p rendition="#description">It was considered probable that they would be sent to
                     the assembly center at Pinedale, Calif., to join evacuees from the rural
                     districts of King and Pierce counties who have already been moved there.</p>
@@ -538,7 +538,7 @@
                 <p rendition="#description">Like the registrations which preceded it, everything was
                     varied out in an orderly manner with a minimum of confusion. It is expected that
                     1,098 Japanese remain in the last Seattle district to be evacuated, and all will
-                    be registered and get their Puyallup center assignments by 5 o’clock this
+                    be registered and get their <name ref="#camp_harmony">Puyallup center</name> assignments by 5 o’clock this
                     evening.</p>
                 <p rendition="#description">PUYALLUP, TOO</p>
                 <p rendition="#description">At the same time, registration was proceeding in
@@ -555,7 +555,7 @@
             <pb/>
 
             <div xml:id="campHarmonyJapsClipping" type="clipping" rendition="#border">
-                <head rendition="#title #center">Camp Harmony Japs</head>
+                <head rendition="#title #center"><name ref="#camp_harmony">Camp Harmony</name> Japs</head>
                 <head rendition="#title #center">Living Up to Name</head>
                 <head rendition="#center">___________</head>
                 <head rendition="#subTitle #center">Seattle Evacuees Making Best of</head>
@@ -565,7 +565,7 @@
                 <head rendition="#author #center">By R. B. Bermann</head>
                 <head rendition="#author #center"><name ref="#post_intelligencer">Post-Intelligencer</name> Staff Correspondent</head>
 
-                <p rendition="#description">CAMP HARMONY, Puyallup, May 24—Although some of them
+                <p rendition="#description"><name ref="#camp_harmony">CAMP HARMONY, Puyallup</name>, May 24—Although some of them
                     have been here scarcely a week, Seattle Japanese are adjusting themselves
                     rapidly to conditions at this assembly center, and the camp is really living up
                     to its name.</p>
@@ -729,7 +729,7 @@
                              <subst>
                                  <add>S</add>
                                  <del>H</del>
-                            </subst>taff Headquarters, Camp Harmony</addrLine>
+                            </subst>taff Headquarters, <name ref="#camp_harmony">Camp Harmony</name></addrLine>
                          <addrLine>Section 2, no. 79</addrLine>
                          <addrLine>Puyallup, Washington</addrLine>
                      </address>
@@ -750,10 +750,10 @@
                     minds and hearts.</p>
 
                 <p>The dining room at the Ranier Club looked very beautiful with the tables
-                    decorated with rhododendrons and iris and colorful programs, serving also as
+                    decorated with rhododendrons and iris and colorful <name ref="#spl_banquet_program">programs</name>, serving also as
                     place cards. There were one hundred and forty-one present.</p>
 
-                <p>Between courses we sang the songs printed in the program and then we had a series
+                <p>Between courses we sang the songs printed in <name ref="#spl_banquet_program">the program</name> and then we had a series
                     of humorous book reviews supposedly suggestions for the book case in the new
                     house <name ref="#jennings">Mr Jennings</name> is building across Lake
                     Washington. After the last of these the group burst into the song “For He’s a
@@ -822,7 +822,7 @@
                 <postscript>
                     <label>P.S.</label>
                     <p>Miss Calkins, head of our Reference department, is coming with a friend to
-                        Puyallup tomorrow and will be at the gate of the Camp at 5:30 and will be
+                        Puyallup tomorrow and will be at the gate of <name ref="#camp_harmony">the Camp</name> at 5:30 and will be
                         very happy to see you if you can be there.</p>
                 </postscript>
             </div>
@@ -834,8 +834,9 @@
                 <note xml:id="spl">During World War II, the Seattle Public Library continued to
                     serve incarcerated Japanese American patrons, sending almost 7,000 books to Camp
                         Minidoka.<ref target="#spl_historylink_bib"/></note>
-                <note xml:id="minidoka"></note>
-                <!--maybe we should make ones for exclusion orders 67 and/or 68 too?-->
+                <note xml:id="camp_harmony">"Camp Harmony" was a temporary facility with crowded conditions at the state fairgrounds in Puyallup, Washington, which held Japanese Americans in 1942. Inmates were moved from the Puyallup Assembly Center to Minidoka from August through October.<ref target="#camp_harmony_bib"/></note>
+                <note xml:id="minidoka">The "Minidoka Relocation Center" was a concentration camp in Hunt, Idaho that held mostly Japanese Americans from Seattle, Washington and Portland, Oregon, in addition to other areas of Washington, Oregon, and Alaska. It opened on August 10, 1942 and closed on October 28, 1945.<ref target="#minidoka_bib"/></note>
+                <note xml:id="exec_orders">exclusion orders 67 and/or 68?</note>
                 <note xml:id="akc">The American Kennel Club is a nonprofit registry of purebred dog
                     pedigrees.<ref target="#akc_bib"/></note>
                 <note xml:id="jennings">Librarian Judson T. Jennings (1873-1948) was the director
@@ -858,10 +859,33 @@
                     overseeing the incarceration of over 110,000 Japanese Americans.<ref
                         target="#dewitt_bib"/></note>
                 <note xml:id="post_intelligencer">The Seattle Post-Intelligencer is the city's oldest newspaper, founded in 1863. It continues today as an online-only newspaper.<ref target="pi_bib"/></note>
-                <!--spl staff association 7th banquet program (is referenced in a letter i transcribed and is included in the scrapbook but i didn't transcribe it)-->
+                <note xml:id="spl_banquet_program">
+                    <figure xml:id="spl_banquet_program1">
+                        <graphic url="../images/program1.HEIC"/>
+                        <figDesc>Cover of the Seattle Public Library Staff Association 7th Banquet Program</figDesc>
+                    </figure>
+                    <figure xml:id="spl_banquet_program2">
+                        <graphic url="../images/program2.HEIC"/>
+                        <figDesc>First page of the Seattle Public Library Staff Association 7th Banquet Program</figDesc>
+                    </figure>
+                    <figure xml:id="spl_banquet_program3">
+                        <graphic url="../images/program3.HEIC"/>
+                        <figDesc>Second and third pages of the Seattle Public Library Staff Association 7th Banquet Program</figDesc>
+                    </figure>
+                    <figure xml:id="spl_banquet_program4">
+                        <graphic url="../images/program4.HEIC"/>
+                        <figDesc>Last page of the Seattle Public Library Staff Association 7th Banquet Program</figDesc>
+                    </figure>
+                </note>
             </div>
             <div type="bibliography">
                 <listBibl>
+                    <bibl xml:id="camp_harmony_bib" type="webpage"> “<title>Camp Harmony (Puyallup Assembly Center), 1942</title>."
+                        <author>Louis Fiset</author>
+                        <publisher>HistoryLink.org</publisher>
+                        <date>10/07/2008</date>
+                        <ref target="https://www.historylink.org/File/8748">Camp Harmony (Puyallup Assembly Center), 1942</ref>
+                    </bibl>
                     <bibl xml:id="arai_bib" type="webpage"> "<title>Clarence Takeya Arai</title>."
                             <author>Mary Schons</author>
                         <publisher>EBSCO</publisher>
@@ -871,10 +895,14 @@
                             >Clarence Takeya Arai</ref>
                     </bibl>
                     <bibl xml:id="akc_bib" type="webpage"> “<title level="a">American Kennel
-                            Club</title>. <title level="m">Wikipedia</title>
+                            Club</title>." <title level="m">Wikipedia</title>
                         <publisher>Wikipedia.org</publisher>
                         <ref target="https://en.wikipedia.org/wiki/American_Kennel_Club">American
                             Kennel Club</ref>
+                    </bibl>
+                    <bibl xml:id="minidoka_bib" type="webpage">“<title>Minidoka</title>."
+                        <publisher>Densho Enclyclopedia</publisher>
+                        <ref target="https://encyclopedia.densho.org/Minidoka/">Minidoka</ref>
                     </bibl>
                     <bibl xml:id="pike_place_market_bib" type="webpage"> “<title level="a">Pike
                             Place Market</title>. <title level="m">Wikipedia</title>
@@ -882,7 +910,7 @@
                         <ref target="https://en.wikipedia.org/
                             wiki/Pike_Place_Market">Pike Place Market</ref>
                     </bibl>
-                    <bibl xml:id="pi_bib" type="webpage"> “<title>Seattle Post-Intelligencer (1863-2009)</title>.
+                    <bibl xml:id="pi_bib" type="webpage"> “<title>Seattle Post-Intelligencer (1863-2009)</title>."
                         <author>Cassandra Tate</author>
                         <publisher>HistoryLink.org</publisher>
                         <date>03/16/2009</date>
