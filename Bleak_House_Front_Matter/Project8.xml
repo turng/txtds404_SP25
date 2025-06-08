@@ -850,10 +850,10 @@
       </body>
       <back>
          <div type="endnotes">
-            <note xml:id="n1">Charles Dickens was well-acquainted with the serialized form, as not
-               only a novelist himself but also an editor.<ref type="biblio" target="#source1">See
+            <note xml:id="note_1">Charles Dickens was well-acquainted with the serialized form, as not
+               only a novelist himself but also an editor.<ref type="biblio" target="S1_Casey">See
                   source 1</ref>.</note>
-            <note xml:id="n2">Dr. John Lindley, mentioned across multiple ads contained within
+            <note xml:id="note_2">Dr. John Lindley, mentioned across multiple ads contained within
                Dickens’ Bleak House front matter, was a botanist from the University of England.
                During his time at the University of England, he was actually the first professor of
                botany to work at the University; spending his time working on articles and
@@ -861,11 +861,11 @@
                Bleak House front matter he would also spend time writing articles on more common
                houseplants and widespread information that would cater to wider audiences; further
                fueling his renown and commonplace within Bleak House ads. <ref type="biblio"
-                  target="#source3">See source 3</ref>.</note>
+                  target="S3_Boulger">See source 3</ref>.</note>
          </div>
          <div type="bibliography">
             <listBibl>
-               <bibl xml:id="source1">
+               <bibl xml:id="S1_Casey">
                   <author>
                      <name>
                         <surname>Casey</surname>
@@ -877,7 +877,7 @@
                   <title level="j">Victorian Periodicals Review</title>
                   <date>1981</date>
                </bibl>
-               <bibl xml:id="source2">
+               <bibl xml:id="S2_Walk">
                   <author>
                      <name>
                         <surname>Walk</surname>
@@ -890,7 +890,7 @@
                      Theses</publisher>
                   <date>1993</date>
                </bibl>
-               <bibl xml:id="source3">
+               <bibl xml:id="S3_Boulger">
                   <author>
                      <name>
                         <surname>Boulger</surname>
@@ -903,7 +903,7 @@
                   <publisher>Smithy, Elder &amp; Co</publisher>
                   <date>1993</date>
                </bibl>
-               <bibl xml:id="source4">
+               <bibl xml:id="S4_Gaskell">
                   <author>
                      <name>
                         <surname>Gaskell</surname>
