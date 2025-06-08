@@ -131,7 +131,14 @@
         </div>
     </xsl:template>
     <xsl:template match="tei:div//tei:p">
-        <p><xsl:apply-templates/></p>
+        <p>
+            <xsl:if test="@style">
+                <xsl:attribute name="style">
+                    <xsl:value-of select="@style"/>
+                </xsl:attribute>
+            </xsl:if>
+            <xsl:apply-templates/>
+        </p>
     </xsl:template>
     <xsl:template match="tei:div">
         <div>
@@ -145,7 +152,14 @@
         "<xsl:apply-templates/>"
     </xsl:template>
     <xsl:template match="tei:ab">
-        <p><xsl:apply-templates/></p>
+        <p>
+            <xsl:if test="@style">
+                <xsl:attribute name="style">
+                    <xsl:value-of select="@style"/>
+                </xsl:attribute>
+            </xsl:if>
+            <xsl:apply-templates/>
+        </p>
     </xsl:template>
     <xsl:template match="tei:hi[@style='text-transform:uppercase']">
         <hi style="text-transform:uppercase;"><xsl:apply-templates/></hi>
