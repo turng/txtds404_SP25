@@ -122,7 +122,7 @@
         </div>
     </xsl:template>
     <xsl:template match="tei:head">
-        <h4 style="font-weight:normal;"><xsl:apply-templates/></h4>
+        <h4><xsl:apply-templates/></h4>
     </xsl:template>
     <xsl:template match="tei:body/tei:div">
         <hr></hr>
@@ -133,7 +133,6 @@
     <xsl:template match="tei:div//tei:p">
         <p><xsl:apply-templates/></p>
     </xsl:template>
-    
     <xsl:template match="tei:div">
         <div>
             <xsl:if test="@rend">
@@ -142,14 +141,13 @@
             <xsl:apply-templates/>
         </div>
     </xsl:template>
-    
     <xsl:template match="tei:quote">
         "<xsl:apply-templates/>"
     </xsl:template>
     <xsl:template match="tei:ab">
         <p><xsl:apply-templates/></p>
     </xsl:template>
-    <xsl:template match="tei:hi[@rend='allcaps']">
+    <xsl:template match="tei:hi[@style='text-transform:uppercase']">
         <hi style="text-transform:uppercase;"><xsl:apply-templates/></hi>
     </xsl:template>
     <xsl:template match="tei:table">
@@ -160,5 +158,8 @@
     </xsl:template>
     <xsl:template match="tei:cell">
         <td><xsl:apply-templates/></td>
+    </xsl:template>
+    <xsl:template match="tei:div[@type='rule']">
+        <hr/>
     </xsl:template>
 </xsl:stylesheet>
