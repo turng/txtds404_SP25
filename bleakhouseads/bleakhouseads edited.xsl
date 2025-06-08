@@ -28,12 +28,15 @@
                      margin-top: 75px;
                      margin-bottom: 100px;
                     }
+                    
                     s{
                     text-decoration:none;
                     }
+                    
                     .contentblock{
                     padding:1%;
                     }
+                    
                     .allcaps{
                     text-transform:uppercase;
                     }
