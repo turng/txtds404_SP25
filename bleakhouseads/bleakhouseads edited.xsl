@@ -28,7 +28,9 @@
                      margin-top: 75px;
                      margin-bottom: 100px;
                     }
-                    
+                    s{
+                    text-decoration:none;
+                    }
                     .contentblock{
                     padding:1%;
                     }
@@ -161,8 +163,15 @@
             <xsl:apply-templates/>
         </p>
     </xsl:template>
-    <xsl:template match="tei:hi[@style='text-transform:uppercase']">
-        <hi style="text-transform:uppercase;"><xsl:apply-templates/></hi>
+    <xsl:template match="tei:hi">
+        <s>
+            <xsl:if test="@style">
+                <xsl:attribute name="style">
+                    <xsl:value-of select="@style"/>
+                </xsl:attribute>
+            </xsl:if>
+            <xsl:apply-templates/>
+        </s>
     </xsl:template>
     <xsl:template match="tei:table">
         <table><xsl:apply-templates/></table>
