@@ -87,7 +87,12 @@
             <div type="preface">
                 <head>Preface</head>
                 <p>
-                    <hi rend="dropcap">A</hi> NEW discovery from Alaska—nourishment—not
+                    <hi rend="dropcap">A</hi> <app>
+                        <lem>NEW discovery from Alaska</lem>
+                        <rdg type="editorial">We decided to keep this beginning part, even though
+                            the tone is a bit precarious (calling Reindeer), as it set a
+                            lighthearted and slightly innocent air for this cookbook</rdg>
+                    </app>—nourishment—not
                     gold—something to add to the enjoyment of life—something that with a final
                     analysis is found more precious than gold—something to delight the inner
                     man—Reindeer meat.</p>
@@ -164,7 +169,13 @@
                     <p>Wipe <rs type="ingredient">meat</rs>, sprinkle with <rs type="ingredient"
                             >salt</rs> and <rs type="ingredient">pepper</rs>, place on rack in
                         dripping pan and dredge <rs type="ingredient">meat</rs> and bottom of pan
-                        with <rs type="ingredient">flour</rs>. Place in not too hot oven and baste
+                        with <rs type="ingredient">flour</rs>. <app>
+                            <lem>Place in not too hot oven</lem>
+                            <rdg type="editorial"> Vague instructions like this are preserved to try
+                                to maintain the contextual integrity of the cookbook, in this case
+                                the very rustic and independent sentiment of figuring it out
+                                yourself</rdg>
+                        </app> and baste
                         as soon as <rs type="ingredient">flour</rs> in pan is brown, and every
                         fifteen minutes thereafter, until <rs type="ingredient">meat</rs> is done,
                         which should be cooked rare. It may be necessary to put a small quantity of
@@ -223,8 +234,13 @@
                 <div type="recipe" xml:id="broiled-steak">
                     <head rend="center bold">Broiled Reindeer Meat Steak</head>
                     <p>Wipe <rs type="ingredient">steak</rs>, sprinkle with <rs type="ingredient"
-                            >salt</rs> and <rs type="ingredient">pepper</rs>, place on greased
-                        boiler and broil five minutes. Remove to hot platter and pour over <rs
+                            >salt</rs> and <rs type="ingredient">pepper</rs>, app>
+                            <lem>place on greased boiler and broil five minutes</lem>
+                            <rdg type="editorial"> We thought the recipes like these, the ones where
+                                the title is basically the recipe, were very helpful in establishing
+                                the intent of the cookbook, that is, doing minimal tweaks on an
+                                otherwise rudimentary food source</rdg>
+                        </app>. Remove to hot platter and pour over <rs
                             type="ingredient">Chestnut sauce</rs> or <rs type="ingredient">Maitre d'
                             Hotel butter</rs>.</p>
                 </div>
