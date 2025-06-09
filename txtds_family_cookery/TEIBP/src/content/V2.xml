@@ -75,16 +75,16 @@
    <text>
       <front>
          <div type="editorial_intro">
-            <p><hi rend="format(italic)">The Family Cookery: Combining Elegance and Economy</hi> authored by
-               R. House – a former head cook for the Duke of Portland – is a pocket-sized
-               19th-century English cookbook published in London by John Bailey. It is believed to
-               have been printed sometime between 1808-1822, with Worldcat entries suggesting a
-               publication date of 1810. The cookbook touches on a variety of recipes for different
-               purposes, including different types of dishes, how to cook various meats, pastry and
-               confectionery, brewing and winemaking, and pickling and preserving. What makes this
-               cookbook particularly interesting and unique is that it also offers advice for the
-               care of poultry and bees as well as diagrams for meal placement and menus or "bills
-               of fare" as reference material for readers.</p>
+            <p><hi rend="format(italic)">The Family Cookery: Combining Elegance and Economy</hi>
+               authored by R. House – a former head cook for the Duke of Portland – is a
+               pocket-sized 19th-century English cookbook published in London by John Bailey. It is
+               believed to have been printed sometime between 1808-1822, with Worldcat entries
+               suggesting a publication date of 1810. The cookbook touches on a variety of recipes
+               for different purposes, including different types of dishes, how to cook various
+               meats, pastry and confectionery, brewing and winemaking, and pickling and preserving.
+               What makes this cookbook particularly interesting and unique is that it also offers
+               advice for the care of poultry and bees as well as diagrams for meal placement and
+               menus or "bills of fare" as reference material for readers.</p>
             <p>The focus of the original edition is a cookbook that guides readers on how to make
                specific recipes from the 19th century. The book primarily formats the recipes in a
                list with headings – the title of the recipe – and recipes – short paragraphs. Our
@@ -96,19 +96,20 @@
          </div>
       </front>
       <body>
-	<div>
-	<pb n="10"/>
-	<fw type="page_number" place="top left">10</fw>
+         <div>
+            <pb n="10"/>
+            <fw type="page_number" place="top left">10</fw>
             <figure>
                <graphic url="10_Diagram.JPEG"/>
-               <figDesc>The figure shows a layout of where certain foods were to be placed ranging from
-                  4 tables with Vegetables, 4 tables for Sauces, 1 big table for Ham, 2 tables for roast
-                  Fowls on opposite ends of the ham table. There are bigger tables surrounding these tables
-                  shaped in a oval form, which individuallly have a different type of food including soups to pies.</figDesc>
+               <figDesc>The figure shows a layout of where certain foods were to be placed ranging
+                  from 4 tables with Vegetables, 4 tables for Sauces, 1 big table for Ham, 2 tables
+                  for roast Fowls on opposite ends of the ham table. There are bigger tables
+                  surrounding these tables shaped in a oval form, which individuallly have a
+                  different type of food including soups to pies.</figDesc>
             </figure>
          </div>
          <div type="soups">
-		 <head rend="caps">Of Soups And Broths.</head>
+            <head rend="caps">Of Soups And Broths.</head>
             <pb n="18"/>
             <fw type="page_number" place="top left">18</fw>
             <fw type="running_header" place="top center" rend="caps">The Family Cookery.</fw>
@@ -150,10 +151,10 @@
                   let them boil till half the liquor is <pb n="19"/><fw type="page_number"
                      place="top right">19</fw>
                   <fw type="running_header" place="top center" rend="caps">The Family
-                  Cookery.</fw>wasted; then strain it, and toast soem bread, cut it small, lay
-                  it in the dish, and pour in your soup; set the dish over a stove for a minute, and
-                  send it to tabel hot. Should your soup not be rich enough, you must let it boil
-                  till the liquor is more reduced. Add a piece of carrot to brown it.</p>
+                  Cookery.</fw>wasted; then strain it, and toast soem bread, cut it small, lay it in
+                  the dish, and pour in your soup; set the dish over a stove for a minute, and send
+                  it to tabel hot. Should your soup not be rich enough, you must let it boil till
+                  the liquor is more reduced. Add a piece of carrot to brown it.</p>
             </div>
             <div type="recipe">
                <head rend="align(center) format(italic)">Muscle Soup.</head>
@@ -190,7 +191,7 @@
             </div>
          </div>
          <div type="poultry">
-		 <head rend="caps">Game And Poultry.</head>
+            <head rend="caps">Game And Poultry.</head>
             <pb n="36"/>
             <fw type="page_number" place="top left">36</fw>
             <fw type="running_header" place="top center" rend="caps">The Family Cookery.</fw>
@@ -234,8 +235,8 @@
                   fresh butter; let them go to <pb n="37"/><fw type="page_number" place="top right"
                      >37</fw>
                   <fw type="running_header" place="top center" rend="caps">The Family
-                  Cookery.</fw>table with a fine froth, putting gravy sauce in the dish, and
-                  bread sauce in a hason.</p>
+                  Cookery.</fw>table with a fine froth, putting gravy sauce in the dish, and bread
+                  sauce in a hason.</p>
             </div>
             <div type="recipe">
                <head rend="align(center) format(italic)">Plovers.</head>
@@ -274,7 +275,7 @@
             </div>
          </div>
          <div type="pastry">
-		 <head rend="caps">Pastry.</head>
+            <head rend="caps">Pastry.</head>
             <pb n="117"/>
             <fw type="page_number" place="top right">117</fw>
             <fw type="running_header" place="top center" rend="caps">The Family Cookery.</fw>
@@ -299,14 +300,15 @@
                <head rend="align(center) format(italic)">Dutch Cakes.</head>
                <p>TAKE five pounds of flour; two ounces of carraway seeds, half a pound of sugar,
                   and something more than a pint of milk; put into it three quarters of a pound of
-                  butter; make a hole in the middle of the flour, and put in a full pint of good
-                  ale yeast pour in the butter and milk, and make these into a paste, letting it
-                  stand a quarter of an hour before the fire to rise; then mould it, and roll it
-                  into cakes pretty thin, prick them all over pretty much, or they will blister, and
-                  bake them a quarter of an hour.</p>
+                  butter; make a hole in the middle of the flour, and put in a full pint of good ale
+                  yeast pour in the butter and milk, and make these into a paste, letting it stand a
+                  quarter of an hour before the fire to rise; then mould it, and roll it into cakes
+                  pretty thin, prick them all over pretty much, or they will blister, and bake them
+                  a quarter of an hour.</p>
             </div>
             <div type="recipe">
-               <head rend="align(center) format(italic)"><ref target="#n2">Shrewsbury Cakes.</ref></head>
+               <head rend="align(center) format(italic)"><ref target="#n2">Shrewsbury
+                  Cakes.</ref></head>
                <p>TAKE one pound of sugar, three pounds of the finest flour, a nutmeg grated, and
                   some cinnamon well beaten; the sugar and spice must be sifted into the flour, wet
                   it with three eggs, and as much melted butter as will make it of a good thickness
@@ -330,11 +332,12 @@
                   hot as for bread, for half an hour, then take them out and glaze <pb n="119"/><fw
                      type="page_number" place="top right">119</fw>
                   <fw type="running_header" place="top center" rend="caps">The Family
-                  Cookery.</fw>them, and let them stand but a little after the glazing is on,
-                  to rise.</p>
+                  Cookery.</fw>them, and let them stand but a little after the glazing is on, to
+                  rise.</p>
             </div>
             <div type="recipe">
-               <head rend="align(center) format(italic)"><ref target="#n4">Uxbridge Cakes.</ref></head>
+               <head rend="align(center) format(italic)"><ref target="#n4">Uxbridge
+                  Cakes.</ref></head>
                <p>TAKE a pound of wheat flour, seven pounds of currants, half a nutmeg, and four
                   pounds of butter; rub your butter cold well among the meal. Dress the currants
                   very well in the flour, butter, and seasoning, and knead it with so much good new
@@ -343,7 +346,7 @@
             </div>
          </div>
          <div type="recipes_for_the_sick">
-		 <head rend="caps"><ref target="#n5">Recipes For The Sick.</ref></head>
+            <head rend="caps"><ref target="#n5">Recipes For The Sick.</ref></head>
             <pb n="150"/>
             <fw type="page_number" place="top left">150</fw>
             <fw type="running_header" place="top center" rend="caps">The Family Cookery.</fw>
@@ -427,11 +430,11 @@
                <p>PUT a pint of water on the fire. Mix in a basin a large <pb n="152"/><fw
                      type="page_number" place="top left">152</fw>
                   <fw type="running_header" place="top center" rend="caps">The Family
-                  Cookery.</fw>spoonful of oatmeal with a little water; when the water boils,
-                  stir in the oatmeal, let it boil up three or four times, but be careful it does
-                  not boil over. Strain it through a sieve, salt, and put in a piece of butter. Stir
-                  it about with a spoon till the butter is all melted, and it will be fine and
-                  smooth. Sugar, or a spoonful of wine, &amp;c. may occasionally be added.</p>
+                  Cookery.</fw>spoonful of oatmeal with a little water; when the water boils, stir
+                  in the oatmeal, let it boil up three or four times, but be careful it does not
+                  boil over. Strain it through a sieve, salt, and put in a piece of butter. Stir it
+                  about with a spoon till the butter is all melted, and it will be fine and smooth.
+                  Sugar, or a spoonful of wine, &amp;c. may occasionally be added.</p>
             </div>
             <div type="recipe">
                <head rend="align(center) format(italic)">Barley Water. </head>
@@ -443,8 +446,8 @@
                <head rend="align(center) format(italic)"><ref target="#n7">Caudle.</ref></head>
                <p>MAKE A smooth gruel of half grits; when well boiled, strain, and stir it now and
                   then till cold. When to be used, add sugar, wine, lemon peel, and nutmeg. Some
-                  like a spoonful of brandy besides the wine; others like lemon juice, but this
-                  must depend on taste.</p>
+                  like a spoonful of brandy besides the wine; others like lemon juice, but this must
+                  depend on taste.</p>
             </div>
             <div type="recipe">
                <head rend="align(center) format(italic)">Rich Caudle.</head>
@@ -505,8 +508,8 @@
                <head rend="align(center) format(italic)">White Wine Whey.</head>
                <p>BOIL half a pint of new milk; as soon as it boils up pour in as much white wine as
                   will turn, and make it look clear; boil it up, set the saucepan aside till the
-                  curd subsides, and do not stir it. Pour the whey off, and add to it half a pint
-                  of boiling water, and a bit of white sugar. The whey will thus be cleared of milky
+                  curd subsides, and do not stir it. Pour the whey off, and add to it half a pint of
+                  boiling water, and a bit of white sugar. The whey will thus be cleared of milky
                   particles, and may be made as weak as you chuse. Cheese whey is a very wholesome
                   drink, particularly if the cows have fresh herbage.</p>
                <p>Whey may be made of vinegar or lemon; and, when clear, diluted with boiling water,
@@ -544,8 +547,8 @@
                which will cause them to de-<pb n="185"/><fw type="page_number" place="top right"
                   >185</fw>
                <fw type="running_header" place="top center" rend="caps">The Family
-               Cookery.</fw>scend, and when they settle, they should be immediately hived, lest
-               they should again take wing.</p>
+               Cookery.</fw>scend, and when they settle, they should be immediately hived, lest they
+               should again take wing.</p>
             <p>The hive should not be immediately placed on the stool where it is to remain, but
                should be suffered to stand near the place where the bees were swept into it, till
                the evening, and shaded with some boughs.</p>
@@ -784,7 +787,11 @@
                recipe for Shrewsbury Cakes as the original; a recipe which was acquired from James
                Palin, who also owned a bakery in Shrewsbury. That said, the first known references
                to Shrewsbury Cakes date back to 1602 in several manuscripts and books.</note>
-            <note xml:id="n4" type="editorial" target="#glasse">Uxbridge is a small town in west London, in the county of Middlesex, England. There is a reference to Uxbridge Cakes in the 1784 Edition of Hannah Glasse’s cookbook, <hi rend="format(italic)">The Art of Cookery Made Plain and Easy</hi> in the Appendix. There is little other information available on the history of these cakes.</note>
+            <note xml:id="n4" type="editorial" target="#glasse">Uxbridge is a small town in west
+               London, in the county of Middlesex, England. There is a reference to Uxbridge Cakes
+               in the 1784 Edition of Hannah Glasse’s cookbook, <hi rend="format(italic)">The Art of
+                  Cookery Made Plain and Easy</hi> in the Appendix. There is little other
+               information available on the history of these cakes.</note>
             <note xml:id="n5" type="editorial" target="#smith-medicinal-food">It was common for
                cookbooks to include a section for the sick in and around the 19th century. There was
                a cultural belief that eating the right foods was enough to cure someone of their
@@ -800,127 +807,114 @@
             <note xml:id="n7" type="editorial" target="#mw-caudle">Caudle is a drink, usually made
                from warm ale or wine mixed with bread or gruel, eggs, sugar, and spices.</note>
          </div>
-           <div type="bibliography">
-               <head>Bibliography</head>
-               <listBibl>
-                     <biblStruct xml:id="house-family-cookery">
-                           <monogr>
-                                 <author>
-                                       <forename>R.</forename>
-                                       <surname>House</surname>
-                                    </author>
-                                 <title level="m">The Family Cookery, Combining Elegance and Economy, with Various Receipts</title>
-                                 <imprint>
-                                       <publisher>Rooke Books</publisher>
-                                       <date when="n.d."/>
-                                    </imprint>
-                              </monogr>
-                           <ref target="https://www.rookebooks.com/the-family-cookery-combining-elegance-and-economy-with-various-receipts"/>
-                        </biblStruct>
-               
-                     <biblStruct xml:id="enviroliteracy-pigeons">
-                           <analytic>
-                                 <author>
-                                       <surname>Enviroliteracy Team</surname>
-                                    </author>
-                                 <title level="a">Why Did We Stop Eating Pigeons?</title>
-                              </analytic>
-                           <monogr>
-                                 <title level="j">Environmental Literacy Council</title>
-                                 <imprint>
-                                       <date when="2025-04-11"/>
-                                       <publisher>Environmental Literacy Council</publisher>
-                                    </imprint>
-                              </monogr>
-                           <ref target="https://enviroliteracy.org/why-did-we-stop-eating-pigeons/"/>
-                        </biblStruct>
-               
-                     <biblStruct xml:id="duff-cakes-regional-traditional">
-                           <monogr>
-                                 <author>
-                                       <forename>Julie</forename>
-                                       <surname>Duff</surname>
-                                    </author>
-                                 <title level="m">Cakes: Regional &amp; Traditional</title>
-                                 <imprint>
-                                       <publisher>Grub Street Cookery</publisher>
-                                       <date when="2015-10-09"/>
-                                       <biblScope unit="pages">50–52</biblScope>
-                                    </imprint>
-                              </monogr>
-                           <ref target="https://books.google.com/books?id=ylJ2DQAAQBAJ&amp;source=gbs_navlinks_s"/>
-                        </biblStruct>
-               
-                     <biblStruct xml:id="glasse">
-                           <monogr>
-                                 <author>
-                                       <forename>Hannah</forename>
-                                       <surname>Glasse</surname>
-                                    </author>
-                                 <title level="m">The Art of Cookery Made Plain and Easy</title>
-                                 <imprint>
-                                       <publisher>Printed for W. Strahan</publisher>
-                                       <date when="1784"/>
-                                    </imprint>
-                              </monogr>
-                           <ref target="https://archive.org/details/artcookerymadep00glasgoog/page/n397/mode/2up"/>
-                        </biblStruct>
-               
-                     <biblStruct xml:id="smith-medicinal-food">
-                           <analytic>
-                                 <title level="a">Medicinal Food</title>
-                              </analytic>
-                           <monogr>
-                                 <editor>
-                                       <forename>Merril D.</forename>
-                                       <surname>Smith</surname>
-                                    </editor>
-                                 <title level="m">The World of the American Revolution: A Daily Life Encyclopedia</title>
-                                 <imprint>
-                                       <publisher>Greenwood</publisher>
-                                       <date when="2015"/>
-                                       <biblScope unit="volume">1</biblScope>
-                                       <biblScope unit="pages">358–360</biblScope>
-                                    </imprint>
-                              </monogr>
-                           <ref target="https://link.gale.com/apps/doc/CX6345700141/GVRL?u=wash_main&amp;sid=bookmark-GVRL&amp;xid=4ab7b26e"/>
-                        </biblStruct>
-               
-                     <biblStruct xml:id="mw-isinglass">
-                           <analytic>
-                                 <author>
-                                       <surname>Merriam-Webster</surname>
-                                    </author>
-                                 <title level="a">Isinglass</title>
-                              </analytic>
-                           <monogr>
-                                 <title level="j">Merriam-Webster Dictionary</title>
-                                 <imprint>
-                                       <publisher>Merriam-Webster, Inc.</publisher>
-                                       <date when="n.d."/>
-                                    </imprint>
-                              </monogr>
-                           <ref target="https://www.merriam-webster.com/dictionary/isinglass"/>
-                        </biblStruct>
-               
-                     <biblStruct xml:id="mw-caudle">
-                           <analytic>
-                                 <author>
-                                       <surname>Merriam-Webster</surname>
-                                    </author>
-                                 <title level="a">Caudle</title>
-                              </analytic>
-                           <monogr>
-                                 <title level="j">Merriam-Webster.com Dictionary</title>
-                                 <imprint>
-                                       <publisher>Merriam-Webster, Inc.</publisher>
-                                       <date when="n.d."/>
-                                    </imprint>
-                              </monogr>
-                           <ref target="https://www.merriam-webster.com/dictionary/caudle"/>
-                        </biblStruct>
-               
-                  </listBibl>
+         <div type="bibliography">
+            <head>Bibliography</head>
+            <biblStruct xml:id="house-family-cookery">
+               <monogr>
+                  <author><forename>R.</forename>
+                     <surname>House</surname></author>
+                  <title level="m">The Family Cookery, Combining Elegance and Economy, with Various
+                     Receipts</title>
+                  <imprint>
+                     <publisher>Rooke Books</publisher>
+                     <date when="2020"/>
+                  </imprint>
+               </monogr>
+               <ref
+                  target="https://www.rookebooks.com/the-family-cookery-combining-elegance-and-economy-with-various-receipts"
+               />
+            </biblStruct>
+            <biblStruct xml:id="enviroliteracy-pigeons">
+               <analytic>
+                  <author><surname>Enviroliteracy Team</surname></author>
+                  <title level="a">Why Did We Stop Eating Pigeons?</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Environmental Literacy Council</title>
+                  <imprint>
+                     <date when="2025-04-11"/>
+                     <publisher>Environmental Literacy Council</publisher>
+                  </imprint>
+               </monogr>
+               <ref target="https://enviroliteracy.org/why-did-we-stop-eating-pigeons/"/>
+            </biblStruct>
+            <biblStruct xml:id="duff-cakes-regional-traditional">
+               <monogr>
+                  <author><forename>Julie</forename>
+                     <surname>Duff</surname></author>
+                  <title level="m">Cakes: Regional &amp; Traditional</title>
+                  <imprint>
+                     <publisher>Grub Street Cookery</publisher>
+                     <date when="2015-10-09"/>
+                     <biblScope unit="pages">50–52</biblScope>
+                  </imprint>
+               </monogr>
+               <ref
+                  target="https://books.google.com/books?id=ylJ2DQAAQBAJ&amp;source=gbs_navlinks_s"
+               />
+            </biblStruct>
+            <biblStruct xml:id="glasse">
+               <monogr>
+                  <author><forename>Hannah</forename>
+                     <surname>Glasse</surname></author>
+                  <title level="m">The Art of Cookery Made Plain and Easy</title>
+                  <imprint>
+                     <publisher>Printed for W. Strahan</publisher>
+                     <date when="1784"/>
+                  </imprint>
+               </monogr>
+               <ref
+                  target="https://archive.org/details/artcookerymadep00glasgoog/page/n397/mode/2up"
+               />
+            </biblStruct>
+            <biblStruct xml:id="smith-medicinal-food">
+               <analytic>
+                  <title level="a">Medicinal Food</title>
+               </analytic>
+               <monogr>
+                  <editor><forename>Merril D.</forename>
+                     <surname>Smith</surname></editor>
+                  <title level="m">The World of the American Revolution: A Daily Life
+                     Encyclopedia</title>
+                  <imprint>
+                     <publisher>Greenwood</publisher>
+                     <date when="2015"/>
+                     <biblScope unit="volume">1</biblScope>
+                     <biblScope unit="pages">358–360</biblScope>
+                  </imprint>
+               </monogr>
+               <ref
+                  target="https://link.gale.com/apps/doc/CX6345700141/GVRL?u=wash_main&amp;sid=bookmark-GVRL&amp;xid=4ab7b26e"
+               />
+            </biblStruct>
+            <biblStruct xml:id="mw-isinglass">
+               <analytic>
+                  <author><surname>Merriam-Webster</surname></author>
+                  <title level="a">Isinglass</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Merriam-Webster Dictionary</title>
+                  <imprint>
+                     <publisher>Merriam-Webster, Inc.</publisher>
+                     <date when="2025"/>
+                  </imprint>
+               </monogr>
+               <ref target="https://www.merriam-webster.com/dictionary/isinglass"/>
+            </biblStruct>
+            <biblStruct xml:id="mw-caudle">
+               <analytic>
+                  <author><surname>Merriam-Webster</surname></author>
+                  <title level="a">Caudle</title>
+               </analytic>
+               <monogr>
+                  <title level="j">Merriam-Webster.com Dictionary</title>
+                  <imprint>
+                     <publisher>Merriam-Webster, Inc.</publisher>
+                     <date when="2025"/>
+                  </imprint>
+               </monogr>
+               <ref target="https://www.merriam-webster.com/dictionary/caudle"/>
+            </biblStruct>
          </div>
       </back>
    </text>
