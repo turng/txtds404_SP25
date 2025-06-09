@@ -66,6 +66,11 @@
                     text-indent: 1em;
                     }
                     
+                    .biblcolumns{
+                    text-align:center;
+                    column-width:35em;
+                    }
+                    
                     .columns{
                     text-align:justify;
                     text-indent:1em;
@@ -88,12 +93,11 @@
         <h1><xsl:apply-templates/></h1>
     </xsl:template>
     <xsl:template match="tei:titleStmt/tei:author">
-        <h2><xsl:apply-templates/></h2>
+        <p>Original text by: <xsl:apply-templates/></p>
     </xsl:template>
     <xsl:template match="tei:titleStmt/tei:editor"/>
     <xsl:template match="tei:respStmt">
-        <p><xsl:apply-templates select="//tei:resp"/> 
-           <xsl:apply-templates select="//tei:name[@ref='#AC']"/>, 
+        <p><xsl:apply-templates select="//tei:resp"/>: <xsl:apply-templates select="//tei:name[@ref='#AC']"/>, 
            <xsl:apply-templates select="//tei:name[@ref='#JN']"/>, and
            <xsl:apply-templates select="//tei:name[@ref='#LVH']"/>.
         </p>
@@ -107,7 +111,10 @@
     <xsl:template match="tei:sourceDesc">
         <div>
             Print editions used in the creation of this digital edition:
-            <xsl:apply-templates/>
+            <div class="biblcolumns">
+                <div><xsl:apply-templates select="tei:bibl[1]"/></div>
+                <div><xsl:apply-templates select="tei:bibl[2]"/></div>
+            </div>
         </div>
     </xsl:template>
     <xsl:template match="tei:sourceDesc//tei:title">
@@ -140,7 +147,7 @@
         </h4>
     </xsl:template>
     <xsl:template match="tei:body/tei:div">
-        <hr></hr>
+        <hr style="margin-top:75px;margin-bottom:75px;"/>
         <div class="contentblock">
             <xsl:apply-templates/>
         </div>

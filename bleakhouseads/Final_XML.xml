@@ -22,20 +22,19 @@
             <edition n="0.8">First draft of the full XML.</edition>
          </editionStmt>
          <publicationStmt>
-            <p>Encoded in Oxygen, distributed via Github. For educational, non-commercial use only.
-               The purpose of this text is to track the differences in publishing from a serial
-               format to one of the more standard novel, including all that comes with that. With
-               serial publications, the texts we know today were separated into brief chapters and
-               periodicals, only publishing a small section of the final text monthly over a large
-               time span. Once the periodical had finished, advertisements began getting published
-               for the full text edition of the novel, including in the final periodical of Bleak
-               House. With this edition, we aim to display the functional differences in
-               publicaition of different mediums of text, particularly focusing on the publication
-               elements of the texts individually as well as the advertisements used in the
+            <p>Encoded in Oxygen, distributed via Github. For educational, non-commercial use only.</p>
+            <p>The purpose of this edition is to track the differences in publishing from a serial
+               format to a more standard book-form novel. With serial publication, the texts we know
+               today were separated into small periodicals and chapters, only publishing a small section
+               of the final text monthly over a large time span. Once the serial publication had finished,
+               advertisements began getting published for the full text edition of the novel, such as
+               in the final periodical of Bleak House. With this edition, we aim to display the functional
+               differences in publication of different mediums of text, particularly focusing on the
+               publication elements of the texts individually as well as the advertisements used in the
                periodicals and how these additions affected readership and the reader experience.</p>
             <p>Our digital edition focuses on Charles Dickens’ Bleak House, specifically the last
-               few volumes of the 1852 serialized edition, and the 1853 complete first edition.
-               Dickens wrote the book in twenty installments throughout 1852 and 1853, with the last
+               volume of the 1852 serialized edition and the 1853 complete first edition. Dickens
+               wrote the book in twenty installments throughout 1852 and 1853, with the last, 19th
                published serial containing the 19th and 20th installments combined. Each serial
                publication has several pages of advertisements in the front matter of the text,
                which helped fund Dickens’ efforts. In particular, one of the advertisements found in
@@ -48,14 +47,14 @@
                complete edition) and the complete first edition of the book. The advertisement in
                the serial provides a great deal more information regarding the timeline, setting,
                and cost of the printing and publication of the first edition than what the complete
-               book provides in its copyright pages. Readers should come away from our edition
-               having a better understanding of how the publication process between serials and
+               book provides in its own copyright pages. Readers should come away from our edition
+               with a better understanding of how the publication process differs between serials and
                complete volumes, as well as how the documentation of these efforts was less robust
-               and more scattered between different sources than with today’s methods (such as
+               and more scattered across different sources than with today’s methods (such as
                detailed copyright pages).</p>
             <p>We are using a diplomatic transcription for our edition, and we are trying to
                recreate exactly what is shown on the key pages of the serial and complete editions
-               of Bleak House which we are transcribing. We will not be making editorial
+               of Bleak House we are transcribing. We will not be making editorial
                corrrections to any of the text, although there is not too much text itself given the
                relative sparseness of the pages we have chosen to transcribe.</p>
          </publicationStmt>
@@ -228,7 +227,7 @@
             </div>
             <div>
                <p style="text-transform:uppercase;">The</p>
-               <p>Works of Mr. Charles Dickens.</p>
+               <p style="font-size:18px;">Works of Mr. Charles Dickens.</p>
                <p style="font-style:italic;">Uniformly printed in crown 8vo, Corrected and Revised throughout, with new
                   prefaces by the Author.</p>
                <table>
@@ -320,7 +319,7 @@
                   Cyclopædia</hi>.</q>—<hi style="font-style:italic;">Leader</hi></p>
                <p><q>We do not feel that it is employing the language of exaggeration to say that
                   the issue in a cheap and greatly improved form of the English Cyclopædia, under
-                  the editorship of Mr.<hi style="font-variant:small-caps;">Charles Knight</hi>, and with the co-operation of Messrs.
+                  the editorship of Mr. <hi style="font-variant:small-caps;">Charles Knight</hi>, and with the co-operation of Messrs.
                   <hi style="font-variant:small-caps;">Bradbury &amp; Evans</hi>, dedicated by permission to Her Majesty, partakes of the
                   character of a national undertaking.</q>—<hi style="font-style:italic;">Weekly News and Chronicle</hi>.</p>
                <p><q>The mass of information here presented in a beautiful type and a readable
