@@ -1059,14 +1059,34 @@
       </body>
    </text>
    <standOff>
-      <bibl> </bibl>
+         <listBibl>
+            <bibl xml:id="Enfield">Enfield, Lizzie, Cregan-Reid, Vybarr. "The Hound of the
+               Baskervilles". Encyclopedia Britannica, 25 Mar. 2025,
+               https://www.britannica.com/topic/The-Hound-of-the-Baskervilles. Accessed 17 May
+               2025.</bibl>
+            <bibl xml:id="Clausen">Clausen, Christopher. “Sherlock Holmes, Order, and the
+               Late-Victorian Mind.” The Georgia Review, vol. 38, no. 1, 1984, pp. 104–23. JSTOR,
+               http://www.jstor.org/stable/41398643. Accessed 18 May 2025.</bibl>
+            <bibl xml:id="Bass">Bass, John. “Dyspnea.” Clinical Methods: The History, Physical,
+               and Laboratory Examination,. 3rd edition. Butterworths, Boston 1990.
+               https://www.ncbi.nlm.nih.gov/books/NBK357/.</bibl>
+            <bibl xml:id="Lewis">Lewis, Charlton Thomas. A Latin Dictionary: Founded on Andrew’s
+               Edition of Freund’s Latin Dictionary. Reproduction en fac-Similé, Clarendon Press,
+               1980.
+               https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0059:entry=dyspnoea. </bibl>
+            <bibl xml:id="Michaelmas">“Michaelmas.” Britannica,
+               https://www.britannica.com/topic/Michaelmas. Accessed 19 May 2025.</bibl>
+            <bibl xml:id="Thompson">Thompson, Courtney E. “Phrenology.” Encyclopedia of the
+               History of Science, vol. 4, no. 1, Nov. 2021. ethos.lps.library.cmu.edu,
+               https://doi.org/10.34758/ymce-b249.</bibl>
+         </listBibl>
       <listPerson>
          <person xml:id="Holmes" role="fictional">
             <persName>
                <forename>Sherlock</forename>
                <surname>Holmes</surname>
             </persName>
-            <note><p>Sherlock Holmes is the main protagonist.</p></note>
+            <note><p>Sherlock Holmes is the main protagonist. Known for his role as the world's first "consulting detective", he assists both the police and private citizens with solving crimes which interest him. Eccentric but brilliant, he's one of the world's most well-known fictional characters.</p></note>
          </person>
          <person xml:id="Watson" role="fictional">
             <persName>
@@ -1074,7 +1094,7 @@
                <forename>John</forename>
                <surname>Watson</surname>
             </persName>
-            <note><p>The first person narrator and closest companion to Sherlock Holmes.</p></note>
+            <note><p>The first person narrator and closest companion to Sherlock Holmes. He does his best to keep up with Holmes, but thankfully he asks the questions we the readers need answered.</p></note>
          </person>
          <person xml:id="Mortimer" role="fictional">
             <persName>
@@ -1086,16 +1106,16 @@
                   in on both the published details of the case and his own personal
                experiences.</p></note>
          </person>
-         <person xml:id="Bertillon" role="fictional">
+         <person xml:id="Bertillon" role="historical">
             <persName>Bertillon</persName>
-            <note><p>Note</p></note>
+            <note><p>A French scientist who made a system called anthropometry which is a way to identify people by measurements which was made obsolete by fingerprinting.</p></note>
          </person>
          <person xml:id="CBaskerville" role="fictional">
             <persName>
                <roleName>Sir</roleName>
                <forename>Charles</forename>
                <surname>Baskerville</surname></persName>
-            <note><p>He dead</p></note>
+            <note><p>The most recent death in the Baskerville case. As noted by Dr. Mortimer, he seemed to have restlessness, anxiety, and insisted he was seeing a large hound out on the moor. He was convinced that his family is cursed after the death of Hugo Baskerville. He was beloved by the surrounding community by both local intellectuals and commoners. Childless, his heir is his nephew, Henry.</p></note>
          </person>
          <person xml:id="HBaskerville" role="fictional">
             <persName>
@@ -1109,11 +1129,11 @@
                <forename>Hugo</forename>
                <surname>Baskerville</surname>
             </persName>
-            <note><p/></note>
+            <note><p>The origin of the Baskerville curse, the first to reportedly be killed by the hound.</p></note>
          </person>
          <person xml:id="theMaiden" role="fictional">
             <persName>Maiden</persName>
-            <note><p>Note</p></note>
+            <note><p>The maiden Hugo Baskerville kidnapped.</p></note>
          </person>
          <person xml:id="Barrymore" role="fictional">
             <persName>
@@ -1125,15 +1145,15 @@
          </person>
          <person xml:id="Murphy" role="fictional">
             <persName>Murphy</persName>
-            <note><p>Note</p></note>
+            <note><p>Romani horse-dealer near the moor.</p></note>
          </person>
          <person xml:id="Frankland" role="fictional">
             <persName>Mr. Frankland</persName>
-            <note><p>Note</p></note>
+            <note><p>Neighbor of the Baskervilles who lives at Lafter Hall.</p></note>
          </person>
          <person xml:id="Stapleton" role="fictional">
             <persName>Mr. Stapleton</persName>
-            <note><p>Note</p></note>
+            <note><p>Another neighbor of Baskervile Hall, a naturalist.</p></note>
          </person>
          <person xml:id="Perkins" role="fictional">
             <persName>Perkins</persName>
@@ -1143,79 +1163,79 @@
       <listPlace>
          <place>
             <placeName xml:id="CCHospital"/>
-            <note><p/></note>
+            <note><p>Charing Cross Hospital, which Dr. Mortimer is connected to.</p></note>
          </place>
          <place>
             <placeName xml:id="London"/>
-            <note><p/></note>
+            <note><p>Sherlock's city of residence.</p></note>
          </place>
          <place>
             <placeName xml:id="Grimpen"/>
-            <note><p/></note>
+            <note><p>Where Dr. Mortimer has worked.</p></note>
          </place>
          <place>
             <placeName xml:id="Dartmoor"/>
-            <note><p/></note>
+            <note><p>Where Dr. Mortimer has worked.</p></note>
          </place>
          <place>
             <placeName xml:id="Devon"/>
-            <note><p/></note>
+            <note><p>Where Dr. Mortimer has worked.</p></note>
          </place>
          <place>
             <placeName xml:id="Thorsley"/>
-            <note><p/></note>
+            <note><p>Where Dr. Mortimer has worked.</p></note>
          </place>
          <place>
             <placeName xml:id="HighBarrow"/>
-            <note><p/></note>
+            <note><p>Where Dr. Mortimer has worked.</p></note>
          </place>
          <place>
             <placeName xml:id="ShippingOffice"/>
-            <note><p/></note>
+            <note><p>Where Dr. Mortimer was worried he may have left his walking stick.</p></note>
          </place>
          <place>
             <placeName xml:id="Europe"/>
-            <note><p/></note>
+            <note></note>
          </place>
          <place>
             <placeName xml:id="Devonshire"/>
-            <note><p/></note>
+            <note><p>Area where news of Charles Baskerville's death spread.</p></note>
          </place>
          <place>
             <placeName xml:id="BaskervilleHall"/>
-            <note><p/></note>
+            <note><p>The Baskerville family estate near the moor which may or may not be cursed.</p></note>
          </place>
          <place>
             <placeName xml:id="theMoor"/>
-            <note><p/></note>
+            <note><p>Area where the legend says the hound appears.</p></note>
          </place>
          <place>
             <placeName xml:id="Mid-Devon"/>
-            <note><p/></note>
+            <note><p>Region where Charles Baskerville was potentially in the running for office.</p></note>
          </place>
          <place>
             <placeName xml:id="SouthAfrica"/>
-            <note><p/></note>
+            <note><p>Where Charles Baskerville made his wealth before returning to England while he was ahead.</p></note>
          </place>
          <place>
             <placeName xml:id="America"/>
-            <note><p/></note>
+            <note><p>Where Henry Baskerville currently lives.</p></note>
          </place>
          <place>
             <placeName xml:id="Vatican"/>
-            <note><p/></note>
+            <note><p>Location Sherlock was at recently.</p></note>
          </place>
          <place>
             <placeName xml:id="LafterHall"/>
-            <note><p/></note>
+            <note><p>Near Baskerville Hall, where Mr. Franklin lives.</p></note>
          </place>
          <place>
             <placeName xml:id="YewAlley"/>
-            <note><p/></note>
+            <note><p>Alley near Baskerville Hall.</p></note>
          </place>
          <place>
             <placeName xml:id="England"/>
-            <note><p/></note>
+            <note><p>Setting of the story.</p></note>
          </place>
       </listPlace>
    </standOff>
