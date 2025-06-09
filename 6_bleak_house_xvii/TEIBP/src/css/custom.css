@@ -25,6 +25,8 @@
     margin: 0 15px;
 }
 
+/* 
+
 [serif] {
   font-family: Garamond, serif;
 }
@@ -66,13 +68,17 @@
   font-family: monospace;
 }
 
-[rend="caps"] {
-  text-transform: capitalize;
+
 }
 
 [rend="gothic"] {
   font-family: Fraktur;
 }
+
+ */
+
+[rend="caps"] {
+   text-transform: uppercase;
 
 .topnav a {
     color: white;
