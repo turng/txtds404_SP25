@@ -329,7 +329,7 @@
 
             <div xml:id="emptyStallsClipping" type="clipping">
                 <head rend="caps" type="date"><date when="1942-05-01">May 1, 1942</date></head>
-                <head type="title" style="text-align:center">>EMPTY STALLS--EVACUATIONS</head>
+                <head type="title" style="text-align:center">EMPTY STALLS--EVACUATIONS</head>
                 <head type="paper">SEATTLE TIMES</head>
                 <figure xml:id="emptyStallsImage" type="image">
                     <graphic url="../images/pikeplacenewTEIBP.jpg"/>
