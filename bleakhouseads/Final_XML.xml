@@ -465,7 +465,7 @@
             <div>
                <table>
                   <row style="font-size:10px;text-transform:uppercase;">
-                     <cell style="font-size:10px;">Chap.</cell>
+                     <cell style="text-align:right;font-size:10px;">Chap.</cell>
                      <cell/>
 		             <cell style="font-size:10px;">Page</cell>
                  </row>
