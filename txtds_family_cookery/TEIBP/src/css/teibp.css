@@ -1864,6 +1864,7 @@ a:hover {
   text-decoration: underline;
 }
 #teibpToolbox {
+  display: none;
   left: 56em;
   top: 25px;
   position: fixed;
@@ -1881,6 +1882,7 @@ a:hover {
   width: 12em;
 }
 #teibpToolbox h1 {
+  display: none;
   font-weight: bold;
   font-size: 115%;
   margin-top: 0;
