@@ -19,7 +19,7 @@
   /* reset text-indent for note with <l> ancestors. */
   text-indent: 0;
   font-size: 85%;
-  text-align: justify;
+  text-align: center;
   -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
   -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
   box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
@@ -47,7 +47,7 @@
 .-teibp-pb {
   display: block;
   width: 100%;
-  text-align: right;
+  text-align: center;
   color: gray;
   margin: 2em 0 2em 0;
   font-size: 11pt;
