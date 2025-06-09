@@ -126,7 +126,10 @@
                     <signed>
                         <title>Consul-General of Japan</title>
                         <name>Yoshiharu Takeno</name>
-                        <graphic url="../images/takeno_signature.jpg"/>
+                        <figure xml:id="takenoSignature">
+                            <graphic url="../images/takeno_signature.jpg"/>
+                            <figDesc><name>Takeno</name> signature</figDesc>
+                        </figure>
                     </signed>
                 </closer>
 
