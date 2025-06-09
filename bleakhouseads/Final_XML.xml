@@ -140,9 +140,9 @@
                            <cell>0</cell>
                         </row>
                         <row>
-                           <cell>,,</cell>
-                           <cell>,,</cell>
-                           <cell>,,</cell>
+                           <cell style="text-align:center;">,,</cell>
+                           <cell style="text-align:center;">,,</cell>
+                           <cell style="text-align:center;">,,</cell>
                            <cell>Half morocco,marble edges<!-- Spacing is supposed to be like this --></cell>
                            <cell/>
                            <cell/>
@@ -168,7 +168,7 @@
                         </row>
                         <row>
                            <cell>Half bound,</cell>
-                           <cell>,,</cell>
+                           <cell style="text-align:center;">,,</cell>
                            <cell>marble leaves</cell>
                            <cell/>
                            <cell>4</cell>
