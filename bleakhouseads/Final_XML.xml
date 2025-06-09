@@ -32,7 +32,7 @@
                House. With this edition, we aim to display the functional differences in
                publicaition of different mediums of text, particularly focusing on the publication
                elements of the texts individually as well as the advertisements used in the
-               periodicals and how these additions affected readership and the reader experience. </p>
+               periodicals and how these additions affected readership and the reader experience.</p>
             <p>Our digital edition focuses on Charles Dickens’ Bleak House, specifically the last
                few volumes of the 1852 serialized edition, and the 1853 complete first edition.
                Dickens wrote the book in twenty installments throughout 1852 and 1853, with the last
@@ -42,7 +42,7 @@
                the final serialized volume advertises the forthcoming first edition, and contains
                information regarding the copyright and printing information of that edition. A fair
                share of this advertising can also be found in the first novel edition, but not all
-               of it. </p>
+               of it.</p>
             <p>The focus of our edition is to compare the publication and copyright information
                shared between the serialized editions (especially the final one that advertises the
                complete edition) and the complete first edition of the book. The advertisement in
@@ -52,12 +52,12 @@
                having a better understanding of how the publication process between serials and
                complete volumes, as well as how the documentation of these efforts was less robust
                and more scattered between different sources than with today’s methods (such as
-               detailed copyright pages). </p>
+               detailed copyright pages).</p>
             <p>We are using a diplomatic transcription for our edition, and we are trying to
                recreate exactly what is shown on the key pages of the serial and complete editions
                of Bleak House which we are transcribing. We will not be making editorial
                corrrections to any of the text, although there is not too much text itself given the
-               relative sparseness of the pages we have chosen to transcribe. </p>
+               relative sparseness of the pages we have chosen to transcribe.</p>
          </publicationStmt>
          <sourceDesc>
             <bibl>
@@ -106,26 +106,26 @@
             <p>On Monday, 12th September will be published,</p>
             <p><hi style="font-style:italic;">Complete in One thick Volume, 8vo, with Forty Illustrations
                   by</hi>
-               <ref target="#HKBrowne_note">H.K. Browne</ref>,</p>
+               <ref target="#N1">H.K. Browne</ref>,</p>
             <p style="font-size:30px;text-transform:uppercase;">Bleak House.</p>
             <p style="font-size:12px;text-transform:uppercase;">By</p>
             <p style="font-size:16px;text-transform:uppercase">Charles Dickens.</p>
             <p>The Publishers beg to inform the Public and the Trade that <hi style="font-variant:small-caps;">Bleak
                   House,</hi> complete in One Volume, will be ready for delivery on the 12th
                September.</p>
-            <p>Price, <ref target="#cloth_binding_note">neatly bound in cloth</ref>. . . . . . . .
-               . &#163;1 1 0 </p>
+            <p>Price, <ref target="#N4">neatly bound in cloth</ref>. . . . . . . .
+               . &#163;1 1 0</p>
             <p>&quot; &quot; &quot; Half morocco, marble edges . . . . 1 4 6</p>
             <p>(<hi style="font-style:italic;">Cloth Cases for binding the above may be had at the
                   Publishers.</hi>)</p>
             <p><hi style="font-variant:small-caps;">Subscribers</hi> desirous of having their copies bound in
                a similar style can have them at their Booksellers, at the following prices:——</p>
-            <p>Whole bound, morocco gilt edges . . . . . . . . <ref target="#price_note">6s.
+            <p>Whole bound, morocco gilt edges . . . . . . . . <ref target="#N5">6s.
                   6d.</ref></p>
             <p>Half bound, &quot; . . . . . . . . 4 6</p>
             <p>In cloth, lettered . . . . . . . . . . 1 6</p>
             <p style="font-size:16px;text-transform:uppercase;">By the same author.</p>
-            <p style="font-size:12px;">Price <hi style="font-style:italic;">3s. 6d.</hi>each, neatly bound in
+            <p style="font-size:12px;">Price<hi style="font-style:italic;"> 3s. 6d.</hi>each, neatly bound in
                cloth,</p>
             <p style="font-size:20px;text-transform:uppercase;">The first and second volumes</p>
             <p style="font-size:12px;text-transform:uppercase;">Of</p>
@@ -139,7 +139,7 @@
                   Volumes.</p>
          </div>
          <div xml:id="Encyclopedia_Ad">
-            <head style="text-transform:uppercase;"><ref target="#Encyclopedia_note">English Cyclopædia.</ref></head>
+            <head style="text-transform:uppercase;"><ref target="#N2">English Cyclopædia.</ref></head>
             <ab style="font-type:gothic;">A New Dictionary of Universal Knowlege.</ab>
             <ab style="font-size:12px;text-transform:uppercase;font-weight:bold;">And Illustrated with Five
                Thousand Wood Engravings.</ab>
@@ -152,7 +152,7 @@
                      Cyclopædia</hi>.</quote>—<hi style="font-style:italic;">Leader</hi></p>
             <p><quote>We do not feel that it is employing the language of exaggeration to say that
                   the issue in a cheap and greatly improved form of the English Cyclopædia, under
-                  the editorship of Mr. <hi style="font-variant:small-caps;">Charles Knight</hi>, and with the co-operation of Messrs.
+                  the editorship of Mr.<hi style="font-variant:small-caps;">Charles Knight</hi>, and with the co-operation of Messrs.
                   <hi style="font-variant:small-caps;">Bradbury &amp; Evans</hi>, dedicated by permission to Her Majesty, partakes of the
                   character of a national undertaking.</quote>—<hi style="font-style:italic;">Weekly News and Chronicle</hi>.</p>
             <p><quote>The mass of information here presented in a beautiful type and a readable
@@ -220,7 +220,7 @@
                very medium that is used for filtration.</p>
          </div>
          <div xml:id="Cheap_Edition">
-            <head><hi style="text-transform:uppercase;"><ref target="#Cheap_Edition_note">Cheap
+            <head><hi style="text-transform:uppercase;"><ref target="#N6">Cheap
                   Edition</ref></hi></head>
             <p style="font-size=12px;text-transform:uppercase;">Of The</p>
             <p style="font-size=16px;text-transform:uppercase;">Works of Mr. Charles
@@ -313,7 +313,7 @@
                </table>
             </div>
             <div>
-               <ab style="class:publisher">London: <ref target="#Chapman_and_Hall_note">Chapman and
+               <ab style="class:publisher">London: <ref target="#N3">Chapman and
                      Hall</ref>, 193, Piccadilly.</ab>
             </div>
          </div>
@@ -323,7 +323,7 @@
                friendly union.</p>
             <p style="font-size:16px;text-transform:uppercase;text-align:center;">To My Companions</p>
             <p style="font-size:12px;text-transform:uppercase;text-align:center;">In the</p>
-            <p style="text-transform:uppercase;text-align:center;"><ref target="#guild_note">Guild of Literature
+            <p style="text-transform:uppercase;text-align:center;"><ref target="#N7">Guild of Literature
                   and Art</ref></p>
          </div>
          <div xml:id="Table_of_Contents_1">
@@ -481,7 +481,7 @@
       </body>
    </text>
    <standOff>
-      <note xml:id="HKBrowne_note">H.K. Browne, or Hablot Knight Browne, was Charles Dickens’ main
+      <note xml:id="N1">H.K. Browne, or Hablot Knight Browne, was Charles Dickens’ main
          illustrator, creating illustrations for ten out of fifteen of Dickens’ works. Sometimes he
          worked under the pseudonym Nemo or Phiz, but later changed to his real name in his later
          works. Originally, an artist named Robert Seymour created illustrations for Dickens but
@@ -489,25 +489,25 @@
          started by working on The Posthumous Papers of the Pickwick Club and continued for Dickens
          as his primary illustrator until he was passed over to create illustrations for Our Mutual
          Friend to Marcus Stone who then surpassed Browne in popularity.</note>
-      <note xml:id="Encyclopedia_note">The Cyclopædia is a different way of saying an English
+      <note xml:id="N2">The Cyclopædia is a different way of saying an English
          Encyclopedia. The first English encyclopedia was published in the late 1700s, later
          developing with illustrations, covering every subject from arts to sciences. The efforts to
          compile the first Encyclopedia are attributed to Diderot, taking a great amount of effort
          to compile all the necessary information to an inital 2000 subscribers which later expanded
          exponentially.</note>
-      <note xml:id="Chapman_and_Hall_note">Chapman and Hall published another edition of Bleak
+      <note xml:id="N3">Chapman and Hall published another edition of Bleak
          House in 1873.</note>
-      <note xml:id="cloth_binding_note">During the late 19th century, cloth binding became more
+      <note xml:id="N4">During the late 19th century, cloth binding became more
          popular, but it was not the norm. It was popular during the 17th and 18th century, with
          books bound in either leather or in a “temporary envelope of paper wrappers” (Carter). The
          development of cloth binding made literature more accessible as it was cheaper than its
          leather counterparts so a wider range of people from varying social strata could purchase
          books.</note>
-      <note xml:id="price_note">“s” denotes the cost of an item in shillings, while “d” denotes the
+      <note xml:id="N5">“s” denotes the cost of an item in shillings, while “d” denotes the
          cost in pennies. Shillings were the main form of currency in England in 1850 when Bleak
          House was published. It would take 20 shillings to make a pound and 12 pence to make a
          shilling, showing the cheapness of this text at the time.</note>
-      <note xml:id="Cheap_Edition_note">Publishers created cheap editions of books or compendiums
+      <note xml:id="N6">Publishers created cheap editions of books or compendiums
          of books in this case in order to increase affordability and accessibility of literature to
          ensure it was reaching as many people as possible. The creation of these editions
          contributed to various developments in the 19th century, however the most important was the
@@ -516,7 +516,7 @@
          cheap and regular editions at this time was the materials that were used in its production,
          with the regular editions having much more expensive paper, binding, etc., meaning that
          cheap editions would degrade quicker but were more affordable to lower classes.</note>
-      <note xml:id="guild_note">The Guild of Literature and Art was an organizati  on co-founded by
+      <note xml:id="N7">The Guild of Literature and Art was an organizati  on co-founded by
          Dickens along with John Forster and Edward Bulwer Lutton, to fund art projects for authors
          and artists who didn’t have enough money to pursue their art. As a cofounder, Dickens
          dedicated his novel to the organization to further promote it in order to spread more
