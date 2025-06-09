@@ -226,7 +226,7 @@
                     <figure xml:id="PercyBRiceSignature">
                         <graphic url="../images/percySignature.jpeg"/>
                         <figDesc><name>Perry B Rice</name></figDesc>
-                        <figDesc rend="caps">Secretary</figDesc>
+                        <figDesc rend="caps"><title>Secretary</title></figDesc>
                     </figure>
                     gm 
                 </signed>
@@ -692,7 +692,7 @@
                         <figure xml:id="splSignatures">
                             <graphic url="../images/4signatures.jpeg"/>
                             <figDesc><name>Josephine M. Quigley</name></figDesc>
-                            <figDesc>President</figDesc>
+                            <figDesc><title>President</title></figDesc>
                             <figDesc><name>Christine A. Neergaard</name></figDesc>
                             <figDesc>Two more illegible signatures</figDesc>
                         </figure>
@@ -806,7 +806,7 @@
                         <subst>
                             <add>A</add>
                             <del>E</del>
-                        </subst>AF/FRP       President, <name ref="#staff_association">Seattle Public Library<lb/>
+                        </subst>AF/FRP       <title>President</title>, <name ref="#staff_association">Seattle Public Library<lb/>
                             Staff Association</name>
                     </signed>
                 </closer>
