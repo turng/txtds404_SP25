@@ -34,6 +34,30 @@
     transition: background 0.3s;
 }
 
+note /* Numbered list  */ {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic
+
+}
+
+.item /* Bulleted list  */ {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-variant: small-caps;
+}
+
+.term /* Bulleted list  */ {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-variant: small-caps;
+}
+
+.persName /* Bulleted list  */ {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-variant: small-caps;
+}
+
 .topnav a:hover {
     background-color: black;
     color: white;
