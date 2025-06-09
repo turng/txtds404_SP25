@@ -24,7 +24,7 @@
     position: relative;
     margin: 0 15px;
 }
- 
+
 .topnav a {
     color: white;
     text-decoration: none;
@@ -34,31 +34,29 @@
     transition: background 0.3s;
 }
 
-note {
+note /* Numbered list  */ {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-style: italic
 
 }
 
-item {
+item /* Bulleted list  */ {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-style: italic;
     font-variant: small-caps;
 }
 
-term {
+term /* Bulleted list  */ {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-style: italic;
     font-variant: small-caps;
 }
 
-persName {
+persName /* Bulleted list  */ {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-style: italic;
     font-variant: small-caps;
 }
-
-
 
 .topnav a:hover {
     background-color: black;
