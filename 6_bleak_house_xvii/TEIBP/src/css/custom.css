@@ -107,7 +107,7 @@ p[rend="monospace"] {
 }
 
 /* Capitalize for rend="caps" */
-p[rend="caps"] {
+hi[rend="caps"] {
   text-transform: capitalize;
 }
 
