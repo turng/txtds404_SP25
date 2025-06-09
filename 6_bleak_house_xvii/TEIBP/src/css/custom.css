@@ -25,11 +25,11 @@
     margin: 0 15px;
 }
 
-[rend="serif"] {
+[serif] {
   font-family: Garamond, serif;
 }
 
-[rend="thserif"] {
+[thserif] {
   font-family: Garamond;
   text-shadow:
     2px 0 0 black,
@@ -38,12 +38,12 @@
     0 -2px 0 black; 
 }
 
-[rend="bserif"] {
+[bserif] {
   font-family: Calibri, sans-serif;
   font-weight: bold;
 }
 
-[rend="drop"] {
+[drop] {
   text-transform: capitalize;
   float: left;
   font-size: 3em;
@@ -54,15 +54,15 @@
   color: #903;
 }
 
-[rend="sans"] {
+[sans] {
   font-family: Calibri, sans-serif;
 }
 
-[rend="sc"] {
+[sc] {
   font-variant: small-caps;
 }
 
-[rend="monospace"] {
+[monospace] {
   font-family: monospace;
 }
 
