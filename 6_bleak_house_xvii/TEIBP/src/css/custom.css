@@ -68,7 +68,8 @@
   font-family: monospace;
 }
 
-
+[rend="caps"] {
+  text-transform: capitalize;
 }
 
 [rend="gothic"] {
@@ -76,11 +77,6 @@
 }
 
  */
-
-[rend="caps"] {
-   text-transform: uppercase;
-   }
-
 .topnav a {
     color: white;
     text-decoration: none;
