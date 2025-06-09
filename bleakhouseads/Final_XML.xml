@@ -396,7 +396,7 @@
                render the water more disagreeable and impure than before, owing to the putrid state of the
                very medium that is used for filtration.</p>
          </div>
-         <div xml:id="Cheap_Edition">
+         <div xml:id="Cheap_Edition" style="width:800px;margin-left:auto;margin-right:auto;">
             <head><hi style="text-transform:uppercase;"><ref target="#N6">Cheap
                   Edition</ref></hi></head>
             <p style="font-size:12px;text-transform:uppercase;">Of The</p>
@@ -405,21 +405,38 @@
             <div>
                <div type="shorterrule"/>
             </div>
-            <div>
-               <p>In compliance with the general wish of the purchasers of this Edition of the Works of
+            <div style="text-align:left;">
+               <p style="text-indent:1em;">In compliance with the general wish of the purchasers of this Edition of the Works of
                   <hi style="font-variant:small-caps;">Mr. Charles Dickens</hi>, terminating with <q><hi
                   style="font-variant:small-caps;"> Martin Chuzzlewit,<!-- Spacing is supposed to be like this --></hi></q> it is intended to include within
                   it the five Christmas Books :—</p>
-               <p style="font-size:16px;text-transform:uppercase;">A Christmas Carol.</p>
-               <p style="font-size:16px;text-transform:uppercase;">The Chimes.</p>
-               <p style="font-size:16px;text-transform:uppercase;">The Cricket on the Hearth</p>
-               <p style="font-size:16px;text-transform:uppercase;">The Battle of Life.</p>
-               <p style="font-size:16px;text-transform:uppercase;">The Haunted Man.</p>
-               <p>These will form, together, when their publication in Numbers shall be completed, <hi
-                  style="font-variant:small-caps;">One additional Volume of the Cheap Edition.</hi></p>
-               <p>This additional Volume, like its predecessors (and printed to range with them), will
-                  be issued in Weekly Numbers, price 1 ½ d. each, and in Monthly Parts. The first
-                  Weekly Number will be published on the 1st of June.</p></div>
+               <div style="font-size:16px;text-transform:uppercase;">
+                  <table style="width:250px;">
+                     <row>
+                        <cell>A Christmas Carol.</cell>
+                     </row>
+                     <row>
+                        <cell>The Chimes.</cell>
+                     </row>
+                     <row>
+                        <cell>The Cricket on the Hearth</cell>
+                     </row>
+                     <row>
+                        <cell>The Battle of Life.</cell>
+                     </row>
+                     <row>
+                        <cell>The Haunted Man.</cell>
+                     </row>
+                  </table>
+               </div>
+               <div>
+                  <p style="text-indent:1em;">These will form, together, when their publication in Numbers shall be completed, <hi
+                     style="font-variant:small-caps;">One additional Volume of the Cheap Edition.</hi></p>
+                  <p style="text-indent:1em;">This additional Volume, like its predecessors (and printed to range with them), will
+                     be issued in Weekly Numbers, price 1 ½ d. each, and in Monthly Parts. The first
+                     Weekly Number will be published on the 1st of June.</p>
+               </div>
+            </div>
             <div>
                <div type="shortrule"/>
             </div>

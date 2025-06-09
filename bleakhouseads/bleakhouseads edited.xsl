@@ -154,6 +154,11 @@
     <xsl:template match="tei:body/tei:div">
         <hr style="margin-top:75px;margin-bottom:75px;"/>
         <div class="contentblock">
+            <xsl:if test="@style">
+                <xsl:attribute name="style">
+                    <xsl:value-of select="@style"/>
+                </xsl:attribute>
+            </xsl:if>
             <xsl:apply-templates/>
         </div>
     </xsl:template>
@@ -171,6 +176,11 @@
         <div>
             <xsl:if test="@rend">
                 <xsl:attribute name="class"><xsl:value-of select="@rend"/></xsl:attribute>
+            </xsl:if>
+            <xsl:if test="@style">
+                <xsl:attribute name="style">
+                    <xsl:value-of select="@style"/>
+                </xsl:attribute>
             </xsl:if>
             <xsl:apply-templates/>
         </div>
