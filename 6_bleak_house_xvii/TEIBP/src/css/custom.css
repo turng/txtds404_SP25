@@ -58,6 +58,11 @@ persName /* Bulleted list  */ {
     font-variant: small-caps;
 }
 
+/*  serif divs */
+.serif {
+  font-family: Garamond, serif;
+}
+
 /* Garamond, serif for rend="serif" */
 p[rend="serif"] {
   font-family: Garamond, serif;
@@ -67,10 +72,10 @@ p[rend="serif"] {
 p[rend="thserif"] {
   font-family: Garamond, serif;
   text-shadow:
-    2px 0 0 black,
-    -2px 0 0 black,
-    0 2px 0 black,
-    0 -2px 0 black;
+    1px 0 0 black,
+    -1px 0 0 black,
+    0 1px 0 black,
+    0 -1px 0 black;
 }
 
 /* Bold Calibri for rend="bserif" */
@@ -108,7 +113,7 @@ p[rend="monospace"] {
 
 /* Capitalize for rend="caps" */
 hi[rend="caps"] {
-  text-transform: capitalize;
+  text-transform: uppercase;
 }
 
 /* Gothic/Fraktur font for rend="gothic" */

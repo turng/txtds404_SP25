@@ -214,7 +214,7 @@
 	 </xsl:copy>
        </xsl:template>
        
-       <!--
+ 
 	   <xd:doc xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
 	   <xd:desc>
 	   <xd:p>Transforms TEI figure/head to HTML figcaption</xd:p>
@@ -223,7 +223,6 @@
 	   <xsl:template match="tei:figure/tei:head">
 	   <figcaption><xsl:apply-templates/></figcaption>
 	   </xsl:template>
-       -->
        <!--
 	   <xd:doc xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
 	   <xd:desc>

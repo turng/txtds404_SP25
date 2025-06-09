@@ -151,4 +151,16 @@
             </span>
         </span>
     </xsl:template>
+    
+    <xsl:template match="@* | node()">
+        <xsl:copy>
+            <xsl:apply-templates select="@* | node()"/>
+        </xsl:copy>
+    </xsl:template>
+    
+    <xsl:template match="div[@rend='serif']">
+        <div class="serif">
+            <xsl:apply-templates/>
+        </div>
+    </xsl:template>
 </xsl:stylesheet>
