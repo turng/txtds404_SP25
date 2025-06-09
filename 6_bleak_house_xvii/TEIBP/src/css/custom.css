@@ -25,6 +25,55 @@
     margin: 0 15px;
 }
 
+[rend="serif"] {
+  font-family: Garamond, serif;
+}
+
+[rend="thserif"] {
+  font-family: Garamond;
+  text-shadow:
+    2px 0 0 black,
+    -2px 0 0 black,
+    0 2px 0 black,
+    0 -2px 0 black; 
+}
+
+[rend="bserif"] {
+  font-family: Calibri, sans-serif;
+  font-weight: bold;
+}
+
+[rend="drop"] {
+  text-transform: capitalize;
+  float: left;
+  font-size: 3em;
+  line-height: 1;
+  font-family: Garamond, serif;
+  margin-right: 0.1em;
+  margin-top: 0.1em;
+  color: #903;
+}
+
+[rend="sans"] {
+  font-family: Calibri, sans-serif;
+}
+
+[rend="sc"] {
+  font-variant: small-caps;
+}
+
+[rend="monospace"] {
+  font-family: monospace;
+}
+
+[rend="caps"] {
+  text-transform: capitalize;
+}
+
+[rend="gothic"] {
+  font-family: Fraktur;
+}
+
 .topnav a {
     color: white;
     text-decoration: none;
@@ -57,6 +106,8 @@ persName /* Bulleted list  */ {
     font-style: italic;
     font-variant: small-caps;
 }
+
+
 
 .topnav a:hover {
     background-color: black;
