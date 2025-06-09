@@ -40,19 +40,19 @@ note /* Numbered list  */ {
 
 }
 
-.item /* Bulleted list  */ {
+item /* Bulleted list  */ {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-style: italic;
     font-variant: small-caps;
 }
 
-.term /* Bulleted list  */ {
+term /* Bulleted list  */ {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-style: italic;
     font-variant: small-caps;
 }
 
-.persName /* Bulleted list  */ {
+persName /* Bulleted list  */ {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-style: italic;
     font-variant: small-caps;
