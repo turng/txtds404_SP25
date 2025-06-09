@@ -181,6 +181,81 @@
             <p style="font-size:12px;font-style:italic;">The History will be completed in Three
                   Volumes.</p>
          </div>
+         <div xml:id="Chapman_and_Hall">
+            <pb n="3"/>
+            <p style="class:runningheader">Advertisements.</p>
+            <p>Cheap editions.</p>
+            <div>
+               <p style="text-transform:uppercase;">The</p>
+               <p>Works of Mr. Charles Dickens.</p>
+               <p style="font-style:italic;">Uniformly printed in crown 8vo, Corrected and Revised throughout, with new
+                  prefaces by the Author.</p>
+               <table>
+                  <row>
+                     <cell/>
+                     <cell>Cloth, gilt backs.</cell>
+                  </row>
+                  <row>
+                     <cell/>
+                     <cell style="font-style:italic;">s.</cell>
+                     <cell style="font-style:italic;">d.</cell>
+                  </row>
+                  <row>
+                     <cell style="text-transform:uppercase;">Pickwick Papers</cell>
+                     <cell>5</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell style="text-transform:uppercase;">Nicholas Nickleby</cell>
+                     <cell>5</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell style="text-transform:uppercase;">Old Curiosity Shop</cell>
+                     <cell>4</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell style="text-transform:uppercase;">Barnaby Rudge</cell>
+                     <cell>4</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell style="text-transform:uppercase;">Martin Chuzzlewit</cell>
+                     <cell>5</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell style="text-transform:uppercase;">Oliver Twist</cell>
+                     <cell>3</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell style="text-transform:uppercase;">American Notes</cell>
+                     <cell>2</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell style="text-transform:uppercase;">Sketches by Boz</cell>
+                     <cell>3</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell style="text-transform:uppercase;">Christmas Books</cell>
+                     <cell>3</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>*** Any of the above volumes may be had separately, half-bound in
+                        morocco, for 2s. 6d. extra.</cell>
+                  </row>
+               </table>
+            </div>
+            <div>
+               <ab style="class:publisher">London: <ref target="#N3">Chapman and
+                     Hall</ref>, 193, Piccadilly.</ab>
+            </div>
+         </div>
          <div xml:id="Encyclopedia_Ad">
             <head style="text-transform:uppercase;"><ref target="#N2">English Cyclopædia.</ref></head>
             <ab style="font-type:gothic;">A New Dictionary of Universal Knowlege.</ab>
@@ -285,79 +360,24 @@
             <p style="font-size=16px;text-transform:uppercase;">Chapman and Hall, 193,
                   Piccadilly</p>
          </div>
-         <div xml:id="Chapman_and_Hall">
-            <pb n="3"/>
-            <p style="class:runningheader">Advertisements.</p>
-            <p>Cheap editions.</p>
-            <div>
-               <p style="text-transform:uppercase;">The</p>
-               <p>Works of Mr. Charles Dickens.</p>
-               <p style="font-style:italic;">Uniformly printed in crown 8vo, Corrected and Revised throughout, with new
-                  prefaces by the Author.</p>
-               <table>
-                  <row>
-                     <cell/>
-                     <cell>Cloth, gilt backs.</cell>
-                  </row>
-                  <row>
-                     <cell/>
-                     <cell style="font-style:italic;">s.</cell>
-                     <cell style="font-style:italic;">d.</cell>
-                  </row>
-                  <row>
-                     <cell style="text-transform:uppercase;">Pickwick Papers</cell>
-                     <cell>5</cell>
-                     <cell>0</cell>
-                  </row>
-                  <row>
-                     <cell style="text-transform:uppercase;">Nicholas Nickleby</cell>
-                     <cell>5</cell>
-                     <cell>0</cell>
-                  </row>
-                  <row>
-                     <cell style="text-transform:uppercase;">Old Curiosity Shop</cell>
-                     <cell>4</cell>
-                     <cell>0</cell>
-                  </row>
-                  <row>
-                     <cell style="text-transform:uppercase;">Barnaby Rudge</cell>
-                     <cell>4</cell>
-                     <cell>0</cell>
-                  </row>
-                  <row>
-                     <cell style="text-transform:uppercase;">Martin Chuzzlewit</cell>
-                     <cell>5</cell>
-                     <cell>0</cell>
-                  </row>
-                  <row>
-                     <cell style="text-transform:uppercase;">Oliver Twist</cell>
-                     <cell>3</cell>
-                     <cell>6</cell>
-                  </row>
-                  <row>
-                     <cell style="text-transform:uppercase;">American Notes</cell>
-                     <cell>2</cell>
-                     <cell>6</cell>
-                  </row>
-                  <row>
-                     <cell style="text-transform:uppercase;">Sketches by Boz</cell>
-                     <cell>3</cell>
-                     <cell>6</cell>
-                  </row>
-                  <row>
-                     <cell style="text-transform:uppercase;">Christmas Books</cell>
-                     <cell>3</cell>
-                     <cell>6</cell>
-                  </row>
-                  <row>
-                     <cell>*** Any of the above volumes may be had separately, half-bound in
-                        morocco, for 2s. 6d. extra.</cell>
-                  </row>
-               </table>
+         <div xml:id="Title_Page">
+            <head style="text-transform:uppercase;">Bleak House.</head>
+            <div rend="spacing">
+               <p>BY</p>
             </div>
-            <div>
-               <ab style="class:publisher">London: <ref target="#N3">Chapman and
-                     Hall</ref>, 193, Piccadilly.</ab>
+            <div rend="smallspacing">
+               <p><seg source="boldtext" style="text-transform:uppercase;">Charles Dickens.</seg></p>
+            </div>
+            <div rend="spacing smalltext">
+               <div type="rule"/>
+               <div>
+                  <p style="text-transform:uppercase;">With illustrations by H. K. Browne.</p>
+               </div>
+               <div type="rule"/>
+            </div>
+            <div rend="spacing">
+               <p style="text-transform:uppercase;">London : <lb/>Bradbury and Evans, 11, Bouverie Street.
+                  <lb/>1853. </p>
             </div>
          </div>
          <div xml:id="Dedication">
@@ -378,96 +398,76 @@
 		            <cell>Page</cell>
                </row>
                <row>
-                  <cell>I.</cell>
+                  <cell style="text-align:right;">I.</cell>
                   <cell style="font-variant:small-caps;">In Chancery</cell>
                   <cell>1</cell>
                </row>
                <row>
-                  <cell>II.</cell>
+                  <cell style="text-align:right;">II.</cell>
                   <cell>In Fashion</cell>
                   <cell>5</cell>
                </row>
                <row>
-                  <cell>III.</cell>
+                  <cell style="text-align:right;">III.</cell>
                   <cell>A Progress</cell>
                   <cell>10</cell>
                </row>
                <row>
-                  <cell>IV.</cell>
+                  <cell style="text-align:right;">IV.</cell>
                   <cell>Telescopic Philanthropy</cell>
                   <cell>24</cell>
                </row>
                <row>
-                  <cell>V.</cell>
+                  <cell style="text-align:right;">V.</cell>
                   <cell>A Morning Adventure</cell>
                   <cell>33</cell>
                </row>
                <row>
-                  <cell>VI.</cell>
+                  <cell style="text-align:right;">VI.</cell>
                   <cell>Quite at Home</cell>
                   <cell>42</cell>
                </row>
                <row>
-                  <cell>VII.</cell>
+                  <cell style="text-align:right;">VII.</cell>
                   <cell>The Ghost's Walk</cell>
                   <cell>57</cell>
                </row>
                <row>
-                  <cell>VIII.</cell>
+                  <cell style="text-align:right;">VIII.</cell>
                   <cell>Covering a Multitude of Sins</cell>
                   <cell>65</cell>
                </row>
                <row>
-                  <cell>IX.</cell>
+                  <cell style="text-align:right;">IX.</cell>
                   <cell>Signs and Tokens</cell>
                   <cell>79</cell>
                </row>
                <row>
-                  <cell>X.</cell>
+                  <cell style="text-align:right;">X.</cell>
                   <cell>The Law-writer</cell>
                   <cell>89</cell>
                </row>
                <row>
-                  <cell>XI.</cell>
+                  <cell style="text-align:right;">XI.</cell>
                   <cell>Our dear Brother</cell>
                   <cell>97</cell>
                </row>
                <row>
-                  <cell>XII.</cell>
+                  <cell style="text-align:right;">XII.</cell>
                   <cell>On the Watch</cell>
                   <cell>107</cell>
                </row>
                <row>
-                  <cell>XIII.</cell>
+                  <cell style="text-align:right;">XIII.</cell>
                   <cell>Esther's Narrative</cell>
                   <cell>117</cell>
                </row>
                <row>
-                  <cell>XIV.</cell>
+                  <cell style="text-align:right;">XIV.</cell>
                   <cell>Deportment</cell>
                   <cell>129</cell>
                </row>
             </table>
-         </div>
-         <div xml:id="Title_Page">
-            <head style="text-transform:uppercase;">Bleak House.</head>
-            <div rend="spacing">
-               <p>BY</p>
-            </div>
-            <div rend="smallspacing">
-               <p><seg source="boldtext" style="text-transform:uppercase;">Charles Dickens.</seg></p>
-            </div>
-            <div rend="spacing smalltext">
-               <div type="rule"/>
-               <div>
-                  <p style="text-transform:uppercase;">With illustrations by H. K. Browne.</p>
-               </div>
-               <div type="rule"/>
-            </div>
-            <div rend="spacing">
-               <p style="text-transform:uppercase;">London : <lb/>Bradbury and Evans, 11, Bouverie Street.
-                  <lb/>1853. </p>
-            </div>
          </div>
          <div xml:id="Chapter_I">
             <div rend="spacing">

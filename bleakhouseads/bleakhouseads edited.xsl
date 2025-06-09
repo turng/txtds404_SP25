@@ -183,7 +183,14 @@
         <tr><xsl:apply-templates/></tr>
     </xsl:template>
     <xsl:template match="tei:cell">
-        <td><xsl:apply-templates/></td>
+        <td>
+            <xsl:if test="@style">
+                <xsl:attribute name="style">
+                    <xsl:value-of select="@style"/>
+                </xsl:attribute>
+            </xsl:if>
+            <xsl:apply-templates/>
+        </td>
     </xsl:template>
     <xsl:template match="tei:div[@type='rule']">
         <hr/>
