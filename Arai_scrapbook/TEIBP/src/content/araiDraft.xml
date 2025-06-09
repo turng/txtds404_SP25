@@ -85,17 +85,23 @@
                 <p>Regrettably, we could not include every insightful artifact in Arai’s scrapbook.
                     We each chose a genre (personal correspondences, state issues, and newspaper
                     articles) and selected a few pages from that genre, maintaining original
-                    spellings and punctuation to preserve authenticity. We would like to acknowledge that several works within our selections utilize the slur, "Jap." While this term was used during the era reflected in these documents, it is now widely recognized as an offensive and racist slur. We have preserved it in this edition to maintain historical accuracy and to shed light on the prejudice Japanese Americans faced at the time. Our goal was to provide a glimpse into the first-hand experiences of Japanese Americans in Washington
-                    before and during World War II. Arai’s scrapbook offers a perspective unlike
-                    textbooks or documentaries, providing insight on lived experiences through his
-                    personal memorabilia and artifacts. By publishing this work, we hope that
-                    readers will gain a more well-rounded, holistic perspective on this time period,
-                    and an awareness of Arai’s life and enduring legacy.</p>
+                    spellings and punctuation to preserve authenticity. We would like to acknowledge
+                    that several works within our selections utilize the slur, "Jap." While this
+                    term was used during the era reflected in these documents, it is now widely
+                    recognized as an offensive and racist slur. We have preserved it in this edition
+                    to maintain historical accuracy and to shed light on the prejudice Japanese
+                    Americans faced at the time. Our goal was to provide a glimpse into the
+                    first-hand experiences of Japanese Americans in Washington before and during
+                    World War II. Arai’s scrapbook offers a perspective unlike textbooks or
+                    documentaries, providing insight on lived experiences through his personal
+                    memorabilia and artifacts. By publishing this work, we hope that readers will
+                    gain a more well-rounded, holistic perspective on this time period, and an
+                    awareness of Arai’s life and enduring legacy.</p>
             </div>
             <div type="annotations"> </div>
         </front>
         <body>
-            <div xml:id="arai-commendations" type="certificate"> 
+            <div xml:id="arai-commendations" type="certificate">
                 <head rend="caps" style="text-align: center">In Appreciation</head>
                 <head rend="caps" style="text-align: center">Presented to</head>
                 <head rend="caps" style="text-align: center"><name>Mr. Clarence T. Arai
@@ -119,9 +125,10 @@
                     <signed>
                         <title>Consul-General of Japan</title>
                         <name>Yoshiharu Takeno</name>
+                       <graphic url="signature.jpg"/>
                     </signed>
                 </closer>
-                <!-- maybe we should add image of signature here?-->
+                
             </div>
 
             <pb/>
@@ -142,8 +149,7 @@
                     ·the·secretary·and·the·administration·assistant·are·affixed·hereto</p>
                 <closer>
                     <signed>
-                        <name rend="right">Secretary</name>
-                        <!-- maybe we should add images of signatures here?-->
+                        <name rend="right">Secretary</name>                     
                         <name rend="left">Administrative Assistant</name>
                     </signed>
                 </closer>
