@@ -252,13 +252,13 @@
                </table>
             </div>
             <div>
-               <ab style="class:publisher">London: <ref target="#N3">Chapman and
+               <ab style="text-transform:uppercase;">London: <ref target="#N3">Chapman and
                      Hall</ref>, 193, Piccadilly.</ab>
             </div>
          </div>
          <div xml:id="Encyclopedia_Ad">
             <head style="text-transform:uppercase;"><ref target="#N2">English Cyclopædia.</ref></head>
-            <ab style="font-type:gothic;">A New Dictionary of Universal Knowlege.</ab>
+            <ab style="font-family:gothic;">A New Dictionary of Universal Knowlege.</ab>
             <ab style="font-size:12px;text-transform:uppercase;font-weight:bold;">And Illustrated with Five
                Thousand Wood Engravings.</ab>
             <ab style="text-transform:uppercase;">Conducted by Mr. Charles Knight.</ab>
@@ -340,24 +340,24 @@
          <div xml:id="Cheap_Edition">
             <head><hi style="text-transform:uppercase;"><ref target="#N6">Cheap
                   Edition</ref></hi></head>
-            <p style="font-size=12px;text-transform:uppercase;">Of The</p>
-            <p style="font-size=16px;text-transform:uppercase;">Works of Mr. Charles
+            <p style="font-size:12px;text-transform:uppercase;">Of The</p>
+            <p style="font-size:16px;text-transform:uppercase;">Works of Mr. Charles
                Dickens.</p>
             <p>In compliance with the general wish of the purchasers of this Edition of the Works of
                   <hi style="font-variant:small-caps;">Mr. Charles Dickens</hi>, terminating with <q><hi
                   style="font-variant:small-caps;"> Martin Chuzzlewit,<!-- Spacing is supposed to be like this --></hi></q> it is intended to include within
                   it the five Christmas Books :—</p>
-            <p style="font-size=16px;text-transform:uppercase;">A Christmas Carol.</p>
-            <p style="font-size=16px;text-transform:uppercase;">The Chimes.</p>
-            <p style="font-size=16px;text-transform:uppercase;">The Cricket on the Hearth</p>
-            <p style="font-size=16px;text-transform:uppercase;">The Battle of Life.</p>
-            <p style="font-size=16px;text-transform:uppercase;">The Haunted Man.</p>
+            <p style="font-size:16px;text-transform:uppercase;">A Christmas Carol.</p>
+            <p style="font-size:16px;text-transform:uppercase;">The Chimes.</p>
+            <p style="font-size:16px;text-transform:uppercase;">The Cricket on the Hearth</p>
+            <p style="font-size:16px;text-transform:uppercase;">The Battle of Life.</p>
+            <p style="font-size:16px;text-transform:uppercase;">The Haunted Man.</p>
             <p>These will form, together, when their publication in Numbers shall be completed, <hi
                   style="font-variant:small-caps;">One additional Volume of the Cheap Edition.</hi></p>
             <p>This additional Volume, like its predecessors (and printed to range with them), will
                be issued in Weekly Numbers, price 1 ½ d. each, and in Monthly Parts. The first
                Weekly Number will be published on the 1st of June.</p>
-            <p style="font-size=16px;text-transform:uppercase;">Chapman and Hall, 193,
+            <p style="font-size:16px;text-transform:uppercase;">Chapman and Hall, 193,
                   Piccadilly</p>
          </div>
          <div xml:id="Title_Page">
