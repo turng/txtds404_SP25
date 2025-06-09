@@ -77,7 +77,7 @@
       </front>
       <body>
          <!-- Chapter: Dainty Desserts-->
-         <div type="chapter">
+         <div type="chapter" xml:id="dainty_desserts">
             <pb n="30"/>
             <head>Dainty Desserts</head>
             <quote>A wilderness of sweets. — <persName>Millton</persName></quote>
@@ -88,8 +88,8 @@
             </figure>
 
             <!-- Recipes-->
-            <div type="recipe">
-               <head xml:id="date_pudding"><hi rend="sc">DATE PUDDING</hi></head>
+            <div type="recipe" xml:id="date_pudding">
+               <head rend="sc">DATE PUDDING</head>
                <list>
                   <item n="1">1 cup dates</item>
                   <item n="2">1 cup nuts</item>
@@ -117,8 +117,8 @@
                            Smith</persName></ref>.</hi></byline>
             </div>
 
-            <div type="recipe">
-               <head xml:id="stuffed_apples"><hi rend="sc">STUFFED APPLES</hi></head>
+            <div type="recipe" xml:id="stuffed_apples">
+               <head rend="sc">STUFFED APPLES</head>
                <p>Hollow out the cores of good baking apples and stuff with a mixture of chopped
                   dates, nuts and figs, and then bake them. Serve with whipped cream and a big
                   cherry on top of each. These make a most delicious dessert served with lady
@@ -126,8 +126,8 @@
                <byline><hi rend="sc"><persName>Helen Spaulding</persName>.</hi></byline>
             </div>
 
-            <div type="recipe">
-               <head xml:id="maple_parfait"><hi rend="sc">MAPLE PARFAIT</hi></head>
+            <div type="recipe" xml:id="maple_parfait">
+               <head rend="sc">MAPLE PARFAIT</head>
                <list>
                   <item n="1">1 cup maple sugar</item>
                   <item n="2">Yolk of 6 eggs</item>
@@ -139,8 +139,8 @@
                <byline><hi rend="sc"><persName>Mrs. Wingate</persName>.</hi></byline>
             </div>
 
-            <div type="recipe">
-               <head xml:id="fresh_fruit_mousse"><hi rend="sc">FRESH FRUIT MOUSSE</hi></head>
+            <div type="recipe" xml:id="fresh_fruit_mousse">
+               <head rend="sc">FRESH FRUIT MOUSSE</head>
                <p>Crush a dozen and a half ripe peaches and sweeten. Whip one quart of cream and add
                   to the fruit. Flavor with vanilla. <ref type="note" target="#n9">Put the mixture
                      in a mould and pack with cracked ice and salt</ref>. Change the packing three
@@ -149,15 +149,15 @@
                <byline><hi rend="sc"><persName>Elizabeth Daulton</persName>.</hi></byline>
             </div>
 
-            <div type="recipe">
-               <head xml:id="ambrosia"><hi rend="sc">AMBROSIA</hi></head>
+            <div type="recipe" xml:id="ambrosia">
+               <head rend="sc">AMBROSIA</head>
                <p>Slice oranges and bananas, sprinkle with cocoanut, squeeze lemon juice over it,
                   serve with whipped cream.</p>
                <byline><hi rend="sc"><persName>Alice Smith</persName>.</hi></byline>
             </div>
 
-            <div type="recipe">
-               <head xml:id="branberry_tarts"><hi rend="sc">BRANBERRY TARTS</hi></head>
+            <div type="recipe" xml:id="branberry_tarts">
+             <head rend="sc">BRANBERRY TARTS</head>
                <list>
                   <item n="1">1 cup raisins, ground fine</item>
                   <item n="2">1 <ref type="note" target="#n5">milk cracker</ref>, ground fine</item>
@@ -171,8 +171,8 @@
                <byline><hi rend="sc"><persName>Ruth Pepper</persName>.</hi></byline>
             </div>
 
-            <div type="recipe">
-               <head xml:id="chocolate_puffs"><hi rend="sc">CHOCOLATE PUFFS</hi></head>
+            <div type="recipe" xml:id="chocolate_puffs">
+               <head rend="sc">CHOCOLATE PUFFS</head>
                <p><ref type="note" target="#n10">Beat white of egg</ref> until very light; add
                   confectioner's sugar and cocoa until a good paste. Add pinch of salt and vanilla
                   to taste. Mould into little balls, roll in granulated sugar and place in oven for
@@ -180,8 +180,8 @@
             </div>
 
             <pb n="32"/>
-            <div type="recipe">
-               <head xml:id="caramel_pudding"><hi rend="sc">CARAMEL PUDDING</hi></head>
+            <div type="recipe" xml:id="caramel_pudding">
+               <head rend="sc">CARAMEL PUDDING</head>
                <list>
                   <item n="1">2 cups brown sugar</item>
                   <item n="2">2 cups water</item>
@@ -195,8 +195,8 @@
                <byline><hi rend="sc"><persName>Blanche Troutman</persName></hi></byline>
             </div>
 
-            <div type="recipe">
-               <head xml:id="angels_delight"><hi rend="sc">ANGELS DELIGHT</hi></head>
+            <div type="recipe" xml:id="angels_delight">
+               <head rend="sc">ANGELS DELIGHT</head>
                <list>
                   <item n="1">1 can pineapple</item>
                   <item n="2">½ lb. marshmallows</item>
@@ -209,8 +209,8 @@
                <byline><hi rend="sc"><persName>Lillian Everett</persName>.</hi></byline>
             </div>
 
-            <div type="recipe">
-               <head xml:id="fudge_pudding"><hi rend="sc">FUDGE PUDDING</hi></head>
+            <div type="recipe" xml:id="fudge_pudding">
+               <head rend="sc">FUDGE PUDDING</head>
                <list>
                   <item n="1">1 cup sugar</item>
                   <item n="2">½ cup molasses</item>
@@ -226,8 +226,8 @@
                   moulds. Makes 1½ dozens.</p>
             </div>
 
-            <div type="recipe">
-               <head xml:id="black_pudding"><hi rend="sc">BLACK PUDDING</hi></head>
+            <div type="recipe" xml:id="black_pudding">
+               <head rend="sc">BLACK PUDDING</head>
                <list>
                   <item n="1">1 tbsp. butter</item>
                   <item n="2">Pinch salt</item>
@@ -247,16 +247,16 @@
                </list>
             </div>
 
-            <div type="recipe">
-               <head xml:id="brownies"><hi rend="sc">BROWNIES</hi></head>
+            <div type="recipe" xml:id="brownies">
+               <head rend="sc">BROWNIES</head>
                <p>Melt 2 squares chocolate and ½ cup butter. Add 2 beaten eggs, 1 cup sugar, little
                   vanilla and ½ cup flour, 1 pound of nuts. Spread as you do ginger bread and bake
                   for 30 minutes. When cool cut in squares.</p>
                <byline><hi rend="sc">M. <persName>Southard</persName>.</hi></byline>
             </div>
 
-            <div type="recipe">
-               <head xml:id="cream_puffs"><hi rend="sc">CREAM PUFFS</hi></head>
+            <div type="recipe" xml:id="cream_puffs">
+               <head rend="sc">CREAM PUFFS</head>
                <list>
                   <item n="1">1 cup flour</item>
                   <item n="2">½ cup butter</item>
@@ -270,8 +270,8 @@
                <byline><hi rend="sc"><persName>Esther R. Palmer</persName>.</hi></byline>
             </div>
 
-            <div type="recipe">
-               <head xml:id="pineapple_compote"><hi rend="sc">PINEAPPLE COMPOTE</hi></head>
+            <div type="recipe" xml:id="pineapple_compote">
+             <head rend="sc">PINEAPPLE COMPOTE</head>
                <list>
                   <item n="1">1 cup rice</item>
                   <item n="2">1 teaspoon butter</item>
@@ -286,8 +286,8 @@
                   hot. </p>
             </div>
 
-            <div type="recipe">
-               <head xml:id="spanish_cream"><hi rend="sc">SPANISH CREAM</hi></head>
+            <div type="recipe" xml:id="spanish_cream">
+               <head rend="sc">SPANISH CREAM</head>
                <list>
                   <item n="1">1 quart scalded milk</item>
                   <item n="2">½ package gelatine</item>
@@ -300,8 +300,8 @@
                   whites and add vanilla. Pour into moulds.</p>
             </div>
 
-            <div type="recipe">
-               <head xml:id="meringues"><hi rend="sc">MERINGUES</hi></head>
+            <div type="recipe" xml:id="meringues">
+              <head rend="sc">MERINGUES</head>
                <list>
                   <item n="1">Whites of 2 eggs</item>
                   <item n="2">½ cup sugar</item>
@@ -313,8 +313,8 @@
                <byline><hi rend="sc"><persName>Roszelle Milburn</persName>.</hi></byline>
             </div>
 
-            <div type="recipe">
-               <head xml:id="fruit_sherbet"><hi rend="sc">FRUIT SHERBET</hi></head>
+            <div type="recipe" xml:id="fruit_sherbet">
+               <head rend="sc">FRUIT SHERBET</head>
                <p>Three cups water; 2½ cups sugar.Boil water and sugar for 15 minutes and cool.</p>
                <list>
                   <item n="1">3 lemons</item>
@@ -325,9 +325,8 @@
                <p>Rub fruits through sieve and freeze.</p>
             </div>
 
-            <div type="recipe">
-               <head xml:id="custard_souffle_fruit_sauce"><hi rend="sc">CUSTARD SOUFFLE (Fruit
-                     Sauce)</hi></head>
+            <div type="recipe" xml:id="custard_souffle_fruit_sauce">
+             <head rend="sc">CUSTARD SOUFFLE (Fruit Sauce)</head>
                <list>
                   <item n="1">3 teaspoons butter</item>
                   <item n="2">3 teaspoons flour</item>
@@ -348,7 +347,7 @@
 
          <pb n="36"/>
          <!-- Chapter: Cakes -->
-         <div type="chapter">
+         <div type="chapter" xml:id="Cakes">
             <head>Cakes</head>
             <quote>"The last taste of sweets is sweetest last." —
                <persName>Shakespeare</persName></quote>
@@ -359,8 +358,8 @@
             </figure>
 
             <!-- Recipes -->
-            <div type="recipe">
-               <head xml:id="jam_cake"><hi rend="sc">JAM CAKE</hi></head>
+            <div type="recipe" xml:id="jam_cake">
+               <head rend="sc">JAM CAKE</head>
                <list>
                   <item n="1">3 eggs</item>
                   <item n="2">1 cup sugar</item>
@@ -374,14 +373,13 @@
                <byline><hi rend="sc"><persName>Alice Smith</persName></hi></byline>
             </div>
 
-            <div type="recipe">
-               <head xml:id="cocoanut_drops"><hi rend="sc">COCOANUT DROPS</hi></head>
+            <div type="recipe" xml:id="cocoanut_drops">
+               <head rend="sc">COCOANUT DROPS</head>
                <list>
                   <item n="1">1 cup sugar</item>
                   <item n="2">1–3 cup hot water</item>
                </list>
                <p>Boil sugar and water until it forms a fine hair.</p>
-               <!--should it be item or list?-->
                <p>1 lb. shredded cocoanut, 3–4 whites beaten stiff. Add syrup to beaten whites and
                   beat thoroughly, then stir in enough cocoanut to make the mixture very stiff. Mold
                   into balls about an inch thick. Bake on a buttered pan in a hot oven until a light
@@ -389,16 +387,16 @@
                <byline><hi rend="sc"><persName>Dorothy Wade</persName></hi></byline>
             </div>
 
-            <div type="recipe">
-               <head xml:id="sponge_cake"><hi rend="sc">SPONGE CAKE</hi></head>
+            <div type="recipe" xml:id="sponge_cake">
+               <head rend="sc">SPONGE CAKE</head>
                <p>To two well beaten eggs, add 1 cup of sugar, ½ cup sifted flour. Stir well, then
                   add another ½ cup of flour with a teaspoonful of baking powder. Just before
                   putting in pan, add ½ cup of boiling water and flavor.</p>
                <byline><hi rend="sc"><persName>Ione Holmes</persName></hi></byline>
             </div>
 
-            <div type="recipe">
-               <head xml:id="wasington_pie"><hi rend="sc">WASHINGTON PIE</hi></head>
+            <div type="recipe" xml:id="wasington_pie">
+               <head rend="sc">WASHINGTON PIE</head>
                <list>
                   <item n="1">1–3 cup butter</item>
                   <item n="2">1 cup sugar</item>
@@ -412,8 +410,8 @@
                   layers and sprinkle top with powdered sugar.</p>
             </div>
 
-            <div type="recipe">
-               <head xml:id="christmas_honey_cake"><hi rend="sc">CHRISTMAS HONEY CAKE</hi></head>
+            <div type="recipe" xml:id="christmas_honey_cake">
+            <head rend="sc">CHRISTMAS HONEY CAKE</head>
                <list>
                   <item n="1">1½ cups citron and almond nuts chopped fine</item>
                   <item n="2">2 cups brown sugar</item>
@@ -434,8 +432,8 @@
                <byline><hi rend="sc"><persName>Mamie Cameron</persName></hi></byline>
             </div>
 
-            <div type="recipe">
-               <head xml:id="one_egg_cake"><hi rend="sc">ONE-EGG CAKE</hi></head>
+            <div type="recipe" xml:id="one_egg_cake">
+               <head rend="sc">ONE-EGG CAKE</head>
                <list>
                   <item n="1">1 cup sugar</item>
                   <item n="2">1 large tablespoon butter</item>
@@ -449,8 +447,8 @@
                <byline><hi rend="sc"><persName>Catherine Baxter</persName></hi></byline>
             </div>
 
-            <div type="recipe">
-               <head xml:id="nut_loaf"><hi rend="sc">NUT LOAF</hi></head>
+            <div type="recipe" xml:id="nut_loaf">
+               <head rend="sc">NUT LOAF</head>
                <list>
                   <item n="1">1½ cups white flour</item>
                   <item n="2">1½ cups graham flour</item>
@@ -464,15 +462,15 @@
             </div>
 
             <pb n="38"/>
-            <div type="recipe">
-               <head xml:id="sour_cream_cookies"><hi rend="sc">SOUR CREAM COOKIES</hi></head>
+            <div type="recipe" xml:id="sour_cream_cookies">
+               <head rend="sc">SOUR CREAM COOKIES</head>
                <p>Mix together 2 cups sugar, ½ cup butter, 2 eggs well beaten, ½ cup sour milk, ½
                   teaspoonful cinnamon and ½ teaspoonful cloves and soda. Drop by spoonfuls on
                   buttered tins.</p>
             </div>
 
-            <div type="recipe">
-               <head xml:id="walnut_chocolates"><hi rend="sc">WALNUT CHOCOLATES</hi></head>
+            <div type="recipe" xml:id="walnut_chocolates">
+               <head rend="sc">WALNUT CHOCOLATES</head>
                <list>
                   <item n="1">Whites of 3 eggs</item>
                   <item n="2">¾ cup granulated sugar</item>
@@ -484,8 +482,8 @@
                <byline><hi rend="sc"><persName>Martha Davis</persName></hi></byline>
             </div>
 
-            <div type="recipe">
-               <head xml:id="rich_chocolate_cake"><hi rend="sc">RICH CHOCOLATE CAKE</hi></head>
+            <div type="recipe" xml:id="rich_chocolate_cake">
+               <head rend="sc">RICH CHOCOLATE CAKE</head>
                <list>
                   <item n="1">1 ¾ cups sugar</item>
                   <item n="2">15 tablespoons butter</item>
@@ -502,8 +500,8 @@
                <byline><hi rend="sc"><persName>Miss E. I. Raitt</persName></hi></byline>
             </div>
 
-            <div type="recipe">
-               <head xml:id="rocks"><hi rend="sc">ROCKS</hi></head>
+            <div type="recipe" xml:id="rocks">
+               <head rend="sc">ROCKS</head>
                <list>
                   <item n="1">½ c. brown sugar</item>
                   <item n="2">1 c. butter</item>
@@ -518,8 +516,8 @@
             </div>
 
             <pb n="39"/>
-            <div type="recipe">
-               <head xml:id="wafers"><hi rend="sc">WAFERS</hi></head>
+            <div type="recipe" xml:id="wafers">
+               <head rend="sc">WAFERS</head>
                <list>
                   <item n="1">½ cup butter</item>
                   <item n="2">1 cup powdered sugar</item>
@@ -532,9 +530,8 @@
                   baking sheet and cut while warm.</p>
             </div>
 
-            <div type="recipe">
-               <head xml:id="spice_cakes_with_dates_and_nuts"><hi rend="sc">SPICE CAKES (With Dates
-                     and Nuts)</hi></head>
+            <div type="recipe" xml:id="spice_cakes_with_dates_and_nuts">
+               <head rend="sc">SPICE CAKES (With Dates and Nuts)</head>
                <list>
                   <item n="1">1 ½ cups flour</item>
                   <item n="2">1 cup dates, cut up</item>
@@ -550,8 +547,8 @@
                <p>Mix dates, water and soda together.</p>
             </div>
 
-            <div type="recipe">
-               <head xml:id="aid_society_cakes"><hi rend="sc">AID SOCIETY CAKES</hi></head>
+            <div type="recipe" xml:id="aid_society_cakes">
+               <head rend="sc">AID SOCIETY CAKES</head>
                <p>Put into a sauce pan the following:</p>
                <list>
                   <item n="1">1 cup brown sugar</item>
@@ -571,15 +568,15 @@
                <p>A few chopped nuts may be added if desired. Bake in a moderate oven.</p>
             </div>
 
-            <div type="recipe">
-               <head xml:id="gingerbread_drops"><hi rend="sc">GINGERBREAD DROPS</hi></head>
+            <div type="recipe" xml:id="gingerbread_drops">
+              <head rend="sc">GINGERBREAD DROPS</head>
                <p>Beat two cupfuls of brown sugar with four eggs for 10 minutes; add two-third <pb
                      n="40"/>cup water, one pint flour two teaspoons baking powder, one tablespoon
                   ginger, one teaspoon lemon; mix into smooth spong and bake in gem pans.</p>
             </div>
 
-            <div type="recipe">
-               <head xml:id="lady_baltimore"><hi rend="sc">LADY BALTIMORE</hi></head>
+            <div type="recipe"  xml:id="lady_baltimore">
+               <head rend="sc">LADY BALTIMORE</head>
                <p>Rub a cupful butter to a cream with two cups powdered sugar, add a cupful milk,
                   when well mixed stir in the juice of one lemon and whip very light, then stir in
                   alternately the stiffened whites of six eggs and four even cupfuls flour, sifted
@@ -587,8 +584,8 @@
                <byline><hi rend="sc"><persName>Mrs. H. Landes.</persName></hi></byline>
             </div>
 
-            <div type="recipe">
-               <head xml:id="angel_food_cake"><hi rend="sc">ANGEL FOOD CAKE</hi></head>
+            <div type="recipe" xml:id="angel_food_cake">
+               <head rend="sc">ANGEL FOOD CAKE</head>
                <list>
                   <item n="1">Whites of 11 eggs</item>
                   <item n="2">1 glass flour</item>
@@ -604,8 +601,8 @@
                <byline><persName>Cassie Lawrence</persName></byline>
             </div>
 
-            <div type="recipe">
-               <head xml:id="burned_sugar_cake"><hi rend="sc">BURNED SUGAR CAKE</hi></head>
+            <div type="recipe" xml:id="burned_sugar_cake">
+               <head rend="sc">BURNED SUGAR CAKE</head>
                <p>½ c. sugar, ½ c. butter mashed to a cream, yolks of 2 eggs well beaten, 1 cup
                   water, 2 ½ c. flour, 2 tsp. Baking pow-der, 1.2 cup burned sugar syrup, whites of
                   2 eggs, beaten stiff. Bake in layers. For the sugar syrup, take 1-3 c. sugar<pb
@@ -620,7 +617,7 @@
 
       <back>
          <div type="endnotes">
-            <head types="notes">Notes</head>
+            <head type="notes">Notes</head>
             <note xml:id="n1">The University of Washington Young Women’s Christian Association
                (1895-1996) was founded in 1895 by Ella Chamberlain, the head of the UW English
                department. It was the first women's organization on campus, and initially served as
@@ -637,7 +634,7 @@
                more accessible and efficient. Unlike traditional wood or coal-fired ovens, electric
                ovens offered precise temperature control and consistent heat distribution. Today’s
                readers of this cookbook can easily follow the baking instructions using a modern
-               electric oven. <ref type="bibl" target="#grove">See Grove</ref>. </note>
+               electric oven. <ref type="bibl" target="#grove">See Grove</ref>.</note>
 
             <note xml:id="n3">MRS. J. ALLEN SMITH: The wife of J. Allen Smith. J. Allen Smith
                (1860–1924) was an important figure in the early development of the University of
@@ -645,7 +642,7 @@
                honor. It was difficult to find information by searching the contributor’s name, but
                the example of Mrs. J. Allen Smith shows that both students and wives of faculty
                members contributed to this cookbook. <ref type="bibl" target="#aswt2014">See Arts
-                  &amp; Sciences Web Team</ref>. </note>
+                  &amp; Sciences Web Team</ref>.</note>
 
             <note xml:id="n4">Best Marshmallows= Marshmallow</note>
             <note xml:id="n5">Milk Cracker = Cracker</note>
@@ -655,7 +652,7 @@
             <note xml:id="n9">Today, however, we would typically use a freezer to chill the
                mousse.</note>
             <note xml:id="n10">The receipts instruct stirring or beating eggs or cream by hand, but
-               today we could use electric mixers to mix these ingredients. </note>
+               today we could use electric mixers to mix these ingredients.</note>
 
          </div>
 
