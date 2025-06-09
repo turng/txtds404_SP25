@@ -153,7 +153,7 @@
             <xsl:apply-templates/>
         </div>
     </xsl:template>
-    <xsl:template match="tei:quote">
+    <xsl:template match="tei:q">
         "<xsl:apply-templates/>"
     </xsl:template>
     <xsl:template match="tei:ab">

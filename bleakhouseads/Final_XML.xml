@@ -113,17 +113,60 @@
             <p>The Publishers beg to inform the Public and the Trade that <hi style="font-variant:small-caps;">Bleak
                   House,</hi> complete in One Volume, will be ready for delivery on the 12th
                September.</p>
-            <p>Price, <ref target="#N4">neatly bound in cloth</ref>. . . . . . . .
-               . &#163;1 1 0</p>
-            <p>&quot; &quot; &quot; Half morocco, marble edges . . . . 1 4 6</p>
+            <table>
+               <row>
+                  <cell>Price,</cell>
+                  <cell>neatly</cell>
+                  <cell>bound in</cell>
+                  <cell><ref target="#N4">cloth</ref></cell>
+                  <cell/>
+                  <cell>&#163;</cell>
+                  <cell>1</cell>
+                  <cell>1</cell>
+                  <cell>0</cell>
+               </row>
+               <row>
+                  <cell>,,</cell>
+                  <cell>,,</cell>
+                  <cell>,,</cell>
+                  <cell>Half morocco,marble edges<!-- Spacing is supposed to be like this --></cell>
+                  <cell/>
+                  <cell/>
+                  <cell>1</cell>
+                  <cell>4</cell>
+                  <cell>6</cell>
+               </row>
+            </table>
             <p>(<hi style="font-style:italic;">Cloth Cases for binding the above may be had at the
                   Publishers.</hi>)</p>
             <p><hi style="font-variant:small-caps;">Subscribers</hi> desirous of having their copies bound in
                a similar style can have them at their Booksellers, at the following prices:——</p>
-            <p>Whole bound, morocco gilt edges . . . . . . . . <ref target="#N5">6s.
-                  6d.</ref></p>
-            <p>Half bound, &quot; . . . . . . . . 4 6</p>
-            <p>In cloth, lettered . . . . . . . . . . 1 6</p>
+            <table>
+               <row>
+                  <cell>Whole bound,</cell>
+                  <cell>morocco</cell>
+                  <cell>gilt edges</cell>
+                  <cell/>
+                  <cell><ref target="#N5">6s.</ref></cell>
+                  <cell>6d.</cell>
+               </row>
+               <row>
+                  <cell>Half bound,</cell>
+                  <cell>,,</cell>
+                  <cell>marble leaves</cell>
+                  <cell/>
+                  <cell>4</cell>
+                  <cell>6</cell>
+               </row>
+               <row>
+                  <cell>In cloth, lettered</cell>
+                  <cell/>
+                  <cell/>
+                  <cell/>
+                  <cell>1</cell>
+                  <cell>6</cell>
+               </row>
+            </table>
             <p style="font-size:16px;text-transform:uppercase;">By the same author.</p>
             <p style="font-size:12px;">Price<hi style="font-style:italic;"> 3s. 6d.</hi>each, neatly bound in
                cloth,</p>
@@ -227,7 +270,7 @@
                Dickens.</p>
             <p>In compliance with the general wish of the purchasers of this Edition of the Works of
                   <hi style="font-variant:small-caps;">Mr. Charles Dickens</hi>, terminating with <q><hi
-                  style="font-variant:small-caps;">Martin Chuzzlewit,</hi></q> it is intended to include within
+                  style="font-variant:small-caps;"> Martin Chuzzlewit,<!-- Spacing is supposed to be like this --></hi></q> it is intended to include within
                   it the five Christmas Books :—</p>
             <p style="font-size=16px;text-transform:uppercase;">A Christmas Carol.</p>
             <p style="font-size=16px;text-transform:uppercase;">The Chimes.</p>
