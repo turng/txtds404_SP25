@@ -60,7 +60,8 @@
 	    <p>This edition has been prepared for publication as HTML through an XSLT transformation.
 		With our focus on visual replication, this means that in encoding, we have prioritized
 		practical considerations related to XSL and CSS over robust markup of semantic and
-		contextual information in the base XML.</p>
+		contextual information in the base XML, though we do still communicate some contextual
+		information through notes.</p>
          </publicationStmt>
          <sourceDesc>
             <bibl>
