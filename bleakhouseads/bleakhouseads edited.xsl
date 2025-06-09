@@ -19,14 +19,17 @@
                     margin-right: auto;
                     margin-top: 75px;
                     margin-bottom: 100px;
+                    margin-left:25px;
+                    margin-right:25px;
                     }
                     
                     table {
                      text-align: justify;
                      margin-left: auto;
                      margin-right: auto;
-                     margin-top: 75px;
-                     margin-bottom: 100px;
+                     margin-top: 25px;
+                     margin-bottom: 25px;
+                     width:400px;
                     }
                     
                     s{
@@ -68,13 +71,15 @@
                     
                     .biblcolumns{
                     text-align:center;
-                    column-width:35em;
+                    column-count:2;
+                    column-width:10em;
                     }
                     
                     .columns{
                     text-align:justify;
                     text-indent:1em;
-                    column-width:35em;
+                    column-count:2;
+                    column-width:20em;
                     column-rule:1px solid;
                     }
                 </style>
@@ -194,7 +199,14 @@
         </s>
     </xsl:template>
     <xsl:template match="tei:table">
-        <table><xsl:apply-templates/></table>
+        <table>
+            <xsl:if test="@style">
+                <xsl:attribute name="style">
+                    <xsl:value-of select="@style"/>
+                </xsl:attribute>
+            </xsl:if>
+            <xsl:apply-templates/>
+        </table>
     </xsl:template>
     <xsl:template match="tei:row">
         <tr><xsl:apply-templates/></tr>
@@ -204,6 +216,11 @@
             <xsl:if test="@style">
                 <xsl:attribute name="style">
                     <xsl:value-of select="@style"/>
+                </xsl:attribute>
+            </xsl:if>
+            <xsl:if test="@cols">
+                <xsl:attribute name="colspan">
+                    <xsl:value-of select="@cols"/>
                 </xsl:attribute>
             </xsl:if>
             <xsl:apply-templates/>

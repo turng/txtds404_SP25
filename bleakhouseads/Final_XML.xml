@@ -237,7 +237,7 @@
                <table>
                   <row>
                      <cell/>
-                     <cell>Cloth, gilt backs.</cell>
+                     <cell cols="2" style="text-align:center;">Cloth, gilt backs.</cell>
                   </row>
                   <row>
                      <cell/>
@@ -290,7 +290,7 @@
                      <cell>6</cell>
                   </row>
                   <row>
-                     <cell>*** Any of the above volumes may be had separately, half-bound in
+                     <cell cols="3">*** Any of the above volumes may be had separately, half-bound in
                         morocco, for 2s. 6d. extra.</cell>
                   </row>
                </table>
@@ -459,83 +459,88 @@
          </div>
          <div xml:id="Table_of_Contents_1">
             <head style="font-variant:small-caps;">Contents.</head>
-            <table>
-               <row style="font-size:10px;text-transform:uppercase;">
-                  <cell>Chap.</cell>
-                  <cell/>
-		            <cell>Page</cell>
-               </row>
-               <row>
-                  <cell style="text-align:right;">I.</cell>
-                  <cell style="font-variant:small-caps;">In Chancery</cell>
-                  <cell>1</cell>
-               </row>
-               <row>
-                  <cell style="text-align:right;">II.</cell>
-                  <cell>In Fashion</cell>
-                  <cell>5</cell>
-               </row>
-               <row>
-                  <cell style="text-align:right;">III.</cell>
-                  <cell>A Progress</cell>
-                  <cell>10</cell>
-               </row>
-               <row>
-                  <cell style="text-align:right;">IV.</cell>
-                  <cell>Telescopic Philanthropy</cell>
-                  <cell>24</cell>
-               </row>
-               <row>
-                  <cell style="text-align:right;">V.</cell>
-                  <cell>A Morning Adventure</cell>
-                  <cell>33</cell>
-               </row>
-               <row>
-                  <cell style="text-align:right;">VI.</cell>
-                  <cell>Quite at Home</cell>
-                  <cell>42</cell>
-               </row>
-               <row>
-                  <cell style="text-align:right;">VII.</cell>
-                  <cell>The Ghost's Walk</cell>
-                  <cell>57</cell>
-               </row>
-               <row>
-                  <cell style="text-align:right;">VIII.</cell>
-                  <cell>Covering a Multitude of Sins</cell>
-                  <cell>65</cell>
-               </row>
-               <row>
-                  <cell style="text-align:right;">IX.</cell>
-                  <cell>Signs and Tokens</cell>
-                  <cell>79</cell>
-               </row>
-               <row>
-                  <cell style="text-align:right;">X.</cell>
-                  <cell>The Law-writer</cell>
-                  <cell>89</cell>
-               </row>
-               <row>
-                  <cell style="text-align:right;">XI.</cell>
-                  <cell>Our dear Brother</cell>
-                  <cell>97</cell>
-               </row>
-               <row>
-                  <cell style="text-align:right;">XII.</cell>
-                  <cell>On the Watch</cell>
-                  <cell>107</cell>
-               </row>
-               <row>
-                  <cell style="text-align:right;">XIII.</cell>
-                  <cell>Esther's Narrative</cell>
-                  <cell>117</cell>
-               </row>
-               <row>
-                  <cell style="text-align:right;">XIV.</cell>
-                  <cell>Deportment</cell>
-                  <cell>129</cell>
-               </row>
-            </table>
+            <div>
+               <div type="shorterrule"/>
+            </div>
+            <div>
+               <table>
+                  <row style="font-size:10px;text-transform:uppercase;">
+                     <cell style="font-size:10px;">Chap.</cell>
+                     <cell/>
+		             <cell style="font-size:10px;">Page</cell>
+                 </row>
+                  <row>
+                     <cell style="text-align:right;">I.</cell>
+                     <cell style="font-variant:small-caps;">In Chancery</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell style="text-align:right;">II.</cell>
+                     <cell>In Fashion</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell style="text-align:right;">III.</cell>
+                     <cell>A Progress</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell style="text-align:right;">IV.</cell>
+                     <cell>Telescopic Philanthropy</cell>
+                     <cell>24</cell>
+                  </row>
+                  <row>
+                     <cell style="text-align:right;">V.</cell>
+                     <cell>A Morning Adventure</cell>
+                     <cell>33</cell>
+                  </row>
+                  <row>
+                     <cell style="text-align:right;">VI.</cell>
+                     <cell>Quite at Home</cell>
+                     <cell>42</cell>
+                  </row>
+                  <row>
+                     <cell style="text-align:right;">VII.</cell>
+                     <cell>The Ghost's Walk</cell>
+                     <cell>57</cell>
+                  </row>
+                  <row>
+                     <cell style="text-align:right;">VIII.</cell>
+                     <cell>Covering a Multitude of Sins</cell>
+                     <cell>65</cell>
+                  </row>
+                  <row>
+                     <cell style="text-align:right;">IX.</cell>
+                     <cell>Signs and Tokens</cell>
+                     <cell>79</cell>
+                  </row>
+                  <row>
+                     <cell style="text-align:right;">X.</cell>
+                     <cell>The Law-writer</cell>
+                     <cell>89</cell>
+                  </row>
+                  <row>
+                     <cell style="text-align:right;">XI.</cell>
+                     <cell>Our dear Brother</cell>
+                     <cell>97</cell>
+                  </row>
+                  <row>
+                     <cell style="text-align:right;">XII.</cell>
+                     <cell>On the Watch</cell>
+                     <cell>107</cell>
+                  </row>
+                  <row>
+                     <cell style="text-align:right;">XIII.</cell>
+                     <cell>Esther's Narrative</cell>
+                     <cell>117</cell>
+                  </row>
+                  <row>
+                     <cell style="text-align:right;">XIV.</cell>
+                     <cell>Deportment</cell>
+                     <cell>129</cell>
+                  </row>
+               </table>
+            </div>
          </div>
          <div xml:id="Chapter_I">
             <div rend="spacing">
