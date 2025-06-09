@@ -94,6 +94,7 @@
   font-family: Courier,monospace;
 }
 .page-setup {
+  text-align: center;
   margin-left: 2em;
   margin-right: 4em;
   padding: 2.5em;
@@ -1864,6 +1865,7 @@ a:hover {
   text-decoration: underline;
 }
 #teibpToolbox {
+  display: none;
   left: 56em;
   top: 25px;
   position: fixed;
@@ -1881,6 +1883,7 @@ a:hover {
   width: 12em;
 }
 #teibpToolbox h1 {
+  display: none;
   font-weight: bold;
   font-size: 115%;
   margin-top: 0;

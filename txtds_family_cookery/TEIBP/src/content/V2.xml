@@ -800,88 +800,127 @@
             <note xml:id="n7" type="editorial" target="#mw-caudle">Caudle is a drink, usually made
                from warm ale or wine mixed with bread or gruel, eggs, sugar, and spices.</note>
          </div>
-         <div type="bibliography">
-            <head>Bibliography</head>
-            <listBibl>
-               <bibl xml:id="house-family-cookery" type="book"> ---> intro <author>
-                     <surname>House</surname>
-                     <forename>R.</forename>
-                  </author>
-                  <title level="m">The Family Cookery, Combining Elegance and Economy, with Various
-                     Receipts</title>
-                  <publisher>Rooke Books</publisher>
-                  <date>n.d.</date>
-                  <ptr
-                     target="https://www.rookebooks.com/the-family-cookery-combining-elegance-and-economy-with-various-receipts"
-                  />
-               </bibl>
-               <bibl xml:id="enviroliteracy-pigeons" type="webpage"> ---> n1 <author>
-                     <surname>Enviroliteracy Team</surname>
-                     <forename/>
-                  </author>
-                  <title level="a">Why Did We Stop Eating Pigeons?</title>
-                  <publisher>Environmental Literacy Council</publisher>
-                  <date>11 Apr. 2025</date>
-                  <ptr target="https://enviroliteracy.org/why-did-we-stop-eating-pigeons/"/>
-               </bibl>
-               <bibl xml:id="duff-cakes-regional-traditional" type="book"> ---> n2 <author>
-                     <surname>Duff</surname>
-                     <forename>Julie</forename>
-                  </author>
-                  <title level="m">Cakes: Regional &amp; Traditional</title>
-                  <publisher>Grub Street Cookery</publisher>
-                  <date>9 Oct. 2015</date>
-                  <biblScope unit="pages">50–52</biblScope>
-                  <ptr
-                     target="https://books.google.com/books?id=ylJ2DQAAQBAJ&amp;source=gbs_navlinks_s"
-                  />
-               </bibl>
-		    <bibl xml:id="glasse" type="book"> ---> n4 <author>
-                     <surname>Glasse</surname>
-                     <forename>Hannah</forename>
-               </author>
-                  <title level="m">The Art of Cookery Made Plain and Easy</title>
-                  <publisher>Printed for W. Strahan</publisher>
-                  <date>1784</date>
-                  <ptr target="#https://archive.org/details/artcookerymadep00glasgoog/page/n397/mode/2up"/>
-               </bibl>
-               <bibl xml:id="smith-medicinal-food" type="entry"> ---> n5 <title level="a">Medicinal
-                     Food</title>
-                  <editor>
-                     <surname>Smith</surname>
-                     <forename>Merril D.</forename>
-                  </editor>
-                  <title level="m">The World of the American Revolution: A Daily Life
-                     Encyclopedia</title>
-                  <biblScope unit="volume">1</biblScope>
-                  <publisher>Greenwood</publisher>
-                  <date>2015</date>
-                  <biblScope unit="pages">358–360</biblScope>
-                  <ptr
-                     target="https://link.gale.com/apps/doc/CX6345700141/GVRL?u=wash_main&amp;sid=bookmark-GVRL&amp;xid=4ab7b26e"
-                  />
-               </bibl>
-               <bibl xml:id="mw-isinglass" type="webpage"> ---> n6 <author>
-                     <surname>Merriam-Webster</surname>
-                     <forename/>
-                  </author>
-                  <title level="a">Isinglass</title>
-                  <title level="j">Merriam-Webster Dictionary</title>
-                  <publisher>Merriam-Webster, Inc.</publisher>
-                  <date>n.d.</date>
-                  <ptr target="https://www.merriam-webster.com/dictionary/isinglass"/>
-               </bibl>
-               <bibl xml:id="mw-caudle" type="webpage"> ---> n7 <author>
-                     <surname>Merriam-Webster</surname>
-                     <forename/>
-                  </author>
-                  <title level="a">Caudle</title>
-                  <title level="j">Merriam-Webster.com Dictionary</title>
-                  <publisher>Merriam-Webster, Inc.</publisher>
-                  <date>n.d.</date>
-                  <ptr target="https://www.merriam-webster.com/dictionary/caudle"/>
-               </bibl>
-            </listBibl>
+           <div type="bibliography">
+               <head>Bibliography</head>
+               <listBibl>
+                     <biblStruct xml:id="house-family-cookery">
+                           <monogr>
+                                 <author>
+                                       <forename>R.</forename>
+                                       <surname>House</surname>
+                                    </author>
+                                 <title level="m">The Family Cookery, Combining Elegance and Economy, with Various Receipts</title>
+                                 <imprint>
+                                       <publisher>Rooke Books</publisher>
+                                       <date when="n.d."/>
+                                    </imprint>
+                              </monogr>
+                           <ref target="https://www.rookebooks.com/the-family-cookery-combining-elegance-and-economy-with-various-receipts"/>
+                        </biblStruct>
+               
+                     <biblStruct xml:id="enviroliteracy-pigeons">
+                           <analytic>
+                                 <author>
+                                       <surname>Enviroliteracy Team</surname>
+                                    </author>
+                                 <title level="a">Why Did We Stop Eating Pigeons?</title>
+                              </analytic>
+                           <monogr>
+                                 <title level="j">Environmental Literacy Council</title>
+                                 <imprint>
+                                       <date when="2025-04-11"/>
+                                       <publisher>Environmental Literacy Council</publisher>
+                                    </imprint>
+                              </monogr>
+                           <ref target="https://enviroliteracy.org/why-did-we-stop-eating-pigeons/"/>
+                        </biblStruct>
+               
+                     <biblStruct xml:id="duff-cakes-regional-traditional">
+                           <monogr>
+                                 <author>
+                                       <forename>Julie</forename>
+                                       <surname>Duff</surname>
+                                    </author>
+                                 <title level="m">Cakes: Regional &amp; Traditional</title>
+                                 <imprint>
+                                       <publisher>Grub Street Cookery</publisher>
+                                       <date when="2015-10-09"/>
+                                       <biblScope unit="pages">50–52</biblScope>
+                                    </imprint>
+                              </monogr>
+                           <ref target="https://books.google.com/books?id=ylJ2DQAAQBAJ&amp;source=gbs_navlinks_s"/>
+                        </biblStruct>
+               
+                     <biblStruct xml:id="glasse">
+                           <monogr>
+                                 <author>
+                                       <forename>Hannah</forename>
+                                       <surname>Glasse</surname>
+                                    </author>
+                                 <title level="m">The Art of Cookery Made Plain and Easy</title>
+                                 <imprint>
+                                       <publisher>Printed for W. Strahan</publisher>
+                                       <date when="1784"/>
+                                    </imprint>
+                              </monogr>
+                           <ref target="https://archive.org/details/artcookerymadep00glasgoog/page/n397/mode/2up"/>
+                        </biblStruct>
+               
+                     <biblStruct xml:id="smith-medicinal-food">
+                           <analytic>
+                                 <title level="a">Medicinal Food</title>
+                              </analytic>
+                           <monogr>
+                                 <editor>
+                                       <forename>Merril D.</forename>
+                                       <surname>Smith</surname>
+                                    </editor>
+                                 <title level="m">The World of the American Revolution: A Daily Life Encyclopedia</title>
+                                 <imprint>
+                                       <publisher>Greenwood</publisher>
+                                       <date when="2015"/>
+                                       <biblScope unit="volume">1</biblScope>
+                                       <biblScope unit="pages">358–360</biblScope>
+                                    </imprint>
+                              </monogr>
+                           <ref target="https://link.gale.com/apps/doc/CX6345700141/GVRL?u=wash_main&amp;sid=bookmark-GVRL&amp;xid=4ab7b26e"/>
+                        </biblStruct>
+               
+                     <biblStruct xml:id="mw-isinglass">
+                           <analytic>
+                                 <author>
+                                       <surname>Merriam-Webster</surname>
+                                    </author>
+                                 <title level="a">Isinglass</title>
+                              </analytic>
+                           <monogr>
+                                 <title level="j">Merriam-Webster Dictionary</title>
+                                 <imprint>
+                                       <publisher>Merriam-Webster, Inc.</publisher>
+                                       <date when="n.d."/>
+                                    </imprint>
+                              </monogr>
+                           <ref target="https://www.merriam-webster.com/dictionary/isinglass"/>
+                        </biblStruct>
+               
+                     <biblStruct xml:id="mw-caudle">
+                           <analytic>
+                                 <author>
+                                       <surname>Merriam-Webster</surname>
+                                    </author>
+                                 <title level="a">Caudle</title>
+                              </analytic>
+                           <monogr>
+                                 <title level="j">Merriam-Webster.com Dictionary</title>
+                                 <imprint>
+                                       <publisher>Merriam-Webster, Inc.</publisher>
+                                       <date when="n.d."/>
+                                    </imprint>
+                              </monogr>
+                           <ref target="https://www.merriam-webster.com/dictionary/caudle"/>
+                        </biblStruct>
+               
+                  </listBibl>
          </div>
       </back>
    </text>
