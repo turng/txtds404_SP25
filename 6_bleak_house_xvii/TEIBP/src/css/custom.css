@@ -58,6 +58,65 @@ persName /* Bulleted list  */ {
     font-variant: small-caps;
 }
 
+/* Garamond, serif for rend="serif" */
+p[rend="serif"] {
+  font-family: Garamond, serif;
+}
+
+/* Garamond with black shadow for rend="thserif" */
+p[rend="thserif"] {
+  font-family: Garamond, serif;
+  text-shadow:
+    2px 0 0 black,
+    -2px 0 0 black,
+    0 2px 0 black,
+    0 -2px 0 black;
+}
+
+/* Bold Calibri for rend="bserif" */
+p[rend="bserif"] {
+  font-family: Calibri, sans-serif;
+  font-weight: bold;
+}
+
+/* Drop cap effect for rend="drop" */
+p[rend="drop"]::first-letter {
+  text-transform: capitalize;
+  float: left;
+  font-size: 3em;
+  line-height: 1;
+  font-family: Garamond, serif;
+  margin-right: 0.1em;
+  margin-top: 0.1em;
+  color: #903;
+}
+
+/* Calibri, sans-serif for rend="sans" */
+p[rend="sans"] {
+  font-family: Calibri, sans-serif;
+}
+
+/* Small caps for rend="sc" */
+p[rend="sc"] {
+  font-variant: small-caps;
+}
+
+/* Monospace for rend="monospace" */
+p[rend="monospace"] {
+  font-family: monospace;
+}
+
+/* Capitalize for rend="caps" */
+p[rend="caps"] {
+  text-transform: capitalize;
+}
+
+/* Gothic/Fraktur font for rend="gothic" */
+p[rend="gothic"] {
+  font-family: Fraktur, serif;
+}
+
+
 .topnav a:hover {
     background-color: black;
     color: white;
