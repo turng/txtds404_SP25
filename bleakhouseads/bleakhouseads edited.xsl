@@ -236,13 +236,13 @@
             <xsl:apply-templates/>
         </td>
     </xsl:template>
-    <xsl:template match="tei:div[@type='rule']">
+    <xsl:template match="tei:milestone[@unit='rule']">
         <hr style="width:1000px;"/>
     </xsl:template>
-    <xsl:template match="tei:div[@type='shortrule']">
+    <xsl:template match="tei:milestone[@unit='shortrule']">
         <hr style="width:200px;"/>
     </xsl:template>
-    <xsl:template match="tei:div[@type='shorterrule']">
+    <xsl:template match="tei:milestone[@unit='shorterrule']">
         <hr style="width:120px;"/>
     </xsl:template>
 </xsl:stylesheet>

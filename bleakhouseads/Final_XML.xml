@@ -103,16 +103,12 @@
       <body>
          <div xml:id="Bleak_House_Ad">
             <head style="font-weight:bold;text-transform:uppercase;">Bleak House Advertisers.</head>
-            <div>
-               <div type="rule"/>
-               <div type="rule"/>
-            </div>
+            <milestone unit="rule"/>
+            <milestone unit="rule"/>
             <div>
                <p style="font-size:20px;font-weight:bold;">Completion of Bleak House.</p>
-               <div>
-                  <div type="shortrule"/>
-                  <div type="shortrule"/>
-               </div>
+               <milestone unit="shortrule"/>
+               <milestone unit="shortrule"/>
                <div>
                   <p>On Monday, 12th September will be published,</p>
                   <p><hi style="font-style:italic;">Complete in One thick Volume, 8vo, with Forty Illustrations
@@ -120,10 +116,8 @@
                   <p style="font-size:30px;text-transform:uppercase;">Bleak House.</p>
                   <p style="font-size:12px;text-transform:uppercase;">By</p>
                   <p style="font-size:16px;text-transform:uppercase">Charles Dickens.</p>
-                  <div>
-                     <div type="shortrule"/>
-                     <div type="shortrule"/>
-                  </div>
+                  <milestone unit="shortrule"/>
+                  <milestone unit="shortrule"/>
                   <div>
                      <p>The Publishers beg to inform the Public and the Trade that <hi style="font-variant:small-caps;">Bleak
                         House,</hi> complete in One Volume, will be ready for delivery on the 12th September.</p>
@@ -184,16 +178,12 @@
                         </row>
                      </table>
                   </div>
-                  <div>
-                     <div type="shortrule"/>
-                     <div type="shortrule"/>
-                  </div>
+                  <milestone unit="shortrule"/>
+                  <milestone unit="shortrule"/>
                   <div>
                      <p style="font-size:16px;text-transform:uppercase;">By the same author.</p>
                   </div>
-                  <div>
-                     <div type="shorterrule"/>
-                  </div>
+                  <milestone unit="shorterrule"/>
                   <div>
                      <p style="font-size:12px;">Price<hi style="font-style:italic;"> 3s. 6d.</hi>each, neatly bound in
                         cloth,</p>
@@ -208,27 +198,21 @@
                      <p style="font-size:12px;font-style:italic;">The History will be completed in Three
                         Volumes.</p>
                   </div>
-                  <div>
-                     <div type="shortrule"/>
-                     <div type="shortrule"/>
-                  </div>
+                  <milestone unit="shortrule"/>
+                  <milestone unit="shortrule"/>
                </div>
             </div>
          </div>
          <div xml:id="Chapman_and_Hall">
             <pb n="3"/>
             <p style="text-transform:uppercase;font-weight:bold;">Advertisements.</p>
-            <div>
-               <div type="rule"/>
-               <div type="rule"/>
-            </div>
+            <milestone unit="rule"/>
+            <milestone unit="rule"/>
             <div>
                <p style="font-family:sans-serif;text-transform:uppercase;font-weight:bold;">Cheap editions.</p>
             </div>
-            <div>
-               <div type="shortrule"/>
-               <div type="shortrule"/>
-            </div>
+            <milestone unit="shortrule"/>
+            <milestone unit="shortrule"/>
             <div>
                <p style="text-transform:uppercase;">The</p>
                <p style="font-size:18px;">Works of Mr. Charles Dickens.</p>
@@ -294,10 +278,8 @@
                         morocco, for 2s. 6d. extra.</cell>
                   </row>
                </table>
-               <div>
-                  <div type="shorterrule"/>
-                  <div type="shorterrule"/>
-               </div>
+               <milestone unit="shorterrule"/>
+               <milestone unit="shorterrule"/>
             </div>
             <div>
                <ab style="text-transform:uppercase;">London: <ref target="#N3">Chapman and
@@ -310,9 +292,7 @@
             <ab style="font-size:12px;text-transform:uppercase;font-weight:bold;">And Illustrated with Five
                Thousand Wood Engravings.</ab>
             <ab style="text-transform:uppercase;">Conducted by Mr. Charles Knight.</ab>
-            <div>
-               <div type="shorterrule"/>
-            </div>
+            <milestone unit="shorterrule"/>
             <div>
                <ab style="font-family:sans-serif;text-transform:uppercase;">Opinions of the Press</ab>
             </div>
@@ -357,9 +337,7 @@
                   the wood engravings, in the Natural History portion; and though last not least its
                   amazing cheapness.</q>—<hi style="font-style:italic;">Dumfries Courier</hi>.</p>
             </div>
-            <div>
-               <div type="shortrule"/>
-            </div>
+            <milestone unit="shortrule"/>
             <div>
                <p><hi style="text-transform:uppercase;">Bradbury &amp; Evans, 11, Bouverie Street.</hi></p>
             </div>
@@ -402,9 +380,7 @@
             <p style="font-size:12px;text-transform:uppercase;">Of The</p>
             <p style="font-size:16px;text-transform:uppercase;">Works of Mr. Charles
                Dickens.</p>
-            <div>
-               <div type="shorterrule"/>
-            </div>
+            <milestone unit="shorterrule"/>
             <div style="text-align:left;">
                <p style="text-indent:1em;">In compliance with the general wish of the purchasers of this Edition of the Works of
                   <hi style="font-variant:small-caps;">Mr. Charles Dickens</hi>, terminating with <q><hi
@@ -437,9 +413,7 @@
                      Weekly Number will be published on the 1st of June.</p>
                </div>
             </div>
-            <div>
-               <div type="shortrule"/>
-            </div>
+            <milestone unit="shortrule"/>
             <div>
                <p style="font-size:16px;text-transform:uppercase;">Chapman and Hall, 193,
                   Piccadilly</p>
@@ -454,11 +428,11 @@
                <p><seg source="boldtext" style="text-transform:uppercase;">Charles Dickens.</seg></p>
             </div>
             <div rend="spacing smalltext">
-               <div type="shortrule"/>
+               <milestone unit="shortrule"/>
                <div>
                   <p style="text-transform:uppercase;">With illustrations by H. K. Browne.</p>
                </div>
-               <div type="shortrule"/>
+               <milestone unit="shortrule"/>
             </div>
             <div rend="spacing">
                <p style="text-transform:uppercase;">London : <lb/>Bradbury and Evans, 11, Bouverie Street.
@@ -476,9 +450,7 @@
          </div>
          <div xml:id="Table_of_Contents_1">
             <head style="font-variant:small-caps;">Contents.</head>
-            <div>
-               <div type="shorterrule"/>
-            </div>
+            <milestone unit="shorterrule"/>
             <div>
                <table>
                   <row style="font-size:10px;text-transform:uppercase;">
@@ -564,7 +536,7 @@
                <head style="font-size:20px;text-transform:uppercase">Bleak House.</head>
             </div>
             <div rend="smallspacing">
-               <div type="shortrule"/>
+               <milestone unit="shortrule"/>
                <div rend="smallspacing">
                   <p style="text-transform:uppercase">Chapter I.</p>
                </div>
@@ -607,8 +579,8 @@
                   of their sympathy.</p>
             </div>
             <div rend="spacing">
-               <div type="rule"/>
-               <div type="rule"/>
+               <milestone unit="rule"/>
+               <milestone unit="rule"/>
             </div>
          </div>
       </body>
