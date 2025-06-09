@@ -52,11 +52,15 @@
                complete volumes, as well as how the documentation of these efforts was less robust
                and more scattered across different sources than with today’s methods (such as
                detailed copyright pages).</p>
-            <p>We are using a diplomatic transcription for our edition, and we are trying to
-               recreate exactly what is shown on the key pages of the serial and complete editions
-               of Bleak House we are transcribing. We will not be making editorial
-               corrrections to any of the text, although there is not too much text itself given the
-               relative sparseness of the pages we have chosen to transcribe.</p>
+            <p>We have created a diplomatic transcription for our edition, and we are using it to try
+               generate a digital facsimile, recreating exactly what is shown on the key pages of the
+	       serial and complete editions of Bleak House we are transcribing. We will not be making
+	       editorial corrrections to any of the text, although there is not too much text itself
+	       given the relative sparseness of the pages we have chosen to transcribe.</p>
+	    <p>This edition has been prepared for publication as HTML through an XSLT transformation.
+		With our focus on visual replication, this means that in encoding, we have prioritized
+		practical considerations related to XSL and CSS over robust markup of semantic and
+		contextual information in the base XML.</p>
          </publicationStmt>
          <sourceDesc>
             <bibl>
