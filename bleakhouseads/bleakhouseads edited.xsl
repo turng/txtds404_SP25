@@ -40,47 +40,10 @@
                     padding:1%;
                     }
                     
-                    .spacing {
-                    margin-top: 8em;
-                    }
-                    
-                    .smallspacing {
-                    margin-top: 2em;
-                    }
-                    
-                    .smalltext {
-                    font-size: 0.9em;
-                    }
-                    
-                    .smallertext {
-                    font-size: 0.8em;
-                    }
-                    
-                    .boldtext {
-                    font-weight: bold;
-                    font-size: 1.1em;
-                    }
-                    
-                    .booktext {
-                    max-width: 500px;
-                    text-align: justify;
-                    margin-left: auto;
-                    margin-right: auto;
-                    text-indent: 1em;
-                    }
-                    
                     .biblcolumns{
                     text-align:center;
                     column-count:2;
                     column-width:10em;
-                    }
-                    
-                    .columns{
-                    text-align:justify;
-                    text-indent:1em;
-                    column-count:2;
-                    column-width:20em;
-                    column-rule:1px solid;
                     }
                 </style>
             </head>

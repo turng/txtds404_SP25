@@ -296,7 +296,7 @@
             <div>
                <ab style="font-family:sans-serif;text-transform:uppercase;">Opinions of the Press</ab>
             </div>
-            <div rend="columns">
+            <div style="text-align:justify;text-indent:1em;column-count:2;column-width:20em;column-rule:1px solid;">
                <p><q>Among serials, the most important in our eyes is the new edition of the
                  <hi style="font-style:italic;">Penny Cyclopædia</hi> issued in separate divisions
                   under the name of the <hi style="font-style:italic;">English
@@ -421,20 +421,20 @@
          </div>
          <div xml:id="Title_Page">
             <head style="font-size:20px;text-transform:uppercase;">Bleak House.</head>
-            <div rend="spacing">
+            <div style="margin-top:8em;">
                <p style="font-size:10px;text-transform:uppercase">by</p>
             </div>
-            <div rend="smallspacing">
+            <div style="margin-top:2em;">
                <p><seg source="boldtext" style="text-transform:uppercase;">Charles Dickens.</seg></p>
             </div>
-            <div rend="spacing smalltext">
+            <div style="margin-top:8em;font-size:0.9em;">
                <milestone unit="shortrule"/>
                <div>
                   <p style="text-transform:uppercase;">With illustrations by H. K. Browne.</p>
                </div>
                <milestone unit="shortrule"/>
             </div>
-            <div rend="spacing">
+            <div style="margin-top:8em;">
                <p style="text-transform:uppercase;">London : <lb/>Bradbury and Evans, 11, Bouverie Street.
                   <lb/>1853. </p>
             </div>
@@ -532,20 +532,21 @@
             </div>
          </div>
          <div xml:id="Chapter_I">
-            <div rend="spacing">
+            <div style="margin-top:8em;">
                <head style="font-size:20px;text-transform:uppercase">Bleak House.</head>
             </div>
-            <div rend="smallspacing">
+            <div style="margin-top:2em;">
                <milestone unit="shortrule"/>
-               <div rend="smallspacing">
+               <div style="margin-top:2em;">
                   <p style="text-transform:uppercase">Chapter I.</p>
                </div>
             </div>
-            <div rend="smallspacing smalltext">
+            <div style="margin-top:2em;font-size:0.9em;">
                <p style="font-size:10px;text-transform:uppercase;">In Chancery.</p>
             </div>
-            <div rend="booktext smallspacing smalltext">
-               <p><hi style="text-transform:uppercase;">London.</hi> Michaelmas term lately over, and the Lord
+            <div style="margin-top:2em;font-size:0.9em;">
+               <p style="max-width:500px;text-align:justify;argin-left:auto;margin-right:auto;text-indent:1em;">
+                  <hi style="text-transform:uppercase;">London.</hi> Michaelmas term lately over, and the Lord
                   Chancellor sitting in Lincoln's Inn Hall. Implacable November weather. As much mud
                   in the streets, as if the waters had but newly retired from the face of the earth,
                   and it would not be wonderful to meet a Megalosaurus, forty feet long or so,
@@ -562,23 +563,24 @@
             </div>
          </div>
          <div xml:id="Chapter_LX">
-            <div rend="spacing">
-               <div rend="smallspacing">
+            <div style="margin-top:8em;">
+               <div style="margin-top:2em;">
                   <p style="text-transform:uppercase;">Chapter LX.</p>
                </div>
             </div>
-            <div rend="smallspacing smalltext">
+            <div style="margin-top:2em;font-size:0.9em;">
                <p style="font-size:10px;text-transform:uppercase;">Perspective.</p>
             </div>
-            <div rend="booktext smallspacing smalltext">
-               <p><hi style="font-variant:small-caps;">I proceed</hi> to other passages of my narrative. From
+            <div style="margin-top:2em;font-size:0.9em;">
+               <p style="max-width:500px;text-align:justify;argin-left:auto;margin-right:auto;text-indent:1em;">
+                  <hi style="font-variant:small-caps;">I proceed</hi> to other passages of my narrative. From
                   the goodness of all about me, I derived such consolation as I can never think of
                   unmoved. I have already said so much of myself, and so much still remains, that I
                   will not dwell upon my sorrow. I had an illness, but it was not a long one; and I
                   would avoid even this mention of it, if I could quite keep down the recollection
                   of their sympathy.</p>
             </div>
-            <div rend="spacing">
+            <div style="margin-top:8em;">
                <milestone unit="rule"/>
                <milestone unit="rule"/>
             </div>
