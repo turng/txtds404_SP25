@@ -37,10 +37,6 @@
                     padding:1%;
                     }
                     
-                    .allcaps{
-                    text-transform:uppercase;
-                    }
-                    
                     .spacing {
                     margin-top: 8em;
                     }
@@ -68,6 +64,13 @@
                     margin-left: auto;
                     margin-right: auto;
                     text-indent: 1em;
+                    }
+                    
+                    .columns{
+                    text-align:justify;
+                    text-indent:1em;
+                    column-width:35em;
+                    column-rule:1px solid;
                     }
                 </style>
             </head>
@@ -127,7 +130,14 @@
         </div>
     </xsl:template>
     <xsl:template match="tei:head">
-        <h4><xsl:apply-templates/></h4>
+        <h4>
+            <xsl:if test="@style">
+                <xsl:attribute name="style">
+                    <xsl:value-of select="@style"/>
+                </xsl:attribute>
+            </xsl:if>
+            <xsl:apply-templates/>
+        </h4>
     </xsl:template>
     <xsl:template match="tei:body/tei:div">
         <hr></hr>
@@ -193,6 +203,12 @@
         </td>
     </xsl:template>
     <xsl:template match="tei:div[@type='rule']">
-        <hr/>
+        <hr style="width:1000px;"/>
+    </xsl:template>
+    <xsl:template match="tei:div[@type='shortrule']">
+        <hr style="width:200px;"/>
+    </xsl:template>
+    <xsl:template match="tei:div[@type='shorterrule']">
+        <hr style="width:120px;"/>
     </xsl:template>
 </xsl:stylesheet>

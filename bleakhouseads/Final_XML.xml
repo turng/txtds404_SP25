@@ -100,91 +100,132 @@
       <body>
          <div xml:id="Bleak_House_Ad">
             <head style="font-weight:bold;text-transform:uppercase;">Bleak House Advertisers.</head>
-            <lb/>
-            <p style="font-size:20px;font-weight:bold;">Completion of Bleak House.</p>
-            <lb/>
-            <p>On Monday, 12th September will be published,</p>
-            <p><hi style="font-style:italic;">Complete in One thick Volume, 8vo, with Forty Illustrations
-                  by</hi>
-               <ref target="#N1">H.K. Browne</ref>,</p>
-            <p style="font-size:30px;text-transform:uppercase;">Bleak House.</p>
-            <p style="font-size:12px;text-transform:uppercase;">By</p>
-            <p style="font-size:16px;text-transform:uppercase">Charles Dickens.</p>
-            <p>The Publishers beg to inform the Public and the Trade that <hi style="font-variant:small-caps;">Bleak
-                  House,</hi> complete in One Volume, will be ready for delivery on the 12th
-               September.</p>
-            <table>
-               <row>
-                  <cell>Price,</cell>
-                  <cell>neatly</cell>
-                  <cell>bound in</cell>
-                  <cell><ref target="#N4">cloth</ref></cell>
-                  <cell/>
-                  <cell>&#163;</cell>
-                  <cell>1</cell>
-                  <cell>1</cell>
-                  <cell>0</cell>
-               </row>
-               <row>
-                  <cell>,,</cell>
-                  <cell>,,</cell>
-                  <cell>,,</cell>
-                  <cell>Half morocco,marble edges<!-- Spacing is supposed to be like this --></cell>
-                  <cell/>
-                  <cell/>
-                  <cell>1</cell>
-                  <cell>4</cell>
-                  <cell>6</cell>
-               </row>
-            </table>
-            <p>(<hi style="font-style:italic;">Cloth Cases for binding the above may be had at the
-                  Publishers.</hi>)</p>
-            <p><hi style="font-variant:small-caps;">Subscribers</hi> desirous of having their copies bound in
-               a similar style can have them at their Booksellers, at the following prices:——</p>
-            <table>
-               <row>
-                  <cell>Whole bound,</cell>
-                  <cell>morocco</cell>
-                  <cell>gilt edges</cell>
-                  <cell/>
-                  <cell><ref target="#N5">6s.</ref></cell>
-                  <cell>6d.</cell>
-               </row>
-               <row>
-                  <cell>Half bound,</cell>
-                  <cell>,,</cell>
-                  <cell>marble leaves</cell>
-                  <cell/>
-                  <cell>4</cell>
-                  <cell>6</cell>
-               </row>
-               <row>
-                  <cell>In cloth, lettered</cell>
-                  <cell/>
-                  <cell/>
-                  <cell/>
-                  <cell>1</cell>
-                  <cell>6</cell>
-               </row>
-            </table>
-            <p style="font-size:16px;text-transform:uppercase;">By the same author.</p>
-            <p style="font-size:12px;">Price<hi style="font-style:italic;"> 3s. 6d.</hi>each, neatly bound in
-               cloth,</p>
-            <p style="font-size:20px;text-transform:uppercase;">The first and second volumes</p>
-            <p style="font-size:12px;text-transform:uppercase;">Of</p>
-            <p style="font-size:25px;text-transform:uppercase;font-weight:bold;">A Child's History of
-               England.</p>
-            <p style="font-size:12px;text-transform:uppercase;">With frontispieces from drawings by F.W.
-               Topham.</p>
-            <p style="font-size:12px;text-transform:uppercase;">Corrected and revised from &quot;Household
-               Words,&quot; with a table of dates.</p>
-            <p style="font-size:12px;font-style:italic;">The History will be completed in Three
-                  Volumes.</p>
+            <div>
+               <div type="rule"/>
+               <div type="rule"/>
+            </div>
+            <div>
+               <p style="font-size:20px;font-weight:bold;">Completion of Bleak House.</p>
+               <div>
+                  <div type="shortrule"/>
+                  <div type="shortrule"/>
+               </div>
+               <div>
+                  <p>On Monday, 12th September will be published,</p>
+                  <p><hi style="font-style:italic;">Complete in One thick Volume, 8vo, with Forty Illustrations
+                        by</hi> <ref target="#N1">H.K. Browne</ref>,</p>
+                  <p style="font-size:30px;text-transform:uppercase;">Bleak House.</p>
+                  <p style="font-size:12px;text-transform:uppercase;">By</p>
+                  <p style="font-size:16px;text-transform:uppercase">Charles Dickens.</p>
+                  <div>
+                     <div type="shortrule"/>
+                     <div type="shortrule"/>
+                  </div>
+                  <div>
+                     <p>The Publishers beg to inform the Public and the Trade that <hi style="font-variant:small-caps;">Bleak
+                        House,</hi> complete in One Volume, will be ready for delivery on the 12th September.</p>
+                     <table>
+                        <row>
+                           <cell>Price,</cell>
+                           <cell>neatly</cell>
+                           <cell>bound in</cell>
+                           <cell><ref target="#N4">cloth</ref></cell>
+                           <cell/>
+                           <cell>&#163;</cell>
+                           <cell>1</cell>
+                           <cell>1</cell>
+                           <cell>0</cell>
+                        </row>
+                        <row>
+                           <cell>,,</cell>
+                           <cell>,,</cell>
+                           <cell>,,</cell>
+                           <cell>Half morocco,marble edges<!-- Spacing is supposed to be like this --></cell>
+                           <cell/>
+                           <cell/>
+                           <cell>1</cell>
+                           <cell>4</cell>
+                           <cell>6</cell>
+                        </row>
+                     </table>
+                  </div>
+                  <div>
+                     <p>(<hi style="font-style:italic;">Cloth Cases for binding the above may be had at the
+                           Publishers.</hi>)</p>
+                     <p><hi style="font-variant:small-caps;">Subscribers</hi> desirous of having their copies bound in
+                        a similar style can have them at their Booksellers, at the following prices:——</p>
+                     <table>
+                        <row>
+                           <cell>Whole bound,</cell>
+                           <cell>morocco</cell>
+                           <cell>gilt edges</cell>
+                           <cell/>
+                           <cell><ref target="#N5">6s.</ref></cell>
+                           <cell>6d.</cell>
+                        </row>
+                        <row>
+                           <cell>Half bound,</cell>
+                           <cell>,,</cell>
+                           <cell>marble leaves</cell>
+                           <cell/>
+                           <cell>4</cell>
+                           <cell>6</cell>
+                        </row>
+                        <row>
+                           <cell>In cloth, lettered</cell>
+                           <cell/>
+                           <cell/>
+                           <cell/>
+                           <cell>1</cell>
+                           <cell>6</cell>
+                        </row>
+                     </table>
+                  </div>
+                  <div>
+                     <div type="shortrule"/>
+                     <div type="shortrule"/>
+                  </div>
+                  <div>
+                     <p style="font-size:16px;text-transform:uppercase;">By the same author.</p>
+                  </div>
+                  <div>
+                     <div type="shorterrule"/>
+                  </div>
+                  <div>
+                     <p style="font-size:12px;">Price<hi style="font-style:italic;"> 3s. 6d.</hi>each, neatly bound in
+                        cloth,</p>
+                     <p style="font-size:20px;text-transform:uppercase;">The first and second volumes</p>
+                     <p style="font-size:12px;text-transform:uppercase;">Of</p>
+                     <p style="font-size:25px;text-transform:uppercase;font-weight:bold;">A Child's History of
+                        England.</p>
+                     <p style="font-size:12px;text-transform:uppercase;">With frontispieces from drawings by F.W.
+                        Topham.</p>
+                     <p style="font-size:12px;text-transform:uppercase;">Corrected and revised from &quot;Household
+                        Words,&quot; with a table of dates.</p>
+                     <p style="font-size:12px;font-style:italic;">The History will be completed in Three
+                        Volumes.</p>
+                  </div>
+                  <div>
+                     <div type="shortrule"/>
+                     <div type="shortrule"/>
+                  </div>
+               </div>
+            </div>
          </div>
          <div xml:id="Chapman_and_Hall">
             <pb n="3"/>
             <p style="text-transform:uppercase;font-weight:bold;">Advertisements.</p>
-            <p style="font-family:sans-serif;text-transform:uppercase;font-weight:bold;">Cheap editions.</p>
+            <div>
+               <div type="rule"/>
+               <div type="rule"/>
+            </div>
+            <div>
+               <p style="font-family:sans-serif;text-transform:uppercase;font-weight:bold;">Cheap editions.</p>
+            </div>
+            <div>
+               <div type="shortrule"/>
+               <div type="shortrule"/>
+            </div>
             <div>
                <p style="text-transform:uppercase;">The</p>
                <p>Works of Mr. Charles Dickens.</p>
@@ -250,6 +291,10 @@
                         morocco, for 2s. 6d. extra.</cell>
                   </row>
                </table>
+               <div>
+                  <div type="shorterrule"/>
+                  <div type="shorterrule"/>
+               </div>
             </div>
             <div>
                <ab style="text-transform:uppercase;">London: <ref target="#N3">Chapman and
@@ -262,48 +307,59 @@
             <ab style="font-size:12px;text-transform:uppercase;font-weight:bold;">And Illustrated with Five
                Thousand Wood Engravings.</ab>
             <ab style="text-transform:uppercase;">Conducted by Mr. Charles Knight.</ab>
-            <lb/>
-            <ab style="text-transform:uppercase;">Opinions of the Press</ab>
-            <p><q>Among serials, the most important in our eyes is the new edition of the
-                  <hi style="font-style:italic;">Penny Cyclopædia</hi> issued in separate divisions
+            <div>
+               <div type="shorterrule"/>
+            </div>
+            <div>
+               <ab style="font-family:sans-serif;text-transform:uppercase;">Opinions of the Press</ab>
+            </div>
+            <div rend="columns">
+               <p><q>Among serials, the most important in our eyes is the new edition of the
+                 <hi style="font-style:italic;">Penny Cyclopædia</hi> issued in separate divisions
                   under the name of the <hi style="font-style:italic;">English
-                     Cyclopædia</hi>.</q>—<hi style="font-style:italic;">Leader</hi></p>
-            <p><q>We do not feel that it is employing the language of exaggeration to say that
+                  Cyclopædia</hi>.</q>—<hi style="font-style:italic;">Leader</hi></p>
+               <p><q>We do not feel that it is employing the language of exaggeration to say that
                   the issue in a cheap and greatly improved form of the English Cyclopædia, under
                   the editorship of Mr.<hi style="font-variant:small-caps;">Charles Knight</hi>, and with the co-operation of Messrs.
                   <hi style="font-variant:small-caps;">Bradbury &amp; Evans</hi>, dedicated by permission to Her Majesty, partakes of the
                   character of a national undertaking.</q>—<hi style="font-style:italic;">Weekly News and Chronicle</hi>.</p>
-            <p><q>The mass of information here presented in a beautiful type and a readable
+               <p><q>The mass of information here presented in a beautiful type and a readable
                   form, the cleverness and value of the illustrations, and the extraordinary
                   cheapness of the whole, combine, with the publication advantages we have
                   explained, to render the <hi style="font-style:italic;">English Cyclopædia</hi> the best thing of its class, and one
                   which we can conscientiously recommend to our readers.</q>—<hi style="font-style:italic;">The Field</hi>.</p>
-            <p><q>This invaluable work has now reached the twelfth number ; and the public have
+               <p><q>This invaluable work has now reached the twelfth number ; and the public have
                   been afforded ample opportunity of testing its merits as one of the most copious
                   and complete Cyclopædias, and certainly the cheapest that has ever been
                   issued.</q>—<hi style="font-style:italic;">Dublin Evening Post</hi>.</p>
-            <p><q>The <hi style="font-style:italic;">English Cyclopædia</hi>, Part II., is occupied with Natural History and
+               <p><q>The <hi style="font-style:italic;">English Cyclopædia</hi>, Part II., is occupied with Natural History and
                   Geography. The effect of skilful [sic] printing is here more than ever apparent.
                   Dr. <hi style="font-variant:small-caps;">Lankester</hi> has undertaken to bring the botanical articles up to the present
                   state of knowledge.</q>—<hi style="font-style:italic;">Gardener’s Chronicle</hi>.</p>
-            <p><q>Three parts are now before us; and, while they show perfection in typography,
+               <p><q>Three parts are now before us; and, while they show perfection in typography,
                   they evince the utmost fulness [sic] of knowledge in the writers— discoveries and
                   details being brought down to the present day. The <hi style="font-style:italic;">Penny Cyclopædia</hi> was
                   undoubtedly the best general dictionary ever published; but we can say that this
                   one promises to be still better.</q>—<hi style="font-style:italic;">Liverpool Journal</hi>.</p>
-            <p><q>Of the First Part we have at present to speak, and from the specimen before
+               <p><q>Of the First Part we have at present to speak, and from the specimen before
                   us, we most conscientiously and emphatically recommend these ample dictionaries
                   upon special subjects of almost universal interest, as by far the best that are
                   likely to be procurable for many years, equally full-and published for a price
                   which, at the present cost of production, after allowing for a most extensive
                   sale, can be taken strictly as the minimum of cheapness possible in our
                   day.</q>—<hi style="font-style:italic;">Examiner</hi>.</p>
-            <p><q>The first six numbers of this publication are now before us, and if they are
+               <p><q>The first six numbers of this publication are now before us, and if they are
                   to be taken as a sample of the remaining numbers, it may truly be described as a
                   wonderful production in a variety of ways; accuracy, the beauty and correctness of
                   the wood engravings, in the Natural History portion; and though last not least its
                   amazing cheapness.</q>—<hi style="font-style:italic;">Dumfries Courier</hi>.</p>
-            <p><hi style="text-transform:uppercase;">Bradbury &amp; Evans, 11, Bouverie Street.</hi></p>
+            </div>
+            <div>
+               <div type="shortrule"/>
+            </div>
+            <div>
+               <p><hi style="text-transform:uppercase;">Bradbury &amp; Evans, 11, Bouverie Street.</hi></p>
+            </div>
          </div>
          <div xml:id="Water_Ad">
             <head style="text-transform:uppercase;">Descriptive Particulars</head>
@@ -343,37 +399,46 @@
             <p style="font-size:12px;text-transform:uppercase;">Of The</p>
             <p style="font-size:16px;text-transform:uppercase;">Works of Mr. Charles
                Dickens.</p>
-            <p>In compliance with the general wish of the purchasers of this Edition of the Works of
+            <div>
+               <div type="shorterrule"/>
+            </div>
+            <div>
+               <p>In compliance with the general wish of the purchasers of this Edition of the Works of
                   <hi style="font-variant:small-caps;">Mr. Charles Dickens</hi>, terminating with <q><hi
                   style="font-variant:small-caps;"> Martin Chuzzlewit,<!-- Spacing is supposed to be like this --></hi></q> it is intended to include within
                   it the five Christmas Books :—</p>
-            <p style="font-size:16px;text-transform:uppercase;">A Christmas Carol.</p>
-            <p style="font-size:16px;text-transform:uppercase;">The Chimes.</p>
-            <p style="font-size:16px;text-transform:uppercase;">The Cricket on the Hearth</p>
-            <p style="font-size:16px;text-transform:uppercase;">The Battle of Life.</p>
-            <p style="font-size:16px;text-transform:uppercase;">The Haunted Man.</p>
-            <p>These will form, together, when their publication in Numbers shall be completed, <hi
+               <p style="font-size:16px;text-transform:uppercase;">A Christmas Carol.</p>
+               <p style="font-size:16px;text-transform:uppercase;">The Chimes.</p>
+               <p style="font-size:16px;text-transform:uppercase;">The Cricket on the Hearth</p>
+               <p style="font-size:16px;text-transform:uppercase;">The Battle of Life.</p>
+               <p style="font-size:16px;text-transform:uppercase;">The Haunted Man.</p>
+               <p>These will form, together, when their publication in Numbers shall be completed, <hi
                   style="font-variant:small-caps;">One additional Volume of the Cheap Edition.</hi></p>
-            <p>This additional Volume, like its predecessors (and printed to range with them), will
-               be issued in Weekly Numbers, price 1 ½ d. each, and in Monthly Parts. The first
-               Weekly Number will be published on the 1st of June.</p>
-            <p style="font-size:16px;text-transform:uppercase;">Chapman and Hall, 193,
+               <p>This additional Volume, like its predecessors (and printed to range with them), will
+                  be issued in Weekly Numbers, price 1 ½ d. each, and in Monthly Parts. The first
+                  Weekly Number will be published on the 1st of June.</p></div>
+            <div>
+               <div type="shortrule"/>
+            </div>
+            <div>
+               <p style="font-size:16px;text-transform:uppercase;">Chapman and Hall, 193,
                   Piccadilly</p>
+            </div>
          </div>
          <div xml:id="Title_Page">
-            <head style="text-transform:uppercase;">Bleak House.</head>
+            <head style="font-size:20px;text-transform:uppercase;">Bleak House.</head>
             <div rend="spacing">
-               <p>BY</p>
+               <p style="font-size:10px;text-transform:uppercase">by</p>
             </div>
             <div rend="smallspacing">
                <p><seg source="boldtext" style="text-transform:uppercase;">Charles Dickens.</seg></p>
             </div>
             <div rend="spacing smalltext">
-               <div type="rule"/>
+               <div type="shortrule"/>
                <div>
                   <p style="text-transform:uppercase;">With illustrations by H. K. Browne.</p>
                </div>
-               <div type="rule"/>
+               <div type="shortrule"/>
             </div>
             <div rend="spacing">
                <p style="text-transform:uppercase;">London : <lb/>Bradbury and Evans, 11, Bouverie Street.
@@ -471,16 +536,16 @@
          </div>
          <div xml:id="Chapter_I">
             <div rend="spacing">
-               <head style="text-transform:uppercase">Bleak House.</head>
+               <head style="font-size:20px;text-transform:uppercase">Bleak House.</head>
             </div>
             <div rend="smallspacing">
-               <div type="rule"/>
+               <div type="shortrule"/>
                <div rend="smallspacing">
                   <p style="text-transform:uppercase">Chapter I.</p>
                </div>
             </div>
             <div rend="smallspacing smalltext">
-               <p style="text-transform:uppercase;">In Chancery.</p>
+               <p style="font-size:10px;text-transform:uppercase;">In Chancery.</p>
             </div>
             <div rend="booktext smallspacing smalltext">
                <p><hi style="text-transform:uppercase;">London.</hi> Michaelmas term lately over, and the Lord
@@ -506,10 +571,10 @@
                </div>
             </div>
             <div rend="smallspacing smalltext">
-               <p style="text-transform:uppercase;">Perspective.</p>
+               <p style="font-size:10px;text-transform:uppercase;">Perspective.</p>
             </div>
             <div rend="booktext smallspacing smalltext">
-               <p><hi style="text-transform:uppercase;">I proceed</hi> to other passages of my narrative. From
+               <p><hi style="font-variant:small-caps;">I proceed</hi> to other passages of my narrative. From
                   the goodness of all about me, I derived such consolation as I can never think of
                   unmoved. I have already said so much of myself, and so much still remains, that I
                   will not dwell upon my sorrow. I had an illness, but it was not a long one; and I
