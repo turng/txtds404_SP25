@@ -183,8 +183,8 @@
          </div>
          <div xml:id="Chapman_and_Hall">
             <pb n="3"/>
-            <p style="class:runningheader">Advertisements.</p>
-            <p>Cheap editions.</p>
+            <p style="text-transform:uppercase;font-weight:bold;">Advertisements.</p>
+            <p style="font-family:sans-serif;text-transform:uppercase;font-weight:bold;">Cheap editions.</p>
             <div>
                <p style="text-transform:uppercase;">The</p>
                <p>Works of Mr. Charles Dickens.</p>
