@@ -12,14 +12,17 @@
                     margin-right: auto;
                     margin-top: 75px;
                     margin-bottom: 100px;
+                    margin-left:25px;
+                    margin-right:25px;
                     }
                     
                     table {
                      text-align: justify;
                      margin-left: auto;
                      margin-right: auto;
-                     margin-top: 75px;
-                     margin-bottom: 100px;
+                     margin-top: 25px;
+                     margin-bottom: 25px;
+                     width:400px;
                     }
                     
                     s{
@@ -30,45 +33,10 @@
                     padding:1%;
                     }
                     
-                    .spacing {
-                    margin-top: 8em;
-                    }
-                    
-                    .smallspacing {
-                    margin-top: 2em;
-                    }
-                    
-                    .smalltext {
-                    font-size: 0.9em;
-                    }
-                    
-                    .smallertext {
-                    font-size: 0.8em;
-                    }
-                    
-                    .boldtext {
-                    font-weight: bold;
-                    font-size: 1.1em;
-                    }
-                    
-                    .booktext {
-                    max-width: 500px;
-                    text-align: justify;
-                    margin-left: auto;
-                    margin-right: auto;
-                    text-indent: 1em;
-                    }
-                    
                     .biblcolumns{
                     text-align:center;
-                    column-width:35em;
-                    }
-                    
-                    .columns{
-                    text-align:justify;
-                    text-indent:1em;
-                    column-width:35em;
-                    column-rule:1px solid;
+                    column-count:2;
+                    column-width:10em;
                     }
                 </style>
    </head>
@@ -148,7 +116,8 @@
          <p>This edition has been prepared for publication as HTML through an XSLT transformation.
             		With our focus on visual replication, this means that in encoding, we have prioritized
             		practical considerations related to XSL and CSS over robust markup of semantic and
-            		contextual information in the base XML.</p>
+            		contextual information in the base XML, though we do still communicate some contextual
+		            information through notes.</p>
          
          
          <div>
@@ -187,23 +156,17 @@
             
             <h4 style="font-weight:bold;text-transform:uppercase;">Bleak House Advertisers.</h4>
             
-            <div>
-               
-               <hr style="width:1000px;">
-               
-               <hr style="width:1000px;">
-               </div>
+            <hr style="width:1000px;">
+            
+            <hr style="width:1000px;">
             
             <div>
                
                <p style="font-size:20px;font-weight:bold;">Completion of Bleak House.</p>
                
-               <div>
-                  
-                  <hr style="width:200px;">
-                  
-                  <hr style="width:200px;">
-                  </div>
+               <hr style="width:200px;">
+               
+               <hr style="width:200px;">
                
                <div>
                   
@@ -218,12 +181,9 @@
                   
                   <p style="font-size:16px;text-transform:uppercase">Charles Dickens.</p>
                   
-                  <div>
-                     
-                     <hr style="width:200px;">
-                     
-                     <hr style="width:200px;">
-                     </div>
+                  <hr style="width:200px;">
+                  
+                  <hr style="width:200px;">
                   
                   <div>
                      
@@ -234,44 +194,44 @@
                         
                         <tr>
                            
-                           <td>Price,</td>
+                           <td colspan="1">Price,</td>
                            
-                           <td>neatly</td>
+                           <td colspan="1">neatly</td>
                            
-                           <td>bound in</td>
+                           <td colspan="1">bound in</td>
                            
-                           <td>cloth</td>
+                           <td colspan="1">cloth</td>
                            
-                           <td></td>
+                           <td colspan="1"></td>
                            
-                           <td>£</td>
+                           <td colspan="1">£</td>
                            
-                           <td>1</td>
+                           <td colspan="1">1</td>
                            
-                           <td>1</td>
+                           <td colspan="1">1</td>
                            
-                           <td>0</td>
+                           <td colspan="1">0</td>
                            </tr>
                         
                         <tr>
                            
-                           <td style="text-align:center;">,,</td>
+                           <td style="text-align:center;" colspan="1">,,</td>
                            
-                           <td style="text-align:center;">,,</td>
+                           <td style="text-align:center;" colspan="1">,,</td>
                            
-                           <td style="text-align:center;">,,</td>
+                           <td style="text-align:center;" colspan="1">,,</td>
                            
-                           <td>Half morocco,marble edges</td>
+                           <td colspan="1">Half morocco,marble edges</td>
                            
-                           <td></td>
+                           <td colspan="1"></td>
                            
-                           <td></td>
+                           <td colspan="1"></td>
                            
-                           <td>1</td>
+                           <td colspan="1">1</td>
                            
-                           <td>4</td>
+                           <td colspan="1">4</td>
                            
-                           <td>6</td>
+                           <td colspan="1">6</td>
                            </tr>
                         </table>
                      </div>
@@ -288,67 +248,61 @@
                         
                         <tr>
                            
-                           <td>Whole bound,</td>
+                           <td colspan="1">Whole bound,</td>
                            
-                           <td>morocco</td>
+                           <td colspan="1">morocco</td>
                            
-                           <td>gilt edges</td>
+                           <td colspan="1">gilt edges</td>
                            
-                           <td></td>
+                           <td colspan="1"></td>
                            
-                           <td>6s.</td>
+                           <td colspan="1">6s.</td>
                            
-                           <td>6d.</td>
+                           <td colspan="1">6d.</td>
                            </tr>
                         
                         <tr>
                            
-                           <td>Half bound,</td>
+                           <td colspan="1">Half bound,</td>
                            
-                           <td style="text-align:center;">,,</td>
+                           <td style="text-align:center;" colspan="1">,,</td>
                            
-                           <td>marble leaves</td>
+                           <td colspan="1">marble leaves</td>
                            
-                           <td></td>
+                           <td colspan="1"></td>
                            
-                           <td>4</td>
+                           <td colspan="1">4</td>
                            
-                           <td>6</td>
+                           <td colspan="1">6</td>
                            </tr>
                         
                         <tr>
                            
-                           <td>In cloth, lettered</td>
+                           <td colspan="1">In cloth, lettered</td>
                            
-                           <td></td>
+                           <td colspan="1"></td>
                            
-                           <td></td>
+                           <td colspan="1"></td>
                            
-                           <td></td>
+                           <td colspan="1"></td>
                            
-                           <td>1</td>
+                           <td colspan="1">1</td>
                            
-                           <td>6</td>
+                           <td colspan="1">6</td>
                            </tr>
                         </table>
                      </div>
                   
-                  <div>
-                     
-                     <hr style="width:200px;">
-                     
-                     <hr style="width:200px;">
-                     </div>
+                  <hr style="width:200px;">
+                  
+                  <hr style="width:200px;">
                   
                   <div>
                      
                      <p style="font-size:16px;text-transform:uppercase;">By the same author.</p>
                      </div>
                   
-                  <div>
-                     
-                     <hr style="width:120px;">
-                     </div>
+                  <hr style="width:120px;">
                   
                   <div>
                      
@@ -372,12 +326,9 @@
                         Volumes.</p>
                      </div>
                   
-                  <div>
-                     
-                     <hr style="width:200px;">
-                     
-                     <hr style="width:200px;">
-                     </div>
+                  <hr style="width:200px;">
+                  
+                  <hr style="width:200px;">
                   </div>
                </div>
             </div>
@@ -388,24 +339,18 @@
             
             <p style="text-transform:uppercase;font-weight:bold;">Advertisements.</p>
             
-            <div>
-               
-               <hr style="width:1000px;">
-               
-               <hr style="width:1000px;">
-               </div>
+            <hr style="width:1000px;">
+            
+            <hr style="width:1000px;">
             
             <div>
                
                <p style="font-family:sans-serif;text-transform:uppercase;font-weight:bold;">Cheap editions.</p>
                </div>
             
-            <div>
-               
-               <hr style="width:200px;">
-               
-               <hr style="width:200px;">
-               </div>
+            <hr style="width:200px;">
+            
+            <hr style="width:200px;">
             
             <div>
                
@@ -420,114 +365,111 @@
                   
                   <tr>
                      
-                     <td></td>
+                     <td colspan="1"></td>
                      
-                     <td>Cloth, gilt backs.</td>
+                     <td style="text-align:center;" colspan="2">Cloth, gilt backs.</td>
                      </tr>
                   
                   <tr>
                      
-                     <td></td>
+                     <td colspan="1"></td>
                      
-                     <td style="font-style:italic;">s.</td>
+                     <td style="font-style:italic;" colspan="1">s.</td>
                      
-                     <td style="font-style:italic;">d.</td>
+                     <td style="font-style:italic;" colspan="1">d.</td>
                      </tr>
                   
                   <tr>
                      
-                     <td style="text-transform:uppercase;">Pickwick Papers</td>
+                     <td style="text-transform:uppercase;" colspan="1">Pickwick Papers</td>
                      
-                     <td>5</td>
+                     <td colspan="1">5</td>
                      
-                     <td>0</td>
+                     <td colspan="1">0</td>
                      </tr>
                   
                   <tr>
                      
-                     <td style="text-transform:uppercase;">Nicholas Nickleby</td>
+                     <td style="text-transform:uppercase;" colspan="1">Nicholas Nickleby</td>
                      
-                     <td>5</td>
+                     <td colspan="1">5</td>
                      
-                     <td>0</td>
+                     <td colspan="1">0</td>
                      </tr>
                   
                   <tr>
                      
-                     <td style="text-transform:uppercase;">Old Curiosity Shop</td>
+                     <td style="text-transform:uppercase;" colspan="1">Old Curiosity Shop</td>
                      
-                     <td>4</td>
+                     <td colspan="1">4</td>
                      
-                     <td>0</td>
+                     <td colspan="1">0</td>
                      </tr>
                   
                   <tr>
                      
-                     <td style="text-transform:uppercase;">Barnaby Rudge</td>
+                     <td style="text-transform:uppercase;" colspan="1">Barnaby Rudge</td>
                      
-                     <td>4</td>
+                     <td colspan="1">4</td>
                      
-                     <td>0</td>
+                     <td colspan="1">0</td>
                      </tr>
                   
                   <tr>
                      
-                     <td style="text-transform:uppercase;">Martin Chuzzlewit</td>
+                     <td style="text-transform:uppercase;" colspan="1">Martin Chuzzlewit</td>
                      
-                     <td>5</td>
+                     <td colspan="1">5</td>
                      
-                     <td>0</td>
+                     <td colspan="1">0</td>
                      </tr>
                   
                   <tr>
                      
-                     <td style="text-transform:uppercase;">Oliver Twist</td>
+                     <td style="text-transform:uppercase;" colspan="1">Oliver Twist</td>
                      
-                     <td>3</td>
+                     <td colspan="1">3</td>
                      
-                     <td>6</td>
+                     <td colspan="1">6</td>
                      </tr>
                   
                   <tr>
                      
-                     <td style="text-transform:uppercase;">American Notes</td>
+                     <td style="text-transform:uppercase;" colspan="1">American Notes</td>
                      
-                     <td>2</td>
+                     <td colspan="1">2</td>
                      
-                     <td>6</td>
+                     <td colspan="1">6</td>
                      </tr>
                   
                   <tr>
                      
-                     <td style="text-transform:uppercase;">Sketches by Boz</td>
+                     <td style="text-transform:uppercase;" colspan="1">Sketches by Boz</td>
                      
-                     <td>3</td>
+                     <td colspan="1">3</td>
                      
-                     <td>6</td>
+                     <td colspan="1">6</td>
                      </tr>
                   
                   <tr>
                      
-                     <td style="text-transform:uppercase;">Christmas Books</td>
+                     <td style="text-transform:uppercase;" colspan="1">Christmas Books</td>
                      
-                     <td>3</td>
+                     <td colspan="1">3</td>
                      
-                     <td>6</td>
+                     <td colspan="1">6</td>
                      </tr>
                   
                   <tr>
                      
-                     <td>*** Any of the above volumes may be had separately, half-bound in
+                     <td colspan="3">*** Any of the above volumes may be had separately, half-bound in
                         morocco, for 2s. 6d. extra.</td>
                      </tr>
                   </table>
                
-               <div>
-                  
-                  <hr style="width:120px;">
-                  
-                  <hr style="width:120px;">
-                  </div>
+               <hr style="width:120px;">
+               
+               <hr style="width:120px;">
                </div>
             
             <div>
@@ -549,17 +491,14 @@
             
             <p style="text-transform:uppercase;">Conducted by Mr. Charles Knight.</p>
             
-            <div>
-               
-               <hr style="width:120px;">
-               </div>
+            <hr style="width:120px;">
             
             <div>
                
                <p style="font-family:sans-serif;text-transform:uppercase;">Opinions of the Press</p>
                </div>
             
-            <div class="columns">
+            <div style="text-align:justify;text-indent:1em;column-count:2;column-width:20em;column-rule:1px solid;">
                
                <p>
                   "Among serials, the most important in our eyes is the new edition of the
@@ -625,10 +564,7 @@
                   —<s style="font-style:italic;">Dumfries Courier</s>.</p>
                </div>
             
-            <div>
-               
-               <hr style="width:200px;">
-               </div>
+            <hr style="width:200px;">
             
             <div>
                
@@ -692,9 +628,9 @@
             </div>
          
          <hr style="margin-top:75px;margin-bottom:75px;">
-         <div class="contentblock">
+         <div class="contentblock" style="width:800px;margin-left:auto;margin-right:auto;">
             
-            <h4><s style="text-transform:uppercase;">Cheap
+            <h4><s style="font-family:sans-serif;text-transform:uppercase;">Cheap
                   Edition</s></h4>
             
             <p style="font-size:12px;text-transform:uppercase;">Of The</p>
@@ -702,41 +638,59 @@
             <p style="font-size:16px;text-transform:uppercase;">Works of Mr. Charles
                Dickens.</p>
             
-            <div>
-               
-               <hr style="width:120px;">
-               </div>
+            <hr style="width:120px;">
             
-            <div>
+            <div style="text-align:left;">
                
-               <p>In compliance with the general wish of the purchasers of this Edition of the Works
+               <p style="text-indent:1em;">In compliance with the general wish of the purchasers of this Edition of the Works
                   of
                   <s style="font-variant:small-caps;">Mr. Charles Dickens</s>, terminating with 
                   "<s style="font-variant:small-caps;"> Martin Chuzzlewit,</s>"
                    it is intended to include within
                   it the five Christmas Books :—</p>
                
-               <p style="font-size:16px;text-transform:uppercase;">A Christmas Carol.</p>
+               <div style="font-size:16px;text-transform:uppercase;">
+                  
+                  <table style="width:250px;">
+                     
+                     <tr>
+                        
+                        <td colspan="1">A Christmas Carol.</td>
+                        </tr>
+                     
+                     <tr>
+                        
+                        <td colspan="1">The Chimes.</td>
+                        </tr>
+                     
+                     <tr>
+                        
+                        <td colspan="1">The Cricket on the Hearth</td>
+                        </tr>
+                     
+                     <tr>
+                        
+                        <td colspan="1">The Battle of Life.</td>
+                        </tr>
+                     
+                     <tr>
+                        
+                        <td colspan="1">The Haunted Man.</td>
+                        </tr>
+                     </table>
+                  </div>
                
-               <p style="font-size:16px;text-transform:uppercase;">The Chimes.</p>
-               
-               <p style="font-size:16px;text-transform:uppercase;">The Cricket on the Hearth</p>
-               
-               <p style="font-size:16px;text-transform:uppercase;">The Battle of Life.</p>
-               
-               <p style="font-size:16px;text-transform:uppercase;">The Haunted Man.</p>
-               
-               <p>These will form, together, when their publication in Numbers shall be completed, <s style="font-variant:small-caps;">One additional Volume of the Cheap Edition.</s></p>
-               
-               <p>This additional Volume, like its predecessors (and printed to range with them), will
-                  be issued in Weekly Numbers, price 1 ½ d. each, and in Monthly Parts. The first
-                  Weekly Number will be published on the 1st of June.</p>
-            </div>
-            
-            <div>
-               
-               <hr style="width:200px;">
+               <div>
+                  
+                  <p style="text-indent:1em;">These will form, together, when their publication in Numbers shall be completed, <s style="font-variant:small-caps;">One additional Volume of the Cheap Edition.</s></p>
+                  
+                  <p style="text-indent:1em;">This additional Volume, like its predecessors (and printed to range with them), will
+                     be issued in Weekly Numbers, price 1 ½ d. each, and in Monthly Parts. The first
+                     Weekly Number will be published on the 1st of June.</p>
+                  </div>
                </div>
+            
+            <hr style="width:200px;">
             
             <div>
                
@@ -750,17 +704,17 @@
             
             <h4 style="font-size:20px;text-transform:uppercase;">Bleak House.</h4>
             
-            <div class="spacing">
+            <div style="margin-top:8em;">
                
                <p style="font-size:10px;text-transform:uppercase">by</p>
                </div>
             
-            <div class="smallspacing">
+            <div style="margin-top:2em;">
                
                <p>Charles Dickens.</p>
                </div>
             
-            <div class="spacing smalltext">
+            <div style="margin-top:8em;font-size:0.9em;">
                
                <hr style="width:200px;">
                
@@ -772,7 +726,7 @@
                <hr style="width:200px;">
                </div>
             
-            <div class="spacing">
+            <div style="margin-top:8em;">
                
                <p style="text-transform:uppercase;">London : Bradbury and Evans, 11, Bouverie Street.
                   1853. </p>
@@ -800,171 +754,177 @@
             
             <h4 style="font-variant:small-caps;">Contents.</h4>
             
-            <table>
+            <hr style="width:120px;">
+            
+            <div>
                
-               <tr>
+               <table>
                   
-                  <td>Chap.</td>
+                  <tr>
+                     
+                     <td style="text-align:right;font-size:10px;" colspan="1">Chap.</td>
+                     
+                     <td colspan="1"></td>
+                     		             
+                     <td style="font-size:10px;" colspan="1">Page</td>
+                     </tr>
                   
-                  <td></td>
-                  		            
-                  <td>Page</td>
-                  </tr>
-               
-               <tr>
+                  <tr>
+                     
+                     <td style="text-align:right;" colspan="1">I.</td>
+                     
+                     <td style="font-variant:small-caps;" colspan="1">In Chancery</td>
+                     
+                     <td colspan="1">1</td>
+                     </tr>
                   
-                  <td style="text-align:right;">I.</td>
+                  <tr>
+                     
+                     <td style="text-align:right;" colspan="1">II.</td>
+                     
+                     <td colspan="1">In Fashion</td>
+                     
+                     <td colspan="1">5</td>
+                     </tr>
                   
-                  <td style="font-variant:small-caps;">In Chancery</td>
+                  <tr>
+                     
+                     <td style="text-align:right;" colspan="1">III.</td>
+                     
+                     <td colspan="1">A Progress</td>
+                     
+                     <td colspan="1">10</td>
+                     </tr>
                   
-                  <td>1</td>
-                  </tr>
-               
-               <tr>
+                  <tr>
+                     
+                     <td style="text-align:right;" colspan="1">IV.</td>
+                     
+                     <td colspan="1">Telescopic Philanthropy</td>
+                     
+                     <td colspan="1">24</td>
+                     </tr>
                   
-                  <td style="text-align:right;">II.</td>
+                  <tr>
+                     
+                     <td style="text-align:right;" colspan="1">V.</td>
+                     
+                     <td colspan="1">A Morning Adventure</td>
+                     
+                     <td colspan="1">33</td>
+                     </tr>
                   
-                  <td>In Fashion</td>
+                  <tr>
+                     
+                     <td style="text-align:right;" colspan="1">VI.</td>
+                     
+                     <td colspan="1">Quite at Home</td>
+                     
+                     <td colspan="1">42</td>
+                     </tr>
                   
-                  <td>5</td>
-                  </tr>
-               
-               <tr>
+                  <tr>
+                     
+                     <td style="text-align:right;" colspan="1">VII.</td>
+                     
+                     <td colspan="1">The Ghost's Walk</td>
+                     
+                     <td colspan="1">57</td>
+                     </tr>
                   
-                  <td style="text-align:right;">III.</td>
+                  <tr>
+                     
+                     <td style="text-align:right;" colspan="1">VIII.</td>
+                     
+                     <td colspan="1">Covering a Multitude of Sins</td>
+                     
+                     <td colspan="1">65</td>
+                     </tr>
                   
-                  <td>A Progress</td>
+                  <tr>
+                     
+                     <td style="text-align:right;" colspan="1">IX.</td>
+                     
+                     <td colspan="1">Signs and Tokens</td>
+                     
+                     <td colspan="1">79</td>
+                     </tr>
                   
-                  <td>10</td>
-                  </tr>
-               
-               <tr>
+                  <tr>
+                     
+                     <td style="text-align:right;" colspan="1">X.</td>
+                     
+                     <td colspan="1">The Law-writer</td>
+                     
+                     <td colspan="1">89</td>
+                     </tr>
                   
-                  <td style="text-align:right;">IV.</td>
+                  <tr>
+                     
+                     <td style="text-align:right;" colspan="1">XI.</td>
+                     
+                     <td colspan="1">Our dear Brother</td>
+                     
+                     <td colspan="1">97</td>
+                     </tr>
                   
-                  <td>Telescopic Philanthropy</td>
+                  <tr>
+                     
+                     <td style="text-align:right;" colspan="1">XII.</td>
+                     
+                     <td colspan="1">On the Watch</td>
+                     
+                     <td colspan="1">107</td>
+                     </tr>
                   
-                  <td>24</td>
-                  </tr>
-               
-               <tr>
+                  <tr>
+                     
+                     <td style="text-align:right;" colspan="1">XIII.</td>
+                     
+                     <td colspan="1">Esther's Narrative</td>
+                     
+                     <td colspan="1">117</td>
+                     </tr>
                   
-                  <td style="text-align:right;">V.</td>
-                  
-                  <td>A Morning Adventure</td>
-                  
-                  <td>33</td>
-                  </tr>
-               
-               <tr>
-                  
-                  <td style="text-align:right;">VI.</td>
-                  
-                  <td>Quite at Home</td>
-                  
-                  <td>42</td>
-                  </tr>
-               
-               <tr>
-                  
-                  <td style="text-align:right;">VII.</td>
-                  
-                  <td>The Ghost's Walk</td>
-                  
-                  <td>57</td>
-                  </tr>
-               
-               <tr>
-                  
-                  <td style="text-align:right;">VIII.</td>
-                  
-                  <td>Covering a Multitude of Sins</td>
-                  
-                  <td>65</td>
-                  </tr>
-               
-               <tr>
-                  
-                  <td style="text-align:right;">IX.</td>
-                  
-                  <td>Signs and Tokens</td>
-                  
-                  <td>79</td>
-                  </tr>
-               
-               <tr>
-                  
-                  <td style="text-align:right;">X.</td>
-                  
-                  <td>The Law-writer</td>
-                  
-                  <td>89</td>
-                  </tr>
-               
-               <tr>
-                  
-                  <td style="text-align:right;">XI.</td>
-                  
-                  <td>Our dear Brother</td>
-                  
-                  <td>97</td>
-                  </tr>
-               
-               <tr>
-                  
-                  <td style="text-align:right;">XII.</td>
-                  
-                  <td>On the Watch</td>
-                  
-                  <td>107</td>
-                  </tr>
-               
-               <tr>
-                  
-                  <td style="text-align:right;">XIII.</td>
-                  
-                  <td>Esther's Narrative</td>
-                  
-                  <td>117</td>
-                  </tr>
-               
-               <tr>
-                  
-                  <td style="text-align:right;">XIV.</td>
-                  
-                  <td>Deportment</td>
-                  
-                  <td>129</td>
-                  </tr>
-               </table>
+                  <tr>
+                     
+                     <td style="text-align:right;" colspan="1">XIV.</td>
+                     
+                     <td colspan="1">Deportment</td>
+                     
+                     <td colspan="1">129</td>
+                     </tr>
+                  </table>
+               </div>
             </div>
          
          <hr style="margin-top:75px;margin-bottom:75px;">
          <div class="contentblock">
             
-            <div class="spacing">
+            <div style="margin-top:8em;">
                
                <h4 style="font-size:20px;text-transform:uppercase">Bleak House.</h4>
                </div>
             
-            <div class="smallspacing">
+            <div style="margin-top:2em;">
                
                <hr style="width:200px;">
                
-               <div class="smallspacing">
+               <div style="margin-top:2em;">
                   
                   <p style="text-transform:uppercase">Chapter I.</p>
                   </div>
                </div>
             
-            <div class="smallspacing smalltext">
+            <div style="margin-top:2em;font-size:0.9em;">
                
                <p style="font-size:10px;text-transform:uppercase;">In Chancery.</p>
                </div>
             
-            <div class="booktext smallspacing smalltext">
+            <div style="margin-top:2em;font-size:0.9em;">
                
-               <p><s style="text-transform:uppercase;">London.</s> Michaelmas term lately over, and the Lord
+               <p style="max-width:500px;text-align:justify;margin-left:auto;margin-right:auto;text-indent:1em;">
+                  <s style="text-transform:uppercase;">London.</s> Michaelmas term lately over, and the Lord
                   Chancellor sitting in Lincoln's Inn Hall. Implacable November weather. As much mud
                   in the streets, as if the waters had but newly retired from the face of the earth,
                   and it would not be wonderful to meet a Megalosaurus, forty feet long or so,
@@ -984,22 +944,23 @@
          <hr style="margin-top:75px;margin-bottom:75px;">
          <div class="contentblock">
             
-            <div class="spacing">
+            <div style="margin-top:8em;">
                
-               <div class="smallspacing">
+               <div style="margin-top:2em;">
                   
                   <p style="text-transform:uppercase;">Chapter LX.</p>
                   </div>
                </div>
             
-            <div class="smallspacing smalltext">
+            <div style="margin-top:2em;font-size:0.9em;">
                
                <p style="font-size:10px;text-transform:uppercase;">Perspective.</p>
                </div>
             
-            <div class="booktext smallspacing smalltext">
+            <div style="margin-top:2em;font-size:0.9em;">
                
-               <p><s style="font-variant:small-caps;">I proceed</s> to other passages of my narrative. From
+               <p style="max-width:500px;text-align:justify;margin-left:auto;margin-right:auto;text-indent:1em;">
+                  <s style="font-variant:small-caps;">I proceed</s> to other passages of my narrative. From
                   the goodness of all about me, I derived such consolation as I can never think of
                   unmoved. I have already said so much of myself, and so much still remains, that I
                   will not dwell upon my sorrow. I had an illness, but it was not a long one; and I
@@ -1007,7 +968,7 @@
                   of their sympathy.</p>
                </div>
             
-            <div class="spacing">
+            <div style="margin-top:8em;">
                
                <hr style="width:1000px;">
                

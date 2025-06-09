@@ -19,7 +19,7 @@
   /* reset text-indent for note with <l> ancestors. */
   text-indent: 0;
   font-size: 85%;
-  text-align: justify;
+  text-align: center;
   -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
   -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
   box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
@@ -47,7 +47,7 @@
 .-teibp-pb {
   display: block;
   width: 100%;
-  text-align: right;
+  text-align: center;
   color: gray;
   margin: 2em 0 2em 0;
   font-size: 11pt;
@@ -94,6 +94,7 @@
   font-family: Courier,monospace;
 }
 .page-setup {
+  text-align: center;
   margin-left: 2em;
   margin-right: 4em;
   padding: 2.5em;
@@ -1864,6 +1865,7 @@ a:hover {
   text-decoration: underline;
 }
 #teibpToolbox {
+  display: none;
   left: 56em;
   top: 25px;
   position: fixed;
@@ -1881,6 +1883,7 @@ a:hover {
   width: 12em;
 }
 #teibpToolbox h1 {
+  display: none;
   font-weight: bold;
   font-size: 115%;
   margin-top: 0;

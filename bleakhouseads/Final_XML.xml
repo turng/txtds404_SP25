@@ -60,7 +60,8 @@
 	    <p>This edition has been prepared for publication as HTML through an XSLT transformation.
 		With our focus on visual replication, this means that in encoding, we have prioritized
 		practical considerations related to XSL and CSS over robust markup of semantic and
-		contextual information in the base XML.</p>
+		contextual information in the base XML, though we do still communicate some contextual
+		information through notes.</p>
          </publicationStmt>
          <sourceDesc>
             <bibl>
@@ -103,16 +104,12 @@
       <body>
          <div xml:id="Bleak_House_Ad">
             <head style="font-weight:bold;text-transform:uppercase;">Bleak House Advertisers.</head>
-            <div>
-               <div type="rule"/>
-               <div type="rule"/>
-            </div>
+            <milestone unit="rule"/>
+            <milestone unit="rule"/>
             <div>
                <p style="font-size:20px;font-weight:bold;">Completion of Bleak House.</p>
-               <div>
-                  <div type="shortrule"/>
-                  <div type="shortrule"/>
-               </div>
+               <milestone unit="shortrule"/>
+               <milestone unit="shortrule"/>
                <div>
                   <p>On Monday, 12th September will be published,</p>
                   <p><hi style="font-style:italic;">Complete in One thick Volume, 8vo, with Forty Illustrations
@@ -120,10 +117,8 @@
                   <p style="font-size:30px;text-transform:uppercase;">Bleak House.</p>
                   <p style="font-size:12px;text-transform:uppercase;">By</p>
                   <p style="font-size:16px;text-transform:uppercase">Charles Dickens.</p>
-                  <div>
-                     <div type="shortrule"/>
-                     <div type="shortrule"/>
-                  </div>
+                  <milestone unit="shortrule"/>
+                  <milestone unit="shortrule"/>
                   <div>
                      <p>The Publishers beg to inform the Public and the Trade that <hi style="font-variant:small-caps;">Bleak
                         House,</hi> complete in One Volume, will be ready for delivery on the 12th September.</p>
@@ -184,16 +179,12 @@
                         </row>
                      </table>
                   </div>
-                  <div>
-                     <div type="shortrule"/>
-                     <div type="shortrule"/>
-                  </div>
+                  <milestone unit="shortrule"/>
+                  <milestone unit="shortrule"/>
                   <div>
                      <p style="font-size:16px;text-transform:uppercase;">By the same author.</p>
                   </div>
-                  <div>
-                     <div type="shorterrule"/>
-                  </div>
+                  <milestone unit="shorterrule"/>
                   <div>
                      <p style="font-size:12px;">Price<hi style="font-style:italic;"> 3s. 6d.</hi>each, neatly bound in
                         cloth,</p>
@@ -208,27 +199,21 @@
                      <p style="font-size:12px;font-style:italic;">The History will be completed in Three
                         Volumes.</p>
                   </div>
-                  <div>
-                     <div type="shortrule"/>
-                     <div type="shortrule"/>
-                  </div>
+                  <milestone unit="shortrule"/>
+                  <milestone unit="shortrule"/>
                </div>
             </div>
          </div>
          <div xml:id="Chapman_and_Hall">
             <pb n="3"/>
             <p style="text-transform:uppercase;font-weight:bold;">Advertisements.</p>
-            <div>
-               <div type="rule"/>
-               <div type="rule"/>
-            </div>
+            <milestone unit="rule"/>
+            <milestone unit="rule"/>
             <div>
                <p style="font-family:sans-serif;text-transform:uppercase;font-weight:bold;">Cheap editions.</p>
             </div>
-            <div>
-               <div type="shortrule"/>
-               <div type="shortrule"/>
-            </div>
+            <milestone unit="shortrule"/>
+            <milestone unit="shortrule"/>
             <div>
                <p style="text-transform:uppercase;">The</p>
                <p style="font-size:18px;">Works of Mr. Charles Dickens.</p>
@@ -237,7 +222,7 @@
                <table>
                   <row>
                      <cell/>
-                     <cell>Cloth, gilt backs.</cell>
+                     <cell cols="2" style="text-align:center;">Cloth, gilt backs.</cell>
                   </row>
                   <row>
                      <cell/>
@@ -290,14 +275,12 @@
                      <cell>6</cell>
                   </row>
                   <row>
-                     <cell>*** Any of the above volumes may be had separately, half-bound in
+                     <cell cols="3">*** Any of the above volumes may be had separately, half-bound in
                         morocco, for 2s. 6d. extra.</cell>
                   </row>
                </table>
-               <div>
-                  <div type="shorterrule"/>
-                  <div type="shorterrule"/>
-               </div>
+               <milestone unit="shorterrule"/>
+               <milestone unit="shorterrule"/>
             </div>
             <div>
                <ab style="text-transform:uppercase;">London: <ref target="#N3">Chapman and
@@ -310,13 +293,11 @@
             <ab style="font-size:12px;text-transform:uppercase;font-weight:bold;">And Illustrated with Five
                Thousand Wood Engravings.</ab>
             <ab style="text-transform:uppercase;">Conducted by Mr. Charles Knight.</ab>
-            <div>
-               <div type="shorterrule"/>
-            </div>
+            <milestone unit="shorterrule"/>
             <div>
                <ab style="font-family:sans-serif;text-transform:uppercase;">Opinions of the Press</ab>
             </div>
-            <div rend="columns">
+            <div style="text-align:justify;text-indent:1em;column-count:2;column-width:20em;column-rule:1px solid;">
                <p><q>Among serials, the most important in our eyes is the new edition of the
                  <hi style="font-style:italic;">Penny Cyclopædia</hi> issued in separate divisions
                   under the name of the <hi style="font-style:italic;">English
@@ -357,9 +338,7 @@
                   the wood engravings, in the Natural History portion; and though last not least its
                   amazing cheapness.</q>—<hi style="font-style:italic;">Dumfries Courier</hi>.</p>
             </div>
-            <div>
-               <div type="shortrule"/>
-            </div>
+            <milestone unit="shortrule"/>
             <div>
                <p><hi style="text-transform:uppercase;">Bradbury &amp; Evans, 11, Bouverie Street.</hi></p>
             </div>
@@ -396,33 +375,46 @@
                render the water more disagreeable and impure than before, owing to the putrid state of the
                very medium that is used for filtration.</p>
          </div>
-         <div xml:id="Cheap_Edition">
-            <head><hi style="text-transform:uppercase;"><ref target="#N6">Cheap
+         <div xml:id="Cheap_Edition" style="width:800px;margin-left:auto;margin-right:auto;">
+            <head><hi style="font-family:sans-serif;text-transform:uppercase;"><ref target="#N6">Cheap
                   Edition</ref></hi></head>
             <p style="font-size:12px;text-transform:uppercase;">Of The</p>
             <p style="font-size:16px;text-transform:uppercase;">Works of Mr. Charles
                Dickens.</p>
-            <div>
-               <div type="shorterrule"/>
-            </div>
-            <div>
-               <p>In compliance with the general wish of the purchasers of this Edition of the Works of
+            <milestone unit="shorterrule"/>
+            <div style="text-align:left;">
+               <p style="text-indent:1em;">In compliance with the general wish of the purchasers of this Edition of the Works of
                   <hi style="font-variant:small-caps;">Mr. Charles Dickens</hi>, terminating with <q><hi
                   style="font-variant:small-caps;"> Martin Chuzzlewit,<!-- Spacing is supposed to be like this --></hi></q> it is intended to include within
                   it the five Christmas Books :—</p>
-               <p style="font-size:16px;text-transform:uppercase;">A Christmas Carol.</p>
-               <p style="font-size:16px;text-transform:uppercase;">The Chimes.</p>
-               <p style="font-size:16px;text-transform:uppercase;">The Cricket on the Hearth</p>
-               <p style="font-size:16px;text-transform:uppercase;">The Battle of Life.</p>
-               <p style="font-size:16px;text-transform:uppercase;">The Haunted Man.</p>
-               <p>These will form, together, when their publication in Numbers shall be completed, <hi
-                  style="font-variant:small-caps;">One additional Volume of the Cheap Edition.</hi></p>
-               <p>This additional Volume, like its predecessors (and printed to range with them), will
-                  be issued in Weekly Numbers, price 1 ½ d. each, and in Monthly Parts. The first
-                  Weekly Number will be published on the 1st of June.</p></div>
-            <div>
-               <div type="shortrule"/>
+               <div style="font-size:16px;text-transform:uppercase;">
+                  <table style="width:250px;">
+                     <row>
+                        <cell>A Christmas Carol.</cell>
+                     </row>
+                     <row>
+                        <cell>The Chimes.</cell>
+                     </row>
+                     <row>
+                        <cell>The Cricket on the Hearth</cell>
+                     </row>
+                     <row>
+                        <cell>The Battle of Life.</cell>
+                     </row>
+                     <row>
+                        <cell>The Haunted Man.</cell>
+                     </row>
+                  </table>
+               </div>
+               <div>
+                  <p style="text-indent:1em;">These will form, together, when their publication in Numbers shall be completed, <hi
+                     style="font-variant:small-caps;">One additional Volume of the Cheap Edition.</hi></p>
+                  <p style="text-indent:1em;">This additional Volume, like its predecessors (and printed to range with them), will
+                     be issued in Weekly Numbers, price 1 ½ d. each, and in Monthly Parts. The first
+                     Weekly Number will be published on the 1st of June.</p>
+               </div>
             </div>
+            <milestone unit="shortrule"/>
             <div>
                <p style="font-size:16px;text-transform:uppercase;">Chapman and Hall, 193,
                   Piccadilly</p>
@@ -430,20 +422,20 @@
          </div>
          <div xml:id="Title_Page">
             <head style="font-size:20px;text-transform:uppercase;">Bleak House.</head>
-            <div rend="spacing">
+            <div style="margin-top:8em;">
                <p style="font-size:10px;text-transform:uppercase">by</p>
             </div>
-            <div rend="smallspacing">
+            <div style="margin-top:2em;">
                <p><seg source="boldtext" style="text-transform:uppercase;">Charles Dickens.</seg></p>
             </div>
-            <div rend="spacing smalltext">
-               <div type="shortrule"/>
+            <div style="margin-top:8em;font-size:0.9em;">
+               <milestone unit="shortrule"/>
                <div>
                   <p style="text-transform:uppercase;">With illustrations by H. K. Browne.</p>
                </div>
-               <div type="shortrule"/>
+               <milestone unit="shortrule"/>
             </div>
-            <div rend="spacing">
+            <div style="margin-top:8em;">
                <p style="text-transform:uppercase;">London : <lb/>Bradbury and Evans, 11, Bouverie Street.
                   <lb/>1853. </p>
             </div>
@@ -459,99 +451,103 @@
          </div>
          <div xml:id="Table_of_Contents_1">
             <head style="font-variant:small-caps;">Contents.</head>
-            <table>
-               <row style="font-size:10px;text-transform:uppercase;">
-                  <cell>Chap.</cell>
-                  <cell/>
-		            <cell>Page</cell>
-               </row>
-               <row>
-                  <cell style="text-align:right;">I.</cell>
-                  <cell style="font-variant:small-caps;">In Chancery</cell>
-                  <cell>1</cell>
-               </row>
-               <row>
-                  <cell style="text-align:right;">II.</cell>
-                  <cell>In Fashion</cell>
-                  <cell>5</cell>
-               </row>
-               <row>
-                  <cell style="text-align:right;">III.</cell>
-                  <cell>A Progress</cell>
-                  <cell>10</cell>
-               </row>
-               <row>
-                  <cell style="text-align:right;">IV.</cell>
-                  <cell>Telescopic Philanthropy</cell>
-                  <cell>24</cell>
-               </row>
-               <row>
-                  <cell style="text-align:right;">V.</cell>
-                  <cell>A Morning Adventure</cell>
-                  <cell>33</cell>
-               </row>
-               <row>
-                  <cell style="text-align:right;">VI.</cell>
-                  <cell>Quite at Home</cell>
-                  <cell>42</cell>
-               </row>
-               <row>
-                  <cell style="text-align:right;">VII.</cell>
-                  <cell>The Ghost's Walk</cell>
-                  <cell>57</cell>
-               </row>
-               <row>
-                  <cell style="text-align:right;">VIII.</cell>
-                  <cell>Covering a Multitude of Sins</cell>
-                  <cell>65</cell>
-               </row>
-               <row>
-                  <cell style="text-align:right;">IX.</cell>
-                  <cell>Signs and Tokens</cell>
-                  <cell>79</cell>
-               </row>
-               <row>
-                  <cell style="text-align:right;">X.</cell>
-                  <cell>The Law-writer</cell>
-                  <cell>89</cell>
-               </row>
-               <row>
-                  <cell style="text-align:right;">XI.</cell>
-                  <cell>Our dear Brother</cell>
-                  <cell>97</cell>
-               </row>
-               <row>
-                  <cell style="text-align:right;">XII.</cell>
-                  <cell>On the Watch</cell>
-                  <cell>107</cell>
-               </row>
-               <row>
-                  <cell style="text-align:right;">XIII.</cell>
-                  <cell>Esther's Narrative</cell>
-                  <cell>117</cell>
-               </row>
-               <row>
-                  <cell style="text-align:right;">XIV.</cell>
-                  <cell>Deportment</cell>
-                  <cell>129</cell>
-               </row>
-            </table>
+            <milestone unit="shorterrule"/>
+            <div>
+               <table>
+                  <row style="font-size:10px;text-transform:uppercase;">
+                     <cell style="text-align:right;font-size:10px;">Chap.</cell>
+                     <cell/>
+		             <cell style="font-size:10px;">Page</cell>
+                 </row>
+                  <row>
+                     <cell style="text-align:right;">I.</cell>
+                     <cell style="font-variant:small-caps;">In Chancery</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell style="text-align:right;">II.</cell>
+                     <cell>In Fashion</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell style="text-align:right;">III.</cell>
+                     <cell>A Progress</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell style="text-align:right;">IV.</cell>
+                     <cell>Telescopic Philanthropy</cell>
+                     <cell>24</cell>
+                  </row>
+                  <row>
+                     <cell style="text-align:right;">V.</cell>
+                     <cell>A Morning Adventure</cell>
+                     <cell>33</cell>
+                  </row>
+                  <row>
+                     <cell style="text-align:right;">VI.</cell>
+                     <cell>Quite at Home</cell>
+                     <cell>42</cell>
+                  </row>
+                  <row>
+                     <cell style="text-align:right;">VII.</cell>
+                     <cell>The Ghost's Walk</cell>
+                     <cell>57</cell>
+                  </row>
+                  <row>
+                     <cell style="text-align:right;">VIII.</cell>
+                     <cell>Covering a Multitude of Sins</cell>
+                     <cell>65</cell>
+                  </row>
+                  <row>
+                     <cell style="text-align:right;">IX.</cell>
+                     <cell>Signs and Tokens</cell>
+                     <cell>79</cell>
+                  </row>
+                  <row>
+                     <cell style="text-align:right;">X.</cell>
+                     <cell>The Law-writer</cell>
+                     <cell>89</cell>
+                  </row>
+                  <row>
+                     <cell style="text-align:right;">XI.</cell>
+                     <cell>Our dear Brother</cell>
+                     <cell>97</cell>
+                  </row>
+                  <row>
+                     <cell style="text-align:right;">XII.</cell>
+                     <cell>On the Watch</cell>
+                     <cell>107</cell>
+                  </row>
+                  <row>
+                     <cell style="text-align:right;">XIII.</cell>
+                     <cell>Esther's Narrative</cell>
+                     <cell>117</cell>
+                  </row>
+                  <row>
+                     <cell style="text-align:right;">XIV.</cell>
+                     <cell>Deportment</cell>
+                     <cell>129</cell>
+                  </row>
+               </table>
+            </div>
          </div>
          <div xml:id="Chapter_I">
-            <div rend="spacing">
+            <div style="margin-top:8em;">
                <head style="font-size:20px;text-transform:uppercase">Bleak House.</head>
             </div>
-            <div rend="smallspacing">
-               <div type="shortrule"/>
-               <div rend="smallspacing">
+            <div style="margin-top:2em;">
+               <milestone unit="shortrule"/>
+               <div style="margin-top:2em;">
                   <p style="text-transform:uppercase">Chapter I.</p>
                </div>
             </div>
-            <div rend="smallspacing smalltext">
+            <div style="margin-top:2em;font-size:0.9em;">
                <p style="font-size:10px;text-transform:uppercase;">In Chancery.</p>
             </div>
-            <div rend="booktext smallspacing smalltext">
-               <p><hi style="text-transform:uppercase;">London.</hi> Michaelmas term lately over, and the Lord
+            <div style="margin-top:2em;font-size:0.9em;">
+               <p style="max-width:500px;text-align:justify;margin-left:auto;margin-right:auto;text-indent:1em;">
+                  <hi style="text-transform:uppercase;">London.</hi> Michaelmas term lately over, and the Lord
                   Chancellor sitting in Lincoln's Inn Hall. Implacable November weather. As much mud
                   in the streets, as if the waters had but newly retired from the face of the earth,
                   and it would not be wonderful to meet a Megalosaurus, forty feet long or so,
@@ -568,25 +564,26 @@
             </div>
          </div>
          <div xml:id="Chapter_LX">
-            <div rend="spacing">
-               <div rend="smallspacing">
+            <div style="margin-top:8em;">
+               <div style="margin-top:2em;">
                   <p style="text-transform:uppercase;">Chapter LX.</p>
                </div>
             </div>
-            <div rend="smallspacing smalltext">
+            <div style="margin-top:2em;font-size:0.9em;">
                <p style="font-size:10px;text-transform:uppercase;">Perspective.</p>
             </div>
-            <div rend="booktext smallspacing smalltext">
-               <p><hi style="font-variant:small-caps;">I proceed</hi> to other passages of my narrative. From
+            <div style="margin-top:2em;font-size:0.9em;">
+               <p style="max-width:500px;text-align:justify;margin-left:auto;margin-right:auto;text-indent:1em;">
+                  <hi style="font-variant:small-caps;">I proceed</hi> to other passages of my narrative. From
                   the goodness of all about me, I derived such consolation as I can never think of
                   unmoved. I have already said so much of myself, and so much still remains, that I
                   will not dwell upon my sorrow. I had an illness, but it was not a long one; and I
                   would avoid even this mention of it, if I could quite keep down the recollection
                   of their sympathy.</p>
             </div>
-            <div rend="spacing">
-               <div type="rule"/>
-               <div type="rule"/>
+            <div style="margin-top:8em;">
+               <milestone unit="rule"/>
+               <milestone unit="rule"/>
             </div>
          </div>
       </body>

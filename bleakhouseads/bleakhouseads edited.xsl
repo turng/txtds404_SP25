@@ -19,14 +19,17 @@
                     margin-right: auto;
                     margin-top: 75px;
                     margin-bottom: 100px;
+                    margin-left:25px;
+                    margin-right:25px;
                     }
                     
                     table {
                      text-align: justify;
                      margin-left: auto;
                      margin-right: auto;
-                     margin-top: 75px;
-                     margin-bottom: 100px;
+                     margin-top: 25px;
+                     margin-bottom: 25px;
+                     width:400px;
                     }
                     
                     s{
@@ -37,45 +40,10 @@
                     padding:1%;
                     }
                     
-                    .spacing {
-                    margin-top: 8em;
-                    }
-                    
-                    .smallspacing {
-                    margin-top: 2em;
-                    }
-                    
-                    .smalltext {
-                    font-size: 0.9em;
-                    }
-                    
-                    .smallertext {
-                    font-size: 0.8em;
-                    }
-                    
-                    .boldtext {
-                    font-weight: bold;
-                    font-size: 1.1em;
-                    }
-                    
-                    .booktext {
-                    max-width: 500px;
-                    text-align: justify;
-                    margin-left: auto;
-                    margin-right: auto;
-                    text-indent: 1em;
-                    }
-                    
                     .biblcolumns{
                     text-align:center;
-                    column-width:35em;
-                    }
-                    
-                    .columns{
-                    text-align:justify;
-                    text-indent:1em;
-                    column-width:35em;
-                    column-rule:1px solid;
+                    column-count:2;
+                    column-width:10em;
                     }
                 </style>
             </head>
@@ -149,6 +117,11 @@
     <xsl:template match="tei:body/tei:div">
         <hr style="margin-top:75px;margin-bottom:75px;"/>
         <div class="contentblock">
+            <xsl:if test="@style">
+                <xsl:attribute name="style">
+                    <xsl:value-of select="@style"/>
+                </xsl:attribute>
+            </xsl:if>
             <xsl:apply-templates/>
         </div>
     </xsl:template>
@@ -166,6 +139,11 @@
         <div>
             <xsl:if test="@rend">
                 <xsl:attribute name="class"><xsl:value-of select="@rend"/></xsl:attribute>
+            </xsl:if>
+            <xsl:if test="@style">
+                <xsl:attribute name="style">
+                    <xsl:value-of select="@style"/>
+                </xsl:attribute>
             </xsl:if>
             <xsl:apply-templates/>
         </div>
@@ -194,7 +172,14 @@
         </s>
     </xsl:template>
     <xsl:template match="tei:table">
-        <table><xsl:apply-templates/></table>
+        <table>
+            <xsl:if test="@style">
+                <xsl:attribute name="style">
+                    <xsl:value-of select="@style"/>
+                </xsl:attribute>
+            </xsl:if>
+            <xsl:apply-templates/>
+        </table>
     </xsl:template>
     <xsl:template match="tei:row">
         <tr><xsl:apply-templates/></tr>
@@ -206,16 +191,21 @@
                     <xsl:value-of select="@style"/>
                 </xsl:attribute>
             </xsl:if>
+            <xsl:if test="@cols">
+                <xsl:attribute name="colspan">
+                    <xsl:value-of select="@cols"/>
+                </xsl:attribute>
+            </xsl:if>
             <xsl:apply-templates/>
         </td>
     </xsl:template>
-    <xsl:template match="tei:div[@type='rule']">
+    <xsl:template match="tei:milestone[@unit='rule']">
         <hr style="width:1000px;"/>
     </xsl:template>
-    <xsl:template match="tei:div[@type='shortrule']">
+    <xsl:template match="tei:milestone[@unit='shortrule']">
         <hr style="width:200px;"/>
     </xsl:template>
-    <xsl:template match="tei:div[@type='shorterrule']">
+    <xsl:template match="tei:milestone[@unit='shorterrule']">
         <hr style="width:120px;"/>
     </xsl:template>
 </xsl:stylesheet>
