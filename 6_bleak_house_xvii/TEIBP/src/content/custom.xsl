@@ -10,6 +10,16 @@
          variables, and parameters from teibp.xsl 
          to be overridden here. -->
     <xsl:import href="teibp.xsl"/>
+    
+
+<!--
+    <xsl:template match="div[@rend='serif']">
+        <div class="serif">
+            <xsl:apply-templates/>
+        </div>
+    </xsl:template> -->
+    
+
 
     <!-- visual quotes around dialogue -->
     <xsl:template match="tei:said">
@@ -156,11 +166,17 @@
         <xsl:copy>
             <xsl:apply-templates select="@* | node()"/>
         </xsl:copy>
-    </xsl:template>
+    </xsl:template> 
     
-    <xsl:template match="div[@rend='serif']">
-        <div class="serif">
-            <xsl:apply-templates/>
-        </div>
+    <xsl:template match="tei:figure[tei:graphic[@url]]" priority="99">
+        <xsl:copy>
+            <xsl:apply-templates select="@*"/>
+            <xsl:call-template name="addID"/>
+            <figure>
+                <img alt="{normalize-space(tei:figDesc)}" src="{tei:graphic/@url}"/>
+                <xsl:apply-templates select="*[ not( self::tei:graphic | self::tei:figDesc ) ]"/>
+            </figure>
+        </xsl:copy>
     </xsl:template>
+
 </xsl:stylesheet>

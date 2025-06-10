@@ -59,9 +59,10 @@ persName /* Bulleted list  */ {
 }
 
 /*  serif divs */
+
 .serif {
   font-family: Garamond, serif;
-}
+} 
 
 /* Garamond, serif for rend="serif" */
 p[rend="serif"] {

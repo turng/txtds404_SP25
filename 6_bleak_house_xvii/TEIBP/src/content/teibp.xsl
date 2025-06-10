@@ -56,6 +56,7 @@
        <xsl:param name="theme.terminal" select="concat($filePrefix,'/css/terminal.css')"/>
        
        <xd:doc xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
+         
 	 <xd:desc>
 	   <xd:p>Match document root and create and html5 wrapper for the TEI document, which is
 	   copied, with some modification, into the HTML document.</xd:p>

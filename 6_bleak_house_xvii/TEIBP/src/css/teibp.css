@@ -654,8 +654,9 @@ gramGrp {
 graph {
   /* Empty for now */
 }
+
 graphic {
-  display: none;
+  display: block;
 }
 group {
   /* Empty Rule Set */
