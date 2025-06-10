@@ -573,7 +573,7 @@ egXML {
   font-size: 80%;
   margin-left: 1em;
   padding-left: 1em;
-  border-left: 1px solid #AAA;
+  border-left: 1px solid black;
   margin-top: .75em;
   margin-bottom: .75em;
   padding-top: .75em;
@@ -712,7 +712,7 @@ figure > head {
   border-radius: 15px;
   width: 325px;
   position: relative;
-  border: 1px solid #AAA;
+  border: 1px solid black;
   background: #FAFAFA;
   /* reset text-indent for note with <l> ancestors. */
   text-indent: 0;
@@ -1067,7 +1067,7 @@ note {
   border-radius: 15px;
   width: 325px;
   position: relative;
-  border: 1px solid #AAA;
+  border: 1px solid black;
   background: #FAFAFA;
   /* reset text-indent for note with <l> ancestors. */
   text-indent: 0;
