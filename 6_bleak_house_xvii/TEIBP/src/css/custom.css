@@ -94,7 +94,7 @@ p[rend="drop"]::first-letter {
   font-family: Garamond, serif;
   margin-right: 0.1em;
   margin-top: 0.1em;
-  color: #903;
+  color: black;
 }
 
 /* Calibri, sans-serif for rend="sans" */
@@ -148,10 +148,6 @@ p[rend="gothic"] {
     display: block;
 }
 
-
-#intro {
-    font-style: italic;
-}
 
 
 .note-ref {

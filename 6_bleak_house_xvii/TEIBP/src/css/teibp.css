@@ -48,7 +48,7 @@
   display: block;
   width: 100%;
   text-align: right;
-  color: gray;
+  color: black;
   margin: 2em 0 2em 0;
   font-size: 11pt;
 }
@@ -408,7 +408,7 @@ cell {
 border-left: 2px solid @border-color;
 border-top:2px solid @border-color;
 */
-  border: 1px dotted #AAA;
+  border: 1px dotted black;
   width: 100%;
 }
 /* for cell or row with @role = label */
@@ -1163,7 +1163,7 @@ pb {
   display: block;
   width: 100%;
   text-align: right;
-  color: gray;
+  color: black;
   margin: 2em 0 2em 0;
   font-size: 11pt;
 }
@@ -1171,7 +1171,7 @@ pb {
   display: block;
   width: 100%;
   text-align: right;
-  color: gray;
+  color: black;
   margin: 2em 0 2em 0;
   font-size: 11pt;
 }
@@ -1897,7 +1897,7 @@ a:hover {
   color: #0165c8;
 }
 .eg-comment {
-  color: gray;
+  color: black;
 }
 .eg-att,
 .eg-nsdecl {
