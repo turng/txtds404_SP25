@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+            <author>Clarence T. Arai</author>
+            <editor>Marisa Oishi</editor>
+         </titleStmt>
+         <publicationStmt>
+            <!--copy and pasted from txtds 404 project - update !-->
+            <publisher>University of Washington Student Project for TXTDS 404/FREN 420: Texts,
+               Publics, and Publication</publisher>
+            <pubPlace>Seattle, WA</pubPlace>
+            <date when="2025-06-06">June 6th, 2025</date>
+            <availability>
+               <p>Freely available for use.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Clarence T. Arai Papers</title>
+               <author>Clarence T. Arai</author>
+               <pubPlace>University of Washington, Special Collections Manuscripts and
+                  Archives</pubPlace>
+               <date from="1919" to="1993">1919-1993</date>
+               <idno type="oclcNo">945773039</idno>
+               <idno type="accessionNo">acc5542-001</idno>
+               <note>Box 2</note>
+               <note>This scrapbook, assembled by Clarence T. Arai, provides a perspective on
+                  his life as a Japanese American in Seattle before and during World War II.
+                  It includes correspondences, newspaper clippings, certificates, and other
+                  artifacts Arai selected to preserve.</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+    
+  <text>
+      <body>
+         <div xml:id="arai-commendations" type="certificate">
+            <head rend="caps" style="text-align: center">In Appreciation</head>
+            <head rend="caps" style="text-align: center">Presented to</head>
+            <head rend="caps" style="text-align: center"><name>Mr. Clarence T. Arai
+            </name></head>
+            <p>On behalf of <ref target="#fujiyama">Aiichiro Fujiyama</ref>, Minister for
+               Foreign Affairs of Japan, I convey to you the commendations of the Japanese
+               Government for your exemplary citizenship and leadership in the affairs of your
+               community</p>
+            <p>Your unremitting and dedicated endeavors have contributed greatly to the
+               development and strengthening of admirable relations between the United States
+               and Japan, as well as between Americans and Japanese within your own
+               community.</p>
+            <p>On this auspicious occasion commemorating the 100th Anniversary of the Treaty of
+               Friendship and Trade between the United States and Japan, I am privileged to
+               present to you this mokuahi from the Japanese Government as a token of heartfelt
+               appreciation for your unswerving devotion to the cause of peace and
+               understanding between our two countries.</p>
+            <p>Presented at Seattle, Washington this <date when="1960-05-22">22nd day of May,
+                  1960</date>.</p>
+            <closer style="text-align:right">
+               <signed>
+                  <title>Consul-General of Japan</title>
+                  <name>Yoshiharu Takeno</name>
+                  <figure xml:id="takenoSignature">
+                     <graphic url="../images/takeno_signature.jpg"/>
+                     <figDesc><name>Takeno</name> signature</figDesc>
+                  </figure>
+               </signed>
+            </closer>
+            
+         </div>
+            
+         <div xml:id="smithsonian-recognition" type="certificate" rend="caps">
+                <head rend="bold" style="text-align:center">Smithsonian Institution</head>
+                <head style="text-align:center">Washington, D.C.</head>
+                <head style="text-align:center">This·is·to·certify·that</head>
+                <head rend="bold" style="text-align:center"><name>Clarence T. Arai</name></head>
+                <head>is·registered· in·the·archives·of·the·institution·as·a</head>
+                <head rend="bold" style="text-align:center">patron</head>
+                <p style="text-align:justify"
+                    >of·the·Smithsonian·Scientific·Series·in·recognition·of·his·aid·to·the·
+                    Institution’s·program·for·the·diffusion·of·knowledge·among·men·
+                    And·the·increase·of·its·financial·endowment·for·scientific·research</p>
+                <p style="text-align:right"
+                    >in·witness·whereof·the·seal·of·the·institution·and·the·signatures·of
+                    ·the·secretary·and·the·administration·assistant·are·affixed·hereto</p>
+                <closer>
+                    <signed>
+                        <name rend="right">Secretary</name>
+                        <name rend="left">Administrative Assistant</name>
+                    </signed>
+                </closer>
+            </div>
+
+         <div xml:id="buttsLetter" type="correspondence">
+             <opener>
+                 <seg type="letterhead">
+                     <address>
+                         <addrLine rend="caps">The Butts' Parole League</addrLine>
+                         <addrLine>Box 70, Nippon Station</addrLine>
+                         <addrLine>Seattle, Washington</addrLine>
+                     </address>
+                     <date when="1937-04-02">April 2, 1937</date>
+                 </seg>
+                 <address>
+                     <addrLine><name>Clarence T. Arai</name>, Esq.,</addrLine>
+                     <addrLine>Seattle, Wn.</addrLine>
+                 </address>
+                 <salute>Sir;-</salute>
+             </opener>
+
+             <p>Permit us to offer our congratulations and best wishes toward your future as a
+                 trustee of the <name ref="#spl">Seattle Public Library</name>.</p>
+
+             <p>Mayor <name ref="#dore">John F. Dore</name>, in choosing you, thus for the first
+                 time in the history of Seattle according recognition to the people you so ably
+                 represent, we know made a selection which will undoubtedly redound to his and
+                 your credit.</p>
+
+             <closer>
+                 <signed rend="caps">The Butts' Parole League</signed>
+                 <signed>
+                     <figure xml:id="FrankOMurphySignature">
+                         <graphic url="../images/Frank's_signature.jpeg"/>
+                         <figDesc>by <name>Frank O. Murphy</name></figDesc>
+                     </figure>
+                 </signed>
+             </closer>
+         </div>
+
+         <div xml:id="akcCertificate" type="certificate">
+             <head rend="caps" style="text-align: center;">Registration Certificate</head>
+             <figure xml:id="akcLogo">
+                 <graphic url="../images/akcLogo.jpeg"/>
+                 <figDesc rend="caps">American Kennel Club</figDesc>
+                 <figDesc rend="caps">AKC</figDesc>
+                 <figDesc rend="caps">Incorporated</figDesc>
+             </figure>
+             <head rend="caps" style="text-align: center;">American Kennel Club Stud Book</head>
+             <head rend="caps" style="text-align: center;">American Kennel Club</head>
+             <head rend="caps" style="text-align: center;">New York, N.Y.</head>
+
+             <ab><hi rend="caps">Name of Dog</hi> Duke of Main Street</ab>
+             <ab><hi rend="caps">Breed</hi> Cocker Spaniel <hi rend="caps">Sex</hi> Male</ab>
+             <ab><hi rend="caps">Sire</hi> Slicker Boy of Kitsop (934421)</ab>
+             <ab><hi rend="caps">Dam</hi> Paul’s Queenie (898745)</ab>
+             <ab><hi rend="caps">Whelped</hi> March 14, 1934</ab>
+             <ab><hi rend="caps">Color</hi> Red</ab>
+             <ab><hi rend="caps">Breeder</hi> M. Ellen Paul</ab>
+             <ab><hi rend="caps">Owner</hi> Clarence T. Arai</ab>
+             <ab><hi rend="caps">Registered</hi>
+                 <date when="1934-06-15">June 15, 1934</date></ab>
+             <ab><hi rend="caps">Assigned No</hi> 941308</ab>
+             <ab><hi rend="caps">Volume</hi> 51</ab>
+             <ab>August <hi rend="caps">Issue</hi></ab>
+
+             <signed>
+                 <figure xml:id="PercyBRiceSignature">
+                     <graphic url="../images/percySignature.jpeg"/>
+                     <figDesc><name>Perry B Rice</name></figDesc>
+                     <figDesc rend="caps">Secretary</figDesc>
+                 </figure> gm </signed>
+         </div>
+
+         <div xml:id="public-proclamation-17" type="statement">
+             <head><hi rend="bold" style="text-align:center">Headquarters</hi></head>
+             <head rend="bold">Western Defense Command</head>
+             <head><hi rend="bold">And Fourth Army</hi></head>
+             <head><hi rend="bold">Presidio of San Francisco, California</hi></head>
+             <head><hi rend="bold">- - - Public Proclamation No. 3 - - - </hi></head>
+             <head><date when="1942-03-24">March 24, 1942</date></head>
+             <p>TO: The people within the States of Washington, Oregon, California, Montana,
+                 Idaho, Nevada, Utah and Arizona, and the Public Generally:</p>
+             <p><hi rend="sc">WHEREAS</hi>, By Public Proclamation No.1, dated <date
+                     when="1942-03-02">March 2, 1942</date>, this headquarters, there were
+                 designated and established Military Areas Nos. 1 and 2 and Zones thereof,
+                 and</p>
+             <p><hi rend="sc">WHEREAS</hi>, By Public Proclamation No. 2, dated <date
+                     when="1942-03-02">March 2, 1942</date>, this headquarters, there were
+                 designated and established Military Areas Nos. 3,4,5 and 6 and Zones thereof,
+                 and</p>
+             <p><hi rend="sc">WHEREAS</hi>, The present situation within these Military Areas and
+                 Zones requires as a matter of military necessity the establishment of certain
+                 regulations pertaining to all enemy aliens and all persons of Japanese ancestry
+                 within said Military Areas and Zones thereof:</p>
+             <p>Now, <hi rend="sc">THEREFORE</hi>, I, <ref type="#Dewitt">J.L. DEWITT</ref>,
+                 Lieutenant General, U.S. Army, by virtue of the authority vested in me by the
+                 President of the United States and by the Secretary of War and my powers and
+                 prerogatives as Commanding General, Western Defense Command, do hereby declare
+                 and establish the following regulations covering the conduct to be observed by
+                 all alien Japanese, all alien Germans, all alien Italians, and all persons of
+                 Japanese ancestry residing or being within the Military Areas above described,
+                 or such portions thereof as are hereinafter mentioned: </p>
+             <p>From and after 6:00 A.M., <date when="1942-03-27">March 27, 1942</date>, all
+                 alien Japanese, all alien Germans, all alien Italians, and all persons of
+                 Japanese ancestry residing or being within the geographical limits of Military
+                 Area No.1, or within any of the Zones</p>
+         </div>
+
+         <div xml:id="exlusion-order-17" type="statement">
+             <head><hi rend="bold">Headquarters</hi></head>
+             <head><hi rend="bold">Western Defense Command</hi></head>
+             <head><hi rend="bold">And Fourth Army Presidio of San Francisco,
+                 California</hi></head>
+             <head><date when="1942-04-24">April 24th, 1942</date></head>
+             <head><hi rend="bold">Civilian <ref type="general_exclusion_order">Exclusion Order
+                         No.17</ref></hi></head>
+             <p>1. Pursuant to the provisions of Public Proclamations Nos. 1 and 2, this
+                 Headquarters, dated <date when="1942-03-02">March 2, 1942</date>, and <date
+                     when="1942-03-16">March 16, 1942</date>, respectively, it is hereby ordered
+                 that from and after 12 o’clock noon, P.W.T., of Friday, <date when="1942-05-01"
+                     >May 1, 1942</date>, all persons of Japanese ancestry, both alien and
+                 non-aline, be excluded from that portion of Military Area No. 1 described as
+                 follows:</p>
+             <p style="text-align:indent">All that portion of the City of Seattle, State of
+                 Washington, within that boundary beginning at the point at which the northerly
+                 limits of said city meet Shilshole Bay ; thence easterly and following the
+                 northerly limits of said city to Roosevelt Way ; thence southerly and following
+                 Roosevelt Way, Eastlake Avenue, fairview Avenue, Virginia Street, and Westlake
+                 Avenue to Fifth Avenue ; thence southeasterly on Fifth Avenue to Yesler Way ;
+                 thence easterly on Yesler Way to Maynard Avenue ; thence southerly on Maynard
+                 Avenue to Jackson Street ; thence westerly on jackson Street to Elliott Bay ;
+                 thence north-westerly and northerly, and following the westerly limits of the
+                 City of Seattle, to the point of beginning.</p>
+             <p> 2. A responsible member of each family, and each individual living alone, in the
+                 above described area will report between the hours of 8:00 A.M. and 5:00 P.M.,
+                 Saturday, <date when="1942-04-25">April 25, 1942</date>, or during the same
+                 hours on Sunday, <date when="1942-04-26">April 26, 1942</date>, to the Civil
+                 Control Station located at :</p>
+             <p>
+                 <address style="text-align:center">
+                     <addrLine>2100 Second Avenue</addrLine>
+                     <addrLine>Seattle, Washington</addrLine>
+                 </address>
+             </p>
+             <p>3. Any person subject to this order who fails to comply with any of its
+                 provisions or with the provisions of published instructions pertaining herto or
+                 who is found in the above area after 12 o’clock noon, P.W.T., of Friday, May 1,
+                 1942, will be liable to the criminal penalties provided by Public Law No.503,
+                 77th Congress, approved March 21, 1942, entitled “An Act to Provide a Penalty
+                 for Violation of Restrictions or Orders with Respect to Persons Entering,
+                 Remaining in, Leaving, or Committing any Act in Military Areas or Zones,” and
+                 alien Japanese will be subject to immediate apprehension and internment.</p>
+
+             <closer>
+                 <signed>
+                     <ref type="#Dewitt">James L. DeWitt</ref>
+                     <title> Lieutenant General, U.S. Army Commanding</title>
+                 </signed>
+             </closer>
+         </div>
+
+         <div xml:id="emptyStallsClipping" type="clipping">
+             <head rend="caps" type="date"><date when="1942-05-01">May 1, 1942</date></head>
+             <head type="title" style="text-align:center">EMPTY STALLS--EVACUATIONS</head>
+             <head type="paper">SEATTLE TIMES</head>
+             <figure xml:id="emptyStallsImage" type="image">
+                 <graphic url="../images/pikeplacenewTEIBP.jpg"/>
+                 <figDesc>black and white vacant stalls at Pike Place Public Market</figDesc>
+             </figure>
+             <p>Vacant stalls like these at <placeName ref="#pike_place">Pike Place Public
+                     Markets</placeName>, Inc., confronted shoppers at numerous Seattle markets
+                 today. The Japanese operators of many of the stalls have been evacuated.
+                 Japanese farmers who formerly took their produce to the markets to sell it also
+                 were absent. Even though they live outside the evacuation area, they are barred
+                 from the central business district by wartime restrictions on movements of
+                 Japanese.</p>
+         </div>
+
+         <div xml:id="halfOfCityClipping" type="clipping">
+             <head rend="caps" type="title" style="text-align:center">Half Of City's</head>
+             <head rend="caps" type="title" style="text-align:center">Japs Have Gone</head>
+             <head style="text-align:center">____________</head>
+             <p>Seattle's central business district gave the appearance of a city without
+                 Japanese today as the last of them from Zones No. 1 and 2, or population,
+                 departed for <name ref="#camp_harmony">the assembly center in
+                 Puyallup.</name></p>
+             <p> And the <placeName ref="#pike_place">Pike Place Markets</placeName> for the
+                 first time in their years of operation, did business without their myriad of
+                 Japanese-operated stalls. </p>
+             <p> It is estimated that only about half the Japanese of the city have been removed
+                 but those who have gone were from areas in which many were engaged in business
+                 and where they most often met public. </p>
+             <p> Those Japanese remaining in the city are restricted to movement within the area
+                 in which they live. Beginning at noon, they and all others of the Japanese race
+                 were banned from going to the central business district, the waterfront or any
+                 place in the area to the north of the city that lies west of Eastlake Avenue and
+                 Roosevelt Way, any place west of Fifth Avenue in the central area, or any place
+                 south of Jackson Street in the southern area, except for one small locality
+                 between Jackson and Dearborn Streets. </p>
+             <p>This ban prevents any Japanese in the farming community surrounding the city from
+                 delivering produce to Seattle firms personally, as Produce Row and the markets
+                 cannot be reached without passing through a restricted area.</p>
+             <p> The market master of the municipal market said that not a single Japanese
+                 merchant appeared this morning, although the ban did not go into effect until
+                 noon. </p>
+             <p> Operators of private markets said several Japanese renters of stalls came early
+                 this morning with produce but brought Filipinos with them to tend the stalls and
+                 left before noon. </p>
+             <p>No date has been set for removal of the Japanese from there</p>
+         </div>  
+
+         <div xml:id="jenningsLetter" type="letter" ana="#library #wwii">
+              <opener>
+                  <seg type="letterhead" rend="center-align">
+                      <orgName ref="#spl" rend="caps">Seattle Public Library</orgName><lb/>
+                      <placeName rend="caps">Seattle, Washington</placeName><lb/>
+                      <persName ref="#jennings">Judson T. Jennings</persName>, Librarian<lb/>
+                      <date when="1942-04-29">29 April 1942</date>
+                  </seg>
+                  <address>
+                      <addrLine>Mr Clarence T. Arai</addrLine>
+                      <addrLine>452-12th Avenue</addrLine>
+                      <addrLine>Seattle, Washington</addrLine>
+                  </address>
+                  <salute>Dear Mr Arai:</salute>
+              </opener>
+              
+              <p rend="indent">Thank you kindly for the copies of “Our Times” by Mark Sullivan, and “The March
+                  of Democracy" by Adams, which you sent to the library yesterday.</p>
+              
+              <p rend="indent">Both sets are being added to the Reference department.</p>
+              
+              <closer rend="right-align">
+                  <salute>Cordially yours</salute>
+                  <signed>
+                      <figure xml:id="JTJenningsSignature">
+                          <graphic url="../images/jenningsSignature.jpeg"/>
+                          <figDesc><persName ref="#jennings">J T Jennings</persName></figDesc>
+                          <figDesc>Librarian</figDesc>
+                      </figure> JTJ/FRP </signed>
+              </closer>
+         </div>
+          
+         <div xml:id="travelPermit" type="statement">
+             <opener>
+                 <seg type="letterhead" rend="caps">
+                     <address>
+                         <addrLine>Headquarters</addrLine>
+                         <addrLine>NWS &amp; 44th Infantry Division</addrLine>
+                         <addrLine>Office of Acting Provost Marshal</addrLine>
+                         <addrLine>State of Washington</addrLine>
+                         <addrLine>Seattle, Washington</addrLine>
+                     </address>
+                 </seg>
+                 <dateline style="text-align: right;"><date when="1942-05-02">May 2,
+                     1942</date></dateline>
+                 <salute rend="caps">To whom it may concern:</salute>
+             </opener>
+
+             <p>The applicant named, <name rend="caps">Clarence Arai</name>, an American citizen
+                 of Japanese blood is hereby granted permission and authorized to travel without
+                 molestation or hindrance by the most direct route from 452 12th Avenue, Seattle,
+                 Washington to the <name ref="#spl">Seattle Public Library</name>, 4th and
+                 Madison Street and the Federal Reserve National Bank of Commerce Building,
+                 Seattle, Washington. Travel authorized will be effective <date when="1942-05-05"
+                     >Tuesday, May 5, 1942</date> between the hours of 11:00 A.M. and 2:00 P.M.
+                     <hi rend="caps">Nothing follows.</hi></p>
+
+             <signed>
+                 <figure xml:id="MichaelARivistoSignature">
+                     <graphic url="../images/rivistoSignature.jpeg"/>
+                     <figDesc>Illegible signature</figDesc>
+                 </figure>
+                 <hi rend="caps">Michael A. Rivisto</hi><lb/> Captain Infantry<lb/> Acting
+                 Provost Marshal<lb/> State of Washington<lb/>
+                 <seg type="stamped" style="color: blue;">
+                     <hi rend="caps">Michael A. Rivisto</hi><lb/> Captain, Infantry<lb/> NWS. PCF </seg>
+                 <seg rend="caps" style="text-align: left;"> MM<lb/> Temporary Permit #18 </seg>
+             </signed>
+         </div>
+
+         <div xml:id="moreJapaneseGetOrdersClipping" type="clipping">
+             <head type="author" style="text-align:center">More Japanese Get</head>
+             <head type="title" style="text-align:center">Evacuation Orders</head>
+             <head style="text-align:center">____________</head>
+             <head type="author" style="text-align:center">By R. B. Bermann</head>
+
+             <p>Evacuation of all Japanese from Kitsap County, western Pierce County and the
+                 southwestern tip of King County was decreed yesterday in orders by <name
+                     ref="#DeWitt">Lieut. Gen. John L. DeWitt</name> commanding the Western
+                 Defense Command and Fourth Army.</p>
+             <p>One order, No. 67, takes in Tacoma, Fort Lewis, McChord Field, Steilacoom and
+                 that portion of King County west of Highway 99 and south of Des Moines. The
+                 1,100 Japanese living in this area are to be evacuated by noon Monday.</p>
+             <p>OTHER AREAS</p>
+             <p>The other order, No. 68, takes in the Puget Sound Navy Yard at Bremerton and all
+                 the rest of Kitsap County, except Bainbridge Island which was evacuated earlier;
+                 Vashon Island in King County and the island and Olympic Peninsula sections of
+                 Pierce County. The 200 Japanese living in this area are to be evacuated by noon
+                 Saturday.</p>
+             <p>The destination of the Japanese affected by these orders was not announced, but
+                 the fact that they were advised they would not be permitted to use private
+                 automobiles was constructed as an indication that they will not be sent to <name
+                     ref="#camp_harmony">the assembly center in Puyallup.</name></p>
+             <p>It was considered probable that they would be sent to the assembly center at
+                 Pinedale, Calif., to join evacuees from the rural districts of King and Pierce
+                 counties who have already been moved there.</p>
+             <p>Prospective evacuees in the area covered by Order No. 67 will register between 8
+                 a.m. and 5 p. m. today and tomorrow at a civil control station at 1715 S. Tacoma
+                 Ave., Tacoma.</p>
+             <p>There will be two registration points, open during the same hours on the same
+                 days, for the other area—one in the Bowers Building on MainSt., Poulsbo, and the
+                 other</p>
+         </div>
+
+         <div xml:id="exclusionAreasClipping" type="clipping">
+             <head rend="caps" type="paper"><name ref="#post_intelligencer">Seattle
+                     Post-Intelligencer</name>, <date when="1942-05-13">Wednesday, May 13,
+                     1942</date></head>
+             <head rend="caps" type="title">New Exclusion Areas</head>
+             <head>P.I <date when="1942-05-13">5/13/42</date></head>
+             <figure xml:id="firstExclusionAreaImage" type="image">
+                 <graphic url="../images/firstExclusionAreaTEIPB.jpg"/>
+                 <figDesc>Camp Harmony Bedroom</figDesc>
+             </figure>
+             <p>PROHIBITED ZONE—Map of the area covered by <ref type="general_exclusion_order"
+                     >Exclusion Order No. 67</ref>, from which Japanese will be cleared by
+                 Monday. </p>
+             <figure xml:id="secondExclusionAreaImage" type="image">
+                 <graphic url="../images/secondExclusionAreaTEIBP.jpg"/>
+                 <figDesc>Camp Harmony Bedroom</figDesc>
+             </figure>
+             <p> UNDER BAN, TOO—The territory inside the heavy line is covered by <ref
+                     type="general_exclusion_order">Exclusion Order No. 68</ref>, effective on
+                 Saturday.</p>
+         </div>
+
+         <div xml:id="registrationClipping" type="clipping">
+             <head>TUESDAY</head>
+             <head><date when="1942-05-12"/>P.1 5/12/42</head>
+             <head rend="caps" type="title" style="text-align: center;">Registration</head>
+             <head rend="caps" type="title" style="text-align: center;">Of Remaining</head>
+             <head rend="caps" type="title" style="text-align: center;">Japs Starts</head>
+             <head type="subTitle" style="text-align: center;">All Left in Seattle to Get</head>
+             <head type="subTitle" style="text-align: center;">Assignments by Tonight;</head>
+             <head type="subTitle" style="text-align: center;">New County Orders Seen</head>
+             <head style="text-align: center;">____________</head>
+             <p>Registration of all Japanese remaining in Seattle started yesterday and will
+                 continue today at the newest civil control station, 2203 E. Madison St.</p>
+             <p>Like the registrations which preceded it, everything was varied out in an orderly
+                 manner with a minimum of confusion. It is expected that 1,098 Japanese remain in
+                 the last Seattle district to be evacuated, and all will be registered and get
+                 their <name ref="#camp_harmony">Puyallup center</name> assignments by 5 o’clock
+                 this evening.</p>
+             <p rend="caps">Puyallup, too</p>
+             <p>At the same time, registration was proceeding in Puyallup of some 1,000 Japanese
+                 living in Eastern Pierce County. They are to be sent to an evacuation center at
+                 Pinedale, Calif., where Japanese from rural King County south of Seattle are
+                 also going.</p>
+             <p>Among those who registered yesterday were a number of Japanese who are married to
+                 men or women of other races.</p>
+             <p>Orders are expected this week to evacuate all of the remaining Japanese in King
+                 County. They still remain in rural areas north and east of Seattle, and a
+                 smaller portion of Southern King County.</p>
+         </div>
+
+         <div xml:id="campHarmonyJapsClipping" type="clipping">
+             <head type="title" style="text-align: center;"><name ref="#camp_harmony">Camp
+                     Harmony</name> Japs</head>
+             <head type="title" style="text-align: center;">Living Up to Name</head>
+             <head style="text-align: center;">___________</head>
+             <head type="subTitle" style="text-align: center;">Seattle Evacuees Making Best
+                 of</head>
+             <head type="subTitle" style="text-align: center;">Site, Despite New
+                 Conditions</head>
+             <head rend="caps">Seattle, <date when="1942-05-25">May 25, 1942</date></head>
+             <head style="text-align: center;">___________</head>
+             <head type="author" style="text-align: center;">By R. B. Bermann</head>
+             <head type="author" style="text-align: center;"><name ref="#post_intelligencer"
+                     >Post-Intelligencer</name> Staff Correspondent</head>
+
+             <p><name ref="#camp_harmony" rend="caps">Camp Harmony</name>, Puyallup, May
+                 24—Although some of them have been here scarcely a week, Seattle Japanese are
+                 adjusting themselves rapidly to conditions at this assembly center, and the camp
+                 is really living up to its name.</p>
+             <p>Life is very different from anything to which they had been accustomed, but they
+                 are making the best of things as they found them, and remarkably few complaints
+                 are heard.</p>
+             <p>Maybe the secret lies in the fact that they have so little idle time on their
+                 hands. If they are not just before the travel of all Japanese was restricted. </p>
+             <p>Her husband build a wardrobe, a linen closet, a vanity and bench and other
+                 bedroom furniture out of scrap lumber and she supplied the feminine touch with
+                 draperies that give the room a really homelike appearance.</p>
+             <p>A completely democratic spirit prevails in the camp, because practically everyone
+                 is on the same economic status.</p>
+             <p>This is because there is so little difference in scales of pay. A common laborer
+                 receives $8 a month,</p>
+             <p>__________________________________</p>
+             <figure xml:id="campHarmonyImage" type="image">
+                 <graphic url="../images/campHarmonyBedroomTEIBP.jpg"/>
+                 <figDesc>Camp Harmony Bedroom</figDesc>
+             </figure>
+
+             <p>COMFORT OF HOME—Mrs. Robert Hosokawa, recent Willamette coed, laying out a new
+                 apron in the cozy apartment which she and her husband have contrived to make out
+                 of their bare barracks. Her husband constructed the furniture out of scrap
+                 lumber and his drive of two months achieved the rest with a few draperies.</p>
+             <p>__________________________________</p>
+
+             <p>busy on work details or administrative duties, there is always something to do
+                 around their temporary homes — because the army didn’t have time to indulge in
+                 any of the niceties of interior decoration in constructing their barracks. </p>
+             <p>And, as if that weren’t enough, many of them have put in tiny Victory Gardens.
+                 For instance, Clarence Arai, for years a prominent Seattle attorney, has put in
+                 radishes, beets, Chinese lettuce and onions — and his little plot is as
+                 meticulously neat as if he were a professional gardener. </p>
+             <p>They take pride in the amount of ingenuity they can show in making their
+                 primitive quarters look more like the homes they left behind them.</p>
+             <p>An outstanding example in this respect is furnished by the apartment where
+                     <name>Robert Hosokawa</name>, formerly a furniture salesman in Seattle, is
+                 spending his honeymoon. His brider, the former <name>Yoshi Yoshizawa</name>,
+                 twenty, was a junior in Willamette University when the first evacuation orders
+                 were issued. She hurried to Seattle to be married [...] a skilled laborer $12
+                 and a professional man or woman $16. This pay, of course, is in addition to
+                 their board and lodging and medical and dental attention.</p>
+             <p>The dental clinic is one of the busiest centers in the camp, with as many as
+                 eighteen or twenty patients in a single morning — which isn’t excessive in view
+                 of the fact that the center has an estimated population of 7,500.</p>
+             <p>Six former Seattle dentists are on duty there — <name>Dr. S. Higashida</name> and
+                 his son, Robert; <name>Dr. H. Mitsumori</name>, <name>Dr. F. Kinemori</name>,
+                     <name>Dr. G. Y. Nomura</name> and <name>Dr. S. Ishihashi</name>.</p>
+             <p>A paper has been started, with <name>Dick Takeuchi</name>, former editor of the
+                 Great Northern Daily News, in charge. Takeuchi, who was a journalism senior at
+                 the University of Washington, has tentatively called the paper the Camp Harmony
+                 News Letter, but he isn’t satisfied and has asked his readers to suggest other
+                 names. </p>
+             <p><name>Dyke Miyagawa</name>, another University of Washington senior, is his
+                 managing editor, and Taka Oka, a sophomore, is assistant managing editor. </p>
+             <p><name>Keith Oka</name>, formerly employed at the Craftsmen’s Press, is art
+                 editor, and <name>Tad Kuniyuki</name>, formerly sports editor for the Japanese
+                 American Courier, has a similar job there. </p>
+             <p><name>James Y. Sakamoto</name>, former publisher of the Japanese American Courier
+                 and now chief Japanese supervisor of the camp, has set up his headquarters
+                 underneath the grandstand on the fairgrounds and keeps busy from morning to
+                 night consulting with members of his staff. </p>
+             <p><name>Bill Hosokawa</name>, University of Washington graduate and former editor
+                 of a newspaper in Singapore, is his chief adjutant. The headquarters staff is
+                 divided into five general sections, with <name>George Ishihara</name>, produce
+                 shipper, in charge of personnel; <name>Jack Maki</name>, associate in the Far
+                 Eastern department at the University of Washington, in charge of information;
+                     <name>Dick Setsuda</name>, beer distributor, in charge of operations;
+                     <name>Thomas Iseri</name>, Auburn produce shipper, in charge of supply, and
+                     <name>Julius Fujihara</name>, in charge of police, fire, postal and other
+                 services.</p>
+             <p>Leaders of the four areas into which the center is divided are <name>William
+                     Mimbu</name>, attorney; <name>Yakeo Nogaki</name> and <name>Teruji
+                     Umino</name>, both bank clerks, and <name>Hiroyuki (“Lefty”)
+                 Ichihara</name>, who had a fishing tackle store in Seattle.</p>
+             <p>All of these executives, incidentally, are American-born Japanese. </p>
+             <p>Life in the camp is by no means all work and no play. </p>
+             <p>Churches have supplied a piano for each of the four areas and there is plenty of
+                 community singing and choir practice.</p>
+             <p>There are athletic facilities for all ages, and a number of soft ball and ping
+                 pong tournaments are already in progress. </p>
+             <p>There are recreational rooms in each area. </p>
+             <p><name>Jack Maki</name>, the former University faculty member, summed up the
+                 attitude of the evacuees when he said: </p>
+             <p>“We aren’t being mistreated, but, on the other hand, we aren’t being pampered — I
+                 think everybody’s doing a swell job."</p>
+         </div>
+
+         <div xml:id="quigleyLetter" type="correspondence">
+                <opener>
+                    <dateline><date when="1942-06-02" style="text-align: right;">June 2,
+                        1942</date></dateline>
+                    <address>
+                        <addrLine>Mr. Clarence T. Arai</addrLine>
+                        <addrLine>Puyallup</addrLine>
+                        <addrLine>Washington</addrLine>
+                    </address>
+                    <salute>Dear Mr. Arai:</salute>
+                </opener>
+
+                <p>The members of the Board of the <name ref="#spl">Seattle Public Library</name>
+                    wish to express to you our regret that you are unable to serve longer with them
+                    in the labor of sreving the citizens of Seattle in their library needs.</p>
+                <p> We do wish, however, to let you know how much we have enjoyed your disinterested
+                    advice - your willingness to serve faithfully and your just approach to all
+                    problems that have come before the Board.</p>
+                <p>Your viewpoint has always been wholesome, un- prejudiced and eminently fair and
+                    we shall all miss your congenial companionship at our Board meetings, as well as
+                    the presence of Mrs. Arai and yourself at the annual banquet of the <name
+                        ref="#staff_association">Staff Association.</name></p>
+                <p>While we recognize that under present conditions many things arise that give much
+                    distress, we know that your sound philosophy and unfailing good humour will ever
+                    attend you.</p>
+
+                <closer>
+                    <salute>Sincerely yours</salute>
+                    <name ref="#spl" rend="caps">Seattle Public Library Board</name>
+                    <signed>
+                        <figure xml:id="splSignatures">
+                            <graphic url="../images/4signatures.jpeg"/>
+                            <figDesc><name>Josephine M. Quigley</name></figDesc>
+                            <figDesc>President</figDesc>
+                            <figDesc><name>Christine A. Neergaard</name></figDesc>
+                            <figDesc>Two more illegible signatures</figDesc>
+                        </figure>
+                    </signed>
+                </closer>
+            </div>
+
+         <div xml:id="frostLetter" type="correspondence">
+            <opener>
+               <seg type="letterhead">
+                  <address rend="caps">
+                     <addrLine><name ref="#staff_association">Seattle Public Library Staff
+                           Association</name></addrLine>
+                     <addrLine>4th Ave. <hi rend="lowercase">and</hi> Madison St.</addrLine>
+                     <addrLine>Seattle, Washington</addrLine>
+                  </address>
+               </seg>
+               <dateline style="text-align: center;"><date when="1942-05-25">25 May
+                     1942</date></dateline>
+               <address>
+                  <addrLine>Mr Clarence T. Arai</addrLine>
+                  <addrLine>
+                     <subst>
+                        <add>S</add>
+                        <del>H</del>
+                     </subst>taff Headquarters, <name ref="#camp_harmony">Camp
+                        Harmony</name></addrLine>
+                  <addrLine>Section 2, no. 79</addrLine>
+                  <addrLine>Puyallup, Washington</addrLine>
+               </address>
+               <salute>Dear Mr Arai:</salute>
+            </opener>
+            
+            <p>Greetings from the Seventh Annual Banquet of the S<subst>
+                  <add>e</add>
+                  <del>E</del>
+            </subst>attle Public Library Staff Association to both you and Mrs Arai.</p>
+            
+            <p>We were so sorry not to have you with us Friday night. We tried to make it an
+               especially nice affair since it was to be the last one before <name
+                  ref="#jennings">Mr Jennings</name> retired. As toastmistress, I read your
+               letter and when the suggestion was made that greetings be sent to you, you
+               should have heard the applause, so you can see what a place you hold in our
+               minds and hearts.</p>
+            
+            <p>The dining room at the Ranier Club looked very beautiful with the tables
+               decorated with rhododendrons and iris and colorful <name
+                  ref="#spl_banquet_program">programs</name>, serving also as place cards.
+               There were one hundred and forty-one present.</p>
+            
+            <p>Between courses we sang the songs printed in <name ref="#spl_banquet_program">the
+                  program</name> and then we had a series of humorous book reviews supposedly
+               suggestions for the book case in the new house <name ref="#jennings">Mr
+                  Jennings</name> is building across Lake Washington. After the last of these
+               the group burst into the song “For He’s a Jolly Good Fellow.” Then we said we
+               had a real book for him and Miss Andrus presented him with the portfolio of
+               letters, one of which you wrote, - there were over a hundred altogether, and was
+               he pleased!</p>
+            
+            <p>He made a little speech of appreciation and then it was Mrs. Quigley’s turn to
+               add to the book-shelf. She presented him with a book containing a diploma saying
+               that he had completed thirty-five years of successful service “summa cum laude”,
+               and then she presented Mr Richards, the new librarian, with a schedule book such
+               as they give Freshmen at the University, listing the courses he’d have to take
+               such as Handling the Board, Pleasing the Staff, Balancing the Budget, etc. Mr
+               Richards then said briefly how pleased he and Mrs Richards were to be included
+               and how much he was looking forward to his work.</p>
+            
+            <p>Last of all we said we thought the best books to have on our shelves were the
+               master works that were standbys through thick and thin to guide and comfort us
+               and then Miss Eberlin presented <name ref="#jennings">Mr Jennings</name> with a
+               Columbia Master Works Album of Beethoven’s “Tempest” Sonata, first speaking of
+               records and how librarians have always”kept</p>
+            
+            <pb/>
+            
+            <ab type="letterhead">
+               <address rend="caps">
+                  <addrLine><name ref="#staff_association">Seattle Public Library Staff
+                        Association</name></addrLine>
+                  <addrLine>4th Ave. <hi rend="lowercase">and</hi> Madison St.</addrLine>
+                  <addrLine>Seattle, Washington</addrLine>
+               </address>
+            </ab>
+            
+            <ab type="pgNum" style="text-align: center;">-2-</ab>
+            
+            <p>records” religiously. But she said that after we had gotten this record it
+               occurred to us he would need something to play it on it on and so there was a
+               companion volume to this. Covered with a cloth in the alcover back of the
+               speakers table was an R.C.A. Radio-Victrola which Miss Eberlin then uncovered.
+               <name ref="#jennings">Mr Jennings</name> was quite overcome. “I can’t say
+               anything” was all he could say, so we joined hands around the table and sang
+               Auld Lang Syne, and that was the end.</p>
+            
+            <p>We surely wished many times during the evening that you and Mrs Arai might be
+               with us and I know I am expressing the feeling of the whole group when I say
+               that you have our very best wishes and that we hope this trying period through
+               which you are passing may seem more bearable as time goes on. This morning’s
+               <name ref="#post_intelligencer">P-I</name> carries your picture and tells of
+               your new work. “You can’t keep a good man down”, you know.</p>
+            
+            <closer>
+               <salute>Sincerely your friend</salute>
+               <signed>
+                  <figure xml:id="frostSignature">
+                     <graphic url="../images/frostSignature.jpeg"/>
+                     <figDesc><name>Alice A. Frost</name></figDesc>
+                  </figure>
+                  <subst>
+                     <add>A</add>
+                     <del>E</del>
+                  </subst>AF/FRP President, <name ref="#staff_association">Seattle Public
+                     Library<lb/> Staff Association</name>
+               </signed>
+            </closer>
+            
+            <postscript>
+               <label>P.S.</label>
+               <p>Miss Calkins, head of our Reference department, is coming with a friend to
+                  Puyallup tomorrow and will be at the gate of <name ref="#camp_harmony">the
+                     Camp</name> at 5:30 and will be very happy to see you if you can be
+                  there.</p>
+            </postscript>
+         </div>
+      
+      </body>
+          
+      <back>
+      
+         <interpGrp>
+              <desc>Themes addressed in Arai’s correspondence</desc>
+              <interp xml:id="library">Arai was a member of the Seattle Public Library, and this organization features prominently in Arai's correspondences.</interp>
+              <interp xml:id="wwii">Over a hundred thousand Japanese Americans, including Arai and his family, were forcibly removed from their homes and incarcerated during World War II on the basis of their race. The war is a critical context for many materials in his scrapbook.</interp>
+         </interpGrp>
+         
+         <listPerson>
+                  <person xml:id="jennings" source="#spl_historylink_bib">
+                      <persName>Judson T. Jennings</persName>
+                      <birth>1873</birth>
+                      <death>1948</death>
+                      <note>Librarian Judson T. Jennings was the director of the <orgName ref="#spl">Seattle Public Library</orgName> from 1907 to 1942. Upon reaching the mandatory retirement age, he became the first chair of the King County Rural Library District (now the King County Library System).</note>
+                  </person>
+              </listPerson>
+              
+         <listOrg>
+                  <org xml:id="spl" source="#spl_historylink_bib">
+                      <orgName>Seattle Public Library</orgName>
+                      <note>During World War II, the Seattle Public Library continued to
+                          serve incarcerated Japanese American patrons, sending almost 7,000 books to Camp
+                          Minidoka.</note>
+                  </org>
+              </listOrg>
+      
+         <listBibl>
+              <bibl xml:id="spl_historylink_bib" type="webpage"> “<title>Central Library,
+                      1906-1957, The Seattle Public Library</title>.” <author>Paula
+                          Becker</author>
+                  <publisher>HistoryLink.org</publisher>
+                  <date>07/01/2011</date>
+                  <ref target="https://www.historylink.org/File/9869">Central Library,
+                      1906-1957, The Seattle Public Library</ref>
+              </bibl>
+          </listBibl>
+      </back>
+  </text>
+</TEI>
