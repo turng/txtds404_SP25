@@ -41,7 +41,14 @@
       <encodingDesc>
           <tagsDecl>
               <rendition xml:id="indent" scheme="css">text-indent: 10px;</rendition>
-              
+              <rendition xml:id="caps" scheme="css">text-transform: uppercse;</rendition>
+              <rendition xml:id="bold" scheme="css">font-weight: bold;</rendition>
+              <rendition xml:id="sc" scheme="css">font-variant: small-caps;</rendition>
+              <rendition xml:id="right-align" scheme="css">text-align: right;</rendition>
+              <rendition xml:id="center-align" scheme="css">text-align: center;</rendition>
+              <rendition xml:id="monaco" scheme="css">font-family: "Monaco", monospace;</rendition>
+              <rendition xml:id="consolas" scheme="css">font-family:"Consolas", monospace;</rendition>
+              <rendition xml:id="blue" scheme="css">color: blue;</rendition>
           </tagsDecl>
       </encodingDesc>
   </teiHeader>
@@ -49,36 +56,36 @@
   <text>
       <body>
          <div xml:id="americanKennelClub1934-06-15" type="certificate" ana="#personal">
-              <head rend="caps" style="text-align: center;">Registration Certificate</head>
+              <head rendition="#caps #center-align">Registration Certificate</head>
               <figure xml:id="akcLogo">
                   <graphic url="../images/akcLogo.jpeg"/>
-                  <figDesc rend="caps">American Kennel Club</figDesc>
-                  <figDesc rend="caps">AKC</figDesc>
-                  <figDesc rend="caps">Incorporated</figDesc>
+                  <figDesc rendition="#caps">American Kennel Club</figDesc>
+                  <figDesc rendition="#caps">AKC</figDesc>
+                  <figDesc rendition="#caps">Incorporated</figDesc>
               </figure>
-              <head rend="caps" style="text-align: center;">American Kennel Club Stud Book</head>
-              <head rend="caps" style="text-align: center;">American Kennel Club</head>
-              <head rend="caps" style="text-align: center;">New York, N.Y.</head>
+             <head rendition="#caps #center-align">American Kennel Club Stud Book</head>
+             <head rendition="#caps #center-align">American Kennel Club</head>
+             <head rendition="#caps #center-align">New York, N.Y.</head>
               
-              <ab><hi rend="caps">Name of Dog</hi> Duke of Main Street</ab>
-              <ab><hi rend="caps">Breed</hi> Cocker Spaniel <hi rend="caps">Sex</hi> Male</ab>
-              <ab><hi rend="caps">Sire</hi> Slicker Boy of Kitsop (934421)</ab>
-              <ab><hi rend="caps">Dam</hi> Paul’s Queenie (898745)</ab>
-              <ab><hi rend="caps">Whelped</hi> March 14, 1934</ab>
-              <ab><hi rend="caps">Color</hi> Red</ab>
-              <ab><hi rend="caps">Breeder</hi> M. Ellen Paul</ab>
-              <ab><hi rend="caps">Owner</hi> Clarence T. Arai</ab>
-              <ab><hi rend="caps">Registered</hi>
+              <ab><hi rendition="#caps">Name of Dog</hi> Duke of Main Street</ab>
+              <ab><hi rendition="#caps">Breed</hi> Cocker Spaniel <hi rendition="#caps">Sex</hi> Male</ab>
+              <ab><hi rendition="#caps">Sire</hi> Slicker Boy of Kitsop (934421)</ab>
+              <ab><hi rendition="#caps">Dam</hi> Paul’s Queenie (898745)</ab>
+              <ab><hi rendition="#caps">Whelped</hi> March 14, 1934</ab>
+              <ab><hi rendition="#caps">Color</hi> Red</ab>
+              <ab><hi rendition="#caps">Breeder</hi> M. Ellen Paul</ab>
+              <ab><hi rendition="#caps">Owner</hi> Clarence T. Arai</ab>
+              <ab><hi rendition="#caps">Registered</hi>
                   <date when="1934-06-15">June 15, 1934</date></ab>
-              <ab><hi rend="caps">Assigned No</hi> 941308</ab>
-              <ab><hi rend="caps">Volume</hi> 51</ab>
-              <ab>August <hi rend="caps">Issue</hi></ab>
+              <ab><hi rendition="#caps">Assigned No</hi> 941308</ab>
+              <ab><hi rendition="#caps">Volume</hi> 51</ab>
+              <ab>August <hi rendition="#caps">Issue</hi></ab>
               
               <signed>
                   <figure xml:id="PercyBRiceSignature">
                       <graphic url="../images/percySignature.jpeg"/>
                       <figDesc><name>Perry B Rice</name></figDesc>
-                      <figDesc rend="caps">Secretary</figDesc>
+                      <figDesc rendition="#caps">Secretary</figDesc>
                   </figure> gm 
               </signed>
           </div>
@@ -110,7 +117,7 @@
              <opener>
                  <seg type="letterhead">
                      <address>
-                         <addrLine rend="caps">The Butts' Parole League</addrLine>
+                         <addrLine rendition="#caps">The Butts' Parole League</addrLine>
                          <addrLine>Box 70, Nippon Station</addrLine>
                          <addrLine>Seattle, Washington</addrLine>
                      </address>
@@ -132,7 +139,7 @@
                  your credit.</p>
 
              <closer>
-                 <signed rend="caps">The Butts' Parole League</signed>
+                 <signed rendition="#caps">The Butts' Parole League</signed>
                  <signed>
                      <figure xml:id="FrankOMurphySignature">
                          <graphic url="../images/Frank's_signature.jpeg"/>
@@ -288,27 +295,27 @@
          </div>
 
          <div xml:id="publicProclamation1942-03-02" type="statement" ana="#wwii">
-             <head><hi rend="bold" style="text-align:center">Headquarters</hi></head>
-             <head rend="bold">Western Defense Command</head>
-             <head><hi rend="bold">And Fourth Army</hi></head>
-             <head><hi rend="bold">Presidio of San Francisco, California</hi></head>
-             <head><hi rend="bold">- - - Public Proclamation No. 3 - - - </hi></head>
+             <head><hi rendition="#bold #center-align">Headquarters</hi></head>
+             <head rendition="#bold">Western Defense Command</head>
+             <head><hi rendition="#bold">And Fourth Army</hi></head>
+             <head><hi rendition="#bold">Presidio of San Francisco, California</hi></head>
+             <head><hi rendition="#bold">- - - Public Proclamation No. 3 - - - </hi></head>
              <head><date when="1942-03-24">March 24, 1942</date></head>
              <p>TO: The people within the States of Washington, Oregon, California, Montana,
                  Idaho, Nevada, Utah and Arizona, and the Public Generally:</p>
-             <p><hi rend="sc">WHEREAS</hi>, By Public Proclamation No.1, dated <date
+             <p><hi rendition="#sc">WHEREAS</hi>, By Public Proclamation No.1, dated <date
                      when="1942-03-02">March 2, 1942</date>, this headquarters, there were
                  designated and established Military Areas Nos. 1 and 2 and Zones thereof,
                  and</p>
-             <p><hi rend="sc">WHEREAS</hi>, By Public Proclamation No. 2, dated <date
+             <p><hi rendition="#sc">WHEREAS</hi>, By Public Proclamation No. 2, dated <date
                      when="1942-03-02">March 2, 1942</date>, this headquarters, there were
                  designated and established Military Areas Nos. 3,4,5 and 6 and Zones thereof,
                  and</p>
-             <p><hi rend="sc">WHEREAS</hi>, The present situation within these Military Areas and
+             <p><hi rendition="#sc">WHEREAS</hi>, The present situation within these Military Areas and
                  Zones requires as a matter of military necessity the establishment of certain
                  regulations pertaining to all enemy aliens and all persons of Japanese ancestry
                  within said Military Areas and Zones thereof:</p>
-             <p>Now, <hi rend="sc">THEREFORE</hi>, I, <ref type="#Dewitt">J.L. DEWITT</ref>,
+             <p>Now, <hi rendition="#sc">THEREFORE</hi>, I, <ref type="#Dewitt">J.L. DEWITT</ref>,
                  Lieutenant General, U.S. Army, by virtue of the authority vested in me by the
                  President of the United States and by the Secretary of War and my powers and
                  prerogatives as Commanding General, Western Defense Command, do hereby declare
@@ -323,12 +330,12 @@
          </div>
 
          <div xml:id="exlusionOrder1942-04-24" type="statement" ana="#wwii">
-             <head><hi rend="bold">Headquarters</hi></head>
-             <head><hi rend="bold">Western Defense Command</hi></head>
-             <head><hi rend="bold">And Fourth Army Presidio of San Francisco,
+             <head><hi rendition="#bold">Headquarters</hi></head>
+             <head><hi rendition="#bold">Western Defense Command</hi></head>
+             <head><hi rendition="#bold">And Fourth Army Presidio of San Francisco,
                  California</hi></head>
              <head><date when="1942-04-24">April 24th, 1942</date></head>
-             <head><hi rend="bold">Civilian <ref type="general_exclusion_order">Exclusion Order
+             <head><hi rendition="#bold">Civilian <ref type="general_exclusion_order">Exclusion Order
                          No.17</ref></hi></head>
              <p>1. Pursuant to the provisions of Public Proclamations Nos. 1 and 2, this
                  Headquarters, dated <date when="1942-03-02">March 2, 1942</date>, and <date
@@ -337,7 +344,7 @@
                      >May 1, 1942</date>, all persons of Japanese ancestry, both alien and
                  non-aline, be excluded from that portion of Military Area No. 1 described as
                  follows:</p>
-             <p style="text-align:indent">All that portion of the City of Seattle, State of
+             <p rendition="#indent">All that portion of the City of Seattle, State of
                  Washington, within that boundary beginning at the point at which the northerly
                  limits of said city meet Shilshole Bay ; thence easterly and following the
                  northerly limits of said city to Roosevelt Way ; thence southerly and following
@@ -353,7 +360,7 @@
                  hours on Sunday, <date when="1942-04-26">April 26, 1942</date>, to the Civil
                  Control Station located at :</p>
              <p>
-                 <address style="text-align:center">
+                 <address rendition="#center-align">
                      <addrLine>2100 Second Avenue</addrLine>
                      <addrLine>Seattle, Washington</addrLine>
                  </address>
@@ -377,9 +384,9 @@
 
          <div xml:id="jennings1942-04-29" type="letter" ana="#library #wwii">
               <opener>
-                  <seg type="letterhead" rend="center-align">
-                      <orgName ref="#spl" rend="caps">Seattle Public Library</orgName><lb/>
-                      <placeName rend="caps">Seattle, Washington</placeName><lb/>
+                  <seg type="letterhead" rendition="#center-align">
+                      <orgName ref="#spl" rendition="#caps">Seattle Public Library</orgName><lb/>
+                      <placeName rendition="#caps">Seattle, Washington</placeName><lb/>
                       <persName ref="#jennings">Judson T. Jennings</persName>, Librarian<lb/>
                       <date when="1942-04-29">29 April 1942</date>
                   </seg>
@@ -391,12 +398,12 @@
                   <salute>Dear Mr Arai:</salute>
               </opener>
               
-              <p rend="indent">Thank you kindly for the copies of “Our Times” by Mark Sullivan, and “The March
+              <p rendition="#indent">Thank you kindly for the copies of “Our Times” by Mark Sullivan, and “The March
                   of Democracy" by Adams, which you sent to the library yesterday.</p>
               
-              <p rend="indent">Both sets are being added to the Reference department.</p>
+              <p rendition="#indent">Both sets are being added to the Reference department.</p>
               
-              <closer rend="right-align">
+              <closer rendition="#right-align">
                   <salute>Cordially yours</salute>
                   <signed>
                       <figure xml:id="JTJenningsSignature">
@@ -408,8 +415,8 @@
           </div>
 
          <div xml:id="seattleTimes1942-05-01" type="clipping" ana="#wwii">
-             <head rend="caps" type="date"><date when="1942-05-01">May 1, 1942</date></head>
-             <head type="title" style="text-align:center">EMPTY STALLS--EVACUATIONS</head>
+             <head rendition="#caps" type="date"><date when="1942-05-01">May 1, 1942</date></head>
+             <head type="title" rendition="#center-align">EMPTY STALLS--EVACUATIONS</head>
              <head type="paper">SEATTLE TIMES</head>
              <figure xml:id="emptyStallsImage" type="image">
                  <graphic url="../images/pikeplacenewTEIBP.jpg"/>
@@ -426,9 +433,9 @@
 
          <!-- fix xml id ! -->  
          <div xml:id="REPLACETHISTOO" type="clipping" ana="#wwii">
-             <head rend="caps" type="title" style="text-align:center">Half Of City's</head>
-             <head rend="caps" type="title" style="text-align:center">Japs Have Gone</head>
-             <head style="text-align:center">____________</head>
+             <head rendition="#caps  #center-align" type="title">Half Of City's</head>
+             <head rendition="#caps  #center-align" type="title">Japs Have Gone</head>
+             <head rendition=" #center-align">____________</head>
              <p>Seattle's central business district gave the appearance of a city without
                  Japanese today as the last of them from Zones No. 1 and 2, or population,
                  departed for <name ref="#camp_harmony">the assembly center in
@@ -460,7 +467,7 @@
           
          <div xml:id="travelPermit1942-05-02" type="statement" ana="#wwii #library">
              <opener>
-                 <seg type="letterhead" rend="caps">
+                 <seg type="letterhead" rendition="#caps">
                      <address>
                          <addrLine>Headquarters</addrLine>
                          <addrLine>NWS &amp; 44th Infantry Division</addrLine>
@@ -469,39 +476,39 @@
                          <addrLine>Seattle, Washington</addrLine>
                      </address>
                  </seg>
-                 <dateline style="text-align: right;"><date when="1942-05-02">May 2,
+                 <dateline rendition="#right-align"><date when="1942-05-02">May 2,
                      1942</date></dateline>
-                 <salute rend="caps">To whom it may concern:</salute>
+                 <salute rendition="#caps">To whom it may concern:</salute>
              </opener>
 
-             <p>The applicant named, <name rend="caps">Clarence Arai</name>, an American citizen
+             <p>The applicant named, <name rendition="#caps">Clarence Arai</name>, an American citizen
                  of Japanese blood is hereby granted permission and authorized to travel without
                  molestation or hindrance by the most direct route from 452 12th Avenue, Seattle,
                  Washington to the <name ref="#spl">Seattle Public Library</name>, 4th and
                  Madison Street and the Federal Reserve National Bank of Commerce Building,
                  Seattle, Washington. Travel authorized will be effective <date when="1942-05-05"
                      >Tuesday, May 5, 1942</date> between the hours of 11:00 A.M. and 2:00 P.M.
-                     <hi rend="caps">Nothing follows.</hi></p>
+                     <hi rendition="#caps">Nothing follows.</hi></p>
 
              <signed>
                  <figure xml:id="MichaelARivistoSignature">
                      <graphic url="../images/rivistoSignature.jpeg"/>
                      <figDesc>Illegible signature</figDesc>
                  </figure>
-                 <hi rend="caps">Michael A. Rivisto</hi><lb/> Captain Infantry<lb/> Acting
+                 <hi rendition="#caps">Michael A. Rivisto</hi><lb/> Captain Infantry<lb/> Acting
                  Provost Marshal<lb/> State of Washington<lb/>
-                 <seg type="stamped" style="color: blue;">
-                     <hi rend="caps">Michael A. Rivisto</hi><lb/> Captain, Infantry<lb/> NWS. PCF </seg>
-                 <seg rend="caps" style="text-align: left;"> MM<lb/> Temporary Permit #18 </seg>
+                 <seg type="stamped" rendition="#blue">
+                     <hi rendition="#caps">Michael A. Rivisto</hi><lb/> Captain, Infantry<lb/> NWS. PCF </seg>
+                 <seg rendition="#caps"> MM<lb/> Temporary Permit #18 </seg>
              </signed>
          </div>
 
          <!-- fix xml id ! -->  
          <div xml:id="REPLACETHIS" type="clipping" ana="#wwii">
-             <head type="author" style="text-align:center">More Japanese Get</head>
-             <head type="title" style="text-align:center">Evacuation Orders</head>
-             <head style="text-align:center">____________</head>
-             <head type="author" style="text-align:center">By R. B. Bermann</head>
+             <head type="author" rendition="#center-align">More Japanese Get</head>
+             <head type="title" rendition="#center-align">Evacuation Orders</head>
+             <head rendition="#center-align">____________</head>
+             <head type="author" rendition="#center-align">By R. B. Bermann</head>
 
              <p>Evacuation of all Japanese from Kitsap County, western Pierce County and the
                  southwestern tip of King County was decreed yesterday in orders by <name
@@ -535,13 +542,13 @@
          <div xml:id="REPLACETHIS1942-05-12" type="clipping" ana="#wwii">
               <head>TUESDAY</head>
               <head><date when="1942-05-12"/>P.1 5/12/42</head>
-              <head rend="caps" type="title" style="text-align: center;">Registration</head>
-              <head rend="caps" type="title" style="text-align: center;">Of Remaining</head>
-              <head rend="caps" type="title" style="text-align: center;">Japs Starts</head>
-              <head type="subTitle" style="text-align: center;">All Left in Seattle to Get</head>
-              <head type="subTitle" style="text-align: center;">Assignments by Tonight;</head>
-              <head type="subTitle" style="text-align: center;">New County Orders Seen</head>
-              <head style="text-align: center;">____________</head>
+              <head rendition="#caps #center-align" type="title">Registration</head>
+             <head rendition="#caps #center-align" type="title">Of Remaining</head>
+             <head rendition="#caps #center-align" type="title">Japs Starts</head>
+              <head type="subTitle" rendition="#center-align">All Left in Seattle to Get</head>
+             <head type="subTitle" rendition="#center-align">Assignments by Tonight;</head>
+             <head type="subTitle" rendition="#center-align">New County Orders Seen</head>
+             <head rendition="#center-align">____________</head>
               <p>Registration of all Japanese remaining in Seattle started yesterday and will
                   continue today at the newest civil control station, 2203 E. Madison St.</p>
               <p>Like the registrations which preceded it, everything was varied out in an orderly
@@ -549,7 +556,7 @@
                   the last Seattle district to be evacuated, and all will be registered and get
                   their <name ref="#camp_harmony">Puyallup center</name> assignments by 5 o’clock
                   this evening.</p>
-              <p rend="caps">Puyallup, too</p>
+              <p rendition="#caps">Puyallup, too</p>
               <p>At the same time, registration was proceeding in Puyallup of some 1,000 Japanese
                   living in Eastern Pierce County. They are to be sent to an evacuation center at
                   Pinedale, Calif., where Japanese from rural King County south of Seattle are
@@ -562,10 +569,10 @@
           </div>
 
          <div xml:id="postIntelligencer1942-05-13" type="clipping" ana="#wwii">
-             <head rend="caps" type="paper"><name ref="#post_intelligencer">Seattle
+             <head rendition="#caps" type="paper"><name ref="#post_intelligencer">Seattle
                      Post-Intelligencer</name>, <date when="1942-05-13">Wednesday, May 13,
                      1942</date></head>
-             <head rend="caps" type="title">New Exclusion Areas</head>
+             <head rendition="#caps" type="title">New Exclusion Areas</head>
              <head>P.I <date when="1942-05-13">5/13/42</date></head>
              <figure xml:id="firstExclusionAreaImage" type="image">
                  <graphic url="../images/firstExclusionAreaTEIPB.jpg"/>
@@ -584,21 +591,21 @@
          </div>
 
          <div xml:id="postIntelligencer1942-05-25" type="clipping" ana="#wwii">
-             <head type="title" style="text-align: center;"><name ref="#camp_harmony">Camp
+             <head type="title" rendition="#center-align"><name ref="#camp_harmony">Camp
                      Harmony</name> Japs</head>
-             <head type="title" style="text-align: center;">Living Up to Name</head>
-             <head style="text-align: center;">___________</head>
-             <head type="subTitle" style="text-align: center;">Seattle Evacuees Making Best
+             <head type="title" rendition="#center-align">Living Up to Name</head>
+             <head rendition="#center-align">___________</head>
+             <head type="subTitle" rendition="#center-align">Seattle Evacuees Making Best
                  of</head>
-             <head type="subTitle" style="text-align: center;">Site, Despite New
+             <head type="subTitle" rendition="#center-align">Site, Despite New
                  Conditions</head>
-             <head rend="caps">Seattle, <date when="1942-05-25">May 25, 1942</date></head>
-             <head style="text-align: center;">___________</head>
-             <head type="author" style="text-align: center;">By R. B. Bermann</head>
-             <head type="author" style="text-align: center;"><name ref="#post_intelligencer"
+             <head rendition="#caps">Seattle, <date when="1942-05-25">May 25, 1942</date></head>
+             <head rendition="#center-align">___________</head>
+             <head type="author" rendition="#center-align">By R. B. Bermann</head>
+             <head type="author" rendition="#center-align"><name ref="#post_intelligencer"
                      >Post-Intelligencer</name> Staff Correspondent</head>
 
-             <p><name ref="#camp_harmony" rend="caps">Camp Harmony</name>, Puyallup, May
+             <p><name ref="#camp_harmony" rendition="#caps">Camp Harmony</name>, Puyallup, May
                  24—Although some of them have been here scarcely a week, Seattle Japanese are
                  adjusting themselves rapidly to conditions at this assembly center, and the camp
                  is really living up to its name.</p>
@@ -691,14 +698,14 @@
          <div xml:id="frost1942-05-25" type="letter" ana="#library #personal #wwii">
               <opener>
                   <seg type="letterhead">
-                      <address rend="caps">
+                      <address rendition="#caps">
                           <addrLine><name ref="#staff_association">Seattle Public Library Staff
                                   Association</name></addrLine>
-                          <addrLine>4th Ave. <hi rend="lowercase">and</hi> Madison St.</addrLine>
+                          <addrLine>4th Ave. <hi rendition="#lowercase">and</hi> Madison St.</addrLine>
                           <addrLine>Seattle, Washington</addrLine>
                       </address>
                   </seg>
-                  <dateline style="text-align: center;"><date when="1942-05-25">25 May
+                  <dateline rendition="#center-align"><date when="1942-05-25">25 May
                           1942</date></dateline>
                   <address>
                       <addrLine>Mr Clarence T. Arai</addrLine>
@@ -758,15 +765,15 @@
               <pb/>
               
               <ab type="letterhead">
-                  <address rend="caps">
+                  <address rendition="#caps">
                       <addrLine><name ref="#staff_association">Seattle Public Library Staff
                               Association</name></addrLine>
-                      <addrLine>4th Ave. <hi rend="lowercase">and</hi> Madison St.</addrLine>
+                      <addrLine>4th Ave. <hi rendition="#lowercase">and</hi> Madison St.</addrLine>
                       <addrLine>Seattle, Washington</addrLine>
                   </address>
               </ab>
               
-              <ab type="pgNum" style="text-align: center;">-2-</ab>
+             <ab type="pgNum" rendition="#center-align">-2-</ab>
               
               <p>records” religiously. But she said that after we had gotten this record it
                   occurred to us he would need something to play it on it on and so there was a
@@ -809,7 +816,7 @@
 
          <div xml:id="quigley1942-06-02" type="letter" ana="#library #wwii">
                 <opener>
-                    <dateline><date when="1942-06-02" style="text-align: right;">June 2,
+                    <dateline><date when="1942-06-02" rendition="#right-align">June 2,
                         1942</date></dateline>
                     <address>
                         <addrLine>Mr. Clarence T. Arai</addrLine>
@@ -835,7 +842,7 @@
 
                 <closer>
                     <salute>Sincerely yours</salute>
-                    <name ref="#spl" rend="caps">Seattle Public Library Board</name>
+                    <name ref="#spl" rendition="#caps">Seattle Public Library Board</name>
                     <signed>
                         <figure xml:id="splSignatures">
                             <graphic url="../images/4signatures.jpeg"/>
