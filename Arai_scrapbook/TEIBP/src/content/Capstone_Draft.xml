@@ -41,7 +41,7 @@
       <encodingDesc>
           <tagsDecl>
               <rendition xml:id="indent" scheme="css">text-indent: 10px;</rendition>
-              <rendition xml:id="caps" scheme="css">text-transform: uppercase;</rendition>
+              <rendition xml:id="caps" scheme="css">text-transform: uppercase !important;</rendition>
               <rendition xml:id="bold" scheme="css">font-weight: bold;</rendition>
               <rendition xml:id="sc" scheme="css">font-variant: small-caps;</rendition>
               <rendition xml:id="right-align" scheme="css">text-align: right;</rendition>
