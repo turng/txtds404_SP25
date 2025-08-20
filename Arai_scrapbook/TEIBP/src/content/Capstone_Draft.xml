@@ -41,7 +41,7 @@
       <encodingDesc>
           <tagsDecl>
               <rendition xml:id="indent" scheme="css">text-indent: 10px;</rendition>
-              <rendition xml:id="caps" scheme="css">text-transform: uppercse;</rendition>
+              <rendition xml:id="caps" scheme="css">text-transform: uppercase;</rendition>
               <rendition xml:id="bold" scheme="css">font-weight: bold;</rendition>
               <rendition xml:id="sc" scheme="css">font-variant: small-caps;</rendition>
               <rendition xml:id="right-align" scheme="css">text-align: right;</rendition>
@@ -886,6 +886,10 @@
                  </person>
               </listPerson>
               
+         <listPlace>
+             <place></place>
+         </listPlace>
+              
          <listOrg>
                   <org xml:id="spl" source="#spl_historylink_bib">
                       <orgName>Seattle Public Library</orgName>
@@ -896,14 +900,74 @@
               </listOrg>
       
          <listBibl>
-              <bibl xml:id="spl_historylink_bib" type="webpage"> “<title>Central Library,
-                      1906-1957, The Seattle Public Library</title>.” <author>Paula
-                          Becker</author>
-                  <publisher>HistoryLink.org</publisher>
-                  <date>07/01/2011</date>
-                  <ref target="https://www.historylink.org/File/9869">Central Library,
-                      1906-1957, The Seattle Public Library</ref>
-              </bibl>
+             <bibl xml:id="camp_harmony_bib" type="webpage"> “<title>Camp Harmony (Puyallup
+                     Assembly Center), 1942</title>." <author>Louis Fiset</author>
+                 <publisher>HistoryLink.org</publisher>
+                 <date>10/07/2008</date>
+                 <ref target="https://www.historylink.org/File/8748">Camp Harmony (Puyallup
+                     Assembly Center), 1942</ref>
+             </bibl>
+             <bibl xml:id="arai_bib" type="webpage"> "<title>Clarence Takeya Arai</title>."
+                 <author>Mary Schons</author>
+                 <publisher>EBSCO</publisher>
+                 <date>2023</date>
+                 <ref
+                     target="https://www.ebsco.com/research-starters/history/clarence-takeya-arai"
+                     >Clarence Takeya Arai</ref>
+             </bibl>
+             <bibl xml:id="akc_bib" type="webpage"> “<title level="a">American Kennel
+                     Club</title>." <title level="m">Wikipedia</title>
+                 <publisher>Wikipedia.org</publisher>
+                 <ref target="https://en.wikipedia.org/wiki/American_Kennel_Club">American
+                     Kennel Club</ref>
+             </bibl>
+             <bibl xml:id="minidoka_bib" type="webpage">“<title>Minidoka</title>."
+                 <publisher>Densho Enclyclopedia</publisher>
+                 <ref target="https://encyclopedia.densho.org/Minidoka/">Minidoka</ref>
+             </bibl>
+             <bibl xml:id="pike_place_market_bib" type="webpage"> “<title level="a">Pike
+                     Place Market</title>. <title level="m">Wikipedia</title>
+                 <publisher>Wikipedia.org</publisher>
+                 <ref target="https://en.wikipedia.org/
+                     wiki/Pike_Place_Market">Pike Place Market</ref>
+             </bibl>
+             <bibl xml:id="pi_bib" type="webpage"> “<title>Seattle Post-Intelligencer
+                     (1863-2009)</title>." <author>Cassandra Tate</author>
+                 <publisher>HistoryLink.org</publisher>
+                 <date>03/16/2009</date>
+                 <ref target="https://www.historylink.org/File/8956">Seattle
+                     Post-Intelligencer (1863-2009)</ref>
+             </bibl>
+             <bibl xml:id="spl_historylink_bib" type="webpage"> “<title>Central Library,
+                     1906-1957, The Seattle Public Library</title>.” <author>Paula
+                         Becker</author>
+                 <publisher>HistoryLink.org</publisher>
+                 <date>07/01/2011</date>
+                 <ref target="https://www.historylink.org/File/9869">Central Library,
+                     1906-1957, The Seattle Public Library</ref>
+             </bibl>
+             <bibl xml:id="fujiyama_bib" type="webpage"> "<title level="a">Aiichiro Fujiyama,
+                     87; Ex-Japanese Politician</title>." <publisher>New York
+                         Times</publisher>
+                 <ref
+                     target="https://www.nytimes.com/1985/02/23/world/aiichiro-fujiyama-87-ex-japanese-politician.html"
+                     >Aiichiro Fujiyama, 87; Ex-Japanese Politician</ref>
+             </bibl>
+             <bibl xml:id="dewitt_bib" type="webpage">
+                 <title level="a">John Lesene DeWitt</title>
+                 <publisher>National Park Service</publisher>
+                 <date>04/03/2024</date>
+                 <ref target="https://www.nps.gov/people/john-lesesne-dewitt.htm">John
+                     Lesesne DeWitt</ref>
+             </bibl>
+             <bibl xml:id="exclusion_order_bib" type="webpage">
+                 <title level="a">World War II Internment of Japanese Americans in
+                     Washington</title>
+                 <publisher>History Link.org</publisher>
+                 <date>05/20/2024</date>
+                 <ref target="https://www.historylink.org/File/22995">World War II Internment
+                     of Japanese Americans in Washington</ref>
+             </bibl>
           </listBibl>
       </back>
   </text>
