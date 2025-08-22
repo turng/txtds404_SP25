@@ -3,6 +3,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<?xml-stylesheet type="text/css" href="css/custom.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -49,6 +50,8 @@
               <rendition xml:id="monaco" scheme="css">font-family: "Monaco", monospace;</rendition>
               <rendition xml:id="consolas" scheme="css">font-family:"Consolas", monospace;</rendition>
               <rendition xml:id="blue" scheme="css">color: blue;</rendition>
+              <rendition xml:id="h2" scheme="css">font-size: 1.5em;</rendition>
+              <rendition xml:id="h3" scheme="css">font-size: 1.17em;</rendition>
           </tagsDecl>
       </encodingDesc>
   </teiHeader>
@@ -56,7 +59,7 @@
   <text>
       <body>
          <div xml:id="americanKennelClub1934-06-15" type="certificate" ana="#personal">
-              <head rendition="#caps #center-align">Registration Certificate</head>
+              <head rendition="#caps #center-align #h2">Registration Certificate</head>
               <figure xml:id="akcLogo">
                   <graphic url="../images/akcLogo.jpeg"/>
                   <figDesc rendition="#caps">American Kennel Club</figDesc>
@@ -64,8 +67,8 @@
                   <figDesc rendition="#caps">Incorporated</figDesc>
               </figure>
              <head rendition="#caps #center-align">American Kennel Club Stud Book</head>
-             <head rendition="#caps #center-align">American Kennel Club</head>
-             <head rendition="#caps #center-align">New York, N.Y.</head>
+             <head rendition="#caps #center-align #h2">American Kennel Club</head>
+             <head rendition="#caps #center-align #h2">New York, N.Y.</head>
               
               <ab><hi rendition="#caps">Name of Dog</hi> Duke of Main Street</ab>
               <ab><hi rendition="#caps">Breed</hi> Cocker Spaniel <hi rendition="#caps">Sex</hi> Male</ab>
@@ -89,7 +92,6 @@
                   </figure> gm 
               </signed>
           </div>
-
          <div xml:id="electionNotice1934-09-18" type="certificate" ana="#recognition">
              <head>State of Washington</head>
              <head>County of King</head>
