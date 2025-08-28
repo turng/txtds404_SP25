@@ -45,12 +45,15 @@
               <rendition xml:id="caps" scheme="css">text-transform: uppercase !important;</rendition>
               <rendition xml:id="bold" scheme="css">font-weight: bold;</rendition>
               <rendition xml:id="italic" scheme="css">font-style: italic;</rendition>
+              <rendition xml:id="underline" scheme="css">text-decoration: underline;</rendition>
               <rendition xml:id="sc" scheme="css">font-variant: small-caps;</rendition>
               <rendition xml:id="right-align" scheme="css">text-align: right;</rendition>
               <rendition xml:id="center-align" scheme="css">text-align: center;</rendition>
               <rendition xml:id="monaco" scheme="css">font-family: "Monaco", monospace;</rendition>
               <rendition xml:id="consolas" scheme="css">font-family:"Consolas", monospace;</rendition>
               <rendition xml:id="handwriting" scheme="css">font-family: Brush Script MT, Brush Script Std, cursive;</rendition>
+              <rendition xml:id="gothic" scheme="css">font-family: "Old English Text MT", "Engravers Old English", "Gothic", serif;</rendition>
+              <rendition xml:id="courier" scheme="css">font-family: "Courier New", Courier, monospace;</rendition>
               <rendition xml:id="blue" scheme="css">color: blue;</rendition>
               <rendition xml:id="h2" scheme="css">font-size: 1.5em;</rendition>
               <rendition xml:id="h3" scheme="css">font-size: 1.17em;</rendition>
@@ -128,7 +131,6 @@
                  Form EL 12 (logo) 1500 Pioneer 14383
              </trailer>
          </div>
-
          <div xml:id="buttsParoleLeague1937-04-02" type="letter" ana="#library">
              <opener>
                  <seg type="letterhead">
@@ -218,7 +220,7 @@
                        <span rendition="#caps">Post Card</span>
                   </ab>
                     
-                   <ab><address>
+                   <ab><address rendition="#handwriting">
                         <addrLine>Mr. Clarence Arai</addrLine>
                         <addrLine>519 Main st</addrLine>
                         <addrLine>Seattle, Wash.</addrLine>
@@ -228,15 +230,21 @@
         </div>
 
          <div xml:id="presidentialCertificate1941-10-16" ana="#recognition">
-             <head>The President of the United States of America</head>
-             <!-- seal -->
+             <head rendition="#gothic">The President of the United States of America</head>
+             <figure xml:id="presidentialSeal">
+                 <graphic url="../images/presidential-seal.jpeg"/>
+                 <figDesc>Circular seal featuring an eagle holding an olive branch and arrows with the words "E PLURIBUS UNUM"</figDesc>
+             </figure>
              
-             <p>Awards this certificate to Yone V. Arai in recognition of services rendered to the Nation and to your State on Registration Day, <date when="1940-10-16">October 16, 1940</date>.</p>
-             <p>Awarded this <date when="1941-02-21">21st day of February 1941</date></p>
+             <p><span rendition="#caps">Awards this certificate to</span> <persName ref="#yone" rendition="#caps #courier #underline">Yone V. Arai</persName> in recognition of services rendered to the Nation and to your State on Registration Day, <date when="1940-10-16">October 16, 1940</date>.</p>
+             <p>Awarded this <date when="1941-02-21"><span rendition="#courier #underline">21st</span> day of <span rendition="#courier #underline">February</span> 1941</date></p>
              
-             <signed>
+             <signed rendition="italic">
                  For the President,
-                 (signature)
+                 <figure xml:id="dykstraSignature">
+                     <graphic url="../images/dykstra-signature.jpeg"/>
+                     <figDesc><persName ref="#dykstra">Clarence Dykstra</persName></figDesc>
+                 </figure>
                  Director of Selective Services.
              </signed>
              
@@ -249,7 +257,6 @@
              </trailer>
          </div>
 
-         <!-- kinda roughly encoded rn -->
          <div xml:id="arai1941-12-05" type="telegram" ana="#personal">
             <opener>
                 <seg type="header">
@@ -912,6 +919,10 @@
                   </person>
                  <person xml:id="yone">
                      
+                 </person>
+             
+                 <person xml:id="dykstra">
+                     <persName>Clarence Addison Dykstra</persName>
                  </person>
               </listPerson>
               
