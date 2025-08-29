@@ -173,7 +173,7 @@
                     <opener>(7:20 A.M.) Portland Bus depot.
                     <date when="1941-08-15">Aug. 15. 1941.</date>
                     <salute>Dear Daddy;</salute></opener>
-                    <p>The hot dog sandwiches were so good. We all liked them. I liked by bus ride, and didn't hardly sleep at all. Am wide awake now too. Our bus leaves 8:45 so I wanted Mommy to write this card with papers <unclear>...</unclear>, so daddy won't be lonesome. Love to <unclear>Aurilie</unclear> &amp; Grandma</p>
+                    <p>The hot dog sandwiches were so good. We all liked them. I liked my bus ride, and didn't hardly sleep at all. Am wide awake now too. Our bus leaves 8:45 so I wanted Mommy to write this card with papers <unclear>...</unclear>, so daddy won't be lonesome. Love to <unclear>Aurilie</unclear> &amp; Grandma</p>
                     <p>We miss you daddy.</p>
                     <closer><salute>Love,</salute> <signed><persName ref="#ken">Ken</persName> &amp; <persName ref="#yone">Mommy</persName></signed></closer>
                 </div>
@@ -260,35 +260,41 @@
          <div xml:id="arai1941-12-05" type="telegram" ana="#personal">
             <opener>
                 <seg type="header">
-                    <seg>
-                        <seg>
-                            Standard Time Indicated
-                            Received At
-                        </seg>
-                    
-                        <seg>Telephone your telegrams to postal telegraph
-                        </seg>
-                    </seg>
+                    <seg type="columns">
+                        <seg type="column" rendition="#caps">
+                            <seg>
+                                Standard Time Indicated
+                                Received At
+                            </seg>
                         
-                    <seg>Postal Telegraph
-                    Mackay Radio (logo) All America Cables
-                    Commerical Cables   Canadian Pacific Telegraphs</seg>
-                    
-                    <seg>This is a full rate telegram, cable-gram or radiogram unless otherwise indicated by symbol in the preamble or in the address of the message. Symbols designating service selected are outline in the company's tariffs on hand at each office and on file with regulatory authorities.</seg>
+                            <seg>
+                                Telephone your telegrams to postal telegraph
+                            </seg>
+                        </seg>
+                        
+                        <seg type="column"><span rendition="#h1 #gothic">Postal Telegraph</span>
+                        Mackay Radio <figure xml:id="telegramLogo">
+                            <graphic url="../images/telegram-logo.jpeg"/>
+                            <figDesc>Telegrams, Radiograms, Cablegrams</figDesc>
+                        </figure> All America Cables
+                        Commerical Cables   Canadian Pacific Telegraphs</seg>
+                        
+                        <seg type="column" rendition="#caps">This is a full rate telegram, cable-gram or radiogram unless otherwise indicated by symbol in the preamble or in the address of the message. Symbols designating service selected are outline in the company's tariffs on hand at each office and on file with regulatory authorities.</seg>
+                    </seg>
                     
                     Form 16
               </seg>
                     
-                 LB10.EA.FB 544 13 Tour =TD SanFrancisco Calif 5 1130P
-                 Clarence T Arai = 6:00 AM.           
+                 <span rendition="#caps #consolas">LB10.EA.FB 544 13 Tour =TD SanFrancisco Calif 5 1130P
+                 Clarence T Arai = 6:00 AM.</span>           
                 
-                <date when="1941-12-05">1941 Dec 5</date> PM 11 53
-                <address><addrLine>519 Main St Del Early Am) Seattle Wash=</addrLine></address>
+                <date when="1941-12-05" rendition="#caps #consolas">1941 Dec 5</date> PM 11 53
+                <address rendition="#caps #consolas"><addrLine>519 Main St Del Early Am) Seattle Wash=</addrLine></address>
             </opener>
              
-            <p>Arriving in Seattle Sunday Morning 605 please meet us if you can love =</p>
+             <p rendition="#caps #consolas">Arriving in Seattle Sunday Morning 605 please meet us if you can love =</p>
              
-            <closer>
+             <closer rendition="#caps #consolas">
                 <signed><persName ref="#ken">Ken</persName> and <persName ref="#yone">Mommie</persName>.</signed>
             
                <seg> 605 Arai</seg>
@@ -900,7 +906,7 @@
       <back>
       
          <interpGrp>
-             <desc>Themes addressed in Arai’s correspondence</desc>
+             <desc>Themes addressed in Arai’s scrapbook</desc>
              <interp xml:id="library">Arai was a member of the Seattle Public Library, and this organization features prominently in Arai's correspondences.</interp>
              <interp xml:id="wwii">Over a hundred thousand Japanese Americans, including Arai and his family, were forcibly removed from their homes and incarcerated during World War II on the basis of their race. The war is a critical context for many materials in his scrapbook.</interp>
              <interp xml:id="recognition"></interp>

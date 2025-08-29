@@ -1,3 +1,16 @@
 body div {
     margin-bottom: 100px;
 }
+
+graphic {
+    max-width: 400px;
+}
+
+seg[type="columns"] {
+  display: flex;              
+  align-items: flex-start;
+}
+
+seg[type="column"] {
+  flex: 1;;
+}
