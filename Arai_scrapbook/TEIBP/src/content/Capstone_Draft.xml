@@ -55,6 +55,7 @@
               <rendition xml:id="gothic" scheme="css">font-family: "Old English Text MT", "Engravers Old English", "Gothic", serif;</rendition>
               <rendition xml:id="courier" scheme="css">font-family: "Courier New", Courier, monospace;</rendition>
               <rendition xml:id="blue" scheme="css">color: blue;</rendition>
+              <rendition xml:id="h1" scheme="css">font-size: 2em;</rendition>
               <rendition xml:id="h2" scheme="css">font-size: 1.5em;</rendition>
               <rendition xml:id="h3" scheme="css">font-size: 1.17em;</rendition>
           </tagsDecl>
@@ -79,10 +80,10 @@
               <ab><hi rendition="#caps">Breed</hi> Cocker Spaniel <hi rendition="#caps">Sex</hi> Male</ab>
               <ab><hi rendition="#caps">Sire</hi> Slicker Boy of Kitsop (934421)</ab>
               <ab><hi rendition="#caps">Dam</hi> Paul’s Queenie (898745)</ab>
-              <ab><hi rendition="#caps">Whelped</hi> March 14, 1934</ab>
+              <ab><hi rendition="#caps">Whelped</hi> <date when="1934-03-14">March 14, 1934</date></ab>
               <ab><hi rendition="#caps">Color</hi> Red</ab>
-              <ab><hi rendition="#caps">Breeder</hi> M. Ellen Paul</ab>
-              <ab><hi rendition="#caps">Owner</hi> Clarence T. Arai</ab>
+              <ab><hi rendition="#caps">Breeder</hi> <persName>M. Ellen Paul</persName></ab>
+              <ab><hi rendition="#caps">Owner</hi> <persName>Clarence T. Arai</persName></ab>
               <ab><hi rendition="#caps">Registered</hi>
                   <date when="1934-06-15">June 15, 1934</date></ab>
               <ab><hi rendition="#caps">Assigned No</hi> 941308</ab>
@@ -92,26 +93,21 @@
               <signed>
                   <figure xml:id="PercyBRiceSignature">
                       <graphic url="../images/percySignature.jpeg"/>
-                      <figDesc><name>Perry B Rice</name></figDesc>
+                      <figDesc><persName>Perry B Rice</persName></figDesc>
                       <figDesc rendition="#caps">Secretary</figDesc>
                   </figure> gm 
               </signed>
           </div>
          <div xml:id="electionNotice1934-09-18" type="certificate" ana="#recognition">
-             <head>State of Washington</head>
-             <head>County of King</head>
-             <head>Notice of Election</head>
-             <head>Auditor's Office</head>
+             <head rendition="#caps #h1">State of Washington</head>
+             <head rendition="#caps #h3">County of King</head>
+             <head rendition="#caps #h2 #consolas">Notice of Election</head>
+             <head rendition="#caps #h3">Auditor's Office</head>
              
-             <salute>To <persName ref="#yone">Yone V. Arai</persName> Greeting:</salute>
+             <salute rendition="#caps">To <persName ref="#yone" rendition="#courier #underline">Yone V. Arai</persName> Greeting:</salute>
              
-             <p>Dear Sir: You are hereby notified that you received the highest number of votes cast by the Republican Party for the office of Precinct Committeeman in Precinct No. 368 at the Primary Election held in the above County and State on the <date when="1934-09-11">11th day of September, 1934</date>.</p>
+             <p>Dear Sir: You are hereby notified that you received the highest number of votes cast by the <span rendition="#courier #underline">Republican</span> Party for the office of Precinct Committeeman in Precinct <span rendition="#courier #underline">No. 368</span> at the Primary Election held in the above County and State on the <date when="1934-09-11">11th day of September, 1934</date>.</p>
              <p>In Witness Whereof, I have hereunto set my hand and official seal this <date when="1934-09-18">18th day of September, 1934.</date></p>
-             
-             <signed>
-                 George ???? (include signature)
-                 County Auditor, Secretary Election Board
-             </signed>
              
              <signed>
                  <figure xml:id="georgeSignature">
@@ -142,16 +138,16 @@
                      <date when="1937-04-02">April 2, 1937</date>
                  </seg>
                  <address>
-                     <addrLine><name>Clarence T. Arai</name>, Esq.,</addrLine>
+                     <addrLine><persName>Clarence T. Arai</persName>, Esq.,</addrLine>
                      <addrLine>Seattle, Wn.</addrLine>
                  </address>
                  <salute>Sir;-</salute>
              </opener>
 
              <p>Permit us to offer our congratulations and best wishes toward your future as a
-                 trustee of the <name ref="#spl">Seattle Public Library</name>.</p>
+                 trustee of the <orgName ref="#spl">Seattle Public Library</orgName>.</p>
 
-             <p>Mayor <name ref="#dore">John F. Dore</name>, in choosing you, thus for the first
+             <p>Mayor <persName ref="#dore">John F. Dore</persName>, in choosing you, thus for the first
                  time in the history of Seattle according recognition to the people you so ably
                  represent, we know made a selection which will undoubtedly redound to his and
                  your credit.</p>
@@ -161,7 +157,7 @@
                  <signed>
                      <figure xml:id="FrankOMurphySignature">
                          <graphic url="../images/Frank's_signature.jpeg"/>
-                         <figDesc>by <name>Frank O. Murphy</name></figDesc>
+                         <figDesc>by <persName>Frank O. Murphy</persName></figDesc>
                      </figure>
                  </signed>
              </closer>
@@ -221,7 +217,7 @@
                   </ab>
                     
                    <ab><address rendition="#handwriting">
-                        <addrLine>Mr. Clarence Arai</addrLine>
+                        <addrLine>Mr. <persName>Clarence Arai</persName></addrLine>
                         <addrLine>519 Main st</addrLine>
                         <addrLine>Seattle, Wash.</addrLine>
                    </address></ab>
@@ -286,7 +282,7 @@
               </seg>
                     
                  <span rendition="#caps #consolas">LB10.EA.FB 544 13 Tour =TD SanFrancisco Calif 5 1130P
-                 Clarence T Arai = 6:00 AM.</span>           
+                 <persName>Clarence T Arai</persName> = 6:00 AM.</span>           
                 
                 <date when="1941-12-05" rendition="#caps #consolas">1941 Dec 5</date> PM 11 53
                 <address rendition="#caps #consolas"><addrLine>519 Main St Del Early Am) Seattle Wash=</addrLine></address>
@@ -305,33 +301,36 @@
             <opener> 
                 <seg type="letterhead">
                  County Auditor
-                 Robert A. Morris
+                 <persName rendition="#caps">Robert A. Morris</persName>
                  
-                 Office of 
+                 <span rendition="#caps #center-align">Office of 
                  County Auditor
                  King County, Washington
                  Seattle, Washington
-                 <date when="1942-01-05">Jan 5 1942</date>
+                 <date when="1942-01-05" rendition="#blue">Jan 5 1942</date></span>
                 </seg>
                 
-                <address>
+                <address rendition="#courier">
                     <addrLine><persName ref="#yone">Yone V. Arai</persName></addrLine>
                     <addrLine>452 12th Ave.</addrLine>
                     <addrLine>Seattle, Wash.</addrLine>
                 </address>
                 
-                <salute>Dear Madam:</salute>
+                <salute rendition="#courier">Dear Madam:</salute>
              </opener>
              
-             <p>You are hereby notified that you have been appointed to serve as <span>Judge</span> in <span>368</span> Precinct for the Primary Election to be held on February 24, 1942, and the General Election to be held on February 24, 1942, and the General Election on March 10, 1942.</p>
-             <p>Be sure to fill out the enclosed post-card indicating whether or not you will serve, and return the card to this office not later than Jan 15 1942. We would suggest that, if convenient, you return the card in person, thus avoiding the risk of its being miscarried in the mail.</p>
-             <p>Unless we receive your acceptance prior to said date, another appointment will be made.</p>
+             <p rendition="#courier">You are hereby notified that you have been appointed to serve as <span rendition="#handwriting #underline #blue">Judge</span> in <span rendition="#handwriting #underline #blue">368</span> Precinct for the Primary Election to be held on <date when="1942-02-24">February 24, 1942</date>, and the General Election to be held on <date when="1942-02-24">February 24, 1942</date>, and the General Election on <date when="1942-03-10">March 10, 1942</date>.</p>
+             <p rendition="#courier">Be sure to fill out the enclosed post-card indicating whether or not you will serve, and return the card to this office not later than <date when="1942-01-15"><span rendition="#consolas #underline #blue">Jan 15</span> 1942</date>. We would suggest that, if convenient, you return the card in person, thus avoiding the risk of its being miscarried in the mail.</p>
+             <p rendition="#courier">Unless we receive your acceptance prior to said date, another appointment will be made.</p>
              
-             <closer>
-                 <signed>Election Board of King County,
-                 Robert A. Morris, County Auditor
+             <closer rendition="#courier">
+                 <signed><span rendition="#caps">Election Board of King County,
+                 <persName>Robert A. Morris</persName>, County Auditor</span>
                  Secretary of Board.
-                 by Roy Erford (include signature>)
+                 By <figure xml:id="erfordSignature">
+                     <graphic url="../images/erford-signature.jpeg"/>
+                     <figDesc><persName ref="#erford">Roy Erford</persName></figDesc>
+                 </figure>
                  Superintendent of Elections.</signed>
              </closer>
          </div>
@@ -433,7 +432,7 @@
                       <date when="1942-04-29">29 April 1942</date>
                   </seg>
                   <address>
-                      <addrLine>Mr Clarence T. Arai</addrLine>
+                      <addrLine>Mr <persName>Clarence T. Arai</persName></addrLine>
                       <addrLine>452-12th Avenue</addrLine>
                       <addrLine>Seattle, Washington</addrLine>
                   </address>
@@ -480,8 +479,8 @@
              <head rendition=" #center-align">____________</head>
              <p>Seattle's central business district gave the appearance of a city without
                  Japanese today as the last of them from Zones No. 1 and 2, or population,
-                 departed for <name ref="#camp_harmony">the assembly center in
-                 Puyallup.</name></p>
+                 departed for <placeName ref="#camp_harmony">the assembly center in
+                 Puyallup.</placeName></p>
              <p> And the <placeName ref="#pike_place">Pike Place Markets</placeName> for the
                  first time in their years of operation, did business without their myriad of
                  Japanese-operated stalls. </p>
@@ -523,10 +522,10 @@
                  <salute rendition="#caps">To whom it may concern:</salute>
              </opener>
 
-             <p>The applicant named, <name rendition="#caps">Clarence Arai</name>, an American citizen
+             <p>The applicant named, <persName rendition="#caps">Clarence Arai</persName>, an American citizen
                  of Japanese blood is hereby granted permission and authorized to travel without
                  molestation or hindrance by the most direct route from 452 12th Avenue, Seattle,
-                 Washington to the <name ref="#spl">Seattle Public Library</name>, 4th and
+                 Washington to the <orgName ref="#spl">Seattle Public Library</orgName>, 4th and
                  Madison Street and the Federal Reserve National Bank of Commerce Building,
                  Seattle, Washington. Travel authorized will be effective <date when="1942-05-05"
                      >Tuesday, May 5, 1942</date> between the hours of 11:00 A.M. and 2:00 P.M.
@@ -553,8 +552,8 @@
              <head type="author" rendition="#center-align">By R. B. Bermann</head>
 
              <p>Evacuation of all Japanese from Kitsap County, western Pierce County and the
-                 southwestern tip of King County was decreed yesterday in orders by <name
-                     ref="#DeWitt">Lieut. Gen. John L. DeWitt</name> commanding the Western
+                 southwestern tip of King County was decreed yesterday in orders by <persName
+                     ref="#DeWitt">Lieut. Gen. John L. DeWitt</persName> commanding the Western
                  Defense Command and Fourth Army.</p>
              <p>One order, No. 67, takes in Tacoma, Fort Lewis, McChord Field, Steilacoom and
                  that portion of King County west of Highway 99 and south of Des Moines. The
@@ -567,8 +566,8 @@
                  Saturday.</p>
              <p>The destination of the Japanese affected by these orders was not announced, but
                  the fact that they were advised they would not be permitted to use private
-                 automobiles was constructed as an indication that they will not be sent to <name
-                     ref="#camp_harmony">the assembly center in Puyallup.</name></p>
+                 automobiles was constructed as an indication that they will not be sent to <placeName
+                     ref="#camp_harmony">the assembly center in Puyallup.</placeName></p>
              <p>It was considered probable that they would be sent to the assembly center at
                  Pinedale, Calif., to join evacuees from the rural districts of King and Pierce
                  counties who have already been moved there.</p>
@@ -596,7 +595,7 @@
               <p>Like the registrations which preceded it, everything was varied out in an orderly
                   manner with a minimum of confusion. It is expected that 1,098 Japanese remain in
                   the last Seattle district to be evacuated, and all will be registered and get
-                  their <name ref="#camp_harmony">Puyallup center</name> assignments by 5 o’clock
+                  their <placeName ref="#camp_harmony">Puyallup center</placeName> assignments by 5 o’clock
                   this evening.</p>
               <p rendition="#caps">Puyallup, too</p>
               <p>At the same time, registration was proceeding in Puyallup of some 1,000 Japanese
@@ -611,8 +610,8 @@
           </div>
 
          <div xml:id="postIntelligencer1942-05-13" type="clipping" ana="#wwii">
-             <head rendition="#caps" type="paper"><name ref="#post_intelligencer">Seattle
-                     Post-Intelligencer</name>, <date when="1942-05-13">Wednesday, May 13,
+             <head rendition="#caps" type="paper"><orgName ref="#post_intelligencer">Seattle
+                     Post-Intelligencer</orgName>, <date when="1942-05-13">Wednesday, May 13,
                      1942</date></head>
              <head rendition="#caps" type="title">New Exclusion Areas</head>
              <head>P.I <date when="1942-05-13">5/13/42</date></head>
@@ -632,9 +631,10 @@
                  Saturday.</p>
          </div>
 
+        <!--check if this should have arai photo???-->
          <div xml:id="postIntelligencer1942-05-25" type="clipping" ana="#wwii">
-             <head type="title" rendition="#center-align"><name ref="#camp_harmony">Camp
-                     Harmony</name> Japs</head>
+             <head type="title" rendition="#center-align"><placeName ref="#camp_harmony">Camp
+                     Harmony</placeName> Japs</head>
              <head type="title" rendition="#center-align">Living Up to Name</head>
              <head rendition="#center-align">___________</head>
              <head type="subTitle" rendition="#center-align">Seattle Evacuees Making Best
@@ -644,10 +644,10 @@
              <head rendition="#caps">Seattle, <date when="1942-05-25">May 25, 1942</date></head>
              <head rendition="#center-align">___________</head>
              <head type="author" rendition="#center-align">By R. B. Bermann</head>
-             <head type="author" rendition="#center-align"><name ref="#post_intelligencer"
-                     >Post-Intelligencer</name> Staff Correspondent</head>
+             <head type="author" rendition="#center-align"><orgName ref="#post_intelligencer"
+                     >Post-Intelligencer</orgName> Staff Correspondent</head>
 
-             <p><name ref="#camp_harmony" rendition="#caps">Camp Harmony</name>, Puyallup, May
+             <p><placeName ref="#camp_harmony" rendition="#caps">Camp Harmony</placeName>, Puyallup, May
                  24—Although some of them have been here scarcely a week, Seattle Japanese are
                  adjusting themselves rapidly to conditions at this assembly center, and the camp
                  is really living up to its name.</p>
@@ -669,7 +669,7 @@
                  <figDesc>Camp Harmony Bedroom</figDesc>
              </figure>
 
-             <p>COMFORT OF HOME—Mrs. Robert Hosokawa, recent Willamette coed, laying out a new
+             <p>COMFORT OF HOME—<persName>Mrs. Robert Hosokawa</persName>, recent Willamette coed, laying out a new
                  apron in the cozy apartment which she and her husband have contrived to make out
                  of their bare barracks. Her husband constructed the furniture out of scrap
                  lumber and his drive of two months achieved the rest with a few draperies.</p>
@@ -679,14 +679,14 @@
                  around their temporary homes — because the army didn’t have time to indulge in
                  any of the niceties of interior decoration in constructing their barracks. </p>
              <p>And, as if that weren’t enough, many of them have put in tiny Victory Gardens.
-                 For instance, Clarence Arai, for years a prominent Seattle attorney, has put in
+                 For instance, <persName>Clarence Arai</persName>, for years a prominent Seattle attorney, has put in
                  radishes, beets, Chinese lettuce and onions — and his little plot is as
                  meticulously neat as if he were a professional gardener. </p>
              <p>They take pride in the amount of ingenuity they can show in making their
                  primitive quarters look more like the homes they left behind them.</p>
              <p>An outstanding example in this respect is furnished by the apartment where
-                     <name>Robert Hosokawa</name>, formerly a furniture salesman in Seattle, is
-                 spending his honeymoon. His brider, the former <name>Yoshi Yoshizawa</name>,
+                     <persName>Robert Hosokawa</persName>, formerly a furniture salesman in Seattle, is
+                 spending his honeymoon. His brider, the former <persName>Yoshi Yoshizawa</persName>,
                  twenty, was a junior in Willamette University when the first evacuation orders
                  were issued. She hurried to Seattle to be married [...] a skilled laborer $12
                  and a professional man or woman $16. This pay, of course, is in addition to
@@ -694,36 +694,36 @@
              <p>The dental clinic is one of the busiest centers in the camp, with as many as
                  eighteen or twenty patients in a single morning — which isn’t excessive in view
                  of the fact that the center has an estimated population of 7,500.</p>
-             <p>Six former Seattle dentists are on duty there — <name>Dr. S. Higashida</name> and
-                 his son, Robert; <name>Dr. H. Mitsumori</name>, <name>Dr. F. Kinemori</name>,
-                     <name>Dr. G. Y. Nomura</name> and <name>Dr. S. Ishihashi</name>.</p>
-             <p>A paper has been started, with <name>Dick Takeuchi</name>, former editor of the
+             <p>Six former Seattle dentists are on duty there — <persName>Dr. S. Higashida</persName> and
+                 his son, Robert; <persName>Dr. H. Mitsumori</persName>, <persName>Dr. F. Kinemori</persName>,
+                     <persName>Dr. G. Y. Nomura</persName> and <persName>Dr. S. Ishihashi</persName>.</p>
+             <p>A paper has been started, with <persName>Dick Takeuchi</persName>, former editor of the
                  Great Northern Daily News, in charge. Takeuchi, who was a journalism senior at
                  the University of Washington, has tentatively called the paper the Camp Harmony
                  News Letter, but he isn’t satisfied and has asked his readers to suggest other
                  names. </p>
-             <p><name>Dyke Miyagawa</name>, another University of Washington senior, is his
+             <p><persName>Dyke Miyagawa</persName>, another University of Washington senior, is his
                  managing editor, and Taka Oka, a sophomore, is assistant managing editor. </p>
-             <p><name>Keith Oka</name>, formerly employed at the Craftsmen’s Press, is art
-                 editor, and <name>Tad Kuniyuki</name>, formerly sports editor for the Japanese
+             <p><persName>Keith Oka</persName>, formerly employed at the Craftsmen’s Press, is art
+                 editor, and <persName>Tad Kuniyuki</persName>, formerly sports editor for the Japanese
                  American Courier, has a similar job there. </p>
-             <p><name>James Y. Sakamoto</name>, former publisher of the Japanese American Courier
+             <p><persName>James Y. Sakamoto</persName>, former publisher of the Japanese American Courier
                  and now chief Japanese supervisor of the camp, has set up his headquarters
                  underneath the grandstand on the fairgrounds and keeps busy from morning to
                  night consulting with members of his staff. </p>
-             <p><name>Bill Hosokawa</name>, University of Washington graduate and former editor
+             <p><persName>Bill Hosokawa</persName>, University of Washington graduate and former editor
                  of a newspaper in Singapore, is his chief adjutant. The headquarters staff is
-                 divided into five general sections, with <name>George Ishihara</name>, produce
-                 shipper, in charge of personnel; <name>Jack Maki</name>, associate in the Far
+                 divided into five general sections, with <persName>George Ishihara</persName>, produce
+                 shipper, in charge of personnel; <persName>Jack Maki</persName>, associate in the Far
                  Eastern department at the University of Washington, in charge of information;
-                     <name>Dick Setsuda</name>, beer distributor, in charge of operations;
-                     <name>Thomas Iseri</name>, Auburn produce shipper, in charge of supply, and
-                     <name>Julius Fujihara</name>, in charge of police, fire, postal and other
+                     <persName>Dick Setsuda</persName>, beer distributor, in charge of operations;
+                     <persName>Thomas Iseri</persName>, Auburn produce shipper, in charge of supply, and
+                     <persName>Julius Fujihara</persName>, in charge of police, fire, postal and other
                  services.</p>
-             <p>Leaders of the four areas into which the center is divided are <name>William
-                     Mimbu</name>, attorney; <name>Yakeo Nogaki</name> and <name>Teruji
-                     Umino</name>, both bank clerks, and <name>Hiroyuki (“Lefty”)
-                 Ichihara</name>, who had a fishing tackle store in Seattle.</p>
+             <p>Leaders of the four areas into which the center is divided are <persName>William
+                     Mimbu</persName>, attorney; <persName>Yakeo Nogaki</persName> and <persName>Teruji
+                     Umino</persName>, both bank clerks, and <persName>Hiroyuki (“Lefty”)
+                 Ichihara</persName>, who had a fishing tackle store in Seattle.</p>
              <p>All of these executives, incidentally, are American-born Japanese. </p>
              <p>Life in the camp is by no means all work and no play. </p>
              <p>Churches have supplied a piano for each of the four areas and there is plenty of
@@ -731,7 +731,7 @@
              <p>There are athletic facilities for all ages, and a number of soft ball and ping
                  pong tournaments are already in progress. </p>
              <p>There are recreational rooms in each area. </p>
-             <p><name>Jack Maki</name>, the former University faculty member, summed up the
+             <p><persName>Jack Maki</persName>, the former University faculty member, summed up the
                  attitude of the evacuees when he said: </p>
              <p>“We aren’t being mistreated, but, on the other hand, we aren’t being pampered — I
                  think everybody’s doing a swell job."</p>
@@ -741,8 +741,8 @@
               <opener>
                   <seg type="letterhead">
                       <address rendition="#caps">
-                          <addrLine><name ref="#staff_association">Seattle Public Library Staff
-                                  Association</name></addrLine>
+                          <addrLine><orgName ref="#staff_association">Seattle Public Library Staff
+                                  Association</orgName></addrLine>
                           <addrLine>4th Ave. <hi rendition="#lowercase">and</hi> Madison St.</addrLine>
                           <addrLine>Seattle, Washington</addrLine>
                       </address>
@@ -755,8 +755,8 @@
                           <subst>
                               <add>S</add>
                               <del>H</del>
-                          </subst>taff Headquarters, <name ref="#camp_harmony">Camp
-                              Harmony</name></addrLine>
+                          </subst>taff Headquarters, <placeName ref="#camp_harmony">Camp
+                              Harmony</placeName></addrLine>
                       <addrLine>Section 2, no. 79</addrLine>
                       <addrLine>Puyallup, Washington</addrLine>
                   </address>
@@ -766,41 +766,42 @@
               <p>Greetings from the Seventh Annual Banquet of the S<subst>
                       <add>e</add>
                       <del>E</del>
-              </subst>attle Public Library Staff Association to both you and Mrs Arai.</p>
+              </subst>attle Public Library Staff Association to both you and <persName ref="#yone">Mrs Arai</persName>.</p>
               
               <p>We were so sorry not to have you with us Friday night. We tried to make it an
-                  especially nice affair since it was to be the last one before <name
-                      ref="#jennings">Mr Jennings</name> retired. As toastmistress, I read your
+                  especially nice affair since it was to be the last one before <persName
+                      ref="#jennings">Mr Jennings</persName> retired. As toastmistress, I read your
                   letter and when the suggestion was made that greetings be sent to you, you
                   should have heard the applause, so you can see what a place you hold in our
                   minds and hearts.</p>
               
               <p>The dining room at the Ranier Club looked very beautiful with the tables
-                  decorated with rhododendrons and iris and colorful <name
-                      ref="#spl_banquet_program">programs</name>, serving also as place cards.
+                  decorated with rhododendrons and iris and colorful <!--<name
+                      ref="#spl_banquet_program">-->programs<!--/name-->, serving also as place cards.
                   There were one hundred and forty-one present.</p>
               
-              <p>Between courses we sang the songs printed in <name ref="#spl_banquet_program">the
-                      program</name> and then we had a series of humorous book reviews supposedly
-                  suggestions for the book case in the new house <name ref="#jennings">Mr
-                      Jennings</name> is building across Lake Washington. After the last of these
+             <p>Between courses we sang the songs printed in <!--<name
+                      ref="#spl_banquet_program">-->the
+                 program<!--/name--> and then we had a series of humorous book reviews supposedly
+                  suggestions for the book case in the new house <persName ref="#jennings">Mr
+                      Jennings</persName> is building across Lake Washington. After the last of these
                   the group burst into the song “For He’s a Jolly Good Fellow.” Then we said we
-                  had a real book for him and Miss Andrus presented him with the portfolio of
+                  had a real book for him and <persName>Miss Andrus</persName> presented him with the portfolio of
                   letters, one of which you wrote, - there were over a hundred altogether, and was
                   he pleased!</p>
               
-              <p>He made a little speech of appreciation and then it was Mrs. Quigley’s turn to
+              <p>He made a little speech of appreciation and then it was <persName>Mrs. Quigley</persName>’s turn to
                   add to the book-shelf. She presented him with a book containing a diploma saying
                   that he had completed thirty-five years of successful service “summa cum laude”,
-                  and then she presented Mr Richards, the new librarian, with a schedule book such
+                  and then she presented <persName>Mr Richards</persName>, the new librarian, with a schedule book such
                   as they give Freshmen at the University, listing the courses he’d have to take
-                  such as Handling the Board, Pleasing the Staff, Balancing the Budget, etc. Mr
-                  Richards then said briefly how pleased he and Mrs Richards were to be included
+                  such as Handling the Board, Pleasing the Staff, Balancing the Budget, etc. <persName>Mr
+                  Richards</persName> then said briefly how pleased he and <persName>Mrs Richards</persName> were to be included
                   and how much he was looking forward to his work.</p>
               
               <p>Last of all we said we thought the best books to have on our shelves were the
                   master works that were standbys through thick and thin to guide and comfort us
-                  and then Miss Eberlin presented <name ref="#jennings">Mr Jennings</name> with a
+                  and then <persName>Miss Eberlin</persName> presented <persName ref="#jennings">Mr Jennings</persName> with a
                   Columbia Master Works Album of Beethoven’s “Tempest” Sonata, first speaking of
                   records and how librarians have always”kept</p>
               
@@ -808,8 +809,8 @@
               
               <ab type="letterhead">
                   <address rendition="#caps">
-                      <addrLine><name ref="#staff_association">Seattle Public Library Staff
-                              Association</name></addrLine>
+                      <addrLine><orgName ref="#staff_association">Seattle Public Library Staff
+                              Association</orgName></addrLine>
                       <addrLine>4th Ave. <hi rendition="#lowercase">and</hi> Madison St.</addrLine>
                       <addrLine>Seattle, Washington</addrLine>
                   </address>
@@ -821,15 +822,15 @@
                   occurred to us he would need something to play it on it on and so there was a
                   companion volume to this. Covered with a cloth in the alcover back of the
                   speakers table was an R.C.A. Radio-Victrola which Miss Eberlin then uncovered.
-                  <name ref="#jennings">Mr Jennings</name> was quite overcome. “I can’t say
+                  <persName ref="#jennings">Mr Jennings</persName> was quite overcome. “I can’t say
                   anything” was all he could say, so we joined hands around the table and sang
                   Auld Lang Syne, and that was the end.</p>
               
-              <p>We surely wished many times during the evening that you and Mrs Arai might be
+              <p>We surely wished many times during the evening that you and <persName ref="#yone">Mrs Arai</persName> might be
                   with us and I know I am expressing the feeling of the whole group when I say
                   that you have our very best wishes and that we hope this trying period through
                   which you are passing may seem more bearable as time goes on. This morning’s
-                  <name ref="#post_intelligencer">P-I</name> carries your picture and tells of
+                  <orgName ref="#post_intelligencer">P-I</orgName> carries your picture and tells of
                   your new work. “You can’t keep a good man down”, you know.</p>
               
               <closer>
@@ -837,21 +838,21 @@
                   <signed>
                       <figure xml:id="frostSignature">
                           <graphic url="../images/frostSignature.jpeg"/>
-                          <figDesc><name>Alice A. Frost</name></figDesc>
+                          <figDesc><persName>Alice A. Frost</persName></figDesc>
                       </figure>
                       <subst>
                           <add>A</add>
                           <del>E</del>
-                      </subst>AF/FRP President, <name ref="#staff_association">Seattle Public
-                          Library<lb/> Staff Association</name>
+                      </subst>AF/FRP President, <orgName ref="#staff_association">Seattle Public
+                          Library<lb/> Staff Association</orgName>
                   </signed>
               </closer>
               
               <postscript>
                   <label>P.S.</label>
                   <p>Miss Calkins, head of our Reference department, is coming with a friend to
-                      Puyallup tomorrow and will be at the gate of <name ref="#camp_harmony">the
-                          Camp</name> at 5:30 and will be very happy to see you if you can be
+                      Puyallup tomorrow and will be at the gate of <placeName ref="#camp_harmony">the
+                          Camp</placeName> at 5:30 and will be very happy to see you if you can be
                       there.</p>
               </postscript>
           </div>
@@ -861,14 +862,14 @@
                     <dateline><date when="1942-06-02" rendition="#right-align">June 2,
                         1942</date></dateline>
                     <address>
-                        <addrLine>Mr. Clarence T. Arai</addrLine>
+                        <addrLine>Mr. <persName>Clarence T. Arai</persName></addrLine>
                         <addrLine>Puyallup</addrLine>
                         <addrLine>Washington</addrLine>
                     </address>
                     <salute>Dear Mr. Arai:</salute>
                 </opener>
 
-                <p>The members of the Board of the <name ref="#spl">Seattle Public Library</name>
+                <p>The members of the Board of the <orgName ref="#spl">Seattle Public Library</orgName>
                     wish to express to you our regret that you are unable to serve longer with them
                     in the labor of sreving the citizens of Seattle in their library needs.</p>
                 <p> We do wish, however, to let you know how much we have enjoyed your disinterested
@@ -876,21 +877,21 @@
                     problems that have come before the Board.</p>
                 <p>Your viewpoint has always been wholesome, un- prejudiced and eminently fair and
                     we shall all miss your congenial companionship at our Board meetings, as well as
-                    the presence of Mrs. Arai and yourself at the annual banquet of the <name
-                        ref="#staff_association">Staff Association.</name></p>
+                    the presence of <persName ref="#yone">Mrs. Arai</persName> and yourself at the annual banquet of the <orgName
+                        ref="#staff_association">Staff Association.</orgName></p>
                 <p>While we recognize that under present conditions many things arise that give much
                     distress, we know that your sound philosophy and unfailing good humour will ever
                     attend you.</p>
 
                 <closer>
                     <salute>Sincerely yours</salute>
-                    <name ref="#spl" rendition="#caps">Seattle Public Library Board</name>
+                    <orgName ref="#spl" rendition="#caps">Seattle Public Library Board</orgName>
                     <signed>
                         <figure xml:id="splSignatures">
                             <graphic url="../images/4signatures.jpeg"/>
-                            <figDesc><name>Josephine M. Quigley</name></figDesc>
+                            <figDesc><persName>Josephine M. Quigley</persName></figDesc>
                             <figDesc>President</figDesc>
-                            <figDesc><name>Christine A. Neergaard</name></figDesc>
+                            <figDesc><persName>Christine A. Neergaard</persName></figDesc>
                             <figDesc>Two more illegible signatures</figDesc>
                         </figure>
                     </signed>
@@ -899,7 +900,7 @@
       
          <div xml:id="newYorkHeraldTribune1942-06-26" type="clipping" ana="wwii">
              <!--add img here-->
-             <p>Victory Garden — Clarence Arai, Seattle attorney now judge advocate of the camp, at work in the vegetable patch which he has planted next to his quarters.</p>
+             <p>Victory Garden — <persName>Clarence Arai</persName>, Seattle attorney now judge advocate of the camp, at work in the vegetable patch which he has planted next to his quarters.</p>
          </div>
       </body>
           
@@ -929,6 +930,10 @@
              
                  <person xml:id="dykstra">
                      <persName>Clarence Addison Dykstra</persName>
+                 </person>
+             
+                 <person xml:id="erford">
+                     <persName>Roy Erford</persName>
                  </person>
               </listPerson>
               
