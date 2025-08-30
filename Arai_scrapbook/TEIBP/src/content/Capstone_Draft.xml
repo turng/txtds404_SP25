@@ -43,12 +43,17 @@
           <tagsDecl>
               <rendition xml:id="indent" scheme="css">text-indent: 10px;</rendition>
               <rendition xml:id="caps" scheme="css">text-transform: uppercase !important;</rendition>
+              <!--check if lowercases needs !important-->
+              <rendition xml:id="lowercase" scheme="css">text-transform: lowercase;</rendition>
               <rendition xml:id="bold" scheme="css">font-weight: bold;</rendition>
               <rendition xml:id="italic" scheme="css">font-style: italic;</rendition>
+              <!--make the underline black even if the text is another color??-->
+             <!--make span/hi/seg consistent?-->
               <rendition xml:id="underline" scheme="css">text-decoration: underline;</rendition>
               <rendition xml:id="sc" scheme="css">font-variant: small-caps;</rendition>
               <rendition xml:id="right-align" scheme="css">text-align: right;</rendition>
               <rendition xml:id="center-align" scheme="css">text-align: center;</rendition>
+              <rendition xml:id="left-align" scheme="css">text-align: left;</rendition>
               <rendition xml:id="monaco" scheme="css">font-family: "Monaco", monospace;</rendition>
               <rendition xml:id="consolas" scheme="css">font-family:"Consolas", monospace;</rendition>
               <rendition xml:id="handwriting" scheme="css">font-family: Brush Script MT, Brush Script Std, cursive;</rendition>
@@ -64,57 +69,60 @@
     
   <text>
       <body>
+          <!--make the columns work?-->
          <div xml:id="americanKennelClub1934-06-15" type="certificate" ana="#personal">
-              <head rendition="#caps #center-align #h2">Registration Certificate</head>
+              <head rendition="#gothic #caps #center-align #h2">Registration Certificate</head>
               <figure xml:id="akcLogo">
                   <graphic url="../images/akcLogo.jpeg"/>
                   <figDesc rendition="#caps">American Kennel Club</figDesc>
                   <figDesc rendition="#caps">AKC</figDesc>
                   <figDesc rendition="#caps">Incorporated</figDesc>
               </figure>
-             <head rendition="#caps #center-align">American Kennel Club Stud Book</head>
-             <head rendition="#caps #center-align #h2">American Kennel Club</head>
-             <head rendition="#caps #center-align #h2">New York, N.Y.</head>
+             <head rendition="#gothic #caps #center-align">American Kennel Club Stud Book</head>
+             <head rendition="#gothic #caps #center-align #h2">American Kennel Club</head>
+             <head rendition="#caps #center-align #h3">New York, N.Y.</head>
               
-              <ab><hi rendition="#caps">Name of Dog</hi> Duke of Main Street</ab>
-              <ab><hi rendition="#caps">Breed</hi> Cocker Spaniel <hi rendition="#caps">Sex</hi> Male</ab>
-              <ab><hi rendition="#caps">Sire</hi> Slicker Boy of Kitsop (934421)</ab>
-              <ab><hi rendition="#caps">Dam</hi> Paul’s Queenie (898745)</ab>
-              <ab><hi rendition="#caps">Whelped</hi> <date when="1934-03-14">March 14, 1934</date></ab>
-              <ab><hi rendition="#caps">Color</hi> Red</ab>
-              <ab><hi rendition="#caps">Breeder</hi> <persName>M. Ellen Paul</persName></ab>
-              <ab><hi rendition="#caps">Owner</hi> <persName>Clarence T. Arai</persName></ab>
-              <ab><hi rendition="#caps">Registered</hi>
+              <ab rendition="#courier"><hi rendition="#caps #consolas">Name of Dog</hi> Duke of Main Street</ab>
+             <ab rendition="#courier"><hi rendition="#caps #consolas">Breed</hi> Cocker Spaniel <hi rendition="#caps #consolas">Sex</hi> Male</ab>
+             <ab rendition="#courier"><hi rendition="#caps #consolas">Sire</hi> Slicker Boy of Kitsop (934421)</ab>
+             <ab rendition="#courier"><hi rendition="#caps #consolas">Dam</hi> Paul’s Queenie (898745)</ab>
+             <ab rendition="#courier"><hi rendition="#caps #consolas">Whelped</hi> <date when="1934-03-14">March 14, 1934</date></ab>
+             <ab rendition="#courier"><hi rendition="#caps #consolas">Color</hi> Red</ab>
+             <ab rendition="#courier"><hi rendition="#caps #consolas">Breeder</hi> <persName>M. Ellen Paul</persName></ab>
+             <ab rendition="#courier"><hi rendition="#caps #consolas">Owner</hi> <persName>Clarence T. Arai</persName></ab>
+             <ab rendition="#courier"><hi rendition="#caps #consolas">Registered</hi>
                   <date when="1934-06-15">June 15, 1934</date></ab>
-              <ab><hi rendition="#caps">Assigned No</hi> 941308</ab>
-              <ab><hi rendition="#caps">Volume</hi> 51</ab>
-              <ab>August <hi rendition="#caps">Issue</hi></ab>
+             <ab><hi rendition="#caps #consolas">Assigned No</hi> <hi rendition="#courier #blue">941308</hi></ab>
+             <ab rendition="#courier"><hi rendition="#caps #consolas">Volume</hi> 51</ab>
+             <ab rendition="#courier">August <hi rendition="#caps #consolas">Issue</hi></ab>
               
               <signed>
                   <figure xml:id="PercyBRiceSignature">
                       <graphic url="../images/percySignature.jpeg"/>
                       <figDesc><persName>Perry B Rice</persName></figDesc>
-                      <figDesc rendition="#caps">Secretary</figDesc>
-                  </figure> gm 
+                      <figDesc rendition="#caps #consolas">Secretary</figDesc>
+                  </figure> <hi rendition="#courier">gm</hi>
               </signed>
           </div>
+        
+        <!--find right font for head?-->
          <div xml:id="electionNotice1934-09-18" type="certificate" ana="#recognition">
-             <head rendition="#caps #h1">State of Washington</head>
-             <head rendition="#caps #h3">County of King</head>
-             <head rendition="#caps #h2 #consolas">Notice of Election</head>
-             <head rendition="#caps #h3">Auditor's Office</head>
+             <head rendition="#caps #h1 #center-align">State of Washington</head>
+             <head rendition="#caps #h3 #center-align">County of King</head>
+             <head rendition="#caps #h2 #consolas #center-align">Notice of Election</head>
+             <head rendition="#caps #h3 #center-align">Auditor's Office</head>
              
              <salute rendition="#caps">To <persName ref="#yone" rendition="#courier #underline">Yone V. Arai</persName> Greeting:</salute>
              
              <p>Dear Sir: You are hereby notified that you received the highest number of votes cast by the <span rendition="#courier #underline">Republican</span> Party for the office of Precinct Committeeman in Precinct <span rendition="#courier #underline">No. 368</span> at the Primary Election held in the above County and State on the <date when="1934-09-11">11th day of September, 1934</date>.</p>
-             <p>In Witness Whereof, I have hereunto set my hand and official seal this <date when="1934-09-18">18th day of September, 1934.</date></p>
+             <p><span rendition="#bold">In Witness Whereof, I have hereunto set my hand</span> and official seal this <date when="1934-09-18">18th day of September, 1934.</date></p>
              
              <signed>
                  <figure xml:id="georgeSignature">
                      <graphic url="../images/george-signature.jpeg"/>
                      <figDesc><persName>George <unclear>...</unclear></persName></figDesc>
                  </figure> 
-                 <span rendition="#italic">County Auditor, Secretary Election Board</span> 
+                 <span rendition="#italic #bold">County Auditor, Secretary Election Board</span> 
              </signed>
              
              <figure xml:id="auditorsSeal">
@@ -123,37 +131,39 @@
                  <figDesc>Auditor's Seal</figDesc>
              </figure>
              
-             <trailer>
-                 Form EL 12 (logo) 1500 Pioneer 14383
+             <trailer rendition="#caps #consolas #center-align">
+                 Form EL 12    1500 Pioneer 14383
              </trailer>
          </div>
+         
+          <!--find right font for head?-->
          <div xml:id="buttsParoleLeague1937-04-02" type="letter" ana="#library">
              <opener>
                  <seg type="letterhead">
-                     <address>
+                     <address rendition="#bold">
                          <addrLine rendition="#caps">The Butts' Parole League</addrLine>
                          <addrLine>Box 70, Nippon Station</addrLine>
                          <addrLine>Seattle, Washington</addrLine>
                      </address>
-                     <date when="1937-04-02">April 2, 1937</date>
+                     <date when="1937-04-02" rendition="#courier">April 2, 1937</date>
                  </seg>
-                 <address>
+                 <address rendition="#courier">
                      <addrLine><persName>Clarence T. Arai</persName>, Esq.,</addrLine>
                      <addrLine>Seattle, Wn.</addrLine>
                  </address>
-                 <salute>Sir;-</salute>
+                 <salute rendition="#courier">Sir;-</salute>
              </opener>
 
-             <p>Permit us to offer our congratulations and best wishes toward your future as a
+             <p rendition="#courier #indent">Permit us to offer our congratulations and best wishes toward your future as a
                  trustee of the <orgName ref="#spl">Seattle Public Library</orgName>.</p>
 
-             <p>Mayor <persName ref="#dore">John F. Dore</persName>, in choosing you, thus for the first
+             <p rendition="#courier">Mayor <persName ref="#dore">John F. Dore</persName>, in choosing you, thus for the first
                  time in the history of Seattle according recognition to the people you so ably
                  represent, we know made a selection which will undoubtedly redound to his and
                  your credit.</p>
 
-             <closer>
-                 <signed rendition="#caps">The Butts' Parole League</signed>
+             <closer rendition="#courier">
+                 <signed rendition="#caps #right-align">The Butts' Parole League</signed>
                  <signed>
                      <figure xml:id="FrankOMurphySignature">
                          <graphic url="../images/Frank's_signature.jpeg"/>
@@ -225,6 +235,7 @@
             </div>
         </div>
 
+        <!--make the line breaks more accurate? get the star lines?-->
          <div xml:id="presidentialCertificate1941-10-16" ana="#recognition">
              <head rendition="#gothic">The President of the United States of America</head>
              <figure xml:id="presidentialSeal">
@@ -253,7 +264,8 @@
              </trailer>
          </div>
 
-         <div xml:id="arai1941-12-05" type="telegram" ana="#personal">
+        <!-- make a small text rendition for this and others? make the header look more accurate? -->
+          <div xml:id="arai1941-12-05" type="telegram" ana="#personal" rendition="#blue">
             <opener>
                 <seg type="header">
                     <seg type="columns">
@@ -275,6 +287,8 @@
                         </figure> All America Cables
                         Commerical Cables   Canadian Pacific Telegraphs</seg>
                         
+                        <!--make this smaller-->
+                        <!--actually just format this whole header better-->
                         <seg type="column" rendition="#caps">This is a full rate telegram, cable-gram or radiogram unless otherwise indicated by symbol in the preamble or in the address of the message. Symbols designating service selected are outline in the company's tariffs on hand at each office and on file with regulatory authorities.</seg>
                     </seg>
                     
@@ -297,9 +311,10 @@
             </closer>
          </div>
 
+         <!--get the header to look correct-->
          <div xml:id="electionBoard1942-01-05" type="letter" ana="#recognition">
             <opener> 
-                <seg type="letterhead">
+                <seg type="letterhead" rendition="#consolas">
                  County Auditor
                  <persName rendition="#caps">Robert A. Morris</persName>
                  
@@ -310,13 +325,13 @@
                  <date when="1942-01-05" rendition="#blue">Jan 5 1942</date></span>
                 </seg>
                 
-                <address rendition="#courier">
+                <address rendition="#courier #bold">
                     <addrLine><persName ref="#yone">Yone V. Arai</persName></addrLine>
                     <addrLine>452 12th Ave.</addrLine>
                     <addrLine>Seattle, Wash.</addrLine>
                 </address>
                 
-                <salute rendition="#courier">Dear Madam:</salute>
+                <salute rendition="#courier #bold">Dear Madam:</salute>
              </opener>
              
              <p rendition="#courier">You are hereby notified that you have been appointed to serve as <span rendition="#handwriting #underline #blue">Judge</span> in <span rendition="#handwriting #underline #blue">368</span> Precinct for the Primary Election to be held on <date when="1942-02-24">February 24, 1942</date>, and the General Election to be held on <date when="1942-02-24">February 24, 1942</date>, and the General Election on <date when="1942-03-10">March 10, 1942</date>.</p>
@@ -423,15 +438,17 @@
              </closer>
          </div>
 
+         <!--get the spacing to look correct?-->
+         <!--make sure head is center aligned-->
          <div xml:id="jennings1942-04-29" type="letter" ana="#library #wwii">
               <opener>
                   <seg type="letterhead" rendition="#center-align">
                       <orgName ref="#spl" rendition="#caps">Seattle Public Library</orgName><lb/>
                       <placeName rendition="#caps">Seattle, Washington</placeName><lb/>
                       <persName ref="#jennings">Judson T. Jennings</persName>, Librarian<lb/>
-                      <date when="1942-04-29">29 April 1942</date>
+                      <date when="1942-04-29" rendition="#courier">29 April 1942</date>
                   </seg>
-                  <address>
+                  <address rendition="#courier">
                       <addrLine>Mr <persName>Clarence T. Arai</persName></addrLine>
                       <addrLine>452-12th Avenue</addrLine>
                       <addrLine>Seattle, Washington</addrLine>
@@ -439,12 +456,12 @@
                   <salute>Dear Mr Arai:</salute>
               </opener>
               
-              <p rendition="#indent">Thank you kindly for the copies of “Our Times” by Mark Sullivan, and “The March
+              <p rendition="#indent #courier">Thank you kindly for the copies of “Our Times” by Mark Sullivan, and “The March
                   of Democracy" by Adams, which you sent to the library yesterday.</p>
               
-              <p rendition="#indent">Both sets are being added to the Reference department.</p>
+             <p rendition="#indent #courier">Both sets are being added to the Reference department.</p>
               
-              <closer rendition="#right-align">
+             <closer rendition="#right-align #courier">
                   <salute>Cordially yours</salute>
                   <signed>
                       <figure xml:id="JTJenningsSignature">
@@ -457,8 +474,8 @@
 
          <div xml:id="seattleTimes1942-05-01" type="clipping" ana="#wwii">
              <head rendition="#caps" type="date"><date when="1942-05-01">May 1, 1942</date></head>
-             <head type="title" rendition="#center-align">EMPTY STALLS--EVACUATIONS</head>
-             <head type="paper">SEATTLE TIMES</head>
+             <head type="title" rendition="#center-align #caps">Empty Stalls--Evacuations</head>
+             <head type="paper" rendition="#caps">Seattle Times</head>
              <figure xml:id="emptyStallsImage" type="image">
                  <graphic url="../images/pikeplacenewTEIBP.jpg"/>
                  <figDesc>black and white vacant stalls at Pike Place Public Market</figDesc>
@@ -506,10 +523,10 @@
              <p>No date has been set for removal of the Japanese from there</p>
          </div>  
           
-         <div xml:id="travelPermit1942-05-02" type="statement" ana="#wwii #library">
+         <div xml:id="travelPermit1942-05-02" type="statement" ana="#wwii #library" rendition="#courier">
              <opener>
                  <seg type="letterhead" rendition="#caps">
-                     <address>
+                     <address rendition="#center-align">
                          <addrLine>Headquarters</addrLine>
                          <addrLine>NWS &amp; 44th Infantry Division</addrLine>
                          <addrLine>Office of Acting Provost Marshal</addrLine>
@@ -517,7 +534,7 @@
                          <addrLine>Seattle, Washington</addrLine>
                      </address>
                  </seg>
-                 <dateline rendition="#right-align"><date when="1942-05-02">May 2,
+                 <dateline rendition="#right-align #right-align"><date when="1942-05-02">May 2,
                      1942</date></dateline>
                  <salute rendition="#caps">To whom it may concern:</salute>
              </opener>
@@ -531,7 +548,7 @@
                      >Tuesday, May 5, 1942</date> between the hours of 11:00 A.M. and 2:00 P.M.
                      <hi rendition="#caps">Nothing follows.</hi></p>
 
-             <signed>
+             <signed rendition="#right-align">
                  <figure xml:id="MichaelARivistoSignature">
                      <graphic url="../images/rivistoSignature.jpeg"/>
                      <figDesc>Illegible signature</figDesc>
@@ -540,7 +557,7 @@
                  Provost Marshal<lb/> State of Washington<lb/>
                  <seg type="stamped" rendition="#blue">
                      <hi rendition="#caps">Michael A. Rivisto</hi><lb/> Captain, Infantry<lb/> NWS. PCF </seg>
-                 <seg rendition="#caps"> MM<lb/> Temporary Permit #18 </seg>
+                 <seg rendition="#caps #left-align"> MM<lb/> Temporary Permit #18 </seg>
              </signed>
          </div>
 
@@ -549,7 +566,7 @@
              <head type="author" rendition="#center-align">More Japanese Get</head>
              <head type="title" rendition="#center-align">Evacuation Orders</head>
              <head rendition="#center-align">____________</head>
-             <head type="author" rendition="#center-align">By R. B. Bermann</head>
+             <head type="author" rendition="#center-align">By <persName>R. B. Bermann</persName></head>
 
              <p>Evacuation of all Japanese from Kitsap County, western Pierce County and the
                  southwestern tip of King County was decreed yesterday in orders by <persName
@@ -619,14 +636,14 @@
                  <graphic url="../images/firstExclusionAreaTEIPB.jpg"/>
                  <figDesc>Camp Harmony Bedroom</figDesc>
              </figure>
-             <p>PROHIBITED ZONE—Map of the area covered by <ref type="general_exclusion_order"
+             <p><hi rendition="#caps">Prohibited Zone</hi>—Map of the area covered by <ref type="general_exclusion_order"
                      >Exclusion Order No. 67</ref>, from which Japanese will be cleared by
                  Monday. </p>
              <figure xml:id="secondExclusionAreaImage" type="image">
                  <graphic url="../images/secondExclusionAreaTEIBP.jpg"/>
                  <figDesc>Camp Harmony Bedroom</figDesc>
              </figure>
-             <p> UNDER BAN, TOO—The territory inside the heavy line is covered by <ref
+             <p><hi rendition="#caps">Under Ban, Too</hi>—The territory inside the heavy line is covered by <ref
                      type="general_exclusion_order">Exclusion Order No. 68</ref>, effective on
                  Saturday.</p>
          </div>
@@ -737,9 +754,9 @@
                  think everybody’s doing a swell job."</p>
          </div>
 
-         <div xml:id="frost1942-05-25" type="letter" ana="#library #personal #wwii">
+         <div xml:id="frost1942-05-25" type="letter" ana="#library #personal #wwii" rendition="#courier">
               <opener>
-                  <seg type="letterhead">
+                  <seg type="letterhead" rendition="#center-align">
                       <address rendition="#caps">
                           <addrLine><orgName ref="#staff_association">Seattle Public Library Staff
                                   Association</orgName></addrLine>
@@ -763,24 +780,24 @@
                   <salute>Dear Mr Arai:</salute>
               </opener>
               
-              <p>Greetings from the Seventh Annual Banquet of the S<subst>
+              <p rendition="indent">Greetings from the Seventh Annual Banquet of the S<subst>
                       <add>e</add>
                       <del>E</del>
               </subst>attle Public Library Staff Association to both you and <persName ref="#yone">Mrs Arai</persName>.</p>
               
-              <p>We were so sorry not to have you with us Friday night. We tried to make it an
+             <p rendition="indent">We were so sorry not to have you with us Friday night. We tried to make it an
                   especially nice affair since it was to be the last one before <persName
                       ref="#jennings">Mr Jennings</persName> retired. As toastmistress, I read your
                   letter and when the suggestion was made that greetings be sent to you, you
                   should have heard the applause, so you can see what a place you hold in our
                   minds and hearts.</p>
               
-              <p>The dining room at the Ranier Club looked very beautiful with the tables
+             <p> rendition="indent"The dining room at the Ranier Club looked very beautiful with the tables
                   decorated with rhododendrons and iris and colorful <!--<name
                       ref="#spl_banquet_program">-->programs<!--/name-->, serving also as place cards.
                   There were one hundred and forty-one present.</p>
               
-             <p>Between courses we sang the songs printed in <!--<name
+             <p rendition="indent">Between courses we sang the songs printed in <!--<name
                       ref="#spl_banquet_program">-->the
                  program<!--/name--> and then we had a series of humorous book reviews supposedly
                   suggestions for the book case in the new house <persName ref="#jennings">Mr
@@ -790,7 +807,7 @@
                   letters, one of which you wrote, - there were over a hundred altogether, and was
                   he pleased!</p>
               
-              <p>He made a little speech of appreciation and then it was <persName>Mrs. Quigley</persName>’s turn to
+             <p rendition="indent">He made a little speech of appreciation and then it was <persName>Mrs. Quigley</persName>’s turn to
                   add to the book-shelf. She presented him with a book containing a diploma saying
                   that he had completed thirty-five years of successful service “summa cum laude”,
                   and then she presented <persName>Mr Richards</persName>, the new librarian, with a schedule book such
@@ -799,7 +816,7 @@
                   Richards</persName> then said briefly how pleased he and <persName>Mrs Richards</persName> were to be included
                   and how much he was looking forward to his work.</p>
               
-              <p>Last of all we said we thought the best books to have on our shelves were the
+             <p rendition="indent">Last of all we said we thought the best books to have on our shelves were the
                   master works that were standbys through thick and thin to guide and comfort us
                   and then <persName>Miss Eberlin</persName> presented <persName ref="#jennings">Mr Jennings</persName> with a
                   Columbia Master Works Album of Beethoven’s “Tempest” Sonata, first speaking of
@@ -808,7 +825,7 @@
               <pb/>
               
               <ab type="letterhead">
-                  <address rendition="#caps">
+                  <address rendition="#caps #center-align">
                       <addrLine><orgName ref="#staff_association">Seattle Public Library Staff
                               Association</orgName></addrLine>
                       <addrLine>4th Ave. <hi rendition="#lowercase">and</hi> Madison St.</addrLine>
@@ -826,7 +843,7 @@
                   anything” was all he could say, so we joined hands around the table and sang
                   Auld Lang Syne, and that was the end.</p>
               
-              <p>We surely wished many times during the evening that you and <persName ref="#yone">Mrs Arai</persName> might be
+             <p rendition="indent">We surely wished many times during the evening that you and <persName ref="#yone">Mrs Arai</persName> might be
                   with us and I know I am expressing the feeling of the whole group when I say
                   that you have our very best wishes and that we hope this trying period through
                   which you are passing may seem more bearable as time goes on. This morning’s
@@ -843,8 +860,8 @@
                       <subst>
                           <add>A</add>
                           <del>E</del>
-                      </subst>AF/FRP President, <orgName ref="#staff_association">Seattle Public
-                          Library<lb/> Staff Association</orgName>
+                      </subst>AF/FRP <span rendition="#right-align">President, <orgName ref="#staff_association">Seattle Public
+                          Library<lb/> Staff Association</orgName></span>
                   </signed>
               </closer>
               
@@ -857,7 +874,7 @@
               </postscript>
           </div>
 
-         <div xml:id="quigley1942-06-02" type="letter" ana="#library #wwii">
+         <div xml:id="quigley1942-06-02" type="letter" ana="#library #wwii" rendition="#courier">
                 <opener>
                     <dateline><date when="1942-06-02" rendition="#right-align">June 2,
                         1942</date></dateline>
@@ -869,21 +886,21 @@
                     <salute>Dear Mr. Arai:</salute>
                 </opener>
 
-                <p>The members of the Board of the <orgName ref="#spl">Seattle Public Library</orgName>
+                <p rendition="#indent">The members of the Board of the <orgName ref="#spl">Seattle Public Library</orgName>
                     wish to express to you our regret that you are unable to serve longer with them
                     in the labor of sreving the citizens of Seattle in their library needs.</p>
-                <p> We do wish, however, to let you know how much we have enjoyed your disinterested
+             <p rendition="#indent"> We do wish, however, to let you know how much we have enjoyed your disinterested
                     advice - your willingness to serve faithfully and your just approach to all
                     problems that have come before the Board.</p>
-                <p>Your viewpoint has always been wholesome, un- prejudiced and eminently fair and
+             <p rendition="#indent">Your viewpoint has always been wholesome, un- prejudiced and eminently fair and
                     we shall all miss your congenial companionship at our Board meetings, as well as
                     the presence of <persName ref="#yone">Mrs. Arai</persName> and yourself at the annual banquet of the <orgName
                         ref="#staff_association">Staff Association.</orgName></p>
-                <p>While we recognize that under present conditions many things arise that give much
+             <p rendition="#indent">While we recognize that under present conditions many things arise that give much
                     distress, we know that your sound philosophy and unfailing good humour will ever
                     attend you.</p>
 
-                <closer>
+                <closer rendition="#right-align">
                     <salute>Sincerely yours</salute>
                     <orgName ref="#spl" rendition="#caps">Seattle Public Library Board</orgName>
                     <signed>

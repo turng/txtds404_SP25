@@ -1,8 +1,8 @@
-body div {
+body > div {
     margin-bottom: 100px;
 }
 
-graphic {
+img {
     max-width: 200px;
 }
 
@@ -12,7 +12,7 @@ seg[type="columns"] {
 }
 
 seg[type="column"] {
-  flex: 1;;
+  flex: 1;
 }
 
 head {
@@ -21,5 +21,4 @@ head {
 
 address {
     font-style: normal;
-} 
-/* if this doesn't work try addrLine? look at "519 Main St Del Early Am) Seattle Wash=" in telegram */
+}
