@@ -82,30 +82,30 @@
              <head rendition="#gothic #caps #center-align #h2">American Kennel Club</head>
              <head rendition="#caps #center-align #h3">New York, N.Y.</head>
               
-             <ab><span rendition="#caps #consolas">Name of Dog</span> <span rendition="#underline #courier">Duke of Main Street</span></ab>
+             <ab><span rendition="#caps #consolas">Name of Dog</span> <span rendition="#underline #courier #bold">Duke of Main Street</span></ab>
              
-            <ab><span rendition="#caps #consolas">Breed</span> <span rendition="#underline #courier">Cocker Spaniel</span>
-                <span rendition="#caps #consolas">Sex</span> <span rendition="#underline #courier">Male</span></ab>
+             <ab><span rendition="#caps #consolas">Breed</span> <span rendition="#underline #courier #bold">Cocker Spaniel</span>
+                 <span rendition="#caps #consolas">Sex</span> <span rendition="#underline #courier #bold">Male</span></ab>
              
-             <ab><span rendition="#caps #consolas">Sire</span> <span rendition="#underline #courier">Slicker Boy of Kitsop (934421)</span></ab>
+             <ab><span rendition="#caps #consolas">Sire</span> <span rendition="#underline #courier #bold">Slicker Boy of Kitsop (934421)</span></ab>
              
-             <ab><span rendition="#caps #consolas">Dam</span> <span rendition="#underline #courier">Paul’s Queenie (898745)</span></ab>
+             <ab><span rendition="#caps #consolas">Dam</span> <span rendition="#underline #courier #bold">Paul’s Queenie (898745)</span></ab>
              
-             <ab><span rendition="#caps #consolas">Whelped</span> <date when="1934-03-14" rendition="#underline #courier">March 14, 1934</date></ab>
+             <ab><span rendition="#caps #consolas">Whelped</span> <date when="1934-03-14" rendition="#underline #courier #bold">March 14, 1934</date></ab>
              
-             <ab><span rendition="#caps #consolas">Color</span> <span rendition="#underline #courier">Red</span></ab>
+             <ab><span rendition="#caps #consolas">Color</span> <span rendition="#underline #courier #bold">Red</span></ab>
              
-             <ab><span rendition="#caps #consolas">Breeder</span> <persName rendition="#underline #courier">M. Ellen Paul</persName></ab>
+             <ab><span rendition="#caps #consolas">Breeder</span> <persName rendition="#underline #courier #bold">M. Ellen Paul</persName></ab>
              
-             <ab><span rendition="#caps #consolas">Owner</span> <persName rendition="#underline #courier">Clarence T. Arai</persName></ab>
+             <ab><span rendition="#caps #consolas">Owner</span> <persName rendition="#underline #courier #bold">Clarence T. Arai</persName></ab>
              
-             <ab><span rendition="#caps #consolas">Registered</span> <date when="1934-06-15" rendition="#underline #courier">June 15, 1934</date></ab>
+             <ab><span rendition="#caps #consolas">Registered</span> <date when="1934-06-15" rendition="#underline #courier #bold">June 15, 1934</date></ab>
              
-             <ab><span rendition="#caps #consolas">Assigned No</span> <span rendition="#underline #courier #blue">941308</span></ab>
+             <ab><span rendition="#caps #consolas">Assigned No</span> <span rendition="#underline #courier #blue #bold">941308</span></ab>
              
-             <ab><span rendition="#caps #consolas">Volume</span> <span rendition="#underline #courier">51</span></ab>
+             <ab><span rendition="#caps #consolas">Volume</span> <span rendition="#underline #courier #bold">51</span></ab>
              
-             <ab><span rendition="#underline #courier">August</span> <span rendition="#caps #consolas">Issue</span></ab>
+             <ab><span rendition="#underline #courier #bold">August</span> <span rendition="#caps #consolas">Issue</span></ab>
               
               <signed>
                   <figure xml:id="PercyBRiceSignature">
@@ -791,26 +791,26 @@
                   <salute>Dear Mr Arai:</salute>
               </opener>
               
-              <p rendition="indent">Greetings from the Seventh Annual Banquet of the S<subst>
+              <p rendition="#indent">Greetings from the Seventh Annual Banquet of the S<subst>
                       <add>e</add>
                       <del>E</del>
               </subst>attle Public Library Staff Association to both you and <persName ref="#yone">Mrs Arai</persName>.</p>
               
-             <p rendition="indent">We were so sorry not to have you with us Friday night. We tried to make it an
+             <p rendition="#indent">We were so sorry not to have you with us Friday night. We tried to make it an
                   especially nice affair since it was to be the last one before <persName
                       ref="#jennings">Mr Jennings</persName> retired. As toastmistress, I read your
                   letter and when the suggestion was made that greetings be sent to you, you
                   should have heard the applause, so you can see what a place you hold in our
                   minds and hearts.</p>
               
-             <p> rendition="indent"The dining room at the Ranier Club looked very beautiful with the tables
-                  decorated with rhododendrons and iris and colorful <!--<name
-                      ref="#spl_banquet_program">-->programs<!--/name-->, serving also as place cards.
+             <p rendition="#indent">The dining room at the Ranier Club looked very beautiful with the tables
+                  decorated with rhododendrons and iris and colorful <name
+                      ref="#spl_banquet_program">programs</name>, serving also as place cards.
                   There were one hundred and forty-one present.</p>
               
-             <p rendition="indent">Between courses we sang the songs printed in <!--<name
-                      ref="#spl_banquet_program">-->the
-                 program<!--/name--> and then we had a series of humorous book reviews supposedly
+             <p rendition="#indent">Between courses we sang the songs printed in <name
+                      ref="#spl_banquet_program">the
+                 program</name> and then we had a series of humorous book reviews supposedly
                   suggestions for the book case in the new house <persName ref="#jennings">Mr
                       Jennings</persName> is building across Lake Washington. After the last of these
                   the group burst into the song “For He’s a Jolly Good Fellow.” Then we said we
@@ -818,7 +818,7 @@
                   letters, one of which you wrote, - there were over a hundred altogether, and was
                   he pleased!</p>
               
-             <p rendition="indent">He made a little speech of appreciation and then it was <persName>Mrs. Quigley</persName>’s turn to
+             <p rendition="#indent">He made a little speech of appreciation and then it was <persName>Mrs. Quigley</persName>’s turn to
                   add to the book-shelf. She presented him with a book containing a diploma saying
                   that he had completed thirty-five years of successful service “summa cum laude”,
                   and then she presented <persName>Mr Richards</persName>, the new librarian, with a schedule book such
@@ -827,7 +827,7 @@
                   Richards</persName> then said briefly how pleased he and <persName>Mrs Richards</persName> were to be included
                   and how much he was looking forward to his work.</p>
               
-             <p rendition="indent">Last of all we said we thought the best books to have on our shelves were the
+             <p rendition="#indent">Last of all we said we thought the best books to have on our shelves were the
                   master works that were standbys through thick and thin to guide and comfort us
                   and then <persName>Miss Eberlin</persName> presented <persName ref="#jennings">Mr Jennings</persName> with a
                   Columbia Master Works Album of Beethoven’s “Tempest” Sonata, first speaking of
@@ -854,7 +854,7 @@
                   anything” was all he could say, so we joined hands around the table and sang
                   Auld Lang Syne, and that was the end.</p>
               
-             <p rendition="indent">We surely wished many times during the evening that you and <persName ref="#yone">Mrs Arai</persName> might be
+             <p rendition="#indent">We surely wished many times during the evening that you and <persName ref="#yone">Mrs Arai</persName> might be
                   with us and I know I am expressing the feeling of the whole group when I say
                   that you have our very best wishes and that we hope this trying period through
                   which you are passing may seem more bearable as time goes on. This morning’s
@@ -970,28 +970,52 @@
           </note>
          
          <listPerson>
-                  <person xml:id="jennings" source="#spl_historylink_bib">
-                      <persName>Judson T. Jennings</persName>
-                      <birth>1873</birth>
-                      <death>1948</death>
-                      <note>Librarian Judson T. Jennings was the director of the <orgName ref="#spl">Seattle Public Library</orgName> from 1907 to 1942. Upon reaching the mandatory retirement age, he became the first chair of the King County Rural Library District (now the King County Library System).</note>
-                  </person>
-             
-                  <person xml:id="ken">
-                      
-                  </person>
+                <!-- add #arai to things -->
+                <person xml:id="arai">
+                    <persName>Clarence Takeya Arai</persName>
+                    <birth>1901</birth>
+                    <death>1963</death>
+                    <note></note>
+                </person>
              
                  <person xml:id="yone">
-                     
+                     <persName>Yone Vivian Utsunomiya Arai</persName>
+                     <birth>1906</birth>
+                     <death>2004</death>
+                     <note>Yone V. Utsunomia grew up on a family farm in California and was one of the oldest Nisei in the Santa Barbara area. She met Clarence Arai in Los Angeles. Yone had organized a Japanese American Citizens Club, but upon meeting Clarence, changed the name to the Japanese American Citizens League which Clarence had begun to organize. They married in 1930. At Camp Harmony, Yone served as an assistant chief interpreter. After the war, she supported the family and cared for the ill Clarence until his death. </note>
                  </person>
+             <!--https://ddr.densho.org/media/ddr-densho-1000/ddr-densho-1000-4-transcript-fd00a0a39a.htm-->
+             <!-- https://dp.la/item/0bdacb9ab5d0714b355d0d7ae8d367e0 -->
+             <!-- https://researchworks.oclc.org/archivegrid/archiveComponent/945773039 -->
+             
+                <person xml:id="ken">
+                    <persName>Owen Ken Arai</persName>
+                    <birth>1937</birth>
+                    <death>1945</death>
+                    <note>Owen Ken Arai was Clarence and Yone Arai's only child. He died of a brain tumor three months after returning home from Mindoka at the age of 8.</note>
+                </person>
+             <!--cite https://researchworks.oclc.org/archivegrid/archiveComponent/945773039 ? -->
+             
+                <person xml:id="jennings" source="#spl_historylink_bib">
+                    <persName>Judson T. Jennings</persName>
+                    <birth>1873</birth>
+                    <death>1948</death>
+                    <note>Librarian Judson T. Jennings was the director of the <orgName ref="#spl">Seattle Public Library</orgName> from 1907 to 1942. Upon reaching the mandatory retirement age, he became the first chair of the King County Rural Library District (now the King County Library System).</note>
+                </person>
              
                  <person xml:id="dykstra">
                      <persName>Clarence Addison Dykstra</persName>
+                     <birth>1883</birth>
+                     <death>1950</death>
+                     <note>Clarence Addison Dykstra was appointed by President Franklin D. Roosevelt as the first director of the Selective Service System from 1940 to 1941</note>
                  </person>
+             <!-- https://en.wikipedia.org/wiki/Clarence_Addison_Dykstra -->
              
                  <person xml:id="erford">
                      <persName>Roy Erford</persName>
+                     <note>Roy Erford was King County Election Superintendent from 1935 to his death in 1947.</note>
                  </person>
+             <!-- https://wedgwoodinseattlehistory.com/2012/08/27/roy-erford-and-the-euphonious-election-district-names/ -->
              
                 <person xml:id="dore">
                     <persName>John F. Dore</persName>
@@ -1047,6 +1071,11 @@
               <org xml:id="post_intelligencer">
                   <orgName>Seattle Post-Intelligencer</orgName>
                   <note>The Seattle Post-Intelligencer is the city's oldest newspaper, founded in 1863. It continues today as an online-only newspaper. <ref target="#pi_bib"/></note>
+              </org>
+              
+              <org xml:id="jacl">
+                  <orgName>Japanese American Citizens League</orgName>
+                  <note> <ref target="#"/></note>
               </org>
           </listOrg>
       
