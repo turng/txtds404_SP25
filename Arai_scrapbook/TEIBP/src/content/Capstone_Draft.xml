@@ -48,7 +48,7 @@
               <rendition xml:id="bold" scheme="css">font-weight: bold;</rendition>
               <rendition xml:id="italic" scheme="css">font-style: italic;</rendition>
               <!--make the underline black even if the text is another color??-->
-             <!--make span/hi/seg consistent?-->
+              <!--make span/hi/seg consistent?-->
               <rendition xml:id="underline" scheme="css">text-decoration: underline;</rendition>
               <rendition xml:id="sc" scheme="css">font-variant: small-caps;</rendition>
               <rendition xml:id="right-align" scheme="css">text-align: right;</rendition>
@@ -82,19 +82,30 @@
              <head rendition="#gothic #caps #center-align #h2">American Kennel Club</head>
              <head rendition="#caps #center-align #h3">New York, N.Y.</head>
               
-              <ab rendition="#courier"><hi rendition="#caps #consolas">Name of Dog</hi> Duke of Main Street</ab>
-             <ab rendition="#courier"><hi rendition="#caps #consolas">Breed</hi> Cocker Spaniel <hi rendition="#caps #consolas">Sex</hi> Male</ab>
-             <ab rendition="#courier"><hi rendition="#caps #consolas">Sire</hi> Slicker Boy of Kitsop (934421)</ab>
-             <ab rendition="#courier"><hi rendition="#caps #consolas">Dam</hi> Paul’s Queenie (898745)</ab>
-             <ab rendition="#courier"><hi rendition="#caps #consolas">Whelped</hi> <date when="1934-03-14">March 14, 1934</date></ab>
-             <ab rendition="#courier"><hi rendition="#caps #consolas">Color</hi> Red</ab>
-             <ab rendition="#courier"><hi rendition="#caps #consolas">Breeder</hi> <persName>M. Ellen Paul</persName></ab>
-             <ab rendition="#courier"><hi rendition="#caps #consolas">Owner</hi> <persName>Clarence T. Arai</persName></ab>
-             <ab rendition="#courier"><hi rendition="#caps #consolas">Registered</hi>
-                  <date when="1934-06-15">June 15, 1934</date></ab>
-             <ab><hi rendition="#caps #consolas">Assigned No</hi> <hi rendition="#courier #blue">941308</hi></ab>
-             <ab rendition="#courier"><hi rendition="#caps #consolas">Volume</hi> 51</ab>
-             <ab rendition="#courier">August <hi rendition="#caps #consolas">Issue</hi></ab>
+             <ab><span rendition="#caps #consolas">Name of Dog</span> <span rendition="#underline #courier">Duke of Main Street</span></ab>
+             
+            <ab><span rendition="#caps #consolas">Breed</span> <span rendition="#underline #courier">Cocker Spaniel</span>
+                <span rendition="#caps #consolas">Sex</span> <span rendition="#underline #courier">Male</span></ab>
+             
+             <ab><span rendition="#caps #consolas">Sire</span> <span rendition="#underline #courier">Slicker Boy of Kitsop (934421)</span></ab>
+             
+             <ab><span rendition="#caps #consolas">Dam</span> <span rendition="#underline #courier">Paul’s Queenie (898745)</span></ab>
+             
+             <ab><span rendition="#caps #consolas">Whelped</span> <date when="1934-03-14" rendition="#underline #courier">March 14, 1934</date></ab>
+             
+             <ab><span rendition="#caps #consolas">Color</span> <span rendition="#underline #courier">Red</span></ab>
+             
+             <ab><span rendition="#caps #consolas">Breeder</span> <persName rendition="#underline #courier">M. Ellen Paul</persName></ab>
+             
+             <ab><span rendition="#caps #consolas">Owner</span> <persName rendition="#underline #courier">Clarence T. Arai</persName></ab>
+             
+             <ab><span rendition="#caps #consolas">Registered</span> <date when="1934-06-15" rendition="#underline #courier">June 15, 1934</date></ab>
+             
+             <ab><span rendition="#caps #consolas">Assigned No</span> <span rendition="#underline #courier #blue">941308</span></ab>
+             
+             <ab><span rendition="#caps #consolas">Volume</span> <span rendition="#underline #courier">51</span></ab>
+             
+             <ab><span rendition="#underline #courier">August</span> <span rendition="#caps #consolas">Issue</span></ab>
               
               <signed>
                   <figure xml:id="PercyBRiceSignature">
@@ -371,7 +382,7 @@
                  Zones requires as a matter of military necessity the establishment of certain
                  regulations pertaining to all enemy aliens and all persons of Japanese ancestry
                  within said Military Areas and Zones thereof:</p>
-             <p>Now, <hi rendition="#sc">THEREFORE</hi>, I, <ref type="#Dewitt">J.L. DEWITT</ref>,
+             <p>Now, <hi rendition="#sc">therefore</hi>, I, <persName ref="#dewitt" rendition="#sc #caps">J.L. Dewitt</persName>,
                  Lieutenant General, U.S. Army, by virtue of the authority vested in me by the
                  President of the United States and by the Secretary of War and my powers and
                  prerogatives as Commanding General, Western Defense Command, do hereby declare
@@ -930,6 +941,33 @@
              <interp xml:id="recognition"></interp>
              <interp xml:id="personal"></interp>
          </interpGrp>
+          
+          <note xml:id="general_exclusion_order"> During World War II, anti-Japanese sentiment
+              in Washington state intensified as President Roosevelt authorized military
+              commanders to designate exclusion zones. <ref target="#exclusion_order"/></note>
+          
+          <note xml:id="spl_banquet_program">
+              <figure xml:id="spl_banquet_program1">
+                  <graphic url="../images/program1.jpg"/>
+                  <figDesc>Cover of the Seattle Public Library Staff Association 7th
+                      Banquet Program</figDesc>
+              </figure>
+              <figure xml:id="spl_banquet_program2">
+                  <graphic url="../images/program2.jpg"/>
+                  <figDesc>First page of the Seattle Public Library Staff Association 7th
+                      Banquet Program</figDesc>
+              </figure>
+              <figure xml:id="spl_banquet_program3">
+                  <graphic url="../images/program3.jpg"/>
+                  <figDesc>Second and third pages of the Seattle Public Library Staff
+                      Association 7th Banquet Program</figDesc>
+              </figure>
+              <figure xml:id="spl_banquet_program4">
+                  <graphic url="../images/program4.jpg"/>
+                  <figDesc>Last page of the Seattle Public Library Staff Association 7th
+                      Banquet Program</figDesc>
+              </figure>
+          </note>
          
          <listPerson>
                   <person xml:id="jennings" source="#spl_historylink_bib">
@@ -938,9 +976,11 @@
                       <death>1948</death>
                       <note>Librarian Judson T. Jennings was the director of the <orgName ref="#spl">Seattle Public Library</orgName> from 1907 to 1942. Upon reaching the mandatory retirement age, he became the first chair of the King County Rural Library District (now the King County Library System).</note>
                   </person>
+             
                   <person xml:id="ken">
                       
                   </person>
+             
                  <person xml:id="yone">
                      
                  </person>
@@ -952,20 +992,63 @@
                  <person xml:id="erford">
                      <persName>Roy Erford</persName>
                  </person>
+             
+                <person xml:id="dore">
+                    <persName>John F. Dore</persName>
+                    <birth>1881</birth>
+                    <death>1938</death>
+                    <note>John F. Dore served as the Mayor of Seattle from 1932 to 1934 and from 1936 to 1938.</note>
+                </person>
+                
+                <person xml:id="fujiyama">
+                    <persName>Aiichiro Fujiyama</persName>
+                    <note>Aiichiro Fujiyama was the Japanese Foreign Minister from 1957–1960. <ref target="#fujiyama_bib"/></note>
+                </person>
+                
+                <person xml:id="dewitt">
+                    <persName>J.L. DeWitt</persName>
+                    <note>J.L. DeWitt was a United States general officer known for overseeing the incarceration of over 110,000 Japanese Americans. <ref target="#dewitt_bib"/></note>
+                </person>
               </listPerson>
               
-         <listPlace>
-             <place></place>
-         </listPlace>
+          <listPlace>
+              <place xml:id="camp_harmony">
+                  <placeName>Camp Harmony</placeName>
+                  <note>"Camp Harmony" was a temporary facility with crowded conditions at the state fairgrounds in Puyallup, Washington, which held Japanese Americans in 1942. Inmates were moved from the Puyallup Assembly Center to Minidoka from August through October. <ref target="#camp_harmony_bib"/></note>
+              </place>
               
-         <listOrg>
-                  <org xml:id="spl" source="#spl_historylink_bib">
-                      <orgName>Seattle Public Library</orgName>
-                      <note>During World War II, the Seattle Public Library continued to
-                          serve incarcerated Japanese American patrons, sending almost 7,000 books to Camp
-                          Minidoka.</note>
-                  </org>
-              </listOrg>
+              <place xml:id="minidoka">
+                  <placeName>Minidoka Relocation Center</placeName>
+                  <note>The "Minidoka Relocation Center" was a concentration camp in Hunt, Idaho that held mostly Japanese Americans from Seattle, Washington and Portland, Oregon, in addition to other areas of Washington, Oregon, and Alaska. It opened on August 10, 1942 and closed on October 28, 1945. <ref target="#minidoka_bib"/></note>
+              </place>
+              
+              <place xml:id="pike_place">
+                  <placeName>Pike Place Market</placeName>
+                  <note>Pike Place Market is a public market in Seattle that opened in 1907. This is one of the oldest continuously operated public markets in the United States. <ref target="#pike_place_market_bib"/></note>
+              </place>
+          </listPlace>
+              
+          <listOrg>
+              <org xml:id="spl" source="#spl_historylink_bib">
+                  <orgName>Seattle Public Library</orgName>
+                  <note>During World War II, the Seattle Public Library continued to serve incarcerated Japanese American patrons, sending almost 7,000 books to Camp Minidoka.</note>
+              </org>
+              
+              <org xml:id="akc">
+                  <orgName>American Kennel Club</orgName>
+                  <note>The American Kennel Club is a nonprofit registry of purebred dog pedigrees. <ref target="#akc_bib"/></note>
+              </org>
+              
+              <org xml:id="staff_association">
+                  <orgName>Seattle Public Library Staff Association</orgName>
+                  <note>The Seattle Public Library Staff Association was established in 1935 to address staff problems including lack of pension, cuts to hours and vacation, and staff reductions. <ref target="#spl_historylink_bib"/></note>
+              </org>
+              
+              <org xml:id="post_intelligencer">
+                  <orgName>Seattle Post-Intelligencer</orgName>
+                  <note>The Seattle Post-Intelligencer is the city's oldest newspaper, founded in 1863. It continues today as an online-only newspaper. <ref target="#pi_bib"/></note>
+              </org>
+          </listOrg>
       
          <listBibl>
              <bibl xml:id="camp_harmony_bib" type="webpage"> “<title>Camp Harmony (Puyallup
