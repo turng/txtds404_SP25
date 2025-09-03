@@ -8,16 +8,20 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Title</title>
+             <title>Selections from the Arai Papers</title>
             <author>Clarence T. Arai</author>
             <editor>Marisa Oishi</editor>
+            <!--add christine and hannah?-->
          </titleStmt>
+         <editionStmt>
+             <p>This edition consists of a selection of pages from Clarence T. Arai’s scrapbook
+                  held in the University of Washington Special Collections.</p>
+             <p>Though only a small selection of materials from the full work, this edition explores the choices Arai made in assembling his scrapbook. The edition focuses on Arai and his wife's civic contributions, Arai's role with the Seattle Public Library, the effects of their incarceration during World War II, and aspects of their personal lives.</p>
+         </editionStmt>
          <publicationStmt>
-            <!--copy and pasted from txtds 404 project - update !-->
-            <publisher>University of Washington Student Project for TXTDS 404/FREN 420: Texts,
-               Publics, and Publication</publisher>
+            <publisher>University of Washington Student Project for Textual Studies and Digital Humanities Capstone</publisher>
             <pubPlace>Seattle, WA</pubPlace>
-            <date when="2025-06-06">June 6th, 2025</date>
+            <date when="2025-09-02">September 3rd, 2025</date>
             <availability>
                <p>Freely available for use.</p>
             </availability>
@@ -59,6 +63,7 @@
               <rendition xml:id="handwriting" scheme="css">font-family: Brush Script MT, Brush Script Std, cursive;</rendition>
               <rendition xml:id="gothic" scheme="css">font-family: "Old English Text MT", "Engravers Old English", "Gothic", serif;</rendition>
               <rendition xml:id="courier" scheme="css">font-family: "Courier New", Courier, monospace;</rendition>
+              <rendition xml:id="dm-serif-display" scheme="css">font-family: "DM Serif Display", serif;</rendition>
               <rendition xml:id="blue" scheme="css">color: blue;</rendition>
               <rendition xml:id="h1" scheme="css">font-size: 2em;</rendition>
               <rendition xml:id="h2" scheme="css">font-size: 1.5em;</rendition>
@@ -68,18 +73,60 @@
   </teiHeader>
     
   <text>
+      <front>
+          <div type="editorial_intro">
+              <p>The phrase "on paper" is an interesting one. On paper, Clarence Takeya Arai was
+                  an accomplished and influential member of the Seattle community. He was the
+                  first Japanese American to earn a law degree from the University of Washington
+                  and the first nisei commissioned officer in the US Army Reserve. He was a
+                  founder and the first president of the Japanese American Citizens League, the
+                  oldest Asian American civil rights organization, as well as a Republican
+                  precinct committee member and delegate to the Washington State Republican
+                  Convention. On paper, Arai, his wife Yone, and his son Ken were sent to <name ref="#camp_harmony"
+                      >the Puyallup Fairgrounds</name>, and then to a <name ref="#minidoka"
+                          >concentration camp in Minidoka, Idaho</name>, when over a hundred thousand
+                  innocent Japanese Americans were incarcerated during World War II. His health
+                  deteriorated there, but he continued to advocate for Japanese Americans' legal
+                  rights within the camp. Three months after the war ended, Ken died of a
+                  brain tumor. Arai gave up practicing law full time and took up photography. He
+                  died less than twenty years later.</p>
+              <p>When I came across the Clarence T. Arai papers, I didn't just uncover certificates and newspaper
+                  clippings taped to yellowing pages that crumbled as I turned them. This was a
+                  life, a collection of moments of pride and tragedy, lived in service to his
+                  community and yet persecuted by his country. This was an autobiography, a
+                  telling of Clarence and Yone's story through the papers he decided to preserve. They had a
+                  Cocker Spaniel named Duke of Main Street. Their son Ken liked "hot dog sandwiches"
+                  and bus rides to Portland. On paper, Clarenec was a lawyer, civil rights advocate,
+                  and photographer. But on paper, he was also a husband, a gardener, a father, a man with
+                  dreams and indignation with the injustice he knew he was living: a human.</p>
+              <p>I would like to acknowledge
+                  that several works within these selections utilize the slur, "Jap." While this
+                  term was used during the era reflected in these documents, it is now widely
+                  recognized as an offensive and racist slur. I have preserved it in this edition
+                  to maintain historical accuracy and to shed light on the prejudice Japanese
+                  Americans faced at the time.</p>
+                  <p>One of my goals was to provide a glimpse into the first-hand experiences of Japanese Americans in Washington before and during
+                  World War II. Arai’s scrapbook offers insight on lived experiences through his personal
+                  memorabilia and artifacts. By encoding this work, I hope that readers will
+                  gain a more well-rounded, holistic perspective on this time period, and an
+                  awareness of Clarence and Yone's life and enduring legacy.</p>
+          </div>
+          <div type="acknowledgment">
+              <p>I would like to thank Christine Leak and Hannah Swoffer for their contributions to the first edition of this project.</p>
+          </div>
+      </front>
       <body>
           <!--make the columns work?-->
          <div xml:id="americanKennelClub1934-06-15" type="certificate" ana="#personal">
-              <head rendition="#gothic #caps #center-align #h2">Registration Certificate</head>
+              <head rendition="#dm-serif-display #caps #center-align #h2">Registration Certificate</head>
               <figure xml:id="akcLogo">
                   <graphic url="../images/akcLogo.jpeg"/>
                   <figDesc rendition="#caps">American Kennel Club</figDesc>
                   <figDesc rendition="#caps">AKC</figDesc>
                   <figDesc rendition="#caps">Incorporated</figDesc>
               </figure>
-             <head rendition="#gothic #caps #center-align">American Kennel Club Stud Book</head>
-             <head rendition="#gothic #caps #center-align #h2">American Kennel Club</head>
+             <head rendition="#dm-serif-display #caps #center-align">American Kennel Club Stud Book</head>
+             <head rendition="#dm-serif-display #caps #center-align #h2">American Kennel Club</head>
              <head rendition="#caps #center-align #h3">New York, N.Y.</head>
               
              <ab><span rendition="#caps #consolas">Name of Dog</span> <span rendition="#underline #courier #bold">Duke of Main Street</span></ab>
