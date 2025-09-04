@@ -51,6 +51,7 @@
               <rendition xml:id="lowercase" scheme="css">text-transform: lowercase;</rendition>
               <rendition xml:id="bold" scheme="css">font-weight: bold;</rendition>
               <rendition xml:id="italic" scheme="css">font-style: italic;</rendition>
+              <rendition xml:id="not-italic" scheme="css">font-style: normal;</rendition>
               <!--make the underline black even if the text is another color??-->
               <!--make span/hi/seg consistent?-->
               <rendition xml:id="underline" scheme="css">text-decoration: underline;</rendition>
@@ -58,6 +59,7 @@
               <rendition xml:id="right-align" scheme="css">text-align: right;</rendition>
               <rendition xml:id="center-align" scheme="css">text-align: center;</rendition>
               <rendition xml:id="left-align" scheme="css">text-align: left;</rendition>
+              <rendition xml:id="serif" scheme="css">font-family: "Times New Roman", serif;</rendition>
               <rendition xml:id="monaco" scheme="css">font-family: "Monaco", monospace;</rendition>
               <rendition xml:id="consolas" scheme="css">font-family:"Consolas", monospace;</rendition>
               <rendition xml:id="handwriting" scheme="css">font-family: Brush Script MT, Brush Script Std, cursive;</rendition>
@@ -68,6 +70,7 @@
               <rendition xml:id="h1" scheme="css">font-size: 2em;</rendition>
               <rendition xml:id="h2" scheme="css">font-size: 1.5em;</rendition>
               <rendition xml:id="h3" scheme="css">font-size: 1.17em;</rendition>
+              <rendition xml:id="small" scheme="css">font-size: .5em;</rendition>
           </tagsDecl>
       </encodingDesc>
   </teiHeader>
@@ -75,14 +78,14 @@
   <text>
       <front>
           <div type="editorial_intro">
-              <p>The phrase "on paper" is an interesting one. On paper, Clarence Takeya Arai was
+              <p>The phrase "on paper" is an interesting one. On paper, <persName ref="#arai">Clarence Takeya Arai</persName> was
                   an accomplished and influential member of the Seattle community. He was the
                   first Japanese American to earn a law degree from the University of Washington
                   and the first nisei commissioned officer in the US Army Reserve. He was a
-                  founder and the first president of the Japanese American Citizens League, the
+                  founder and the first president of the <orgName ref="#jacl">Japanese American Citizens League</orgName>, the
                   oldest Asian American civil rights organization, as well as a Republican
                   precinct committee member and delegate to the Washington State Republican
-                  Convention. On paper, Arai, his wife Yone, and his son Ken were sent to <name ref="#camp_harmony"
+                  Convention. On paper, Arai, his wife <persName ref="#yone">Yone</persName>, and their son <persName ref="#ken">Ken</persName> were sent to <name ref="#camp_harmony"
                       >the Puyallup Fairgrounds</name>, and then to a <name ref="#minidoka"
                           >concentration camp in Minidoka, Idaho</name>, when over a hundred thousand
                   innocent Japanese Americans were incarcerated during World War II. His health
@@ -94,9 +97,9 @@
                   clippings taped to yellowing pages that crumbled as I turned them. This was a
                   life, a collection of moments of pride and tragedy, lived in service to his
                   community and yet persecuted by his country. This was an autobiography, a
-                  telling of Clarence and Yone's story through the papers he decided to preserve. They had a
-                  Cocker Spaniel named Duke of Main Street. Their son Ken liked "hot dog sandwiches"
-                  and bus rides to Portland. On paper, Clarenec was a lawyer, civil rights advocate,
+                  telling of <persName ref="#arai">Clarence</persName> and <persName ref="#yone">Yone</persName>'s story through the papers he decided to preserve. They had a
+                  Cocker Spaniel named Duke of Main Street. Their son <persName ref="#ken">Ken</persName> liked "hot dog sandwiches"
+                  and bus rides to Portland. On paper, <persName ref="#arai">Clarence</persName> was a lawyer, civil rights advocate,
                   and photographer. But on paper, he was also a husband, a gardener, a father, a man with
                   dreams and indignation with the injustice he knew he was living: a human.</p>
               <p>I would like to acknowledge
@@ -109,7 +112,7 @@
                   World War II. Arai’s scrapbook offers insight on lived experiences through his personal
                   memorabilia and artifacts. By encoding this work, I hope that readers will
                   gain a more well-rounded, holistic perspective on this time period, and an
-                  awareness of Clarence and Yone's life and enduring legacy.</p>
+                  awareness of <persName ref="#arai">Clarence</persName> and <persName ref="#yone">Yone</persName>'s life and enduring legacy.</p>
           </div>
           <div type="acknowledgment">
               <p>I would like to thank Christine Leak and Hannah Swoffer for their contributions to the first edition of this project.</p>
@@ -118,15 +121,15 @@
       <body>
           <!--make the columns work?-->
          <div xml:id="americanKennelClub1934-06-15" type="certificate" ana="#personal">
-              <head rendition="#dm-serif-display #caps #center-align #h2">Registration Certificate</head>
+              <head rendition="#dm-serif-display #bold #caps #center-align #h2">Registration Certificate</head>
               <figure xml:id="akcLogo">
                   <graphic url="../images/akcLogo.jpeg"/>
                   <figDesc rendition="#caps">American Kennel Club</figDesc>
                   <figDesc rendition="#caps">AKC</figDesc>
                   <figDesc rendition="#caps">Incorporated</figDesc>
               </figure>
-             <head rendition="#dm-serif-display #caps #center-align">American Kennel Club Stud Book</head>
-             <head rendition="#dm-serif-display #caps #center-align #h2">American Kennel Club</head>
+             <head rendition="#dm-serif-display #bold #caps #center-align">American Kennel Club Stud Book</head>
+             <head rendition="#dm-serif-display #caps #bold #center-align #h2">American Kennel Club</head>
              <head rendition="#caps #center-align #h3">New York, N.Y.</head>
               
              <ab><span rendition="#caps #consolas">Name of Dog</span> <span rendition="#underline #courier #bold">Duke of Main Street</span></ab>
@@ -144,7 +147,7 @@
              
              <ab><span rendition="#caps #consolas">Breeder</span> <persName rendition="#underline #courier #bold">M. Ellen Paul</persName></ab>
              
-             <ab><span rendition="#caps #consolas">Owner</span> <persName rendition="#underline #courier #bold">Clarence T. Arai</persName></ab>
+             <ab><span rendition="#caps #consolas">Owner</span> <persName ref="#arai" rendition="#underline #courier #bold">Clarence T. Arai</persName></ab>
              
              <ab><span rendition="#caps #consolas">Registered</span> <date when="1934-06-15" rendition="#underline #courier #bold">June 15, 1934</date></ab>
              
@@ -163,14 +166,16 @@
               </signed>
           </div>
         
-        <!--find right font for head?-->
          <div xml:id="electionNotice1934-09-18" type="certificate" ana="#recognition">
-             <head rendition="#caps #h1 #center-align">State of Washington</head>
-             <head rendition="#caps #h3 #center-align">County of King</head>
+             <head rendition="#serif #caps #h1 #center-align">State of Washington</head>
+             <head rendition="#serif #caps #h3 #center-align">County of King</head>
+             <figure type="line"/>
              <head rendition="#caps #h2 #consolas #center-align">Notice of Election</head>
-             <head rendition="#caps #h3 #center-align">Auditor's Office</head>
+             <figure type="line"/> 
+             <head rendition="#serif #caps #h3 #center-align">Auditor's Office</head>
+             <figure type="line"/>
              
-             <salute rendition="#caps">To <persName ref="#yone" rendition="#courier #underline">Yone V. Arai</persName> Greeting:</salute>
+             <salute rendition="#caps #italic">To <persName ref="#yone" rendition="#courier #underline #not-italic">Yone V. Arai</persName> Greeting:</salute>
              
              <p>Dear Sir: You are hereby notified that you received the highest number of votes cast by the <span rendition="#courier #underline">Republican</span> Party for the office of Precinct Committeeman in Precinct <span rendition="#courier #underline">No. 368</span> at the Primary Election held in the above County and State on the <date when="1934-09-11">11th day of September, 1934</date>.</p>
              <p><span rendition="#bold">In Witness Whereof, I have hereunto set my hand</span> and official seal this <date when="1934-09-18">18th day of September, 1934.</date></p>
@@ -197,7 +202,7 @@
           <!--find right font for head?-->
          <div xml:id="buttsParoleLeague1937-04-02" type="letter" ana="#library">
              <opener>
-                 <seg type="letterhead">
+                 <seg type="letterhead" rendition="#center-align">
                      <address rendition="#bold">
                          <addrLine rendition="#caps">The Butts' Parole League</addrLine>
                          <addrLine>Box 70, Nippon Station</addrLine>
@@ -206,7 +211,7 @@
                      <date when="1937-04-02" rendition="#courier">April 2, 1937</date>
                  </seg>
                  <address rendition="#courier">
-                     <addrLine><persName>Clarence T. Arai</persName>, Esq.,</addrLine>
+                     <addrLine><persName ref="#arai">Clarence T. Arai</persName>, Esq.,</addrLine>
                      <addrLine>Seattle, Wn.</addrLine>
                  </address>
                  <salute rendition="#courier">Sir;-</salute>
@@ -285,7 +290,7 @@
                   </ab>
                     
                    <ab><address rendition="#handwriting">
-                        <addrLine>Mr. <persName>Clarence Arai</persName></addrLine>
+                           <addrLine>Mr. <persName ref="#arai">Clarence Arai</persName></addrLine>
                         <addrLine>519 Main st</addrLine>
                         <addrLine>Seattle, Wash.</addrLine>
                    </address></ab>
@@ -322,12 +327,12 @@
              </trailer>
          </div>
 
-        <!-- make a small text rendition for this and others? make the header look more accurate? -->
+        <!-- make the header look more accurate? -->
           <div xml:id="arai1941-12-05" type="telegram" ana="#personal" rendition="#blue">
             <opener>
                 <seg type="header">
                     <seg type="columns">
-                        <seg type="column" rendition="#caps">
+                        <seg type="column" rendition="#caps #small">
                             <seg>
                                 Standard Time Indicated
                                 Received At
@@ -345,19 +350,17 @@
                         </figure> All America Cables
                         Commerical Cables   Canadian Pacific Telegraphs</seg>
                         
-                        <!--make this smaller-->
-                        <!--actually just format this whole header better-->
-                        <seg type="column" rendition="#caps">This is a full rate telegram, cable-gram or radiogram unless otherwise indicated by symbol in the preamble or in the address of the message. Symbols designating service selected are outline in the company's tariffs on hand at each office and on file with regulatory authorities.</seg>
+                        <seg type="column" rendition="#caps #small">This is a full rate telegram, cable-gram or radiogram unless otherwise indicated by symbol in the preamble or in the address of the message. Symbols designating service selected are outline in the company's tariffs on hand at each office and on file with regulatory authorities.</seg>
                     </seg>
                     
                     Form 16
               </seg>
                     
-                 <span rendition="#caps #consolas">LB10.EA.FB 544 13 Tour =TD SanFrancisco Calif 5 1130P
-                 <persName>Clarence T Arai</persName> = 6:00 AM.</span>           
+                 <span rendition="#caps #consolas">LB10.EA.FB 544 13 Tour =TD SanFrancisco Calif 5 1130P<lb/>
+                     <persName ref="#arai">Clarence T Arai</persName> = 6:00 AM.</span>           
                 
-                <date when="1941-12-05" rendition="#caps #consolas">1941 Dec 5</date> PM 11 53
-                <address rendition="#caps #consolas"><addrLine>519 Main St Del Early Am) Seattle Wash=</addrLine></address>
+                <date when="1941-12-05" rendition="#caps #consolas #right-align">1941 Dec 5 PM 11 53</date><lb/>
+                <address rendition="#caps #consolas"><addrLine>519 Main St Del Early Am) Seattle Wash=</addrLine></address><lb/>
             </opener>
              
              <p rendition="#caps #consolas">Arriving in Seattle Sunday Morning 605 please meet us if you can love =</p>
@@ -369,18 +372,19 @@
             </closer>
          </div>
 
-         <!--get the header to look correct-->
          <div xml:id="electionBoard1942-01-05" type="letter" ana="#recognition">
             <opener> 
                 <seg type="letterhead" rendition="#consolas">
-                 County Auditor
+                 County Auditor <lb/>
                  <persName rendition="#caps">Robert A. Morris</persName>
                  
-                 <span rendition="#caps #center-align">Office of 
-                 County Auditor
-                 King County, Washington
-                 Seattle, Washington
-                 <date when="1942-01-05" rendition="#blue">Jan 5 1942</date></span>
+                 <address rendition="#caps #center-align">
+                    <addrLine>Office of </addrLine>
+                    <addrLine rendition="#h1">County Auditor</addrLine>
+                    <addrLine>King County, Washington</addrLine>
+                    <addrLine rendition="#right-align">Seattle, Washington</addrLine>
+                 </address>
+                 <date when="1942-01-05" rendition="#blue #caps #right-align">Jan 5 1942</date>
                 </seg>
                 
                 <address rendition="#courier #bold">
@@ -396,10 +400,10 @@
              <p rendition="#courier">Be sure to fill out the enclosed post-card indicating whether or not you will serve, and return the card to this office not later than <date when="1942-01-15"><span rendition="#consolas #underline #blue">Jan 15</span> 1942</date>. We would suggest that, if convenient, you return the card in person, thus avoiding the risk of its being miscarried in the mail.</p>
              <p rendition="#courier">Unless we receive your acceptance prior to said date, another appointment will be made.</p>
              
-             <closer rendition="#courier">
-                 <signed><span rendition="#caps">Election Board of King County,
+             <closer rendition="#courier #right-align">
+                 <signed><span rendition="#caps">Election Board of King County,<lb/>
                  <persName>Robert A. Morris</persName>, County Auditor</span>
-                 Secretary of Board.
+                 Secretary of Board.<lb/>
                  By <figure xml:id="erfordSignature">
                      <graphic url="../images/erford-signature.jpeg"/>
                      <figDesc><persName ref="#erford">Roy Erford</persName></figDesc>
@@ -417,15 +421,15 @@
              <head><date when="1942-03-24">March 24, 1942</date></head>
              <p>TO: The people within the States of Washington, Oregon, California, Montana,
                  Idaho, Nevada, Utah and Arizona, and the Public Generally:</p>
-             <p><hi rendition="#sc">WHEREAS</hi>, By Public Proclamation No.1, dated <date
+             <p><hi rendition="#sc">Whereas</hi>, By Public Proclamation No.1, dated <date
                      when="1942-03-02">March 2, 1942</date>, this headquarters, there were
                  designated and established Military Areas Nos. 1 and 2 and Zones thereof,
                  and</p>
-             <p><hi rendition="#sc">WHEREAS</hi>, By Public Proclamation No. 2, dated <date
+             <p><hi rendition="#sc">Whereas</hi>, By Public Proclamation No. 2, dated <date
                      when="1942-03-02">March 2, 1942</date>, this headquarters, there were
                  designated and established Military Areas Nos. 3,4,5 and 6 and Zones thereof,
                  and</p>
-             <p><hi rendition="#sc">WHEREAS</hi>, The present situation within these Military Areas and
+             <p><hi rendition="#sc">Whereas</hi>, The present situation within these Military Areas and
                  Zones requires as a matter of military necessity the establishment of certain
                  regulations pertaining to all enemy aliens and all persons of Japanese ancestry
                  within said Military Areas and Zones thereof:</p>
@@ -507,11 +511,11 @@
                       <date when="1942-04-29" rendition="#courier">29 April 1942</date>
                   </seg>
                   <address rendition="#courier">
-                      <addrLine>Mr <persName>Clarence T. Arai</persName></addrLine>
+                      <addrLine>Mr <persName ref="#arai">Clarence T. Arai</persName></addrLine>
                       <addrLine>452-12th Avenue</addrLine>
                       <addrLine>Seattle, Washington</addrLine>
                   </address>
-                  <salute>Dear Mr Arai:</salute>
+                  <salute>Dear <persName ref="#arai">Mr Arai</persName>:</salute>
               </opener>
               
               <p rendition="#indent #courier">Thank you kindly for the copies of “Our Times” by Mark Sullivan, and “The March
@@ -597,7 +601,7 @@
                  <salute rendition="#caps">To whom it may concern:</salute>
              </opener>
 
-             <p>The applicant named, <persName rendition="#caps">Clarence Arai</persName>, an American citizen
+             <p>The applicant named, <persName ref="#arai" rendition="#caps">Clarence Arai</persName>, an American citizen
                  of Japanese blood is hereby granted permission and authorized to travel without
                  molestation or hindrance by the most direct route from 452 12th Avenue, Seattle,
                  Washington to the <orgName ref="#spl">Seattle Public Library</orgName>, 4th and
@@ -754,7 +758,7 @@
                  around their temporary homes — because the army didn’t have time to indulge in
                  any of the niceties of interior decoration in constructing their barracks. </p>
              <p>And, as if that weren’t enough, many of them have put in tiny Victory Gardens.
-                 For instance, <persName>Clarence Arai</persName>, for years a prominent Seattle attorney, has put in
+                 For instance, <persName ref="#arai">Clarence Arai</persName>, for years a prominent Seattle attorney, has put in
                  radishes, beets, Chinese lettuce and onions — and his little plot is as
                  meticulously neat as if he were a professional gardener. </p>
              <p>They take pride in the amount of ingenuity they can show in making their
@@ -825,7 +829,7 @@
                   <dateline rendition="#center-align"><date when="1942-05-25">25 May
                           1942</date></dateline>
                   <address>
-                      <addrLine>Mr Clarence T. Arai</addrLine>
+                      <addrLine>Mr <persName ref="#arai">Clarence T. Arai</persName></addrLine>
                       <addrLine>
                           <subst>
                               <add>S</add>
@@ -835,7 +839,7 @@
                       <addrLine>Section 2, no. 79</addrLine>
                       <addrLine>Puyallup, Washington</addrLine>
                   </address>
-                  <salute>Dear Mr Arai:</salute>
+                  <salute>Dear <persName ref="#arai">Mr Arai</persName>:</salute>
               </opener>
               
               <p rendition="#indent">Greetings from the Seventh Annual Banquet of the S<subst>
@@ -937,11 +941,11 @@
                     <dateline><date when="1942-06-02" rendition="#right-align">June 2,
                         1942</date></dateline>
                     <address>
-                        <addrLine>Mr. <persName>Clarence T. Arai</persName></addrLine>
+                        <addrLine>Mr. <persName ref="#arai">Clarence T. Arai</persName></addrLine>
                         <addrLine>Puyallup</addrLine>
                         <addrLine>Washington</addrLine>
                     </address>
-                    <salute>Dear Mr. Arai:</salute>
+                    <salute>Dear <persName ref="#arai">Mr. Arai</persName>:</salute>
                 </opener>
 
                 <p rendition="#indent">The members of the Board of the <orgName ref="#spl">Seattle Public Library</orgName>
@@ -975,7 +979,7 @@
       
          <div xml:id="newYorkHeraldTribune1942-06-26" type="clipping" ana="wwii">
              <!--add img here-->
-             <p>Victory Garden — <persName>Clarence Arai</persName>, Seattle attorney now judge advocate of the camp, at work in the vegetable patch which he has planted next to his quarters.</p>
+             <p>Victory Garden — <persName ref="#arai">Clarence Arai</persName>, Seattle attorney now judge advocate of the camp, at work in the vegetable patch which he has planted next to his quarters.</p>
          </div>
       </body>
           
@@ -983,10 +987,10 @@
       
          <interpGrp>
              <desc>Themes addressed in Arai’s scrapbook</desc>
-             <interp xml:id="library">Arai was a member of the Seattle Public Library, and this organization features prominently in Arai's correspondences.</interp>
+             <interp xml:id="library">Arai was a member of the Seattle Public Library Board of Trustees, and this organization features prominently in Arai's correspondences.</interp>
              <interp xml:id="wwii">Over a hundred thousand Japanese Americans, including Arai and his family, were forcibly removed from their homes and incarcerated during World War II on the basis of their race. The war is a critical context for many materials in his scrapbook.</interp>
-             <interp xml:id="recognition"></interp>
-             <interp xml:id="personal"></interp>
+             <interp xml:id="recognition">Arai’s scrapbook documents his and Yone's public recognition as a civic leader and community advocate.</interp>
+             <interp xml:id="personal">Many materials reflect personal aspects of Arai's life such as correspondences with his family and friends.</interp>
          </interpGrp>
           
           <note xml:id="general_exclusion_order"> During World War II, anti-Japanese sentiment
@@ -1017,19 +1021,28 @@
           </note>
          
          <listPerson>
-                <!-- add #arai to things -->
                 <person xml:id="arai">
                     <persName>Clarence Takeya Arai</persName>
                     <birth>1901</birth>
                     <death>1963</death>
-                    <note></note>
+                    <note>Clarence Takeya Arai was a Japanese American lawyer, civic leader, and photographer. 
+                        He was the first Japanese American to earn a law degree from the University of Washington 
+                        and the first Nisei commissioned officer in the U.S. Army Reserve. Arai was a founder 
+                        and the first president of the Japanese American Citizens League, the oldest 
+                        Asian American civil rights organizations in the United States. He served 
+                        as a Seattle Republican precinct committee member and as a trustee of the <orgName ref="#spl">
+                            Seattle Public Library</orgName>. During World War II, Arai, his wife <persName ref="yone">Yone</persName>, and their 
+                        son <persName ref="#ken">Ken</persName> were forcibly removed to <name ref="#camp_harmony">Camp Harmony</name> and 
+                        later incarcerated at <name ref="#minidoka">Minidoka</name>. Despite poor health, 
+                        Arai advocated for Japanese Americans’ legal rights while imprisoned. After the war 
+                        and the loss of his son, he reduced his law practice and turned to photography.</note>
                 </person>
              
                  <person xml:id="yone">
                      <persName>Yone Vivian Utsunomiya Arai</persName>
                      <birth>1906</birth>
                      <death>2004</death>
-                     <note>Yone V. Utsunomia grew up on a family farm in California and was one of the oldest Nisei in the Santa Barbara area. She met Clarence Arai in Los Angeles. Yone had organized a Japanese American Citizens Club, but upon meeting Clarence, changed the name to the Japanese American Citizens League which Clarence had begun to organize. They married in 1930. At Camp Harmony, Yone served as an assistant chief interpreter. After the war, she supported the family and cared for the ill Clarence until his death. </note>
+                     <note>Yone V. Utsunomia grew up on a family farm in California and was one of the oldest Nisei in the Santa Barbara area. She met <persName ref="#arai">Clarence Arai</persName> in Los Angeles. Yone had organized a Japanese American Citizens Club, but upon meeting Clarence, changed the name to the Japanese American Citizens League which Clarence had begun to organize. They married in 1930. At Camp Harmony, Yone served as an assistant chief interpreter. After the war, she supported the family and cared for the ill Clarence until his death. </note>
                  </person>
              <!--https://ddr.densho.org/media/ddr-densho-1000/ddr-densho-1000-4-transcript-fd00a0a39a.htm-->
              <!-- https://dp.la/item/0bdacb9ab5d0714b355d0d7ae8d367e0 -->
@@ -1102,7 +1115,7 @@
           <listOrg>
               <org xml:id="spl" source="#spl_historylink_bib">
                   <orgName>Seattle Public Library</orgName>
-                  <note>During World War II, the Seattle Public Library continued to serve incarcerated Japanese American patrons, sending almost 7,000 books to Camp Minidoka.</note>
+                  <note>During World War II, the Seattle Public Library continued to serve incarcerated Japanese American patrons, sending almost 7,000 books to <placeName ref="#minidoka">Camp Minidoka</placeName>.</note>
               </org>
               
               <org xml:id="akc">
