@@ -21,7 +21,7 @@
          <publicationStmt>
             <publisher>University of Washington Student Project for Textual Studies and Digital Humanities Capstone</publisher>
             <pubPlace>Seattle, WA</pubPlace>
-            <date when="2025-09-02">September 3rd, 2025</date>
+            <date when="2025-09-02">September 4th, 2025</date>
             <availability>
                <p>Freely available for use.</p>
             </availability>
@@ -44,16 +44,15 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
+          <!--make the underline black even if the text is another color??-->
+          <!--make span/hi/seg consistent?-->
           <tagsDecl>
               <rendition xml:id="indent" scheme="css">text-indent: 10px;</rendition>
               <rendition xml:id="caps" scheme="css">text-transform: uppercase !important;</rendition>
-              <!--check if lowercases needs !important-->
               <rendition xml:id="lowercase" scheme="css">text-transform: lowercase;</rendition>
               <rendition xml:id="bold" scheme="css">font-weight: bold;</rendition>
               <rendition xml:id="italic" scheme="css">font-style: italic;</rendition>
               <rendition xml:id="not-italic" scheme="css">font-style: normal;</rendition>
-              <!--make the underline black even if the text is another color??-->
-              <!--make span/hi/seg consistent?-->
               <rendition xml:id="underline" scheme="css">text-decoration: underline;</rendition>
               <rendition xml:id="sc" scheme="css">font-variant: small-caps;</rendition>
               <rendition xml:id="right-align" scheme="css">text-align: right;</rendition>
@@ -70,7 +69,7 @@
               <rendition xml:id="h1" scheme="css">font-size: 2em;</rendition>
               <rendition xml:id="h2" scheme="css">font-size: 1.5em;</rendition>
               <rendition xml:id="h3" scheme="css">font-size: 1.17em;</rendition>
-              <rendition xml:id="small" scheme="css">font-size: .5em;</rendition>
+              <rendition xml:id="small" scheme="css">font-size: .8em;</rendition>
           </tagsDecl>
       </encodingDesc>
   </teiHeader>
@@ -501,21 +500,20 @@
          </div>
 
          <!--get the spacing to look correct?-->
-         <!--make sure head is center aligned-->
          <div xml:id="jennings1942-04-29" type="letter" ana="#library #wwii">
               <opener>
-                  <seg type="letterhead" rendition="#center-align">
-                      <orgName ref="#spl" rendition="#caps">Seattle Public Library</orgName><lb/>
-                      <placeName rendition="#caps">Seattle, Washington</placeName><lb/>
-                      <persName ref="#jennings">Judson T. Jennings</persName>, Librarian<lb/>
-                      <date when="1942-04-29" rendition="#courier">29 April 1942</date>
+                  <seg type="letterhead">
+                      <orgName ref="#spl" rendition="#caps #center-align">Seattle Public Library</orgName><lb/>
+                      <placeName rendition="#caps #center-align">Seattle, Washington</placeName><lb/>
+                      <persName ref="#jennings" rendition="#center-align">Judson T. Jennings</persName>, Librarian<lb/>
+                      <date when="1942-04-29" rendition="#courier #center-align">29 April 1942</date>
                   </seg>
                   <address rendition="#courier">
                       <addrLine>Mr <persName ref="#arai">Clarence T. Arai</persName></addrLine>
                       <addrLine>452-12th Avenue</addrLine>
                       <addrLine>Seattle, Washington</addrLine>
                   </address>
-                  <salute>Dear <persName ref="#arai">Mr Arai</persName>:</salute>
+                  <salute rendition="#courier">Dear <persName ref="#arai">Mr Arai</persName>:</salute>
               </opener>
               
               <p rendition="#indent #courier">Thank you kindly for the copies of “Our Times” by Mark Sullivan, and “The March
@@ -551,8 +549,7 @@
                  Japanese.</p>
          </div>
 
-         <!-- fix xml id ! -->  
-         <div xml:id="REPLACETHISTOO" type="clipping" ana="#wwii">
+         <div xml:id="clipping1" type="clipping" ana="#wwii">
              <head rendition="#caps  #center-align" type="title">Half Of City's</head>
              <head rendition="#caps  #center-align" type="title">Japs Have Gone</head>
              <head rendition=" #center-align">____________</head>
@@ -560,28 +557,28 @@
                  Japanese today as the last of them from Zones No. 1 and 2, or population,
                  departed for <placeName ref="#camp_harmony">the assembly center in
                  Puyallup.</placeName></p>
-             <p> And the <placeName ref="#pike_place">Pike Place Markets</placeName> for the
+             <p>And the <placeName ref="#pike_place">Pike Place Markets</placeName> for the
                  first time in their years of operation, did business without their myriad of
-                 Japanese-operated stalls. </p>
-             <p> It is estimated that only about half the Japanese of the city have been removed
+                 Japanese-operated stalls.</p>
+             <p>It is estimated that only about half the Japanese of the city have been removed
                  but those who have gone were from areas in which many were engaged in business
-                 and where they most often met public. </p>
-             <p> Those Japanese remaining in the city are restricted to movement within the area
+                 and where they most often met public.</p>
+             <p>Those Japanese remaining in the city are restricted to movement within the area
                  in which they live. Beginning at noon, they and all others of the Japanese race
                  were banned from going to the central business district, the waterfront or any
                  place in the area to the north of the city that lies west of Eastlake Avenue and
                  Roosevelt Way, any place west of Fifth Avenue in the central area, or any place
                  south of Jackson Street in the southern area, except for one small locality
-                 between Jackson and Dearborn Streets. </p>
+                 between Jackson and Dearborn Streets.</p>
              <p>This ban prevents any Japanese in the farming community surrounding the city from
                  delivering produce to Seattle firms personally, as Produce Row and the markets
                  cannot be reached without passing through a restricted area.</p>
-             <p> The market master of the municipal market said that not a single Japanese
+             <p>The market master of the municipal market said that not a single Japanese
                  merchant appeared this morning, although the ban did not go into effect until
-                 noon. </p>
-             <p> Operators of private markets said several Japanese renters of stalls came early
+                 noon.</p>
+             <p>Operators of private markets said several Japanese renters of stalls came early
                  this morning with produce but brought Filipinos with them to tend the stalls and
-                 left before noon. </p>
+                 left before noon.</p>
              <p>No date has been set for removal of the Japanese from there</p>
          </div>  
           
@@ -623,8 +620,7 @@
              </signed>
          </div>
 
-         <!-- fix xml id ! -->  
-         <div xml:id="REPLACETHIS" type="clipping" ana="#wwii">
+         <div xml:id="clipping2" type="clipping" ana="#wwii">
              <head type="author" rendition="#center-align">More Japanese Get</head>
              <head type="title" rendition="#center-align">Evacuation Orders</head>
              <head rendition="#center-align">____________</head>
@@ -658,8 +654,7 @@
                  other</p>
          </div>
 
-         <!-- fix xml id ! -->  
-         <div xml:id="REPLACETHIS1942-05-12" type="clipping" ana="#wwii">
+         <div xml:id="clipping1942-05-12" type="clipping" ana="#wwii">
               <head>TUESDAY</head>
               <head><date when="1942-05-12"/>P.1 5/12/42</head>
               <head rendition="#caps #center-align" type="title">Registration</head>
@@ -978,8 +973,11 @@
             </div>
       
          <div xml:id="newYorkHeraldTribune1942-06-26" type="clipping" ana="wwii">
-             <!--add img here-->
-             <p>Victory Garden — <persName ref="#arai">Clarence Arai</persName>, Seattle attorney now judge advocate of the camp, at work in the vegetable patch which he has planted next to his quarters.</p>
+             <figure xml:id="araiGardeningImage" type="image">
+                 <graphic url="../images/arai-gardening.jpeg"/>
+                 <figDesc>Black and white photograph of Arai gardening</figDesc>
+             </figure>
+             <p><span rendition="#caps">Victory Garden</span> — <persName ref="#arai">Clarence Arai</persName>, Seattle attorney now judge advocate of the camp, at work in the vegetable patch which he has planted next to his quarters.</p>
          </div>
       </body>
           
