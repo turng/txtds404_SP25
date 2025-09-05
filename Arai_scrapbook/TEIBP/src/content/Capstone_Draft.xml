@@ -55,9 +55,9 @@
               <rendition xml:id="not-italic" scheme="css">font-style: normal;</rendition>
               <rendition xml:id="underline" scheme="css">text-decoration: underline;</rendition>
               <rendition xml:id="sc" scheme="css">font-variant: small-caps;</rendition>
-              <rendition xml:id="right-align" scheme="css">text-align: right;</rendition>
-              <rendition xml:id="center-align" scheme="css">text-align: center;</rendition>
-              <rendition xml:id="left-align" scheme="css">text-align: left;</rendition>
+              <rendition xml:id="right-align" scheme="css">display: block; text-align: right;</rendition>
+              <rendition xml:id="center-align" scheme="css">display: block; text-align: center;</rendition>
+              <rendition xml:id="left-align" scheme="css">display: block; text-align: left;</rendition>
               <rendition xml:id="serif" scheme="css">font-family: "Times New Roman", serif;</rendition>
               <rendition xml:id="monaco" scheme="css">font-family: "Monaco", monospace;</rendition>
               <rendition xml:id="consolas" scheme="css">font-family:"Consolas", monospace;</rendition>
@@ -327,7 +327,7 @@
          </div>
 
         <!-- make the header look more accurate? -->
-          <div xml:id="arai1941-12-05" type="telegram" ana="#personal" rendition="#blue">
+         <div xml:id="arai1941-12-05" type="telegram" ana="#personal" rendition="#blue">
             <opener>
                 <seg type="header">
                     <seg type="columns">
@@ -356,9 +356,7 @@
               </seg>
                     
                  <span rendition="#caps #consolas">LB10.EA.FB 544 13 Tour =TD SanFrancisco Calif 5 1130P<lb/>
-                     <persName ref="#arai">Clarence T Arai</persName> = 6:00 AM.</span>           
-                
-                <date when="1941-12-05" rendition="#caps #consolas #right-align">1941 Dec 5 PM 11 53</date><lb/>
+                     <persName ref="#arai">Clarence T Arai</persName></span> <span rendition="#handwriting">= 6:00 AM.</span> <date when="1941-12-05" rendition="#caps #consolas #right-align">1941 Dec 5 PM 11 53</date><lb/>
                 <address rendition="#caps #consolas"><addrLine>519 Main St Del Early Am) Seattle Wash=</addrLine></address><lb/>
             </opener>
              
@@ -1019,40 +1017,37 @@
           </note>
          
          <listPerson>
-                <person xml:id="arai">
-                    <persName>Clarence Takeya Arai</persName>
-                    <birth>1901</birth>
-                    <death>1963</death>
-                    <note>Clarence Takeya Arai was a Japanese American lawyer, civic leader, and photographer. 
-                        He was the first Japanese American to earn a law degree from the University of Washington 
-                        and the first Nisei commissioned officer in the U.S. Army Reserve. Arai was a founder 
-                        and the first president of the Japanese American Citizens League, the oldest 
-                        Asian American civil rights organizations in the United States. He served 
-                        as a Seattle Republican precinct committee member and as a trustee of the <orgName ref="#spl">
-                            Seattle Public Library</orgName>. During World War II, Arai, his wife <persName ref="yone">Yone</persName>, and their 
-                        son <persName ref="#ken">Ken</persName> were forcibly removed to <name ref="#camp_harmony">Camp Harmony</name> and 
-                        later incarcerated at <name ref="#minidoka">Minidoka</name>. Despite poor health, 
-                        Arai advocated for Japanese Americans’ legal rights while imprisoned. After the war 
-                        and the loss of his son, he reduced his law practice and turned to photography.</note>
-                </person>
+            <person xml:id="arai">
+                <persName>Clarence Takeya Arai</persName>
+                <birth>1901</birth>
+                <death>1963</death>
+                <note>Clarence Takeya Arai was a Japanese American lawyer, civic leader, and photographer. 
+                    He was the first Japanese American to earn a law degree from the University of Washington 
+                    and the first Nisei commissioned officer in the U.S. Army Reserve. Arai was a founder 
+                    and the first president of the Japanese American Citizens League, the oldest 
+                    Asian American civil rights organizations in the United States. He served 
+                    as a Seattle Republican precinct committee member and as a trustee of the <orgName ref="#spl">
+                        Seattle Public Library</orgName>. During World War II, Arai, his wife <persName ref="yone">Yone</persName>, and their 
+                    son <persName ref="#ken">Ken</persName> were forcibly removed to <name ref="#camp_harmony">Camp Harmony</name> and 
+                    later incarcerated at <name ref="#minidoka">Minidoka</name>. Despite poor health, 
+                    Arai advocated for Japanese Americans’ legal rights while imprisoned. After the war 
+                    and the loss of his son, he reduced his law practice and turned to photography.<ref target="#"/></note>
+            </person>
+         
+             <person xml:id="yone" source="#yone_bib #research_works_bib">
+                 <persName>Yone Vivian Utsunomiya Arai</persName>
+                 <birth>1906</birth>
+                 <death>2004</death>
+                 <note>Yone V. Utsunomia grew up on a family farm in California and was one of the oldest Nisei in the Santa Barbara area. She met <persName ref="#arai">Clarence Arai</persName> in Los Angeles. Yone had organized a Japanese American Citizens Club, but upon meeting Clarence, changed the name to the Japanese American Citizens League which Clarence had begun to organize. They married in 1930. At Camp Harmony, Yone served as an assistant chief interpreter. After the war, she supported the family and cared for the ill Clarence until his death.
+                 </note>
+             </person>
              
-                 <person xml:id="yone">
-                     <persName>Yone Vivian Utsunomiya Arai</persName>
-                     <birth>1906</birth>
-                     <death>2004</death>
-                     <note>Yone V. Utsunomia grew up on a family farm in California and was one of the oldest Nisei in the Santa Barbara area. She met <persName ref="#arai">Clarence Arai</persName> in Los Angeles. Yone had organized a Japanese American Citizens Club, but upon meeting Clarence, changed the name to the Japanese American Citizens League which Clarence had begun to organize. They married in 1930. At Camp Harmony, Yone served as an assistant chief interpreter. After the war, she supported the family and cared for the ill Clarence until his death. </note>
-                 </person>
-             <!--https://ddr.densho.org/media/ddr-densho-1000/ddr-densho-1000-4-transcript-fd00a0a39a.htm-->
-             <!-- https://dp.la/item/0bdacb9ab5d0714b355d0d7ae8d367e0 -->
-             <!-- https://researchworks.oclc.org/archivegrid/archiveComponent/945773039 -->
-             
-                <person xml:id="ken">
-                    <persName>Owen Ken Arai</persName>
-                    <birth>1937</birth>
-                    <death>1945</death>
-                    <note>Owen Ken Arai was Clarence and Yone Arai's only child. He died of a brain tumor three months after returning home from Mindoka at the age of 8.</note>
-                </person>
-             <!--cite https://researchworks.oclc.org/archivegrid/archiveComponent/945773039 ? -->
+             <person xml:id="ken" source="#research_works_bib">
+                 <persName>Owen Ken Arai</persName>
+                 <birth>1937</birth>
+                 <death>1945</death>
+                 <note>Owen Ken Arai was Clarence and Yone Arai's only child. He died of a brain tumor three months after returning home from Minidoka at the age of 8.</note>
+             </person>
              
                 <person xml:id="jennings" source="#spl_historylink_bib">
                     <persName>Judson T. Jennings</persName>
@@ -1061,19 +1056,17 @@
                     <note>Librarian Judson T. Jennings was the director of the <orgName ref="#spl">Seattle Public Library</orgName> from 1907 to 1942. Upon reaching the mandatory retirement age, he became the first chair of the King County Rural Library District (now the King County Library System).</note>
                 </person>
              
-                 <person xml:id="dykstra">
-                     <persName>Clarence Addison Dykstra</persName>
-                     <birth>1883</birth>
-                     <death>1950</death>
-                     <note>Clarence Addison Dykstra was appointed by President Franklin D. Roosevelt as the first director of the Selective Service System from 1940 to 1941</note>
-                 </person>
-             <!-- https://en.wikipedia.org/wiki/Clarence_Addison_Dykstra -->
+             <person xml:id="dykstra" source="#dykstra_bib">
+                 <persName>Clarence Addison Dykstra</persName>
+                 <birth>1883</birth>
+                 <death>1950</death>
+                 <note>Clarence Addison Dykstra was appointed by President Franklin D. Roosevelt as the first director of the Selective Service System from 1940 to 1941.</note>
+             </person>
              
-                 <person xml:id="erford">
-                     <persName>Roy Erford</persName>
-                     <note>Roy Erford was King County Election Superintendent from 1935 to his death in 1947.</note>
-                 </person>
-             <!-- https://wedgwoodinseattlehistory.com/2012/08/27/roy-erford-and-the-euphonious-election-district-names/ -->
+             <person xml:id="erford" source="#erford_bib">
+                 <persName>Roy Erford</persName>
+                 <note>Roy Erford was King County Election Superintendent from 1935 to his death in 1947.</note>
+             </person>
              
                 <person xml:id="dore">
                     <persName>John F. Dore</persName>
@@ -1082,54 +1075,54 @@
                     <note>John F. Dore served as the Mayor of Seattle from 1932 to 1934 and from 1936 to 1938.</note>
                 </person>
                 
-                <person xml:id="fujiyama">
+                <person xml:id="fujiyama" source="#fujiyama_bib">
                     <persName>Aiichiro Fujiyama</persName>
-                    <note>Aiichiro Fujiyama was the Japanese Foreign Minister from 1957–1960. <ref target="#fujiyama_bib"/></note>
+                    <note>Aiichiro Fujiyama was the Japanese Foreign Minister from 1957–1960.</note>
                 </person>
-                
-                <person xml:id="dewitt">
+                   
+                <person xml:id="dewitt" source="#dewitt_bib">
                     <persName>J.L. DeWitt</persName>
-                    <note>J.L. DeWitt was a United States general officer known for overseeing the incarceration of over 110,000 Japanese Americans. <ref target="#dewitt_bib"/></note>
+                    <note>J.L. DeWitt was a United States general officer known for overseeing the incarceration of over 110,000 Japanese Americans.</note>
                 </person>
               </listPerson>
               
-          <listPlace>
-              <place xml:id="camp_harmony">
-                  <placeName>Camp Harmony</placeName>
-                  <note>"Camp Harmony" was a temporary facility with crowded conditions at the state fairgrounds in Puyallup, Washington, which held Japanese Americans in 1942. Inmates were moved from the Puyallup Assembly Center to Minidoka from August through October. <ref target="#camp_harmony_bib"/></note>
-              </place>
+         <listPlace>
+             <place xml:id="camp_harmony" source="#camp_harmony_bib">
+                 <placeName>Camp Harmony</placeName>
+                 <note>"Camp Harmony" was a temporary facility with crowded conditions at the state fairgrounds in Puyallup, Washington, which held Japanese Americans in 1942. Inmates were moved from the Puyallup Assembly Center to Minidoka from August through October.</note>
+             </place>
               
-              <place xml:id="minidoka">
-                  <placeName>Minidoka Relocation Center</placeName>
-                  <note>The "Minidoka Relocation Center" was a concentration camp in Hunt, Idaho that held mostly Japanese Americans from Seattle, Washington and Portland, Oregon, in addition to other areas of Washington, Oregon, and Alaska. It opened on August 10, 1942 and closed on October 28, 1945. <ref target="#minidoka_bib"/></note>
-              </place>
+             <place xml:id="minidoka" source="#minidoka_bib">
+                 <placeName>Minidoka Relocation Center</placeName>
+                 <note>The "Minidoka Relocation Center" was a concentration camp in Hunt, Idaho that held mostly Japanese Americans from Seattle, Washington and Portland, Oregon, in addition to other areas of Washington, Oregon, and Alaska. It opened on August 10, 1942 and closed on October 28, 1945.</note>
+             </place>
               
-              <place xml:id="pike_place">
-                  <placeName>Pike Place Market</placeName>
-                  <note>Pike Place Market is a public market in Seattle that opened in 1907. This is one of the oldest continuously operated public markets in the United States. <ref target="#pike_place_market_bib"/></note>
-              </place>
+             <place xml:id="pike_place" source="#pike_place_market_bib">
+                 <placeName>Pike Place Market</placeName>
+                 <note>Pike Place Market is a public market in Seattle that opened in 1907. This is one of the oldest continuously operated public markets in the United States.</note>
+             </place>
           </listPlace>
               
-          <listOrg>
+         <listOrg>
               <org xml:id="spl" source="#spl_historylink_bib">
                   <orgName>Seattle Public Library</orgName>
                   <note>During World War II, the Seattle Public Library continued to serve incarcerated Japanese American patrons, sending almost 7,000 books to <placeName ref="#minidoka">Camp Minidoka</placeName>.</note>
               </org>
               
-              <org xml:id="akc">
-                  <orgName>American Kennel Club</orgName>
-                  <note>The American Kennel Club is a nonprofit registry of purebred dog pedigrees. <ref target="#akc_bib"/></note>
-              </org>
-              
-              <org xml:id="staff_association">
-                  <orgName>Seattle Public Library Staff Association</orgName>
-                  <note>The Seattle Public Library Staff Association was established in 1935 to address staff problems including lack of pension, cuts to hours and vacation, and staff reductions. <ref target="#spl_historylink_bib"/></note>
-              </org>
-              
-              <org xml:id="post_intelligencer">
-                  <orgName>Seattle Post-Intelligencer</orgName>
-                  <note>The Seattle Post-Intelligencer is the city's oldest newspaper, founded in 1863. It continues today as an online-only newspaper. <ref target="#pi_bib"/></note>
-              </org>
+             <org xml:id="akc" source="#akc_bib">
+                 <orgName>American Kennel Club</orgName>
+                 <note>The American Kennel Club is a nonprofit registry of purebred dog pedigrees.</note>
+             </org>
+             
+             <org xml:id="staff_association" source="#spl_historylink_bib">
+                 <orgName>Seattle Public Library Staff Association</orgName>
+                 <note>The Seattle Public Library Staff Association was established in 1935 to address staff problems including lack of pension, cuts to hours and vacation, and staff reductions.</note>
+             </org>
+             
+             <org xml:id="post_intelligencer" source="#pi_bib">
+                 <orgName>Seattle Post-Intelligencer</orgName>
+                 <note>The Seattle Post-Intelligencer is the city's oldest newspaper, founded in 1863. It continues today as an online-only newspaper.</note>
+             </org>
               
               <org xml:id="jacl">
                   <orgName>Japanese American Citizens League</orgName>
@@ -1138,52 +1131,84 @@
           </listOrg>
       
          <listBibl>
-             <bibl xml:id="camp_harmony_bib" type="webpage"> “<title>Camp Harmony (Puyallup
-                     Assembly Center), 1942</title>." <author>Louis Fiset</author>
-                 <publisher>HistoryLink.org</publisher>
-                 <date>10/07/2008</date>
-                 <ref target="https://www.historylink.org/File/8748">Camp Harmony (Puyallup
-                     Assembly Center), 1942</ref>
+             <bibl xml:id="yone_interview_bib" type="webpage">
+                 “<title>Yone Bartholomew Interview II</title>."
+                 <publisher>Densho Digital Repository</publisher>
+                 <date when="1998-05-08">May 8, 1998</date>
+                 <ref target="https://dp.la/item/0bdacb9ab5d0714b355d0d7ae8d367e0"></ref>
              </bibl>
-             <bibl xml:id="arai_bib" type="webpage"> "<title>Clarence Takeya Arai</title>."
+             
+             <bibl xml:id="research_works_bib" type="webpage">
+                 “<title>Clarence T. Arai papers</title>."
+                 <publisher>OCLC Research</publisher>
+                 <ref target="https://researchworks.oclc.org/archivegrid/archiveComponent/945773039"></ref>
+             </bibl>
+             
+             <bibl xml:id="dykstra_bib" type="webpage"> 
+                 “<title>Clarence Addison Dykstra</title>."
+                 <publisher>Wikipedia.org</publisher>
+                 <ref target="https://en.wikipedia.org/wiki/Clarence_Addison_Dykstra"></ref>
+             </bibl>
+             
+             <bibl xml:id="erford_bib" type="webpage"> 
+                 “<title>Roy Erford and the Euphonious Election District Names</title>." 
+                 <author>Valarie</author>
+                 <publisher>wedgwoodinseattlehistory.com</publisher>
+                 <date when="2012-08-27">08/27/2012</date>
+                 <ref target="https://wedgwoodinseattlehistory.com/2012/08/27/roy-erford-and-the-euphonious-election-district-names/"/>
+             </bibl>
+             
+             <bibl xml:id="camp_harmony_bib" type="webpage"> 
+                 “<title>Camp Harmony (Puyallup Assembly Center), 1942</title>." 
+                 <author>Louis Fiset</author>
+                 <publisher>HistoryLink.org</publisher>
+                 <date when="2008-10-07">10/07/2008</date>
+                 <ref target="https://www.historylink.org/File/8748">Camp Harmony (Puyallup Assembly Center), 1942</ref>
+             </bibl>
+             
+             <bibl xml:id="arai_bib" type="webpage"> 
+                 "<title>Clarence Takeya Arai</title>."
                  <author>Mary Schons</author>
                  <publisher>EBSCO</publisher>
-                 <date>2023</date>
-                 <ref
-                     target="https://www.ebsco.com/research-starters/history/clarence-takeya-arai"
-                     >Clarence Takeya Arai</ref>
+                 <date when="2023">2023</date>
+                 <ref target="https://www.ebsco.com/research-starters/history/clarence-takeya-arai">Clarence Takeya Arai</ref>
              </bibl>
-             <bibl xml:id="akc_bib" type="webpage"> “<title level="a">American Kennel
-                     Club</title>." <title level="m">Wikipedia</title>
+             
+             <bibl xml:id="akc_bib" type="webpage"> 
+                 “<title level="a">American Kennel Club</title>." 
+                 <title level="m">Wikipedia</title>
                  <publisher>Wikipedia.org</publisher>
-                 <ref target="https://en.wikipedia.org/wiki/American_Kennel_Club">American
-                     Kennel Club</ref>
+                 <ref target="https://en.wikipedia.org/wiki/American_Kennel_Club">American Kennel Club</ref>
              </bibl>
+             
              <bibl xml:id="minidoka_bib" type="webpage">“<title>Minidoka</title>."
                  <publisher>Densho Enclyclopedia</publisher>
                  <ref target="https://encyclopedia.densho.org/Minidoka/">Minidoka</ref>
              </bibl>
+             
              <bibl xml:id="pike_place_market_bib" type="webpage"> “<title level="a">Pike
                      Place Market</title>. <title level="m">Wikipedia</title>
                  <publisher>Wikipedia.org</publisher>
                  <ref target="https://en.wikipedia.org/
                      wiki/Pike_Place_Market">Pike Place Market</ref>
              </bibl>
-             <bibl xml:id="pi_bib" type="webpage"> “<title>Seattle Post-Intelligencer
-                     (1863-2009)</title>." <author>Cassandra Tate</author>
+             
+             <bibl xml:id="pi_bib" type="webpage"> 
+                 “<title>Seattle Post-Intelligencer (1863-2009)</title>." 
+                 <author>Cassandra Tate</author>
                  <publisher>HistoryLink.org</publisher>
-                 <date>03/16/2009</date>
-                 <ref target="https://www.historylink.org/File/8956">Seattle
-                     Post-Intelligencer (1863-2009)</ref>
+                 <date when="2009-03-16">03/16/2009</date>
+                 <ref target="https://www.historylink.org/File/8956">Seattle Post-Intelligencer (1863-2009)</ref>
              </bibl>
-             <bibl xml:id="spl_historylink_bib" type="webpage"> “<title>Central Library,
-                     1906-1957, The Seattle Public Library</title>.” <author>Paula
-                         Becker</author>
+             
+             <bibl xml:id="spl_historylink_bib" type="webpage"> 
+                 “<title>Central Library, 1906-1957, The Seattle Public Library</title>.” 
+                 <author>Paula Becker</author>
                  <publisher>HistoryLink.org</publisher>
-                 <date>07/01/2011</date>
-                 <ref target="https://www.historylink.org/File/9869">Central Library,
-                     1906-1957, The Seattle Public Library</ref>
+                 <date when="2011-07-01">07/01/2011</date>
+                 <ref target="https://www.historylink.org/File/9869">Central Library, 1906-1957, The Seattle Public Library</ref>
              </bibl>
+             
              <bibl xml:id="fujiyama_bib" type="webpage"> "<title level="a">Aiichiro Fujiyama,
                      87; Ex-Japanese Politician</title>." <publisher>New York
                          Times</publisher>
@@ -1191,20 +1216,19 @@
                      target="https://www.nytimes.com/1985/02/23/world/aiichiro-fujiyama-87-ex-japanese-politician.html"
                      >Aiichiro Fujiyama, 87; Ex-Japanese Politician</ref>
              </bibl>
+             
              <bibl xml:id="dewitt_bib" type="webpage">
                  <title level="a">John Lesene DeWitt</title>
                  <publisher>National Park Service</publisher>
-                 <date>04/03/2024</date>
-                 <ref target="https://www.nps.gov/people/john-lesesne-dewitt.htm">John
-                     Lesesne DeWitt</ref>
+                 <date when="2024-04-03">04/03/2024</date>
+                 <ref target="https://www.nps.gov/people/john-lesesne-dewitt.htm">John Lesesne DeWitt</ref>
              </bibl>
+             
              <bibl xml:id="exclusion_order_bib" type="webpage">
-                 <title level="a">World War II Internment of Japanese Americans in
-                     Washington</title>
+                 <title level="a">World War II Internment of Japanese Americans in Washington</title>
                  <publisher>History Link.org</publisher>
-                 <date>05/20/2024</date>
-                 <ref target="https://www.historylink.org/File/22995">World War II Internment
-                     of Japanese Americans in Washington</ref>
+                 <date when="2024-05-20">05/20/2024</date>
+                 <ref target="https://www.historylink.org/File/22995">World War II Internment of Japanese Americans in Washington</ref>
              </bibl>
           </listBibl>
       </back>
