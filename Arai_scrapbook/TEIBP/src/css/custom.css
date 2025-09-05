@@ -23,3 +23,20 @@ address {
     font-style: normal;
 }
 
+interpGrp {
+    display: block;
+}
+
+interpGrp > desc {
+    display: block;
+    font-weight: bold;
+    font-size: 1.1em;
+    margin-bottom: 0.75em;
+}
+
+interpGrp > interp {
+    display: block;
+    margin-bottom: 0.5em;
+}
+
+

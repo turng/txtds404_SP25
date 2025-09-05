@@ -437,7 +437,7 @@
                  and establish the following regulations covering the conduct to be observed by
                  all alien Japanese, all alien Germans, all alien Italians, and all persons of
                  Japanese ancestry residing or being within the Military Areas above described,
-                 or such portions thereof as are hereinafter mentioned: </p>
+                 or such portions thereof as are hereinafter mentioned:</p>
              <p>From and after 6:00 A.M., <date when="1942-03-27">March 27, 1942</date>, all
                  alien Japanese, all alien Germans, all alien Italians, and all persons of
                  Japanese ancestry residing or being within the geographical limits of Military
@@ -474,12 +474,10 @@
                  Saturday, <date when="1942-04-25">April 25, 1942</date>, or during the same
                  hours on Sunday, <date when="1942-04-26">April 26, 1942</date>, to the Civil
                  Control Station located at :</p>
-             <p>
-                 <address rendition="#center-align">
+             <p><address rendition="#center-align">
                      <addrLine>2100 Second Avenue</addrLine>
                      <addrLine>Seattle, Washington</addrLine>
-                 </address>
-             </p>
+                 </address></p>
              <p>3. Any person subject to this order who fails to comply with any of its
                  provisions or with the provisions of published instructions pertaining herto or
                  who is found in the above area after 12 o’clock noon, P.W.T., of Friday, May 1,
@@ -492,7 +490,7 @@
              <closer>
                  <signed>
                      <ref type="#Dewitt">James L. DeWitt</ref>
-                     <title> Lieutenant General, U.S. Army Commanding</title>
+                     <roleName> Lieutenant General, U.S. Army Commanding</roleName>
                  </signed>
              </closer>
          </div>
@@ -693,7 +691,7 @@
              </figure>
              <p><hi rendition="#caps">Prohibited Zone</hi>—Map of the area covered by <ref type="general_exclusion_order"
                      >Exclusion Order No. 67</ref>, from which Japanese will be cleared by
-                 Monday. </p>
+                 Monday.</p>
              <figure xml:id="secondExclusionAreaImage" type="image">
                  <graphic url="../images/secondExclusionAreaTEIBP.jpg"/>
                  <figDesc>Camp Harmony Bedroom</figDesc>
@@ -727,7 +725,7 @@
                  are making the best of things as they found them, and remarkably few complaints
                  are heard.</p>
              <p>Maybe the secret lies in the fact that they have so little idle time on their
-                 hands. If they are not just before the travel of all Japanese was restricted. </p>
+                 hands. If they are not just before the travel of all Japanese was restricted.</p>
              <p>Her husband build a wardrobe, a linen closet, a vanity and bench and other
                  bedroom furniture out of scrap lumber and she supplied the feminine touch with
                  draperies that give the room a really homelike appearance.</p>
@@ -749,11 +747,11 @@
 
              <p>busy on work details or administrative duties, there is always something to do
                  around their temporary homes — because the army didn’t have time to indulge in
-                 any of the niceties of interior decoration in constructing their barracks. </p>
+                 any of the niceties of interior decoration in constructing their barracks.</p>
              <p>And, as if that weren’t enough, many of them have put in tiny Victory Gardens.
                  For instance, <persName ref="#arai">Clarence Arai</persName>, for years a prominent Seattle attorney, has put in
                  radishes, beets, Chinese lettuce and onions — and his little plot is as
-                 meticulously neat as if he were a professional gardener. </p>
+                 meticulously neat as if he were a professional gardener.</p>
              <p>They take pride in the amount of ingenuity they can show in making their
                  primitive quarters look more like the homes they left behind them.</p>
              <p>An outstanding example in this respect is furnished by the apartment where
@@ -773,16 +771,16 @@
                  Great Northern Daily News, in charge. Takeuchi, who was a journalism senior at
                  the University of Washington, has tentatively called the paper the Camp Harmony
                  News Letter, but he isn’t satisfied and has asked his readers to suggest other
-                 names. </p>
+                 names.</p>
              <p><persName>Dyke Miyagawa</persName>, another University of Washington senior, is his
-                 managing editor, and Taka Oka, a sophomore, is assistant managing editor. </p>
+                 managing editor, and Taka Oka, a sophomore, is assistant managing editor.</p>
              <p><persName>Keith Oka</persName>, formerly employed at the Craftsmen’s Press, is art
                  editor, and <persName>Tad Kuniyuki</persName>, formerly sports editor for the Japanese
-                 American Courier, has a similar job there. </p>
+                 American Courier, has a similar job there.</p>
              <p><persName>James Y. Sakamoto</persName>, former publisher of the Japanese American Courier
                  and now chief Japanese supervisor of the camp, has set up his headquarters
                  underneath the grandstand on the fairgrounds and keeps busy from morning to
-                 night consulting with members of his staff. </p>
+                 night consulting with members of his staff.</p>
              <p><persName>Bill Hosokawa</persName>, University of Washington graduate and former editor
                  of a newspaper in Singapore, is his chief adjutant. The headquarters staff is
                  divided into five general sections, with <persName>George Ishihara</persName>, produce
@@ -796,15 +794,15 @@
                      Mimbu</persName>, attorney; <persName>Yakeo Nogaki</persName> and <persName>Teruji
                      Umino</persName>, both bank clerks, and <persName>Hiroyuki (“Lefty”)
                  Ichihara</persName>, who had a fishing tackle store in Seattle.</p>
-             <p>All of these executives, incidentally, are American-born Japanese. </p>
-             <p>Life in the camp is by no means all work and no play. </p>
+             <p>All of these executives, incidentally, are American-born Japanese.</p>
+             <p>Life in the camp is by no means all work and no play.</p>
              <p>Churches have supplied a piano for each of the four areas and there is plenty of
                  community singing and choir practice.</p>
              <p>There are athletic facilities for all ages, and a number of soft ball and ping
-                 pong tournaments are already in progress. </p>
-             <p>There are recreational rooms in each area. </p>
+                 pong tournaments are already in progress.</p>
+             <p>There are recreational rooms in each area.</p>
              <p><persName>Jack Maki</persName>, the former University faculty member, summed up the
-                 attitude of the evacuees when he said: </p>
+                 attitude of the evacuees when he said:</p>
              <p>“We aren’t being mistreated, but, on the other hand, we aren’t being pampered — I
                  think everybody’s doing a swell job."</p>
          </div>
@@ -1017,7 +1015,7 @@
           </note>
          
          <listPerson>
-            <person xml:id="arai">
+             <person xml:id="arai"><!--source="#"-->
                 <persName>Clarence Takeya Arai</persName>
                 <birth>1901</birth>
                 <death>1963</death>
@@ -1031,7 +1029,7 @@
                     son <persName ref="#ken">Ken</persName> were forcibly removed to <name ref="#camp_harmony">Camp Harmony</name> and 
                     later incarcerated at <name ref="#minidoka">Minidoka</name>. Despite poor health, 
                     Arai advocated for Japanese Americans’ legal rights while imprisoned. After the war 
-                    and the loss of his son, he reduced his law practice and turned to photography.<ref target="#"/></note>
+                    and the loss of his son, he reduced his law practice and turned to photography.</note>
             </person>
          
              <person xml:id="yone" source="#yone_bib #research_works_bib">
@@ -1126,7 +1124,7 @@
               
               <org xml:id="jacl">
                   <orgName>Japanese American Citizens League</orgName>
-                  <note> <ref target="#"/></note>
+                  <note><!--fill this out!! --> <ref target="#"/></note>
               </org>
           </listOrg>
       
