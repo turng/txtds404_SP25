@@ -10,8 +10,9 @@
          <titleStmt>
              <title>Selections from the Arai Papers</title>
             <author>Clarence T. Arai</author>
-            <editor>Marisa Oishi</editor>
-            <!--add christine and hannah?-->
+            <editor>Marisa Oishi</editor>   
+            <editor xml:id="CL">Christine Leak</editor>
+            <editor xml:id="HS">Hannah Swoffer</editor>
          </titleStmt>
          <editionStmt>
              <p>This edition consists of a selection of pages from Clarence T. Arai’s scrapbook
@@ -44,8 +45,6 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-          <!--make the underline black even if the text is another color??-->
-          <!--make span/hi/seg consistent?-->
           <tagsDecl>
               <rendition xml:id="indent" scheme="css">text-indent: 10px;</rendition>
               <rendition xml:id="caps" scheme="css">text-transform: uppercase !important;</rendition>
@@ -53,7 +52,7 @@
               <rendition xml:id="bold" scheme="css">font-weight: bold;</rendition>
               <rendition xml:id="italic" scheme="css">font-style: italic;</rendition>
               <rendition xml:id="not-italic" scheme="css">font-style: normal;</rendition>
-              <rendition xml:id="underline" scheme="css">text-decoration: underline;</rendition>
+              <rendition xml:id="underline" scheme="css">text-decoration: underline; text-decoration-color: black;</rendition>
               <rendition xml:id="sc" scheme="css">font-variant: small-caps;</rendition>
               <rendition xml:id="right-align" scheme="css">display: block; text-align: right;</rendition>
               <rendition xml:id="center-align" scheme="css">display: block; text-align: center;</rendition>
@@ -66,6 +65,7 @@
               <rendition xml:id="courier" scheme="css">font-family: "Courier New", Courier, monospace;</rendition>
               <rendition xml:id="dm-serif-display" scheme="css">font-family: "DM Serif Display", serif;</rendition>
               <rendition xml:id="blue" scheme="css">color: blue;</rendition>
+              <rendition xml:id="gray" scheme="css">color: gray;</rendition>
               <rendition xml:id="h1" scheme="css">font-size: 2em;</rendition>
               <rendition xml:id="h2" scheme="css">font-size: 1.5em;</rendition>
               <rendition xml:id="h3" scheme="css">font-size: 1.17em;</rendition>
@@ -76,7 +76,7 @@
     
   <text>
       <front>
-          <div type="editorial_intro">
+          <div type="editorial_intro" source="#">
               <p>The phrase "on paper" is an interesting one. On paper, <persName ref="#arai">Clarence Takeya Arai</persName> was
                   an accomplished and influential member of the Seattle community. He was the
                   first Japanese American to earn a law degree from the University of Washington
@@ -117,7 +117,10 @@
               <p>I would like to thank Christine Leak and Hannah Swoffer for their contributions to the first edition of this project.</p>
           </div>
       </front>
+      
       <body>
+          <!--make span/hi/seg consistent?-->
+          
           <!--make the columns work?-->
          <div xml:id="americanKennelClub1934-06-15" type="certificate" ana="#personal">
               <head rendition="#dm-serif-display #bold #caps #center-align #h2">Registration Certificate</head>
@@ -198,7 +201,6 @@
              </trailer>
          </div>
          
-          <!--find right font for head?-->
          <div xml:id="buttsParoleLeague1937-04-02" type="letter" ana="#library">
              <opener>
                  <seg type="letterhead" rendition="#center-align">
@@ -356,7 +358,7 @@
               </seg>
                     
                  <span rendition="#caps #consolas">LB10.EA.FB 544 13 Tour =TD SanFrancisco Calif 5 1130P<lb/>
-                     <persName ref="#arai">Clarence T Arai</persName></span> <span rendition="#handwriting">= 6:00 AM.</span> <date when="1941-12-05" rendition="#caps #consolas #right-align">1941 Dec 5 PM 11 53</date><lb/>
+                     <persName ref="#arai">Clarence T Arai</persName></span> <span rendition="#handwriting #gray">= 6:00 AM.</span> <date when="1941-12-05" rendition="#caps #consolas #right-align">1941 Dec 5 PM 11 53</date><lb/>
                 <address rendition="#caps #consolas"><addrLine>519 Main St Del Early Am) Seattle Wash=</addrLine></address><lb/>
             </opener>
              
@@ -575,7 +577,7 @@
              <p>Operators of private markets said several Japanese renters of stalls came early
                  this morning with produce but brought Filipinos with them to tend the stalls and
                  left before noon.</p>
-             <p>No date has been set for removal of the Japanese from there</p>
+             <p>No date has been set for removal of the Japanese from the</p>
          </div>  
           
          <div xml:id="travelPermit1942-05-02" type="statement" ana="#wwii #library" rendition="#courier">
@@ -701,7 +703,6 @@
                  Saturday.</p>
          </div>
 
-        <!--check if this should have arai photo???-->
          <div xml:id="postIntelligencer1942-05-25" type="clipping" ana="#wwii">
              <head type="title" rendition="#center-align"><placeName ref="#camp_harmony">Camp
                      Harmony</placeName> Japs</head>
@@ -739,7 +740,7 @@
                  <figDesc>Camp Harmony Bedroom</figDesc>
              </figure>
 
-             <p>COMFORT OF HOME—<persName>Mrs. Robert Hosokawa</persName>, recent Willamette coed, laying out a new
+             <p><span rendition="#caps">Comfort of Home</span>—<persName>Mrs. Robert Hosokawa</persName>, recent Willamette coed, laying out a new
                  apron in the cozy apartment which she and her husband have contrived to make out
                  of their bare barracks. Her husband constructed the furniture out of scrap
                  lumber and his drive of two months achieved the rest with a few draperies.</p>
@@ -1122,9 +1123,9 @@
                  <note>The Seattle Post-Intelligencer is the city's oldest newspaper, founded in 1863. It continues today as an online-only newspaper.</note>
              </org>
               
-              <org xml:id="jacl">
+              <org xml:id="jacl" source="#jacl_bib">
                   <orgName>Japanese American Citizens League</orgName>
-                  <note><!--fill this out!! --> <ref target="#"/></note>
+                  <note>The Japanese American Citizens League (JACL), founded in 1929, is the oldest and largest Asian American civil rights organization in the U.S. It works to protect civil rights, promote social justice, and preserve Japanese American heritage, with regional chapters across the United States.</note>
               </org>
           </listOrg>
       
@@ -1140,6 +1141,12 @@
                  “<title>Clarence T. Arai papers</title>."
                  <publisher>OCLC Research</publisher>
                  <ref target="https://researchworks.oclc.org/archivegrid/archiveComponent/945773039"></ref>
+             </bibl>
+             
+             <bibl xml:id="jacl_bib" type="webpage">
+                 “<title>The Japanese American Citizens League</title>."
+                 <publisher>jacl.org</publisher>
+                 <ref target="https://jacl.org/mission"></ref>
              </bibl>
              
              <bibl xml:id="dykstra_bib" type="webpage"> 
