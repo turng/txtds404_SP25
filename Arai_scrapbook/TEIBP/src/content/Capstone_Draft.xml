@@ -8,11 +8,11 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-             <title>Selections from the Arai Papers</title>
+            <title>Selections from the Arai Papers</title>
             <author>Clarence T. Arai</author>
             <editor>Marisa Oishi</editor>   
-            <editor xml:id="CL">Christine Leak</editor>
-            <editor xml:id="HS">Hannah Swoffer</editor>
+            <editor>Christine Leak</editor>
+            <editor>Hannah Swoffer</editor>
          </titleStmt>
          <editionStmt>
              <p>This edition consists of a selection of pages from Clarence T. Arai’s scrapbook
@@ -46,7 +46,7 @@
       </fileDesc>
       <encodingDesc>
           <tagsDecl>
-              <rendition xml:id="indent" scheme="css">text-indent: 10px;</rendition>
+              <rendition xml:id="indent" scheme="css">text-indent: 1.5em;</rendition>
               <rendition xml:id="caps" scheme="css">text-transform: uppercase !important;</rendition>
               <rendition xml:id="lowercase" scheme="css">text-transform: lowercase;</rendition>
               <rendition xml:id="bold" scheme="css">font-weight: bold;</rendition>
@@ -76,7 +76,7 @@
     
   <text>
       <front>
-          <div type="editorial_intro" source="#">
+          <div type="editorial_intro" source="#arai_bib">
               <p>The phrase "on paper" is an interesting one. On paper, <persName ref="#arai">Clarence Takeya Arai</persName> was
                   an accomplished and influential member of the Seattle community. He was the
                   first Japanese American to earn a law degree from the University of Washington
@@ -119,9 +119,7 @@
       </front>
       
       <body>
-          <!--make span/hi/seg consistent?-->
           
-          <!--make the columns work?-->
          <div xml:id="americanKennelClub1934-06-15" type="certificate" ana="#personal">
               <head rendition="#dm-serif-display #bold #caps #center-align #h2">Registration Certificate</head>
               <figure xml:id="akcLogo">
@@ -134,7 +132,7 @@
              <head rendition="#dm-serif-display #caps #bold #center-align #h2">American Kennel Club</head>
              <head rendition="#caps #center-align #h3">New York, N.Y.</head>
               
-             <ab><span rendition="#caps #consolas">Name of Dog</span> <span rendition="#underline #courier #bold">Duke of Main Street</span></ab>
+             <div type="columns"><div type="column"><ab><span rendition="#caps #consolas">Name of Dog</span> <span rendition="#underline #courier #bold">Duke of Main Street</span></ab>
              
              <ab><span rendition="#caps #consolas">Breed</span> <span rendition="#underline #courier #bold">Cocker Spaniel</span>
                  <span rendition="#caps #consolas">Sex</span> <span rendition="#underline #courier #bold">Male</span></ab>
@@ -149,9 +147,9 @@
              
              <ab><span rendition="#caps #consolas">Breeder</span> <persName rendition="#underline #courier #bold">M. Ellen Paul</persName></ab>
              
-             <ab><span rendition="#caps #consolas">Owner</span> <persName ref="#arai" rendition="#underline #courier #bold">Clarence T. Arai</persName></ab>
+             <ab><span rendition="#caps #consolas">Owner</span> <persName ref="#arai" rendition="#underline #courier #bold">Clarence T. Arai</persName></ab></div>
              
-             <ab><span rendition="#caps #consolas">Registered</span> <date when="1934-06-15" rendition="#underline #courier #bold">June 15, 1934</date></ab>
+             <div type="column"><ab><span rendition="#caps #consolas">Registered</span> <date when="1934-06-15" rendition="#underline #courier #bold">June 15, 1934</date></ab>
              
              <ab><span rendition="#caps #consolas">Assigned No</span> <span rendition="#underline #courier #blue #bold">941308</span></ab>
              
@@ -165,7 +163,7 @@
                       <figDesc><persName>Perry B Rice</persName></figDesc>
                       <figDesc rendition="#caps #consolas">Secretary</figDesc>
                   </figure> <hi rendition="#courier">gm</hi>
-              </signed>
+              </signed></div></div>
           </div>
         
          <div xml:id="electionNotice1934-09-18" type="certificate" ana="#recognition">
@@ -299,18 +297,21 @@
             </div>
         </div>
 
-        <!--make the line breaks more accurate? get the star lines?-->
          <div xml:id="presidentialCertificate1941-10-16" ana="#recognition">
+             <figure xml:id="stars1">
+                 <graphic url="../images/stars.jpeg"/>
+                 <figDesc>A line of stars</figDesc>
+             </figure>
              <head rendition="#gothic">The President of the United States of America</head>
              <figure xml:id="presidentialSeal">
                  <graphic url="../images/presidential-seal.jpeg"/>
                  <figDesc>Circular seal featuring an eagle holding an olive branch and arrows with the words "E PLURIBUS UNUM"</figDesc>
              </figure>
              
-             <p><span rendition="#caps">Awards this certificate to</span> <persName ref="#yone" rendition="#caps #courier #underline">Yone V. Arai</persName> in recognition of services rendered to the Nation and to your State on Registration Day, <date when="1940-10-16">October 16, 1940</date>.</p>
+             <p rendition="#center-align"><span rendition="#caps #left-align">Awards this certificate to</span><lb/><persName ref="#yone" rendition="#caps #courier #underline">Yone V. Arai</persName><lb/> in recognition of services rendered to the Nation and to<lb/> your State on Registration Day, <date when="1940-10-16">October 16, 1940</date>.</p>
              <p>Awarded this <date when="1941-02-21"><span rendition="#courier #underline">21st</span> day of <span rendition="#courier #underline">February</span> 1941</date></p>
              
-             <signed rendition="italic">
+             <signed rendition="#italic">
                  For the President,
                  <figure xml:id="dykstraSignature">
                      <graphic url="../images/dykstra-signature.jpeg"/>
@@ -319,16 +320,20 @@
                  Director of Selective Services.
              </signed>
              
-             <trailer>
+             <trailer rendition="#small">
                  D. S. S. 11
              </trailer>
              
-             <trailer>
+             <figure xml:id="stars2">
+                 <graphic url="../images/stars.jpeg"/>
+                 <figDesc>A line of stars</figDesc>
+             </figure>
+             
+             <trailer rendition="#small">
                  GPO 16—19282
              </trailer>
          </div>
 
-        <!-- make the header look more accurate? -->
          <div xml:id="arai1941-12-05" type="telegram" ana="#personal" rendition="#blue">
             <opener>
                 <seg type="header">
@@ -497,13 +502,12 @@
              </closer>
          </div>
 
-         <!--get the spacing to look correct?-->
          <div xml:id="jennings1942-04-29" type="letter" ana="#library #wwii">
               <opener>
-                  <seg type="letterhead">
-                      <orgName ref="#spl" rendition="#caps #center-align">Seattle Public Library</orgName><lb/>
-                      <placeName rendition="#caps #center-align">Seattle, Washington</placeName><lb/>
-                      <persName ref="#jennings" rendition="#center-align">Judson T. Jennings</persName>, Librarian<lb/>
+                  <seg type="letterhead">                      
+                      <orgName ref="#spl" rendition="#caps #center-align #h1">Seattle Public Library</orgName><lb/>
+                      <placeName rendition="#caps #center-align #h2">Seattle, Washington</placeName><lb/>
+                      <span rendition="#center-align #small"><persName ref="#jennings">Judson T. Jennings</persName>, <span rendition="#italic">Librarian</span></span><lb/>
                       <date when="1942-04-29" rendition="#courier #center-align">29 April 1942</date>
                   </seg>
                   <address rendition="#courier">
@@ -526,7 +530,7 @@
                           <graphic url="../images/jenningsSignature.jpeg"/>
                           <figDesc><persName ref="#jennings">J T Jennings</persName></figDesc>
                           <figDesc>Librarian</figDesc>
-                      </figure> JTJ/FRP </signed>
+                      </figure> <span rendition="#left-align">JTJ/FRP</span> </signed>
               </closer>
           </div>
 
@@ -1016,7 +1020,7 @@
           </note>
          
          <listPerson>
-             <person xml:id="arai"><!--source="#"-->
+             <person xml:id="arai" source="#arai_bib ">
                 <persName>Clarence Takeya Arai</persName>
                 <birth>1901</birth>
                 <death>1963</death>
