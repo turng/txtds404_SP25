@@ -107,10 +107,10 @@
                   recognized as an offensive and racist slur. I have preserved it in this edition
                   to maintain historical accuracy and to shed light on the prejudice Japanese
                   Americans faced at the time.</p>
-                  <p>One of my goals was to provide a glimpse into the first-hand experiences of Japanese Americans in Washington before and during
+                  <p>One of my goals was to provide a glimpse into the first-hand experiences of a Japanese American family in Seattle before and during
                   World War II. Arai’s scrapbook offers insight on lived experiences through his personal
-                  memorabilia and artifacts. By encoding this work, I hope that readers will
-                  gain a more well-rounded, holistic perspective on this time period, and an
+                  memorabilia and artifacts. I hope that readers will
+                  gain a more holistic perspective on this time period, and an
                   awareness of <persName ref="#arai">Clarence</persName> and <persName ref="#yone">Yone</persName>'s life and enduring legacy.</p>
           </div>
           <div type="acknowledgment">
@@ -178,14 +178,14 @@
              <salute rendition="#caps #italic">To <persName ref="#yone" rendition="#courier #underline #not-italic">Yone V. Arai</persName> Greeting:</salute>
              
              <p>Dear Sir: You are hereby notified that you received the highest number of votes cast by the <span rendition="#courier #underline">Republican</span> Party for the office of Precinct Committeeman in Precinct <span rendition="#courier #underline">No. 368</span> at the Primary Election held in the above County and State on the <date when="1934-09-11">11th day of September, 1934</date>.</p>
-             <p><span rendition="#bold">In Witness Whereof, I have hereunto set my hand</span> and official seal this <date when="1934-09-18">18th day of September, 1934.</date></p>
+             <p><span rendition="#bold"><span rendition="#sc">In Witness Whereof</span>, I have hereunto set my hand</span> and official seal this <date when="1934-09-18"><span rendition="#courier #underline #caps">18th</span> day of September, 1934.</date></p>
              
              <signed>
                  <figure xml:id="georgeSignature">
                      <graphic url="../images/george-signature.jpeg"/>
                      <figDesc><persName>George <unclear>...</unclear></persName></figDesc>
                  </figure> 
-                 <span rendition="#italic #bold">County Auditor, Secretary Election Board</span> 
+                 <span rendition="#italic #bold #right-align #small">County Auditor, Secretary Election Board</span> 
              </signed>
              
              <figure xml:id="auditorsSeal">
@@ -194,7 +194,7 @@
                  <figDesc>Auditor's Seal</figDesc>
              </figure>
              
-             <trailer rendition="#caps #consolas #center-align">
+             <trailer rendition="#caps #consolas #center-align #small">
                  Form EL 12    1500 Pioneer 14383
              </trailer>
          </div>
@@ -311,7 +311,7 @@
              <p rendition="#center-align"><span rendition="#caps #left-align">Awards this certificate to</span><lb/><persName ref="#yone" rendition="#caps #courier #underline">Yone V. Arai</persName><lb/> in recognition of services rendered to the Nation and to<lb/> your State on Registration Day, <date when="1940-10-16">October 16, 1940</date>.</p>
              <p>Awarded this <date when="1941-02-21"><span rendition="#courier #underline">21st</span> day of <span rendition="#courier #underline">February</span> 1941</date></p>
              
-             <signed rendition="#italic">
+             <signed rendition="#italic #right-align">
                  For the President,
                  <figure xml:id="dykstraSignature">
                      <graphic url="../images/dykstra-signature.jpeg"/>
@@ -363,7 +363,7 @@
               </seg>
                     
                  <span rendition="#caps #consolas">LB10.EA.FB 544 13 Tour =TD SanFrancisco Calif 5 1130P<lb/>
-                     <persName ref="#arai">Clarence T Arai</persName></span> <span rendition="#handwriting #gray">= 6:00 AM.</span> <date when="1941-12-05" rendition="#caps #consolas #right-align">1941 Dec 5 PM 11 53</date><lb/>
+                     <persName ref="#arai">Clarence T Arai</persName></span> <span rendition="#handwriting #gray"> = 6:00 AM.</span> <date when="1941-12-05" rendition="#caps #consolas #right-align">1941 Dec 5 PM 11 53</date><lb/>
                 <address rendition="#caps #consolas"><addrLine>519 Main St Del Early Am) Seattle Wash=</addrLine></address><lb/>
             </opener>
              
