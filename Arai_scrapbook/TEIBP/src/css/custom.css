@@ -2,6 +2,10 @@
     display: none;
 }
 
+editor {
+    display: block;
+}
+
 body > div {
     margin-bottom: 100px;
 }
