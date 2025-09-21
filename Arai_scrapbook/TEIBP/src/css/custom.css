@@ -1,8 +1,8 @@
 #teibpToolbox {
-    display: none;
+    display: none !important;
 }
 
-editor {
+#id7, #id8, #id9 {
     display: block;
 }
 
